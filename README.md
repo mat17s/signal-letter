@@ -23,7 +23,7 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 
 ## Automatic publishing
 
-A scheduled task ("The Signal – publish to website", 19:20 Zurich daily) downloads the news editions
+The last step of the Daily scheduled task (18:35 Zurich, every day, so it also picks up Sunday's Weekly) downloads the news editions
 from the claude.ai site and runs `python3 -I tools/sync.py EXPORT_DIR`, then commits and pushes
 whatever changed. It only reads the news collections (daily, markets, stories, calls) and the published
 daily/ and weeks/ files.
