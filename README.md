@@ -20,3 +20,10 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 1. `weeks/YYYY-Www.html` — the issue body.
 2. `weeks/YYYY-Www.pdf` — the PDF.
 3. Add the week's entry to `weeks/index.json`.
+
+## Automatic publishing
+
+A scheduled task ("The Signal – publish to website", 19:20 Zurich daily) downloads the news editions
+from the claude.ai site and runs `python3 -I tools/sync.py EXPORT_DIR`, then commits and pushes
+whatever changed. It only reads the news collections (daily, markets, stories, calls) and the published
+daily/ and weeks/ files.
