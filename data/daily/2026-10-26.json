@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-26",
+  "label": "Monday 26 Oct",
+  "number": {
+    "text": "Brent's fall today to about $111 a barrel as Saudi–Iran talks began in Tehran.",
+    "value": "−4.7%"
+  },
+  "podcast": {
+    "episode": "Netanyahu vor dem Ende? Wahl in Israel",
+    "show": "Grassl & Matei · #243 · DE",
+    "url": "https://rephonic.com/podcasts/grassl-matei",
+    "why": "Still the best primer before Tuesday's Israeli election and what it means for the Iran war."
+  },
+  "reads": {
+    "ai": {
+      "source": "Semafor Flagship; The Rundown AI",
+      "text": "Assessment (Claude's opinion): Alphabet, Amazon and Microsoft report this week, and investors care most about how much more they will spend on data centres. Semafor also reports Anthropic could file IPO papers soon (unconfirmed; note: Claude is made by Anthropic). Meanwhile SoftBank readies $50bn for Malaysia as poorer countries embrace AI faster than the West. My read: the money is moving from models to concrete and power, so watch the capex guidance, not the chatbot headlines.",
+      "title": "Big Tech's capex week is the real AI story",
+      "url": "https://semafor.com/s/4okive5oef"
+    },
+    "austrian": {
+      "source": "Semafor Flagship (facts); Austrian reading is Claude's assessment",
+      "text": "The Fed, ECB and BoJ meet this week mid hiking-cycle with inflation still high. In Austrian terms, an energy supply shock raises real costs; tightening cannot produce more oil, it only exposes credit-fuelled projects that only worked with cheap money. Tariffs add a second, policy-made price push now hurting the US governing party before the midterms. Expect pressure to pause hikes and tolerate inflation, which is the money-printing path by another name.",
+      "title": "Central banks hike into an oil shock",
+      "url": "https://semafor.com/s/7glt854xrp"
+    },
+    "mainstream": {
+      "source": "Semafor Flagship",
+      "text": "The mainstream read (Semafor): Lula won on a tougher crime message, social-media savvy and higher welfare payments. The result is framed as a geopolitical setback for Washington's push for regional dominance and a gain for Beijing, which promptly pledged closer ties. The press also stresses his weak hand at home: a hostile Congress and strained public finances.",
+      "title": "Brazil's vote redraws the map of the Americas",
+      "url": "https://semafor.com/s/k3pd0fsnhw"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship, 26 Oct",
+      "u": "https://semafor.com/s/7fyqeisuh0"
+    },
+    {
+      "t": "CNBC: oil falls as Saudi defense minister travels to Iran",
+      "u": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+    },
+    {
+      "t": "Arab News: oil drops from near six-month highs",
+      "u": "https://www.arabnews.com/energy/oil-drops-from-near-six-month-highs-on-hopes-iran-war-hostilities-to-ease-3008294"
+    },
+    {
+      "t": "TheStreet: stock market today, 26 Oct",
+      "u": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+    }
+  ],
+  "thread": {
+    "text": "A day after Houthi strikes on Riyadh, Saudi Arabia's defence minister went to Tehran for de-escalation talks; oil fell from its six-month high.",
+    "title": "Iran war & Hormuz"
+  },
+  "top": [
+    {
+      "text": "Fact: Saudi Defence Minister Khalid bin Salman arrived in Tehran with the 'Mecca Pact' delegation for talks on easing the Iran war, a day after Houthi strikes on Riyadh. Brent fell about 4.7% to roughly $111 on hopes of de-escalation, still far above pre-war levels.",
+      "title": "Saudi defence minister in Tehran; oil drops from six-month high",
+      "why": "The first Gulf–Iran contact at this level in months; if it holds, it is the main thing that could take the oil shock out of inflation."
+    },
+    {
+      "text": "Fact: Luiz Inácio Lula da Silva won Sunday's run-off in a comeback, beating Flávio Bolsonaro, who says he will challenge the result. Pro-Bolsonaro forces control Congress and several states, and Brazil faces large fiscal gaps and slowing growth.",
+      "title": "Lula wins a fourth term in Brazil",
+      "why": "It halts Latin America's turn to the right and gives Beijing a friendlier partner in the region's largest economy."
+    },
+    {
+      "text": "Fact: The Communist Party began a closed four-day Central Committee meeting focused on 'discipline', seen as preparing Xi Jinping's next term in 2027. In Israel, polls show Netanyahu's bloc and the opposition neck and neck ahead of Tuesday's election.",
+      "title": "China's Fifth Plenum opens; Israel votes Tuesday",
+      "why": "Both set the tone for the two theatres markets fear most: Taiwan/China policy and the Iran war."
+    }
+  ]
+}

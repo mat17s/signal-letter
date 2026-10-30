@@ -1,0 +1,87 @@
+{
+  "asOf": "2026-10-30T17:36:00Z",
+  "intraday": true,
+  "items": [
+    {
+      "ccy": "pts",
+      "d1": -1.92,
+      "key": "SPX",
+      "name": "S&P 500",
+      "price": 7572.33,
+      "w1": -0.67
+    },
+    {
+      "ccy": "pts",
+      "d1": -3.18,
+      "key": "NDQ",
+      "name": "Nasdaq",
+      "price": 25352.09,
+      "w1": -2.32
+    },
+    {
+      "ccy": "pts",
+      "d1": -0.98,
+      "key": "DJI",
+      "name": "Dow Jones",
+      "price": 51831.69,
+      "w1": -0.73
+    },
+    {
+      "ccy": "pts",
+      "d1": 0.36,
+      "key": "SMI",
+      "name": "SMI",
+      "price": 14810.66,
+      "w1": 2.41
+    },
+    {
+      "ccy": "USD",
+      "d1": -4.82,
+      "key": "BTC",
+      "name": "Bitcoin",
+      "price": 77142,
+      "w1": -5.14
+    },
+    {
+      "ccy": "USD",
+      "d1": -3.29,
+      "key": "XAU",
+      "name": "Gold",
+      "price": 3898.7,
+      "w1": -2.72
+    },
+    {
+      "ccy": "USD",
+      "d1": -0.64,
+      "key": "BRENT",
+      "name": "Brent",
+      "price": 114.14,
+      "w1": -2.21
+    },
+    {
+      "d1bp": -6,
+      "key": "US10Y",
+      "name": "US 10-year",
+      "price": 4.929,
+      "unit": "%",
+      "w1bp": -5.9
+    },
+    {
+      "ccy": "",
+      "d1": -0.51,
+      "key": "EURCHF",
+      "name": "EUR/CHF",
+      "price": 0.9189,
+      "w1": -0.11
+    },
+    {
+      "ccy": "",
+      "d1": -0.54,
+      "key": "USDCHF",
+      "name": "USD/CHF",
+      "price": 0.8235,
+      "w1": 0.45
+    }
+  ],
+  "label": "Fri 30 Oct, 18:45 · intraday"
+}

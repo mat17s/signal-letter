@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-29",
+  "label": "Thursday 29 Oct",
+  "number": {
+    "text": "Monthly fuel bill per cabin on the round-the-world cruise ship MV Odyssey, up from $1,800 before Hormuz was squeezed; it has stranded 203 passengers in Cambodia (International Intrigue).",
+    "value": "$8,000"
+  },
+  "podcast": {
+    "episode": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+    "show": "All-In",
+    "url": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
+    "why": "Opinion (VC perspective): fits today's news on AI cyber models, AI financing risk and France's debt worries ahead of the ECB handover (released 23 Oct)."
+  },
+  "reads": {
+    "ai": {
+      "source": "The Rundown AI",
+      "text": "Fact (The Rundown): Google unveiled Gemini 4 Carbon, built for cybersecurity and long coding jobs; it leads 15 of 17 benchmarks on Google's own charts and scores 59 on Artificial Analysis's index, ahead of Claude Opus 5.5 (disclosure: Claude is made by Anthropic). Only selected cyber defenders get access for now, at an intro price of $2/$10 per million tokens. Assessment (Claude's opinion): the more interesting signal is the release pattern, not the score. Labs now hand their strongest models first to defenders because the same skill that finds bugs can exploit them, so 'best model' increasingly means 'best model you are allowed to touch'. For everyday work, including design and building tasks, the practical choice is still whichever model you can test on your own files today.",
+      "title": "Google's Gemini 4 Carbon tops the benchmarks, but almost nobody can use it",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    "austrian": {
+      "source": "In Gold We Trust (Incrementum), 2026 Chartbook",
+      "text": "Opinion (Austrian reading, In Gold We Trust 2026 Chartbook, Liechtenstein): the authors see gold returning to the monetary system in six steps, from central banks buying and repatriating bullion to private holders and even Tether now owning more gold than many central banks, and possibly gold-backed bonds and revalued reserves next. In Austrian terms, this is the market choosing its money again as trust in state paper erodes under fiscal stress. They note 2026 has been extreme: silver is down more than 50% from its January high and gold about 25%, yet almost every investor group holds far less gold than research suggests is optimal, so a small shift out of financial assets would move a small market a lot. Counter-argument: the Chartbook comes from asset managers who sell gold strategies, and a 25% drawdown is a reminder that gold's 'money' role does not protect against big price swings.",
+      "title": "Gold is quietly going back to being money, says In Gold We Trust",
+      "url": "https://mailchi.mp/ingoldwetrust/igwt2026-chartbook"
+    },
+    "mainstream": {
+      "source": "Semafor Business",
+      "text": "Semafor's business desk frames Wall Street's mood as a turn from euphoria to caution. Fact: Apollo is buying a stake in Mubadala Capital, Abu Dhabi's state-backed manager, because its retirement arm takes in $1bn a week and cannot find enough deals, a sign of too much capital chasing too few opportunities. Yet Apollo's $40bn chip lease to SpaceX closed with its riskiest slice at 3.95 points over Treasuries, up from about 3.5 a week earlier, steep for an investment-grade borrower. Assessment: the money for AI still exists, but lenders are now pricing in risk; as one executive put it, they have 'gotten a lot smarter, fast'.",
+      "title": "Is there enough money in the world for AI? Apollo gives two answers",
+      "url": "https://semafor.com/s/mp2f80hf9p"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship, 29 Oct",
+      "u": "https://semafor.com/s/9o2qp2iuz8"
+    },
+    {
+      "t": "Semafor Business, 29 Oct",
+      "u": "https://semafor.com/s/mp2f80hf9p"
+    },
+    {
+      "t": "International Intrigue: Xi's throwing a party",
+      "u": "https://archives.internationalintrigue.io/p/xi-s-throwing-a-party"
+    },
+    {
+      "t": "The Rundown AI, 29 Oct",
+      "u": "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now"
+    },
+    {
+      "t": "Google: Introducing Gemini 4 Carbon",
+      "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "t": "In Gold We Trust 2026 Chartbook",
+      "u": "https://mailchi.mp/ingoldwetrust/igwt2026-chartbook"
+    },
+    {
+      "t": "All-In podcast feed",
+      "u": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
+    }
+  ],
+  "thread": {
+    "text": "Washington writes to Tehran to restart truce talks and Gulf states push a deal to reopen Hormuz; oil falls, but the US says strikes resume if talks fail.",
+    "title": "Iran war & Hormuz"
+  },
+  "top": [
+    {
+      "text": "Fact (Semafor): the US vice president reportedly wrote to the head of Iran's top security body to restart truce talks, Gulf states are driving a deal to fully reopen the Strait of Hormuz, and Iran's foreign minister said Tehran would 'give diplomacy a chance'. Oil fell on the news (Brent down about 4% today, near $110) but stays far above pre-war levels. A Trump administration official warned Washington would resume strikes if talks fail, and said the president himself is the one most open to that.",
+      "title": "US and Gulf states launch a new push to end the Iran war; oil falls",
+      "why": "Whether Hormuz reopens decides energy prices, inflation and rate paths across the world."
+    },
+    {
+      "text": "Fact (Semafor Business): ECB President Christine Lagarde said she will step down in February, ahead of the end of her term; she is widely expected to lead the World Economic Forum and has played down talk of a French presidential run. Markets barely moved, and the ECB was expected to hold rates at today's meeting. EU officials want her successor chosen before France's April presidential election, where Marine Le Pen is the frontrunner.",
+      "title": "Lagarde will quit the ECB in February, eight months early",
+      "why": "The next ECB chief's stance on backstopping France matters for the euro, EUR/CHF and Swiss exporters."
+    },
+    {
+      "text": "Fact (International Intrigue): China's Central Committee is meeting for its Fifth Plenum with Party self-governance, not the next Five-Year Plan, as the theme. Xi placed 71 senior civilian and military leaders under investigation in the first nine months of the year, and the Central Military Commission is down to two members, one of them Xi. Assessment (Intrigue): attendance may fall to about 77% of the 376 members; watchers will look for new military appointments ahead of the 2027 Party Congress, where Xi is expected to take a fourth term.",
+      "title": "Xi's Fifth Plenum is about Party discipline as purges thin the ranks",
+      "why": "A hollowed-out military command and a paralysed bureaucracy shape how China handles Taiwan, trade and its slowing economy."
+    },
+    {
+      "text": "Fact: a high-speed train collision near Toledo killed 68 people, the second fatal crash on that line this year; Spain declared three days of mourning. Opposition party Vox called for protests, and El País called it a blow to citizens' trust in the state. Assessment: with an election next month, a technical investigation has become a test of Pedro Sánchez's record on public services.",
+      "title": "Spain's train crash kills 68 and shakes Sánchez before the election",
+      "why": "It could tip a close Spanish election and boost Europe's right-wing wave."
+    },
+    {
+      "text": "Fact (Semafor): Volkswagen reported a bigger-than-expected third-quarter loss, after Mercedes-Benz and BMW cut their outlooks on weak Chinese demand. Chinese automakers, hit by a brutal price war at home, are pushing exports that put more pressure on Western rivals. VW's China chief told Handelsblatt that 'China is no longer a growth engine'.",
+      "title": "VW posts its worst quarter in a decade as Chinese carmakers squeeze it",
+      "why": "Germany's car industry is the backbone of Swiss supplier exports, and the EU plans new trade curbs on Beijing early next year."
+    },
+    {
+      "text": "Fact (Semafor Business): Alphabet stock fell about 10% in late trading after the company said heavy use of its AI mode dented the search business, which brings in about half its revenue. Its business chief said AI queries have 'lower monetization'. Assessment: Google was right that people would switch to AI answers, but has not yet found how to charge for them like search ads; the Nasdaq is down about 1.4% today.",
+      "title": "Alphabet shares drop 10% as AI search eats into Google's ad money",
+      "why": "It is the clearest sign yet that the AI boom can cannibalise the profits paying for it."
+    }
+  ]
+}

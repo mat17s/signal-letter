@@ -1,0 +1,76 @@
+[
+  {
+    "check": "2026-12-31",
+    "claim": "Brent toward $120 if the Middle East deteriorates; $105–110 on diplomatic progress.",
+    "made": "2026-10-23",
+    "source": "Zaye Capital, via Rigzone",
+    "status": "open",
+    "who": "Naeem Aslam"
+  },
+  {
+    "check": "2027-01-31",
+    "claim": "The four-year cycle puts Bitcoin's low around the week of 18 Oct 2026.",
+    "made": "2026-10-18",
+    "result": "Right if no lower low than Oct 2026 by end of January.",
+    "source": "BlingBling newsletter",
+    "status": "open",
+    "who": "BlingBling"
+  },
+  {
+    "check": "2027-04-30",
+    "claim": "The US bond bear market probably has further to run.",
+    "made": "2026-10-13",
+    "result": "Test: US 10-year back above its 5.36% October high.",
+    "source": "Principled Perspectives",
+    "status": "open",
+    "who": "Ray Dalio"
+  },
+  {
+    "check": "2030-12-31",
+    "claim": "Gold at $8,900 by 2030 looks realistic.",
+    "made": "2026-09-24",
+    "source": "In Gold We Trust / Kitco",
+    "status": "open",
+    "who": "Ronald Stoeferle"
+  },
+  {
+    "check": "2036-12-31",
+    "claim": "Bitcoin returns about 10% a year over 10–15 years, more than stocks or gold.",
+    "made": "2026-10-20",
+    "source": "LTCMA 2027",
+    "status": "open",
+    "who": "JPMorgan Asset Management"
+  },
+  {
+    "check": "2026-10-28",
+    "claim": "About a 1-in-3 chance the Fed hikes on 28 October (priced 14 Oct).",
+    "made": "2026-10-14",
+    "source": "via Simply Bitcoin",
+    "status": "open",
+    "who": "Kalshi traders"
+  },
+  {
+    "check": "2027-10-31",
+    "claim": "Bitcoin's bottom is slightly below $60,000, then back to six figures; 20–30% a year long run.",
+    "made": "2026-10-16",
+    "source": "Bloomberg, via Simply Bitcoin",
+    "status": "open",
+    "who": "Michael Saylor"
+  },
+  {
+    "check": "2027-04-30",
+    "claim": "A default wave in high-yield corporate bonds is starting.",
+    "made": "2026-10-20",
+    "source": "The Bitcoin Layer",
+    "status": "open",
+    "who": "Nik Bhatia"
+  },
+  {
+    "check": "2027-10-31",
+    "claim": "A return to money printing (QE) is the most likely outcome of today's debt and rate stress.",
+    "made": "2026-10-20",
+    "source": "Was Bitcoin bringt",
+    "status": "open",
+    "who": "Loddi Tröster"
+  }
+]

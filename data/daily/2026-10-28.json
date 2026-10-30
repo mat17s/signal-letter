@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-28",
+  "label": "Wednesday 28 Oct",
+  "number": {
+    "text": "Troops El Salvador has reportedly sent into Haiti after four Salvadoran members of the UN-backed security mission went missing in a gang ambush (International Intrigue).",
+    "value": "1,000"
+  },
+  "podcast": {
+    "episode": "349. The Gold Standard – presented at the Property & Freedom Society",
+    "show": "The Bitcoin Standard Podcast (Saifedean Ammous)",
+    "url": "https://www.buzzsprout.com/1849151/episodes/20026595",
+    "why": "An alternative history of the 20th century told through hard money; a good companion to today's Austrian read (released 27 Oct)."
+  },
+  "reads": {
+    "ai": {
+      "source": "The Rundown AI",
+      "text": "Fact (The Rundown): startup Axiom used dozens of AI agents to produce a fully machine-checked version of the Classification of Finite Simple Groups, a proof spread over some 15,000 pages and 500 papers that no single mathematician has read in full. The agents wrote about 43 million lines of Lean in 24 days, caught a false claim in one key step and patched it with a proof based on 1976 work. Assessment (Claude's opinion): this matters more than another chatbot launch. Verification, not generation, is where AI earns trust: a computer-checked proof is right or wrong regardless of who wrote it. The same pattern, AI drafts and a strict checker verifies, is what will make AI usable in engineering, law and building codes.",
+      "title": "An AI swarm checked math's longest proof in 24 days, and found a mistake",
+      "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/"
+    },
+    "austrian": {
+      "source": "Leon Wankum, The Bitcoin Newsletter",
+      "text": "Opinion (Austrian reading, Leon Wankum, The Bitcoin Newsletter): when money steadily loses value, people stop saving in it and park wealth in stocks, gold and above all property. Wankum calls the extra price this creates a 'monetary premium': housing costs more than rents or incomes justify because it doubles as a store of value. New money also reaches asset owners first, so wage earners and savers fall behind (the Cantillon effect). His thesis is that a scarce money like bitcoin could drain part of that premium, and that real-estate firms could hold bitcoin on their balance sheets. Swiss data out today fit the picture: residential property prices are up 4.4% on a year (FSO). Counter-argument: housing scarcity also comes from zoning and building limits, and bitcoin's volatility makes it a poor substitute for most households' savings.",
+      "title": "Why houses became savings accounts",
+      "url": "https://leonwankum.substack.com/p/inflation-and-the-distortion-of-human-action"
+    },
+    "mainstream": {
+      "source": "Semafor Gulf",
+      "text": "Semafor Gulf frames the region as racing the clock. Qatari mediators reportedly handed Iran a proposed peace deal, and Qatar's emir met Putin and Iran's president in Moscow at a gas exporters' summit. Oman's foreign minister backs a regional security pact that would include Iran and leave Washington out, a shift Washington itself sees as 'the direction of travel'. Meanwhile Wall Street bosses skipped the postponed FII in Riyadh but toured Abu Dhabi and Kuwait anyway; Apollo's Marc Rowan expects Gulf states to spend $1 trillion hardening infrastructure. Assessment: the established view is that the Gulf monarchies now fear a new US–Iran round more than they fear Iran.",
+      "title": "Qatar brings an Iran peace plan as the Gulf tries to head off new strikes",
+      "url": "https://semafor.com/s/1n892shj74"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship, 28 Oct",
+      "u": "https://semafor.com/s/xisbpk0md0"
+    },
+    {
+      "t": "International Intrigue, 28 Oct",
+      "u": "https://archives.internationalintrigue.io/"
+    },
+    {
+      "t": "Semafor Gulf, 28 Oct",
+      "u": "https://semafor.com/s/z3zae1aup3"
+    },
+    {
+      "t": "The Rundown AI, 28 Oct",
+      "u": "https://therundownai.beehiiv.com/p/google-ai-worlds-can-now-talk-back"
+    },
+    {
+      "t": "Leon Wankum: Inflation and the Distortion of Human Action",
+      "u": "https://leonwankum.substack.com/p/inflation-and-the-distortion-of-human-action"
+    },
+    {
+      "t": "Axiom: the enormous theorem formalized",
+      "u": "https://axiommath.ai/research/the-enormous-theorem-formalized/"
+    },
+    {
+      "t": "Bitcoin Standard Podcast feed",
+      "u": "https://rss.buzzsprout.com/1849151.rss"
+    },
+    {
+      "t": "swissinfo: Switzerland seeks direct defence contracts with US manufacturers",
+      "u": "https://www.swissinfo.ch/eng/swiss-politics/switzerland-seeks-direct-defence-contracts-with-us-manufacturers/92286669"
+    },
+    {
+      "t": "The Local: Today in Switzerland, 28 Oct",
+      "u": "https://www.thelocal.ch/20261028/today-in-switzerland-a-roundup-of-the-latest-news-on-wednesday-264"
+    }
+  ],
+  "thread": {
+    "text": "Houthis claim a hit on Ras Tanura and the WSJ reports US–Israeli plans for short strikes on Iran after the midterms, while Qatar hands Tehran a peace proposal.",
+    "title": "Iran war & Hormuz"
+  },
+  "top": [
+    {
+      "text": "Fact: with votes still being counted, Netanyahu's coalition has taken a slight lead over Gadi Eisenkot's bloc, against the exit polls, but neither side has the 61 seats needed. Turnout was 77.7%, the highest in decades, and Arab parties won a record number of seats, yet both camps are reluctant to govern with them. Assessment: weeks of coalition bargaining, or another election, now look more likely than a quick result; the shekel and Tel Aviv stocks fell.",
+      "title": "Israel's count: Netanyahu edges ahead, but nobody reaches 61",
+      "why": "Who governs Israel decides its Iran policy just as Washington is reported to be planning new strikes."
+    },
+    {
+      "text": "Fact: Yemen's Houthis say they struck Ras Tanura, Saudi Arabia's biggest refinery; Riyadh has not commented. The WSJ reports the US and Israel are planning short, intense strikes on Iran after the US midterms, though Trump has not decided. Crude rose again, and the IEA chief said markets are unlikely to return to pre-war norms even next year.",
+      "title": "Houthis hit Saudi Arabia's largest refinery; oil climbs on Iran war fears",
+      "why": "Energy prices, inflation and rate cuts all hang on whether the Gulf war flares up again."
+    },
+    {
+      "text": "Fact: Finland's President Stubb and Norway's Prime Minister Støre held a 90-minute phone call with Vladimir Putin, framed as preparing future talks to end the war. Reactions in Europe ranged from anger to acceptance; Poland's Tusk said he was moderately optimistic. Assessment (International Intrigue): another direct Russia–Ukraine round in Abu Dhabi next month is likely, possibly aiming at a ceasefire along current lines.",
+      "title": "Finland and Norway break Europe's taboo with a call to Putin",
+      "why": "Two hawkish Nordic neighbours of Russia talking to Moscow suggests Europe wants a seat at a US-led peace deal."
+    },
+    {
+      "text": "Fact: the defeated right-wing candidate left Brazil via a private jet from Argentina's Puerto Iguazú just before a Supreme Court deadline to surrender his passports; he is under investigation over offshore accounts and online-gambling links, which he denies. A US official said Washington will grant visas to him and his family, and Trump called Lula's win 'another rigged election'.",
+      "title": "Flávio Bolsonaro flees Brazil for the US after losing to Lula",
+      "why": "It strains US–Brazil relations at the start of Lula's fourth term and weakens Latin America's new right."
+    },
+    {
+      "text": "Fact: SK Hynix reported third-quarter profit seven times higher than a year ago on AI memory demand, and South Korea's GDP beat forecasts. The Information reports OpenAI plans to buy AI chips from Google, after Oracle agreed to put Google TPUs in its cloud and Anthropic said in its prospectus it would spend more on them (disclosure: Claude is made by Anthropic). One analyst sees TPUs as a $138bn business within two years.",
+      "title": "AI chip boom: SK Hynix profits up sevenfold, OpenAI to buy Google's TPUs",
+      "why": "Nvidia's grip on AI chips is loosening, and chip-heavy economies like Korea risk 'semiconductor Dutch disease'."
+    },
+    {
+      "text": "Fact: Armasuisse chief Urs Loher told the NZZ that Switzerland wants to buy defence equipment directly from US manufacturers rather than through Washington's Foreign Military Sales programme, which leaves buyers without legal recourse or penalties for late delivery. Patriot air defence is delayed by five to seven years after the US moved systems meant for Switzerland to Germany, with just over CHF 1bn already paid in advance. Direct purchase looks possible for parts of Patriot but is ruled out for the F-35, whose 'fixed' CHF 6bn price the US has since raised.",
+      "title": "Switzerland wants to buy US weapons directly after Patriot and F-35 trouble",
+      "why": "It tests how far a neutral country can rely on US arms deliveries when Washington's priorities shift."
+    }
+  ]
+}

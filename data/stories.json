@@ -1,0 +1,154 @@
+[
+  {
+    "entries": [
+      {
+        "date": "2026-10-25",
+        "text": "Nasdaq −2.6% on Thursday; Anthropic's draft prospectus shows $16.3bn H1 revenue. IPO expected in November.",
+        "week": "2026-W43"
+      },
+      {
+        "date": "2026-10-27",
+        "text": "Anthropic's public prospectus (revenue up about 14× in H1, $112bn cash) lifted the Nasdaq over 1% before Big Tech earnings."
+      }
+    ],
+    "region": "Markets",
+    "status": "active",
+    "title": "AI trade and Anthropic IPO",
+    "updated": "2026-10-27"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-25",
+        "text": "SVP deadline closed: seven candidates, Aeschi undecided. Vote on 9 December.",
+        "week": "2026-W43"
+      }
+    ],
+    "region": "Switzerland",
+    "status": "active",
+    "title": "Bundesrat: Parmelin's successor",
+    "updated": "2026-10-25"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-09-16",
+        "text": "Fed hikes to 3.75–4.00%, first hike since 2023."
+      },
+      {
+        "date": "2026-10-07",
+        "text": "US 10-year peaks at 5.36%, highest since 2002."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "Bond rally: 10-year back below 5% as money leaves AI stocks. Fed decides 28 Oct.",
+        "week": "2026-W43"
+      }
+    ],
+    "region": "USA",
+    "status": "active",
+    "title": "Fed, rates and the bond market",
+    "updated": "2026-10-25"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-18",
+        "text": "About 550,000 protest; Limoges town hall burned."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "10-year yield briefly above 5%, spread to Bunds near 160 bp; Moody's holds the rating.",
+        "week": "2026-W43"
+      }
+    ],
+    "region": "Europe",
+    "status": "active",
+    "title": "France: unrest and debt",
+    "updated": "2026-10-25"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-02-28",
+        "text": "US–Israeli air campaign against Iran begins."
+      },
+      {
+        "date": "2026-04-08",
+        "text": "Ceasefire ends the heaviest fighting."
+      },
+      {
+        "date": "2026-07-08",
+        "text": "Interim truce collapses; Iran resumes attacks on shipping."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "Houthi strikes on Saudi airports and oil sites; Brent at its highest since May; Iran says Hormuz management will change permanently.",
+        "week": "2026-W43"
+      },
+      {
+        "date": "2026-10-26",
+        "text": "Saudi defence minister in Tehran for de-escalation talks; Brent falls about 4.7% from its six-month high."
+      },
+      {
+        "date": "2026-10-28",
+        "text": "Houthis claim a strike on Ras Tanura; WSJ says the US and Israel plan short strikes on Iran after the midterms; Qatar hands Tehran a peace proposal."
+      },
+      {
+        "date": "2026-10-29",
+        "text": "Washington writes to Tehran to restart truce talks and Gulf states push a deal to reopen Hormuz; oil falls, but the US says strikes resume if talks fail."
+      }
+    ],
+    "region": "Middle East",
+    "status": "active",
+    "title": "Iran war & Hormuz",
+    "updated": "2026-10-29"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-15",
+        "text": "MSCI finalises rules for 'non-operating companies'."
+      },
+      {
+        "date": "2026-10-25",
+        "text": "Final list due 11 Nov, effective after 30 Nov; JPMorgan estimates ~$2.8bn of forced selling of the stock.",
+        "week": "2026-W43"
+      }
+    ],
+    "region": "Bitcoin",
+    "status": "active",
+    "title": "Strategy vs MSCI",
+    "updated": "2026-10-25"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-25",
+        "text": "FINMA approves BBIT, the first retail spot Bitcoin fund; SIX listing in November.",
+        "week": "2026-W43"
+      }
+    ],
+    "region": "Switzerland",
+    "status": "active",
+    "title": "Bitcoin in Switzerland",
+    "updated": "2026-10-25"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-25",
+        "text": "Witkoff meets Putin in St. Petersburg; no agreement. Starlink back to full speed after throttling.",
+        "week": "2026-W43"
+      },
+      {
+        "date": "2026-10-30",
+        "text": "Kyiv pauses refinery strikes at US request and the Oleshky local ceasefire holds a third day, while Russia kills 14 in Dnipro."
+      }
+    ],
+    "region": "Europe",
+    "status": "active",
+    "title": "Ukraine: peace talks",
+    "updated": "2026-10-30"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-27",
+  "label": "Tuesday 27 Oct",
+  "number": {
+    "text": "Anthropic's first-half revenue growth versus a year earlier, per its IPO prospectus (disclosure: Claude is made by Anthropic).",
+    "value": "14×"
+  },
+  "podcast": {
+    "episode": "Wir wissen, wie es weitergeht: Krise, Gelddrucken, Bitcoin | Loddi Tröster",
+    "show": "Was Bitcoin bringt (Niko Jilch) · DE",
+    "url": "https://www.buzzsprout.com/1936624/episodes/19982503",
+    "why": "Debt, rates and money printing explained, a timely companion to Brazil's and France's fiscal stress (released 20 Oct)."
+  },
+  "reads": {
+    "ai": {
+      "source": "Semafor Flagship; International Intrigue",
+      "text": "Assessment (Claude's opinion; note: Claude is made by Anthropic): the Anthropic filing grabbed the headlines, but the Netherlands' plan to cut 25,000 civil-service jobs, over 15% of the workforce, through AI is the more telling signal. It moves AI from a market bet to a budget line, and New Zealand and the UAE are going the same way. My read: states under fiscal pressure will use AI to cut costs before most companies do, which makes public-sector adoption, not chatbot launches, the real gauge of AI's economic effect.",
+      "title": "The Dutch 25,000 is the AI story to watch",
+      "url": "https://semafor.com/s/vfx2dmr0pt"
+    },
+    "austrian": {
+      "source": "Semafor Flagship",
+      "text": "Opinion (Austrian reading): an 8%-of-GDP deficit is spending today paid for by debt or new money tomorrow. When voters endorse more of it, holders of the currency do the sums and leave, which is what a record one-day fall in the real shows. In this view the market isn't punishing democracy; it's pricing the coming inflation tax. Counter-argument: Brazil has high real rates and large reserves, and a credible fiscal plan from Lula's team could reverse the move quickly.",
+      "title": "Brazil: the market prices the bill",
+      "url": "https://semafor.com/s/uflh0f37ih"
+    },
+    "mainstream": {
+      "source": "Semafor Flagship; International Intrigue",
+      "text": "The established framing, in Semafor's digest of the WSJ and the Council on Foreign Relations, is that Israelis are split on democracy and settlers but nearly united on security. So even an Eisenkot win would bring a change of tone rather than of strategy; he backed the wars and is no dove. The main foreign effect could be in Europe, where the EU is seen as more likely to impose sanctions if the far-right security minister stays in government. International Intrigue adds that high Arab turnout could push pro-Netanyahu micro-parties under the threshold.",
+      "title": "Israel: a vote that changes tone more than policy",
+      "url": "https://archives.internationalintrigue.io/p/free-premium-new-86d7"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship, 27 Oct",
+      "u": "https://semafor.com/s/7bp3kvrcjr"
+    },
+    {
+      "t": "International Intrigue, 27 Oct",
+      "u": "https://archives.internationalintrigue.io/p/free-premium-new-86d7"
+    },
+    {
+      "t": "Semafor: Brazil real worst day",
+      "u": "https://semafor.com/s/uflh0f37ih"
+    },
+    {
+      "t": "Semafor: Dutch civil-service cuts",
+      "u": "https://semafor.com/s/vfx2dmr0pt"
+    },
+    {
+      "t": "Was Bitcoin bringt feed",
+      "u": "https://rss.buzzsprout.com/1936624.rss"
+    }
+  ],
+  "thread": {
+    "text": "Anthropic's public prospectus (revenue up about 14× in H1, $112bn cash) lifted the Nasdaq over 1% before Big Tech earnings.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "text": "Fact: Israelis voted on Tuesday, the first election since 7 October and the wars in Gaza, Lebanon and Iran. Polls put Gadi Eisenkot's centrist bloc at about 55 seats against roughly 50 for Netanyahu's coalition, both short of the 61 needed; exit polls come after 22:00 local time. Assessment: a hung Knesset would leave Netanyahu as caretaker, and small parties near the 3.25% threshold could decide it.",
+      "title": "Israel votes in a tight election",
+      "why": "It sets who runs Israel's Iran policy just as leaks say the US may resume strikes after its midterms."
+    },
+    {
+      "text": "Fact: Anthropic's IPO filing shows first-half revenue up about fourteenfold year on year, a roughly $80bn loss and $112bn in cash. The Nasdaq rose more than 1% on Tuesday ahead of Big Tech earnings this week. (Disclosure: Claude is made by Anthropic.)",
+      "title": "Anthropic's prospectus lifts the AI trade",
+      "why": "It is the first hard look at a frontier lab's books and a test of whether markets will keep funding huge AI losses."
+    },
+    {
+      "text": "Fact: Brazil's real had its worst day this century and the main stock index fell about 14%, Semafor reports, after Lula won a fourth term. The deficit is above 8% of GDP; the opposition conceded and Washington said it would not intervene.",
+      "title": "Brazil's markets plunge after Lula's re-election",
+      "why": "A sharp sign that bond and currency markets now punish fiscal drift fast, from Brasília to Paris."
+    }
+  ]
+}

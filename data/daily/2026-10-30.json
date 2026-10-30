@@ -1,0 +1,231 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-10-30",
+  "label": "Friday, 30 October 2026",
+  "number": {
+    "text": "Market value Alphabet lost on Thursday, its worst single-day fall ever.",
+    "value": "$500 billion"
+  },
+  "pdf": "daily/2026-10-30.pdf",
+  "podcast": {
+    "episode": "Nate Silver on the midterms",
+    "show": "Mixed Signals (Semafor)",
+    "url": "https://semafor.com/s/gn33r7yppb",
+    "why": "Ahead of Tuesday's US midterms: why Republican internal polls see Nebraska as a toss-up and how forecasts move prediction markets."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Nothing has been proven, and the Rundown says so plainly. The practical effect is likely policy, not prosecution: the rule that lets Chinese labs rent Nvidia computing from Southeast Asia is now politically hard to defend, and closing it would hit Nvidia's Asian cloud partners first.",
+      "fact": "The New York Times reported that US officials found Alice Huang, an executive at Singapore data-centre firm Megaspeed, allegedly passing intelligence to Beijing while keeping close ties to Jensen Huang; Trump was briefed about a year ago. Megaspeed, already under US investigation for steering Nvidia chips to China, bought at least $4.8 billion of Nvidia gear. Nvidia calls the meetings routine, and China calls the claims smears.",
+      "src": [
+        {
+          "t": "The Rundown AI: Inside the spy plot around Nvidia's CEO",
+          "u": "https://therundownai.beehiiv.com/p/inside-the-spy-plot-around-nvidia-ceo"
+        },
+        {
+          "t": "The New York Times: Nvidia, China and Jensen Huang",
+          "u": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+        }
+      ],
+      "title": "Spy allegations around Nvidia's CEO could close the chip-rental loophole"
+    },
+    "austrian": {
+      "claude": "The history is real, but such levies are rare and usually small; inflation erodes savings far more often than direct deposit taxes. In Switzerland, with low public debt, the risk is lower than in France or Italy.",
+      "fact": "In July 1992, Italy's government imposed a one-off levy of 0.6% on bank deposits, calculated on balances held days before the decree was announced.",
+      "opinion": [
+        {
+          "text": "governments with heavy debts can tax savings already in the bank, so moving money after the announcement does not help; holding assets outside the banking system is the only real protection.",
+          "who": "The Daily Bitcoiner"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Daily Bitcoiner: Moving Your Money After the Announcement Won't Help",
+          "u": "https://dailybitcoiner.substack.com/"
+        }
+      ],
+      "title": "The 1992 lesson: a deposit tax arrives before you can move your money"
+    },
+    "mainstream": {
+      "fact": "Microsoft, one of only two AAA-rated US companies with Johnson & Johnson, raised $25 billion on Thursday in its first bond sale since 2017, paying about 5.6% on ten-year money, barely above the US government. SpaceX, rated BBB, will pay up to 8.75% on its $40 billion raise, and CoreWeave's junk bonds trade above 15%.",
+      "opinion": [
+        {
+          "text": "the bond market is drawing a stark line between borrowing at a bargain and paying a punishing premium.",
+          "who": "Ellen DiMauro, Semafor Business"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Business: What does a triple-A get you today?",
+          "u": "https://semafor.com/s/sol34bi57z"
+        }
+      ],
+      "title": "What a triple-A rating buys in the AI debt boom"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (30 Oct, two editions)",
+      "u": "https://semafor.com/s/4t11vwm40z"
+    },
+    {
+      "t": "Semafor Business (30 Oct)",
+      "u": "https://semafor.com/s/07k394fkfv"
+    },
+    {
+      "t": "Checkonchain",
+      "u": "https://checkonchain.substack.com/"
+    },
+    {
+      "t": "The Rundown AI",
+      "u": "https://therundownai.beehiiv.com/p/inside-the-spy-plot-around-nvidia-ceo"
+    },
+    {
+      "t": "The Daily Bitcoiner",
+      "u": "https://dailybitcoiner.substack.com/"
+    }
+  ],
+  "thread": {
+    "text": "Kyiv pauses refinery strikes at US request and the Oleshky local ceasefire holds a third day, while Russia kills 14 in Dnipro.",
+    "title": "Ukraine truce push"
+  },
+  "top": [
+    {
+      "claude": "The pattern is the point: the market is no longer paying for AI spending as such, only for spending that shows up in revenue. Firms that fund the build-out with debt and negative cash flow are being separated from those that can pay for it themselves.",
+      "fact": "Alphabet shares fell as much as 13% on Thursday, wiping out more than $500 billion of market value in the company's worst day, after search revenue growth slowed. Amazon's roughly $200 billion in third-quarter revenue did not reassure investors, and Intel dropped more than 25% after warning that memory shortages and higher PC prices tied to the AI build-out will cut PC sales by about 10% next year. On Friday the Nasdaq was down about 3.2% and the S&P 500 about 1.9% in afternoon trading.",
+      "opinion": [
+        {
+          "text": "concentration in a handful of firms means more plain luck is needed to keep economies growing.",
+          "who": "Bridgewater (client note, via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Alphabet loses $500bn in market value",
+          "u": "https://semafor.com/s/0qvkemg5e9"
+        },
+        {
+          "t": "Semafor Flagship: Amazon and Intel disappoint",
+          "u": "https://semafor.com/s/swxj3bujts"
+        },
+        {
+          "t": "Semafor Business: Reality bites at Intel",
+          "u": "https://semafor.com/s/7etg6xqpvr"
+        }
+      ],
+      "title": "Tech sell-off deepens: Nasdaq falls 3% after Alphabet, Amazon and Intel disappoint",
+      "why": "The AI trade is being repriced, and that hits almost every equity index."
+    },
+    {
+      "claude": "Exchange hacks hurt coins held on exchanges; coins in self-custody are untouched. The bigger risk is second-order: forced selling if Binance has to cover the gap, and a new push for regulation of custodians.",
+      "fact": "Attackers drained about $5.5 billion in crypto assets from Binance, which Semafor called the largest crypto hack ever. Bitcoin fell almost 5% over 24 hours to about $77,100 and is down about 5% on the week; Strategy shares fell almost 9% on Friday.",
+      "opinion": [
+        {
+          "text": "the hack is the latest in a run of bearish headlines and frames the sell-off toward $76,000 as a stress test rather than a break in the cycle.",
+          "who": "Checkonchain (on-chain analyst)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Checkonchain: Flash Update: Halloween Headlines",
+          "u": "https://checkonchain.substack.com/"
+        },
+        {
+          "t": "Semafor Business: Largest-ever crypto hack",
+          "u": "https://semafor.com/s/dx38a9tzzs"
+        }
+      ],
+      "title": "Binance hack drains about $5.5 billion, the largest crypto theft on record; Bitcoin slides below $78,000",
+      "why": "A blow to trust in the biggest exchange lands on an already nervous market."
+    },
+    {
+      "claude": "France matters for Switzerland through the euro: EUR/CHF fell another 0.5% today to about 0.919. A French fiscal scare usually pushes money into the franc, which helps Swiss savers and hurts Swiss exporters.",
+      "fact": "France's economy unexpectedly contracted in the third quarter, on top of high debt, a large budget deficit and public anger about services; polls show the far right and far left ahead of April's presidential election. In the US, federal debt recently crossed 100% of GDP.",
+      "opinion": [
+        {
+          "text": "America is getting a preview of its own debt future in France.",
+          "who": "Bloomberg columnist (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: French economy shrank last quarter",
+          "u": "https://semafor.com/s/1p9sx3eac2"
+        },
+        {
+          "t": "Semafor Flagship: US debt crosses 100% of GDP",
+          "u": "https://semafor.com/s/i2po97h3bd"
+        }
+      ],
+      "title": "France's economy shrinks in the third quarter as debt fears spread to Washington",
+      "why": "Europe's second-largest economy is contracting six months before an election the far right and far left lead."
+    },
+    {
+      "claude": "Fuel prices, not the front line, now drive US policy: Brent is still above $114. That gives Moscow leverage it did not win on the battlefield.",
+      "fact": "Ukraine paused its strikes on Russian refineries at Washington's request as the US tries to bring down fuel prices, The Wall Street Journal reported, and Reuters said the Pentagon asked European leaders to tone down warnings about Russian aggression. A Russian drone strike killed at least 14 people at a Dnipro train station on Thursday, while a US-brokered local ceasefire in occupied Oleshky held for a third day. Russia's foreign minister is in the US for the G20 foreign ministers' meeting in Atlanta.",
+      "opinion": [
+        {
+          "text": "Washington is pressuring Kyiv unnecessarily after waiving new sanctions on Russian energy.",
+          "who": "European officials (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: US pressures allies on Russia",
+          "u": "https://semafor.com/s/fatpfitmsc"
+        },
+        {
+          "t": "Semafor Flagship: Washington's uneven Ukraine diplomacy",
+          "u": "https://semafor.com/s/mhbpcp097u"
+        }
+      ],
+      "title": "Washington leans on Kyiv and Europe for a Russia truce; drone strike kills 14 in Dnipro",
+      "why": "US pressure on its own allies is reshaping the end-game of the Ukraine war."
+    },
+    {
+      "fact": "Ebola cases in the Democratic Republic of Congo have passed 10,000, with a fatality rate close to 50%, and the Central African Republic said it would tighten its border. Most African governments have agreed to keep borders open to limit the economic damage, and a vaccine is still months away.",
+      "opinion": [
+        {
+          "text": "admitted that, so far, the response is not winning.",
+          "who": "Africa CDC head (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: DRC Ebola cases top 10,000",
+          "u": "https://semafor.com/s/057tuhn3bw"
+        },
+        {
+          "t": "Semafor Africa: Russia courts African governments at summit",
+          "u": "https://semafor.com/s/j43za9ckbs"
+        }
+      ],
+      "title": "Ebola cases in Congo pass 10,000 and the Central African Republic tightens its border",
+      "why": "Africa's widest-spreading Ebola outbreak is moving faster than the response."
+    },
+    {
+      "claude": "Three misses in a week do not prove prediction markets useless, but they weaken the pitch to institutions that they are a reliable hedge against political risk.",
+      "fact": "New figures show Brazil's debt is by some measures at its worst in a decade, and the deficit hit a record under President Lula, who was just re-elected. Kalshi and Polymarket had given his challenger Flávio Bolsonaro about an 80% chance of winning; the markets also misjudged this week's votes in Israel and Serbia.",
+      "opinion": [
+        {
+          "text": "another Lula government is unlikely to deliver the structural reforms Brazil needs.",
+          "who": "Bloomberg columnist (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Brazil's economic outlook darkens",
+          "u": "https://semafor.com/s/5d4klgf4yg"
+        },
+        {
+          "t": "Semafor Business: Prediction markets flop on recent elections",
+          "u": "https://semafor.com/s/btk2cjx7ug"
+        }
+      ],
+      "title": "Lula's re-election leaves Brazil with its worst debt picture in a decade, and prediction markets got it wrong",
+      "why": "Latin America's largest economy faces a fiscal squeeze, and the bets meant to hedge it failed."
+    }
+  ]
+}

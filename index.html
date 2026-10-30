@@ -1,0 +1,676 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Signal-Letter</title>
+<meta name="description" content="The Daily and The Weekly Signal: news, markets and three reads, written by Claude.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#f2f4f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e131a" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Signal">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0}img{max-width:100%}</style>
+</head>
+<body>
+
+<style>
+/* Layout: one reading column per view under a sticky two-tab bar (The Daily, Weekly Signal); the Weekly archive is a year grid that opens into a full issue. Each story is one flowing text; small coloured words (Fact, Opinion, Claude) mark where each part starts, and a Source line closes it. */
+:root{
+  --bg:#f2f4f7; --paper:#ffffff; --ink:#18202b; --muted:#5a6575; --rule:#d9dee6;
+  --geo:#3b4fa8; --ch:#c0282f; --money:#b06a00; --ai:#0f7a69; --cx:#7a4aa3; --next:#3d5168;
+  --fact:#2d6a4f; --view:#9a5b00; --call:#3b4fa8; --unc:#a3262a;
+  --tint:rgba(59,79,168,.07); --yes:#2d8a5b; --no:#aab3c0;
+  --up:#1f7a4d; --dn:#b3261e; --line:#3b4fa8; --area:rgba(59,79,168,.12);
+  --bar:#ffffffee; --chip:#e8ecf2;
+  --s1:#3b4fa8; --s2:#b06a00; --s3:#0f7a69; --s4:#b3261e;
+  --display:"Young Serif", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e131a; --paper:#151c25; --ink:#e4e8ee; --muted:#9aa5b4; --rule:#2a3442;
+  --geo:#8c9cf0; --ch:#ff6b70; --money:#f0a63a; --ai:#4fd1b8; --cx:#c39af0; --next:#9db3cc;
+  --fact:#6fcf9d; --view:#f0b252; --call:#9cabf5; --unc:#ff8a8d;
+  --tint:rgba(140,156,240,.10); --yes:#4cc38a; --no:#3c4757;
+  --up:#5fd39a; --dn:#ff8a84; --line:#9cabf5; --area:rgba(156,171,245,.16);
+  --bar:#0e131aee; --chip:#202a36; --s1:#9cabf5; --s2:#f0a63a; --s3:#4fd1b8; --s4:#ff8a84; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#0e131a; --paper:#151c25; --ink:#e4e8ee; --muted:#9aa5b4; --rule:#2a3442;
+  --geo:#8c9cf0; --ch:#ff6b70; --money:#f0a63a; --ai:#4fd1b8; --cx:#c39af0; --next:#9db3cc;
+  --fact:#6fcf9d; --view:#f0b252; --call:#9cabf5; --unc:#ff8a8d;
+  --tint:rgba(140,156,240,.10); --yes:#4cc38a; --no:#3c4757;
+  --up:#5fd39a; --dn:#ff8a84; --line:#9cabf5; --area:rgba(156,171,245,.16);
+  --bar:#0e131aee; --chip:#202a36; --s1:#9cabf5; --s2:#f0a63a; --s3:#4fd1b8; --s4:#ff8a84; color-scheme:dark }
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bar)}
+a{color:inherit;text-decoration-color:color-mix(in srgb,currentColor 40%,transparent);text-underline-offset:3px}
+a:hover{text-decoration-color:currentColor}
+:focus-visible{outline:2px solid var(--geo);outline-offset:2px;border-radius:3px}
+h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;line-height:1.2;margin:0}
+p{margin:0}
+button{font:inherit;color:inherit}
+.wrap{max-width:46rem;margin-inline:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wide{max-width:72rem}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .dn{color:var(--dn)} .flat{color:var(--muted)}
+.muted{color:var(--muted)}
+.k{font:500 .7rem/1.3 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+
+/* top bar */
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--bar);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.topbar .wrap{display:flex;align-items:center;gap:1rem;padding-block:.55rem;max-width:72rem}
+.brand{font-family:var(--display);font-size:1.15rem;white-space:nowrap}
+.brand b{font-weight:400;color:var(--geo)}
+.tabs{display:flex;gap:.25rem;margin-left:auto;overflow-x:auto}
+.tab{border:0;background:transparent;padding:.4rem .75rem;border-radius:999px;font-size:.9rem;cursor:pointer;white-space:nowrap;color:var(--muted)}
+.tab[aria-current="page"]{background:var(--ink);color:var(--bg)}
+.tab:hover:not([aria-current="page"]){background:var(--chip);color:var(--ink)}
+@media (max-width:520px){.brand span{display:none}.tab{padding:.4rem .6rem;font-size:.85rem}}
+
+.view{padding-block:1.75rem 4rem}
+.vhead{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:.75rem 1.5rem;margin-bottom:1.5rem}
+.vhead h1{font-size:clamp(2rem,6vw,2.9rem);letter-spacing:-.01em}
+.vhead .eyebrow{font:500 .75rem/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:.3rem}
+.card{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1.1rem 1.2rem}
+.btn{border:1px solid var(--rule);background:var(--paper);border-radius:8px;padding:.45rem .8rem;font-size:.88rem;cursor:pointer;display:inline-flex;align-items:center;gap:.4rem}
+.btn:hover{border-color:var(--muted)}
+.btn[disabled]{opacity:.45;cursor:default}
+.btn.primary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--paper)}
+.seg button{border:0;background:transparent;padding:.3rem .65rem;font:500 .78rem var(--mono);cursor:pointer;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.empty{border:1px dashed var(--rule);border-radius:10px;padding:1.4rem;color:var(--muted);text-align:center}
+.note{font-size:.8rem;color:var(--muted)}
+.pill{display:inline-block;font:500 .66rem/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:.3em .55em;border-radius:999px;background:var(--chip);color:var(--muted);white-space:nowrap}
+.pill.live{background:color-mix(in srgb,var(--up) 18%,transparent);color:var(--up)}
+.pill.stale{background:color-mix(in srgb,var(--view) 20%,transparent);color:var(--view)}
+
+/* ---------- DAILY ---------- */
+.daynav{display:flex;align-items:center;gap:.5rem}
+.top3{display:grid;gap:1rem;counter-reset:t}
+.top3 article{display:grid;grid-template-columns:2.2rem 1fr;gap:.2rem 1rem;padding-bottom:1rem;border-bottom:1px solid var(--rule)}
+.top3 article:last-child{border-bottom:0;padding-bottom:0}
+.top3 .n{grid-row:span 3;font:400 2rem/1 var(--display);color:var(--geo)}
+.top3 h3{font-size:1.25rem}
+.top3 p{font-size:.97rem}
+.top3 .why{color:var(--muted);font-size:.9rem}
+.dsec{margin-top:2rem}
+.dsec>h2{font-size:1.35rem;margin-bottom:.8rem}
+.reads3{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,14rem),1fr));gap:1rem}
+.read{display:grid;gap:.45rem;align-content:start;border-top:3px solid var(--c,var(--geo));padding-top:.7rem;min-width:0}
+.read.m{--c:var(--next)} .read.a{--c:var(--ai)} .read.o{--c:var(--money)}
+.read .k{color:var(--c)}
+.read h3{font-size:1.08rem}
+.read p{font-size:.93rem}
+.read .src{font:400 .74rem var(--mono);color:var(--muted)}
+.extras{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,15rem),1fr));gap:1rem}
+.bignum{font:400 2.2rem/1 var(--display)}
+.snap{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,10.5rem),1fr));gap:.6rem}
+.tick{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:.6rem .75rem;display:grid;gap:.1rem;min-width:0}
+.tick .nm{font-size:.82rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tick .px{font:500 1.02rem var(--mono);font-variant-numeric:tabular-nums}
+.tick .ch{font:400 .8rem var(--mono)}
+.pfmini{display:flex;flex-wrap:wrap;align-items:baseline;gap:.4rem 1.2rem}
+.pfmini .v{font:400 1.9rem/1 var(--display)}
+.thread{border-left:3px solid var(--cx);padding-left:.9rem}
+.mlist{display:grid;background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:.35rem .9rem}
+.mrow{display:grid;grid-template-columns:minmax(6.5rem,1.1fr) minmax(5.5rem,auto) minmax(4rem,1.6fr) 4.2rem 4.6rem;gap:.75rem;align-items:center;padding:.5rem 0;border-bottom:1px solid var(--rule);font-size:.9rem}
+.mrow:last-child{border-bottom:0}
+.mrow.head{font:500 .64rem var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);padding:.35rem 0}
+.mrow .px{font:500 .86rem var(--mono);font-variant-numeric:tabular-nums;text-align:right}
+.mrow .ch,.mrow .wk{font:400 .82rem var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.mrow .track{position:relative;height:.7rem;background:linear-gradient(90deg,transparent calc(50% - .5px),var(--muted) calc(50% - .5px) calc(50% + .5px),transparent calc(50% + .5px))}
+.mrow .track i{position:absolute;top:1px;bottom:1px;border-radius:1px}
+.mrow .track i.p{left:50%;background:var(--up)} .mrow .track i.n{right:50%;background:var(--dn)}
+.mrow.head .track{background:none;height:auto;text-align:center}
+@media (max-width:520px){.mrow{grid-template-columns:minmax(0,1fr) auto 3.6rem 3.8rem;gap:.5rem}.mrow .track{display:none}}
+.brief3{background:var(--paper);border:1px solid var(--rule);border-radius:10px}
+.b-row{display:grid;grid-template-columns:9.5rem minmax(0,1fr);gap:1.25rem;padding:1rem 1.2rem;border-top:1px solid var(--rule);align-items:baseline}
+.b-row:first-child{border-top:0}
+.b-row h3{font-size:1.08rem}
+.b-row p{font-size:.93rem}
+.b-num{font:400 1.7rem/1.1 var(--display);margin-bottom:.2rem}
+@media (max-width:560px){.b-row{grid-template-columns:1fr;gap:.35rem}}
+/* ---------- WEEKLY ---------- */
+.yearbar{display:flex;align-items:center;gap:.75rem;margin-bottom:1rem}
+.yearbar h2{font-size:1.6rem}
+.weeks{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,16.5rem),1fr));gap:1rem}
+.wcard{display:grid;gap:.5rem;align-content:start;text-align:left;cursor:pointer;background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1rem 1.1rem;transition:border-color .15s,transform .15s}
+.wcard:hover{border-color:var(--geo);transform:translateY(-1px)}
+.wcard .wn{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem}
+.wcard .wnum{font:400 1.8rem/1 var(--display);color:var(--geo)}
+.wcard h3{font-size:1.08rem}
+.wcard ul{margin:0;padding-left:1rem;font-size:.86rem;color:var(--muted);display:grid;gap:.2rem}
+.tags{display:flex;flex-wrap:wrap;gap:.3rem}
+.wslot{border:1px dashed var(--rule);border-radius:10px;padding:1rem;display:grid;place-content:center;color:var(--muted);font-size:.85rem;min-height:7rem;text-align:center}
+.calstrip{display:grid;grid-template-columns:repeat(26,1fr);gap:3px;margin:.25rem 0 1.5rem}
+.calstrip i{display:block;height:.6rem;border-radius:2px;background:var(--chip)}
+.calstrip i.has{background:var(--geo);cursor:pointer}
+.calstrip i.now{outline:1px solid var(--muted)}
+@media (max-width:560px){.calstrip{grid-template-columns:repeat(13,1fr)}}
+.subtabs{display:flex;gap:.4rem;margin:2.5rem 0 1rem;border-bottom:1px solid var(--rule)}
+.subtabs button{border:0;background:none;padding:.5rem .2rem;margin-right:1rem;cursor:pointer;color:var(--muted);border-bottom:2px solid transparent;font-size:.95rem}
+.subtabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+.threads{display:grid;gap:1rem}
+.thr{display:grid;gap:.5rem}
+.thr h3{font-size:1.1rem;display:flex;gap:.6rem;align-items:baseline;flex-wrap:wrap}
+.tl{list-style:none;margin:0;padding:0 0 0 1rem;border-left:2px solid var(--rule);display:grid;gap:.5rem}
+.tl li{position:relative;font-size:.92rem}
+.tl li::before{content:"";position:absolute;left:calc(-1rem - 5px);top:.55rem;width:8px;height:8px;border-radius:50%;background:var(--cx)}
+.tl time{font:500 .72rem var(--mono);color:var(--muted);margin-right:.5rem}
+.calls{width:100%;border-collapse:collapse;font-size:.9rem}
+.calls th,.calls td{text-align:left;padding:.55rem .45rem;border-bottom:1px solid var(--rule);vertical-align:top}
+.calls thead th{font:500 .7rem var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.st{font:500 .66rem/1 var(--mono);text-transform:uppercase;letter-spacing:.06em;padding:.3em .5em;border-radius:3px;border:1px solid currentColor;white-space:nowrap}
+.st.open{color:var(--muted)} .st.right{color:var(--up)} .st.wrong{color:var(--dn)} .st.mixed{color:var(--view)}
+.scroll{overflow-x:auto}
+
+.issuebar{position:sticky;top:calc(env(safe-area-inset-top,0px) + 3.05rem);z-index:15;background:var(--bar);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.issuebar .wrap{display:flex;align-items:center;gap:.5rem;padding-block:.45rem;flex-wrap:wrap}
+.issuebar .where{font:500 .78rem var(--mono);color:var(--muted);margin-inline:auto}
+@media (max-width:520px){.issuebar .where{display:none}.issuebar .wrap{justify-content:space-between}}
+
+/* issue (newsletter) styles, scoped */
+.issue .masthead{padding-block:2rem 1.5rem}
+.issue .eyebrow{font:500 .75rem/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.issue .title{font-size:clamp(2.4rem,8vw,3.6rem);margin-top:.4rem;letter-spacing:-.01em}
+.issue .dek{margin-top:.75rem;color:var(--muted);max-width:38rem}
+.issue .legend{list-style:none;padding:0;margin:1.25rem 0 0;display:flex;flex-wrap:wrap;gap:.5rem 1.25rem;font-size:.8rem;color:var(--muted)}
+.issue .legend li{display:flex;align-items:center;gap:.4rem}
+.toc{display:flex;flex-wrap:wrap;gap:.35rem .5rem;margin-top:1.1rem;align-items:center}
+.toc-k{font:500 .7rem var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-right:.25rem}
+.toc a{font-size:.82rem;text-decoration:none;padding:.2rem .55rem;border-radius:999px;background:var(--chip)}
+.toc a:hover{background:var(--rule)}
+.tag{display:inline-block;font:500 .66rem/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:.28em .5em;border-radius:3px;border:1px solid currentColor;vertical-align:.12em;white-space:nowrap}
+.tag.fact{color:var(--fact)} .tag.view{color:var(--view)} .tag.call{color:var(--call)} .tag.unc{color:var(--unc)}
+.issue .brief{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1.5rem 1.5rem 1.25rem;margin-block:.5rem 2.5rem}
+.issue .brief-h{font-size:1.5rem}
+.issue .brief-list{margin:1rem 0 0;padding-left:1.4rem;display:grid;gap:.85rem}
+.issue .brief-list li::marker{font:500 .85rem var(--mono);color:var(--muted)}
+.issue .why{display:block;color:var(--muted);font-size:.92rem;margin-top:.15rem}
+.issue .sec{--c:var(--next);padding-block:1.75rem 1rem;border-top:3px solid var(--c);scroll-margin-top:7rem}
+.issue .sec.geo{--c:var(--geo)} .issue .sec.ch{--c:var(--ch)} .issue .sec.money{--c:var(--money)} .issue .sec.ai{--c:var(--ai)} .issue .sec.cx{--c:var(--cx)}
+.issue .sec-head{display:flex;align-items:baseline;gap:.75rem;margin-bottom:1.25rem}
+.issue .sec-kicker{font:500 .8rem var(--mono);color:var(--c)}
+.issue .sec-head h2{font-size:1.9rem;color:var(--c)}
+.issue .story{display:grid;gap:.7rem;padding-bottom:1.5rem;margin-bottom:1.5rem;border-bottom:1px solid var(--rule)}
+.issue .story:last-child{border-bottom:0}
+.issue .story h3{font-size:1.3rem}
+.issue .meta{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem .6rem;font-size:.78rem;color:var(--muted)}
+.issue .src{font:400 .76rem var(--mono);color:var(--muted)}
+.issue .widely{font:500 .7rem var(--mono);color:var(--c);text-transform:uppercase;letter-spacing:.06em}
+.issue .second{padding-left:.9rem;border-left:2px solid var(--c)}
+.issue .bullets{margin:0;padding-left:1.15rem;display:grid;gap:.45rem}
+.issue .caption{font-size:.82rem;color:var(--muted)}
+.issue .markets{margin:0 0 2rem;background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1.1rem 1.1rem .9rem}
+.issue .markets figcaption{display:grid;gap:.15rem;margin-bottom:.6rem}
+.issue .fig-title{font:500 .78rem var(--mono);text-transform:uppercase;letter-spacing:.07em}
+.issue .fig-note{font-size:.78rem;color:var(--muted)}
+.chart-scroll{overflow-x:auto}
+.mkt{width:100%;border-collapse:collapse;font-size:.9rem;font-variant-numeric:tabular-nums;min-width:30rem}
+.mkt th,.mkt td{padding:.42rem .4rem;border-bottom:1px solid var(--rule);text-align:left;font-weight:400}
+.mkt thead th{font:500 .7rem var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.mkt tbody th{font-weight:500}
+.mkt tfoot th,.mkt tfoot td{font-size:.8rem;color:var(--muted);border-bottom:0}
+.r{text-align:right!important;font-family:var(--mono);font-size:.85rem}
+.issue .up{color:var(--fact)} .issue .dn{color:var(--unc)}
+.barcol{width:42%}
+.dbar{position:relative;display:block;height:.75rem;background:linear-gradient(90deg,transparent calc(33.333% - .5px),var(--muted) calc(33.333% - .5px) calc(33.333% + .5px),transparent calc(33.333% + .5px))}
+.dbar i{position:absolute;top:1px;bottom:1px;border-radius:1px}
+.dbar .pos{left:33.333%;width:calc(var(--v)/12*100%);background:var(--fact)}
+.dbar .neg{right:66.667%;width:calc(var(--v)/12*100%);background:var(--unc)}
+.dbar .zero{left:calc(33.333% - 2px);width:4px;background:var(--muted)}
+.scale{position:relative;display:block;height:1em}
+.scale b{position:absolute;top:0;font-weight:500}
+.issue .austrian{background:var(--tint);border-radius:10px;padding:1.25rem 1.25rem 1.1rem;display:grid;gap:.75rem;margin-bottom:1.5rem}
+.issue .austrian h3{font-size:1.25rem;display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+.issue .aus-steps{margin:0;padding-left:1.3rem;display:grid;gap:.55rem}
+.issue .aus-counter{font-size:.92rem;color:var(--muted)}
+.issue .bigpic{background:var(--paper);border:1px solid var(--rule);border-left:4px solid var(--cx);border-radius:10px;padding:1.25rem;display:grid;gap:.75rem}
+.issue .insights{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,19rem),1fr));gap:1rem;margin-top:.5rem}
+.issue .insight{background:var(--paper);border:1px solid var(--rule);border-top:3px solid var(--ai);border-radius:8px;padding:1.1rem;display:grid;gap:.6rem;align-content:start;min-width:0}
+.issue .insight-k{font:500 .7rem var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--ai)}
+.issue .insight h3{font-size:1.15rem}
+.issue .prompt{margin:0;padding:.75rem .9rem;font:400 .85rem/1.5 var(--mono);background:var(--bg);border-radius:6px}
+.issue .vs-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,17rem),1fr));gap:1rem}
+.issue .vs{display:grid;gap:.4rem;align-content:start;padding-top:.6rem;border-top:1px solid var(--rule)}
+.issue .vs h3{font-size:1.1rem}
+.issue .vs p{font-size:.94rem}
+.issue .blind{margin-top:1.25rem;font-size:.94rem}
+.issue .cal{list-style:none;padding:0;margin:0;display:grid;gap:.1rem}
+.issue .cal li{display:grid;grid-template-columns:8.5rem 1fr;gap:1rem;padding:.55rem 0;border-bottom:1px solid var(--rule)}
+.issue .cal time{font:500 .8rem var(--mono);color:var(--muted);padding-top:.15rem}
+@media (max-width:480px){.issue .cal li{grid-template-columns:1fr;gap:.1rem}}
+.issue .pods,.issue .reads{list-style:none;padding:0;margin:0;display:grid;gap:1.1rem}
+.issue .pod-show{font:500 .72rem var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.issue .pod-ep{font-family:var(--display);font-size:1.12rem;margin-top:.15rem}
+.issue .pod-why{font-size:.94rem;margin-top:.2rem}
+.issue .alt{margin-top:1rem;font-size:.88rem;color:var(--muted)}
+.issue .reads li{display:grid;gap:.15rem}
+.issue .reads a{font-family:var(--display);font-size:1.12rem}
+.issue .reads span{font-size:.9rem;color:var(--muted)}
+.issue .health{margin-block:2rem 1rem;background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1.25rem}
+.issue .health h2{font-size:1.3rem;margin-bottom:.9rem}
+.issue .health-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,13rem),1fr));gap:1rem;font-size:.86rem}
+.issue .health h3{font:500 .72rem var(--mono);text-transform:uppercase;letter-spacing:.07em;margin-bottom:.35rem}
+.issue .ok{color:var(--fact)} .issue .quiet{color:var(--muted)} .issue .bad{color:var(--unc)}
+.issue .sources{padding-block:1rem 3rem}
+.issue .sources h2{font-size:1.2rem;margin-bottom:.6rem}
+.issue .src-list{margin:0;padding-left:1.6rem;font-size:.82rem;color:var(--muted);display:grid;gap:.2rem}
+.issue .foot{margin-top:1.25rem;font-size:.8rem;color:var(--muted)}
+.issue .wrap{padding:0}
+
+/* ---------- LABELLED BOXES (same on The Daily and the Weekly) ---------- */
+:root{--claude:#b0532c;--srcc:#5a6575}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--claude:#f0956c;--srcc:#9aa5b4}}
+:root[data-theme="dark"]{--claude:#f0956c;--srcc:#9aa5b4}
+.box{--bc:var(--fact);display:grid;gap:.3rem;padding:.6rem .85rem .65rem;border-left:3px solid var(--bc);border-radius:0 8px 8px 0;background:color-mix(in srgb,var(--bc) 7%,var(--paper));min-width:0}
+.box.fact{--bc:var(--fact)} .box.opinion{--bc:var(--view)} .box.claude{--bc:var(--claude)} .box.unc{--bc:var(--unc)}
+.box.source{--bc:var(--srcc);background:transparent;border-left-style:dotted;padding-block:.35rem}
+.box-k{font:500 .66rem/1.3 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--bc);margin:0}
+.box-k i{font-style:normal;text-transform:none;letter-spacing:0;color:var(--muted)}
+.box p,.box li{font-size:.95rem}
+.box.source p,.box.source{font:400 .78rem/1.5 var(--mono);color:var(--muted)}
+.box.source a{color:var(--ink)}
+.boxes{display:grid;gap:.5rem}
+.tag.claude{color:var(--claude)}
+.tag.src{color:var(--srcc)}
+.legend2{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:.4rem 1.1rem;font-size:.8rem;color:var(--muted)}
+.legend2 li{display:flex;align-items:center;gap:.4rem}
+.issue .bigpic{border-left-color:var(--claude)}
+
+/* daily */
+.top6{display:grid;gap:1.6rem}
+.top6 article{display:grid;grid-template-columns:2.2rem minmax(0,1fr);gap:.55rem 1rem;padding-bottom:1.4rem;border-bottom:1px solid var(--rule)}
+.top6 article:last-child{border-bottom:0;padding-bottom:0}
+.top6 .n{grid-row:span 5;font:400 2rem/1 var(--display);color:var(--geo)}
+.top6 h3{font-size:1.25rem}
+.top6 .why{color:var(--muted);font-size:.9rem}
+.reads3 .read{gap:.5rem}
+.read h3{font-size:1.35rem;font-weight:700;line-height:1.25;color:var(--c,var(--ink))}
+.btcline{display:flex;flex-wrap:wrap;gap:.3rem .8rem;align-items:baseline;margin-top:.7rem;padding:.6rem .9rem;background:var(--paper);border:1px solid var(--rule);border-radius:10px;font-size:.92rem}
+.btcline .k{color:var(--money)}
+.dtools{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center}
+.footline{margin-top:2.5rem;font-size:.8rem;color:var(--muted)}
+.pdfmode .noprint,.pdfmode .dtools{display:none!important}
+.pdfhead{display:none}
+.pdfmode .pdfhead{display:block;font:500 .75rem/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem}
+
+/* inline labels: one flowing text per story, a small coloured word marks where Fact, Opinion and Claude start */
+.flow{font-size:.97rem}
+.flow .tag,.srcline .tag,.issue .tag{margin-right:.15rem}
+.flow .who{font-weight:600}
+.srcline{font:400 .76rem/1.55 var(--mono);color:var(--muted);margin-top:.1rem}
+.srcline a{color:var(--muted)}
+.read .rn{font:400 1.25rem/1 var(--display);color:var(--c);margin-right:.25rem;letter-spacing:0}
+.top6 .n{grid-row:span 4}
+@media print{.pdfhead{display:block;font:500 7.5pt/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:2mm}.top6,.reads3{display:block}.top6 article{margin-bottom:5mm}.read{margin-bottom:5mm}.b-row,.mrow{break-inside:avoid}}
+[hidden]{display:none!important}
+.toast{position:fixed;left:50%;bottom:calc(1rem + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:.55rem .9rem;border-radius:8px;font-size:.88rem;z-index:50}
+@media print{
+  @page{size:A4;margin:15mm 15mm 17mm}
+  :root{--bg:#fff;--paper:#fff;--ink:#141a22;--muted:#4b5563;--rule:#d5dae2;--tint:#eef0f8;--chip:#eef1f5}
+  body{font-size:10pt;line-height:1.5;background:#fff}
+  body::before,.topbar,.issuebar,.noprint,.subtabs{display:none!important}
+  .view{padding:0}
+  .wrap{max-width:none;padding:0}
+  .issue .masthead{padding-block:0 5mm}
+  .issue .title{font-size:30pt}
+  .issue .sec{padding-block:5mm 2mm;border-top-width:2pt}
+  .issue .sec-head h2{font-size:18pt}
+  .issue .story h3{font-size:12.5pt}
+  .issue .sec.geo{break-before:page;border-top:0}
+  h2,h3,.sec-head,.meta{break-after:avoid}
+  .brief-list li,.story p,.bullets li,.markets,.aus-steps li,.insight,.vs,.cal li,.pods li,.reads li,.health-grid>div,.card{break-inside:avoid}
+  .issue .insights,.issue .vs-grid{display:block}
+  .issue .insight,.issue .vs{margin-bottom:4mm}
+  .mkt{min-width:0}
+  .chart-scroll,.scroll{overflow:visible}
+  .issue .src-list{columns:2;column-gap:8mm;font-size:7.5pt;display:block}
+  a{color:inherit;text-decoration:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header class="topbar">
+  <div class="wrap">
+    <div class="brand">The <b>Signal-Letter</b></div>
+    <nav class="tabs" aria-label="Pages">
+      <button class="tab" data-go="daily" type="button">The Daily</button>
+      <button class="tab" data-go="weekly" type="button">Weekly Signal</button>
+    </nav>
+  </div>
+</header>
+
+<div id="issuebar" class="issuebar" hidden>
+  <div class="wrap">
+    <button class="btn" id="ib-back" type="button">← All weeks</button>
+    <button class="btn" id="ib-prev" type="button" aria-label="Previous week">‹</button>
+    <button class="btn" id="ib-next" type="button" aria-label="Next week">›</button>
+    <span class="where" id="ib-where"></span>
+    <button class="btn" id="ib-pdf" type="button">Download PDF</button>
+  </div>
+</div>
+
+<!-- DAILY -->
+<main id="v-daily" class="view wrap" hidden>
+  <div id="d-print">
+    <p class="pdfhead">The Signal-Letter</p>
+    <div class="vhead">
+      <div><p class="eyebrow" id="d-eyebrow">The Daily · every evening at 19:00</p><h1 id="d-title">The Daily</h1></div>
+      <div class="dtools noprint">
+        <button class="btn" id="d-prev" type="button" aria-label="Previous day">‹ Earlier</button>
+        <button class="btn" id="d-next" type="button" aria-label="Next day">Later ›</button>
+        <button class="btn" id="d-pdf" type="button">Download PDF</button>
+      </div>
+    </div>
+    <ul class="legend2" aria-label="Box labels" style="margin-bottom:1.5rem">
+      <li><span class="tag fact">Fact</span> reported by the sources</li>
+      <li><span class="tag view">Opinion</span> a source's argument</li>
+      <li><span class="tag claude">Claude</span> Claude's own reading</li>
+      <li><span class="tag src">Source</span> where it comes from</li>
+    </ul>
+    <div id="d-body"><div class="empty">Loading today's edition…</div></div>
+
+    <section class="dsec">
+      <div class="cardh"><h2>Markets</h2><span id="m-asof" class="note"></span></div>
+      <div class="mlist" id="m-snap"><div class="empty">Market data appears after the first price update.</div></div>
+    </section>
+    <p class="footline">Written by Claude from Mattia's newsletters, feeds and podcasts, checked against the open web.</p>
+  </div>
+</main>
+
+<!-- WEEKLY -->
+<main id="v-weekly" class="view wrap wide" hidden>
+  <div class="vhead">
+    <div><p class="eyebrow">Archive · every Sunday at 16:00</p><h1>The Weekly Signal</h1></div>
+    <p class="muted" style="max-width:26rem;font-size:.92rem">Pick a week to open the full letter. Inside an issue, use the arrows to step through the weeks.</p>
+  </div>
+  <div class="yearbar"><button class="btn" id="y-prev" type="button" aria-label="Previous year">‹</button><h2 id="y-label">2026</h2><button class="btn" id="y-next" type="button" aria-label="Next year">›</button><span class="note" id="y-count"></span></div>
+  <div class="calstrip" id="y-strip" aria-hidden="true"></div>
+  <div class="weeks" id="w-grid"></div>
+
+  <div class="subtabs" role="tablist">
+    <button role="tab" aria-selected="true" data-sub="threads" type="button">Story threads</button>
+    <button role="tab" aria-selected="false" data-sub="calls" type="button">Calls scorecard</button>
+  </div>
+  <div id="sub-threads"><div class="threads" id="threads"><div class="empty">Story threads load with the archive.</div></div></div>
+  <div id="sub-calls" hidden>
+    <p class="note" style="margin-bottom:.8rem">Forecasts made by the people in the sources, checked when they come due.</p>
+    <div class="scroll"><table class="calls"><thead><tr><th>Who</th><th>Call</th><th>Made</th><th>Check</th><th>Status</th></tr></thead><tbody id="calls"><tr><td colspan="5" class="muted">Loading…</td></tr></tbody></table></div>
+  </div>
+</main>
+
+<!-- ISSUE -->
+<main id="v-issue" class="view wrap" hidden>
+  <article class="issue" id="issue"></article>
+</main>
+
+<div class="toast" id="toast" hidden></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script>
+(() => {
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = (n, d = 0) => n == null || isNaN(n) ? '–' : Number(n).toLocaleString('de-CH', {minimumFractionDigits: d, maximumFractionDigits: d});
+const pct = (n, d = 1) => n == null || isNaN(n) ? '–' : (n > 0 ? '+' : n < 0 ? '−' : '') + Math.abs(n).toFixed(d) + '%';
+const cls = n => n == null || isNaN(n) || Math.abs(n) < 0.005 ? 'flat' : n > 0 ? 'up' : 'dn';
+const toast = m => { const t = $('#toast'); t.textContent = m; t.hidden = false; clearTimeout(toast.h); toast.h = setTimeout(() => t.hidden = true, 2600); };
+/* GitHub Pages version: files are saved with a normal browser download, and every edition is read from plain JSON files in data/ */
+const claude = { use: async n => n === 'downloads' ? { save: async ({filename, data}) => { const u = URL.createObjectURL(data), a = document.createElement('a'); a.href = u; a.download = filename; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(u), 4000); } } : null };
+const getJSON = async p => { const r = await fetch(p, {cache: 'no-cache'}); if (!r.ok) throw new Error(p); return r.json(); };
+const store = { get(k){ try { return localStorage.getItem(k); } catch { return null; } }, set(k, v){ try { localStorage.setItem(k, v); } catch {} } };
+
+const S = { view: 'daily', weeks: [], year: 2026, weekId: null, dailies: [], dayIdx: 0, wantDay: null, markets: null };
+
+/* ---------- routing ---------- */
+function token() { if (S.view === 'issue') return 'w' + S.weekId.replace('-W', '-'); if (S.view === 'daily' && S.dailies[S.dayIdx] && S.dayIdx > 0) return 'd' + S.dailies[S.dayIdx].date; return S.view; }
+function setHash() { try { history.replaceState(null, '', '#' + token()); } catch {} }
+function show(view, opts = {}) {
+  S.view = view;
+  ['daily','weekly','issue'].forEach(v => $('#v-' + v).hidden = v !== view);
+  $('#issuebar').hidden = view !== 'issue';
+  const tab = view === 'issue' ? 'weekly' : view;
+  $$('.tab').forEach(t => t.setAttribute('aria-current', t.dataset.go === tab ? 'page' : 'false'));
+  if (!opts.noHash) setHash();
+  store.set('sig.view', tab);
+  if (!opts.keepScroll) window.scrollTo(0, 0);
+}
+function route() {
+  const h = (location.hash || '').slice(1);
+  const m = h.match(/^w(\d{4})-(\d{1,2})$/);
+  if (m) { const id = m[1] + '-W' + m[2].padStart(2, '0'); if (S.weeks.find(w => w.id === id)) return openWeek(id, true); }
+  const d = h.match(/^d(\d{4}-\d{2}-\d{2})$/);
+  if (d) { S.wantDay = d[1]; return show('daily', {noHash: true}); }
+  if (['daily','weekly'].includes(h)) return show(h, {noHash: true});
+  show(store.get('sig.view') === 'weekly' ? 'weekly' : 'daily', {noHash: true});
+}
+$$('[data-go]').forEach(b => b.addEventListener('click', () => show(b.dataset.go)));
+
+/* ---------- PDF ---------- */
+async function savePdf(el, filename, label) {
+  const dl = await claude.use('downloads');
+  if (!dl) { toast('Downloads are not available in this view.'); return; }
+  if (typeof html2pdf === 'undefined') { toast('The PDF tool did not load. Reload the page and try again.'); return; }
+  const root = document.documentElement, prevTheme = root.getAttribute('data-theme');
+  root.setAttribute('data-theme', 'light'); el.classList.add('pdfmode');
+  toast('Preparing PDF…');
+  try {
+    const blob = await html2pdf().set({margin: [12, 12, 14, 12], filename, image: {type: 'jpeg', quality: .95}, html2canvas: {scale: 2, useCORS: true, backgroundColor: '#ffffff'}, jsPDF: {unit: 'mm', format: 'a4', orientation: 'portrait'}, pagebreak: {mode: ['css', 'legacy'], avoid: ['.box', 'article', '.read', '.b-row', '.mrow', 'li', 'h2', 'h3']}})
+      .from(el).toPdf().get('pdf').then(pdf => { const n = pdf.internal.getNumberOfPages(); for (let i = 1; i <= n; i++) { pdf.setPage(i); pdf.setFontSize(7); pdf.setTextColor(110); pdf.text(label, 12, 290); pdf.text(i + ' / ' + n, 198, 290, {align: 'right'}); } return pdf.output('blob'); });
+    await dl.save({filename, data: blob}); toast('PDF saved');
+  } catch (e) { if (!e || e.code !== 'declined') toast('The PDF could not be made. Try again in a moment.'); }
+  finally { el.classList.remove('pdfmode'); prevTheme == null ? root.removeAttribute('data-theme') : root.setAttribute('data-theme', prevTheme); }
+}
+
+/* ---------- WEEKLY (archive) ---------- */
+async function loadWeeks() {
+  try { const r = await fetch('weeks/index.json', {cache: 'no-cache'}); S.weeks = (await r.json()).weeks || []; }
+  catch { S.weeks = []; }
+  S.weeks.sort((a, b) => a.id.localeCompare(b.id));
+  const yrs = [...new Set(S.weeks.map(w => w.year))];
+  if (yrs.length) S.year = Math.max(...yrs);
+  renderWeeks();
+}
+function isoWeekNow() { const d = new Date(); const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate())); const day = t.getUTCDay() || 7; t.setUTCDate(t.getUTCDate() + 4 - day); const y = t.getUTCFullYear(); return {y, w: Math.ceil(((t - Date.UTC(y, 0, 1)) / 864e5 + 1) / 7)}; }
+function renderWeeks() {
+  const list = S.weeks.filter(w => w.year === S.year).sort((a, b) => b.week - a.week);
+  const yrs = [...new Set(S.weeks.map(w => w.year))];
+  $('#y-label').textContent = S.year;
+  $('#y-prev').disabled = !yrs.some(y => y < S.year);
+  $('#y-next').disabled = !yrs.some(y => y > S.year);
+  $('#y-count').textContent = list.length ? list.length + (list.length === 1 ? ' issue' : ' issues') : '';
+  const now = isoWeekNow();
+  $('#y-strip').innerHTML = Array.from({length: 52}, (_, i) => { const w = list.find(x => x.week === i + 1); return `<i class="${w ? 'has' : ''} ${now.y === S.year && now.w === i + 1 ? 'now' : ''}" ${w ? `data-w="${w.id}" title="Week ${i + 1}"` : ''}></i>`; }).join('');
+  $$('#y-strip i.has').forEach(i => i.addEventListener('click', () => openWeek(i.dataset.w)));
+  let html = '';
+  if (now.y === S.year && !list.find(w => w.week === now.w)) html += `<div class="wslot">Week ${now.w}<br>arrives Sunday at 16:00</div>`;
+  html += list.map(w => `<button class="wcard" type="button" data-w="${esc(w.id)}">
+    <div class="wn"><span class="wnum">W${w.week}</span><span class="k">#${w.issue} · ${esc(w.range)}</span></div>
+    <h3>${esc(w.headline)}</h3>
+    <ul>${(w.points || []).slice(0, 3).map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+    <div class="tags">${(w.tags || []).map(t => `<span class="pill">${esc(t)}</span>`).join('')}</div></button>`).join('');
+  $('#w-grid').innerHTML = html || '<div class="empty">No issues in this year yet.</div>';
+  $$('#w-grid .wcard').forEach(c => c.addEventListener('click', () => openWeek(c.dataset.w)));
+}
+$('#y-prev').addEventListener('click', () => { S.year--; renderWeeks(); });
+$('#y-next').addEventListener('click', () => { S.year++; renderWeeks(); });
+$$('.subtabs button').forEach(b => b.addEventListener('click', () => {
+  $$('.subtabs button').forEach(x => x.setAttribute('aria-selected', x === b ? 'true' : 'false'));
+  $('#sub-threads').hidden = b.dataset.sub !== 'threads'; $('#sub-calls').hidden = b.dataset.sub !== 'calls';
+}));
+
+async function openWeek(id) {
+  const w = S.weeks.find(x => x.id === id); if (!w) return;
+  S.weekId = id;
+  $('#issue').innerHTML = '<div class="empty" style="margin-top:2rem">Opening week ' + w.week + '…</div>';
+  show('issue');
+  try { const r = await fetch(w.file || ('weeks/' + id + '.html'), {cache: 'no-cache'}); $('#issue').innerHTML = await r.text(); }
+  catch { $('#issue').innerHTML = '<div class="empty" style="margin-top:2rem">This issue could not be loaded. Reload the page to try again.</div>'; }
+  const i = S.weeks.findIndex(x => x.id === id);
+  $('#ib-prev').disabled = i <= 0; $('#ib-next').disabled = i >= S.weeks.length - 1;
+  $('#ib-where').textContent = `Issue #${w.issue} · Week ${w.week} · ${w.range}`;
+  $$('#issue .toc a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); const t = $('#issue ' + a.getAttribute('href')); t && t.scrollIntoView({behavior: 'smooth'}); }));
+}
+$('#ib-back').addEventListener('click', () => show('weekly'));
+$('#ib-prev').addEventListener('click', () => { const i = S.weeks.findIndex(x => x.id === S.weekId); if (i > 0) openWeek(S.weeks[i - 1].id); });
+$('#ib-next').addEventListener('click', () => { const i = S.weeks.findIndex(x => x.id === S.weekId); if (i < S.weeks.length - 1) openWeek(S.weeks[i + 1].id); });
+$('#ib-pdf').addEventListener('click', async () => {
+  const w = S.weeks.find(x => x.id === S.weekId); if (!w) return;
+  if (!w.pdf) return savePdf($('#issue'), `The-Signal-Letter-Weekly-${w.id}.pdf`, `The Weekly Signal · #${w.issue} · Week ${w.week}`);
+  const dl = await claude.use('downloads');
+  if (!dl) { toast('Downloads are not available in this view.'); return; }
+  try { const blob = await (await fetch(w.pdf)).blob(); await dl.save({filename: `The-Signal-Letter-Weekly-${w.id}.pdf`, data: blob}); toast('PDF saved'); }
+  catch (e) { if (e && e.code !== 'declined') toast('The PDF could not be saved. Try again in a moment.'); }
+});
+document.addEventListener('keydown', e => {
+  if (S.view !== 'issue' || e.target.closest('input,textarea,select')) return;
+  if (e.key === 'ArrowLeft') $('#ib-prev').click(); if (e.key === 'ArrowRight') $('#ib-next').click(); if (e.key === 'Escape') $('#ib-back').click();
+});
+
+function renderThreads(docs) {
+  if (!docs.length) { $('#threads').innerHTML = '<div class="empty">No story threads yet.</div>'; return; }
+  docs.sort((a, b) => (b.updated || '').localeCompare(a.updated || ''));
+  $('#threads').innerHTML = docs.map(t => `<div class="thr card"><h3>${esc(t.title)} <span class="pill ${t.status === 'active' ? 'live' : ''}">${esc(t.status || 'active')}</span><span class="note">${esc(t.region || '')}</span></h3>
+    <ol class="tl">${(t.entries || []).slice().sort((a, b) => b.date.localeCompare(a.date)).slice(0, 8).map(e => `<li><time>${esc(e.date)}</time>${esc(e.text)}${e.week ? ` <a href="#" data-w="${esc(e.week)}" class="note">open week</a>` : ''}</li>`).join('')}</ol></div>`).join('');
+  $$('#threads a[data-w]').forEach(a => a.addEventListener('click', e => { e.preventDefault(); openWeek(a.dataset.w); }));
+}
+function renderCalls(docs) {
+  if (!docs.length) { $('#calls').innerHTML = '<tr><td colspan="5" class="muted">No calls tracked yet.</td></tr>'; return; }
+  const order = {open: 0, mixed: 1, right: 2, wrong: 3};
+  docs.sort((a, b) => (order[a.status] ?? 0) - (order[b.status] ?? 0) || (a.check || '').localeCompare(b.check || ''));
+  $('#calls').innerHTML = docs.map(c => `<tr><td><b>${esc(c.who)}</b><span class="note" style="display:block">${esc(c.source || '')}</span></td><td>${esc(c.claim)}${c.result ? `<span class="note" style="display:block">${esc(c.result)}</span>` : ''}</td><td class="num note">${esc(c.made)}</td><td class="num note">${esc(c.check)}</td><td><span class="st ${esc(c.status || 'open')}">${esc(c.status || 'open')}</span></td></tr>`).join('');
+}
+
+/* ---------- boxes: Fact · Opinion · Claude · Source ---------- */
+const LABEL = {fact: 'Fact', opinion: 'Opinion', claude: 'Claude', unc: 'Unconfirmed'};
+const noDisc = s => String(s || '').replace(/\s*\((?:disclosure|Disclosure)[^)]*\)/g, '').replace(/\s*\bDisclosure:[^.]*\.?/g, '').trim();
+const MARK = /(Fact|Opinion|Assessment|Counter-argument|Unconfirmed)\s*(?:\(([^)]*)\))?\s*:\s*/g;
+function kindOf(lab, who) {
+  const w = (who || '').toLowerCase();
+  if (lab === 'Fact') return {kind: 'fact', who};
+  if (lab === 'Unconfirmed') return {kind: 'unc', who};
+  if (lab === 'Counter-argument') return {kind: 'claude', who: 'counter-argument'};
+  if (lab === 'Assessment' && (!who || /claude|this report/.test(w))) return {kind: 'claude', who: ''};
+  return {kind: 'opinion', who};
+}
+/* older Dailies wrote the labels into one text ("Fact (Semafor): … Assessment: …"); split them into boxes */
+function splitLabels(text) {
+  const t = noDisc(text), marks = []; let m; MARK.lastIndex = 0;
+  while ((m = MARK.exec(t))) marks.push({i: m.index, end: MARK.lastIndex, lab: m[1], who: m[2] || ''});
+  if (!marks.length) return t ? [{kind: 'plain', who: '', text: t}] : [];
+  const out = [];
+  if (marks[0].i > 0) out.push({kind: 'plain', who: '', text: t.slice(0, marks[0].i).trim()});
+  marks.forEach((mk, j) => out.push({...kindOf(mk.lab, mk.who), text: t.slice(mk.end, j + 1 < marks.length ? marks[j + 1].i : t.length).trim()}));
+  return out.filter(s => s.text);
+}
+function segments(it) {
+  if (it.fact || it.opinion || it.claude || it.unc) {
+    const ops = Array.isArray(it.opinion) ? it.opinion : it.opinion ? [it.opinion] : [];
+    return [it.fact && {kind: 'fact', who: '', text: noDisc(it.fact)}, it.unc && {kind: 'unc', who: '', text: noDisc(it.unc)},
+      ...ops.map(o => ({kind: 'opinion', who: typeof o === 'string' ? '' : o.who || '', text: noDisc(typeof o === 'string' ? o : o.text)})),
+      it.claude && {kind: 'claude', who: '', text: noDisc(it.claude)}].filter(Boolean);
+  }
+  return splitLabels(it.text);
+}
+const TAGC = {fact: 'fact', opinion: 'view', claude: 'claude', unc: 'unc'};
+const chip = s => s.kind === 'plain' ? '' : `<span class="tag ${TAGC[s.kind]}">${LABEL[s.kind]}</span>${s.who && s.kind === 'opinion' ? ` <span class="who">${esc(s.who)}:</span>` : ''} `;
+const link = s => s.u ? `<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t || s.u)}</a>` : esc(s.t);
+function sourceBox(list, label = 'Source') { const l = list.filter(s => s && (s.t || s.u)); return l.length ? `<p class="srcline"><span class="tag src">${label}</span> ${l.map(link).join(' · ')}</p>` : ''; }
+/* for older Dailies: turn the names in "Fact (Semafor)" into links from the day's source list */
+function guessSources(segs, pool) {
+  const names = [...new Set(segs.map(s => s.who).filter(w => w && w !== 'counter-argument').flatMap(w => w.split(/,\s*/)))];
+  return names.map(n => { const key = n.toLowerCase().replace(/^(the|an?)\s+/, '').split(/\s+/).slice(0, 2).join(' '); const hit = pool.find(p => (p.t || '').toLowerCase().includes(key)); return hit ? {t: hit.t, u: hit.u} : {t: n}; }).filter((s, i, all) => all.findIndex(x => (x.u || x.t) === (s.u || s.t)) === i);
+}
+function storyBoxes(it, pool, fallback) {
+  const segs = segments(it);
+  const src = it.src || it.sources || (fallback ? fallback : guessSources(segs, pool));
+  return `<p class="flow">${segs.map(s => chip(s) + esc(s.text)).join(' ')}</p>${sourceBox(src)}`;
+}
+
+/* ---------- DAILY ---------- */
+function renderDaily() {
+  if (S.wantDay && S.dailies.length) { const i = S.dailies.findIndex(d => d.date === S.wantDay); if (i >= 0) S.dayIdx = i; S.wantDay = null; }
+  const d = S.dailies[S.dayIdx];
+  $('#d-prev').disabled = S.dayIdx >= S.dailies.length - 1; $('#d-next').disabled = S.dayIdx <= 0; $('#d-pdf').disabled = !d;
+  if (!d) { $('#d-title').textContent = 'The Daily'; $('#d-body').innerHTML = '<div class="empty">The next Daily arrives at 19:00: the day\'s top six stories, three different reads, a podcast pick and the markets.</div>'; return; }
+  const dt = new Date(d.date + 'T12:00:00');
+  $('#d-title').textContent = dt.toLocaleDateString('en-GB', {weekday: 'long', day: 'numeric', month: 'long', year: 'numeric'});
+  $('#d-eyebrow').textContent = `The Daily · ${d.label || d.date}`;
+  const pool = d.sources || [], r = d.reads || {};
+  let rn = 0;
+  const read = (o, c, k) => o ? `<div class="read ${c}"><span class="k">${k}</span><h3>${esc(o.title)}</h3>${storyBoxes(o, pool, o.src ? null : [{t: o.source, u: o.url}])}</div>` : '';
+  $('#d-body').innerHTML = `
+    <section><h2 class="sr">Top stories</h2><div class="top6">${(d.top || []).map((t, i) => `<article><span class="n">${i + 1}</span><h3>${esc(t.title)}</h3>${t.why ? `<p class="why">Why it matters: ${esc(t.why)}</p>` : ''}${storyBoxes(t, pool)}</article>`).join('')}</div></section>
+    <section class="dsec"><h2>Three reads</h2><div class="reads3">${read(r.mainstream, 'm', 'The mainstream read')}${read(r.ai, 'a', 'The AI read')}${read(r.austrian, 'o', 'The Austrian read')}</div></section>
+    <section class="dsec"><h2>In brief</h2><div class="brief3">
+      ${d.number ? `<div class="b-row"><span class="k">Number of the day</span><div><div class="b-num">${esc(d.number.value)}</div><p>${esc(noDisc(d.number.text))}</p></div></div>` : ''}
+      ${d.podcast ? `<div class="b-row"><span class="k">Podcast of the day</span><div><h3>${d.podcast.url ? `<a href="${esc(d.podcast.url)}" target="_blank" rel="noopener">${esc(d.podcast.episode)}</a>` : esc(d.podcast.episode)}</h3><p class="note">${esc(d.podcast.show)}</p><p style="margin-top:.25rem">${esc(noDisc(d.podcast.why))}</p></div></div>` : ''}
+      ${d.thread ? `<div class="b-row"><span class="k">Story thread</span><div><h3>${esc(d.thread.title)}</h3><p>${esc(d.thread.text)}</p></div></div>` : ''}
+    </div></section>
+    ${pool.length ? `<div class="dsec">${sourceBox(pool, 'All sources today')}</div>` : ''}`;
+}
+$('#d-prev').addEventListener('click', () => { if (S.dayIdx < S.dailies.length - 1) { S.dayIdx++; renderDaily(); setHash(); } });
+$('#d-next').addEventListener('click', () => { if (S.dayIdx > 0) { S.dayIdx--; renderDaily(); setHash(); } });
+/* each evening's run publishes daily/<date>.pdf; the in-page maker is only a fallback */
+$('#d-pdf').addEventListener('click', async () => {
+  const d = S.dailies[S.dayIdx]; if (!d) return;
+  const name = `The-Signal-Letter-Daily-${d.date}.pdf`;
+  let blob = null;
+  try { const r = await fetch(d.pdf || `daily/${d.date}.pdf`, {cache: 'no-cache'}); if (r.ok && (r.headers.get('content-type') || '').includes('pdf')) blob = await r.blob(); } catch {}
+  if (!blob) return savePdf($('#d-print'), name, `The Signal-Letter · The Daily · ${d.label || d.date}`);
+  const dl = await claude.use('downloads');
+  if (!dl) { toast('Downloads are not available in this view.'); return; }
+  try { await dl.save({filename: name, data: blob}); toast('PDF saved'); }
+  catch (e) { if (e && e.code !== 'declined') toast('The PDF could not be saved. Try again in a moment.'); }
+});
+
+function mktItems() { return (S.markets && S.markets.items) || []; }
+function fmtPx(it) { const d = it.price >= 1000 ? 0 : it.price >= 10 ? 2 : 4; return (it.unit === '%' ? fmt(it.price, 2) + '%' : (it.ccy && it.ccy !== 'pts' ? it.ccy + ' ' : '') + fmt(it.price, d)); }
+function renderMarkets() {
+  const items = mktItems();
+  if (!items.length) return;
+  const m = S.markets;
+  const ageH = m.asOf ? (Date.now() - Date.parse(m.asOf)) / 36e5 : 99;
+  $('#m-asof').innerHTML = `${m.label ? esc(m.label) : ''} <span class="pill ${ageH < 14 ? 'live' : 'stale'}">${ageH < 14 ? 'latest' : 'not updated since'}</span>`;
+  const bp = v => v == null ? '–' : (v > 0 ? '+' : '') + v + ' bp';
+  const mx = Math.max(1.5, ...items.filter(i => i.unit !== '%' && i.d1 != null).map(i => Math.abs(i.d1)));
+  $('#m-snap').innerHTML = `<div class="mrow head"><span>Market</span><span style="text-align:right">Price</span><span class="track">Today</span><span style="text-align:right">Day</span><span style="text-align:right">Week</span></div>` + items.map(it => { const pv = it.unit === '%' ? null : it.d1; const w = pv == null ? 0 : Math.min(50, Math.abs(pv) / mx * 50);
+    return `<div class="mrow"><span>${esc(it.name)}</span><span class="px">${fmtPx(it)}</span><span class="track">${pv == null ? '' : `<i class="${pv >= 0 ? 'p' : 'n'}" style="width:${w}%"></i>`}</span><span class="ch ${cls(it.unit === '%' ? it.d1bp : it.d1)}">${it.unit === '%' ? bp(it.d1bp) : pct(it.d1)}</span><span class="wk ${cls(it.unit === '%' ? it.w1bp : it.w1)}">${it.unit === '%' ? bp(it.w1bp) : pct(it.w1)}</span></div>`; }).join('');
+}
+/* one line on Bitcoin: the Daily's own sentence if it has one, otherwise the day's move */
+
+/* ---------- boot ---------- */
+async function boot() {
+  await loadWeeks();
+  route();
+  renderDaily();
+  try {
+    const idx = await getJSON('data/daily/index.json');
+    const dates = (idx.dates || []).slice().sort().reverse().slice(0, 60);
+    S.dailies = (await Promise.all(dates.map(d => getJSON('data/daily/' + d + '.json').catch(() => null)))).filter(Boolean);
+  } catch { S.dailies = []; }
+  S.dayIdx = Math.min(S.dayIdx, Math.max(0, S.dailies.length - 1));
+  renderDaily();
+  getJSON('data/markets.json').then(m => { S.markets = m; renderMarkets(); }).catch(() => {});
+  getJSON('data/stories.json').then(renderThreads).catch(() => renderThreads([]));
+  getJSON('data/calls.json').then(renderCalls).catch(() => renderCalls([]));
+}
+addEventListener('hashchange', route);
+boot();
+})();
+</script>
+
+</body>
+</html>

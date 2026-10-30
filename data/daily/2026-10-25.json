@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-25",
+  "label": "Sunday 25 Oct",
+  "number": {
+    "text": "The gap between French and German 10-year yields on Wednesday, the widest since the 2011 euro crisis.",
+    "value": "160 bp"
+  },
+  "podcast": {
+    "episode": "Netanyahu vor dem Ende? Wahl in Israel",
+    "show": "Grassl & Matei · #243 · DE",
+    "url": "https://rephonic.com/podcasts/grassl-matei",
+    "why": "42 minutes on what Tuesday's Israeli election means for the Iran war."
+  },
+  "reads": {
+    "ai": {
+      "source": "Simon Willison",
+      "text": "My read: the PHP flaws that took government sites offline were 20 years old and found by AI agents in days. The bottleneck has moved from finding vulnerabilities to fixing them. Small organisations with an old website and no IT staff, such as most small offices, are now the easiest targets. Check who maintains yours.",
+      "title": "AI finds old bugs faster than anyone can patch them",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/"
+    },
+    "austrian": {
+      "source": "Mises Notes from the Margin",
+      "text": "Mises notes record US auto-loan delinquencies. In Austrian terms, credit expansion pulls consumption forward; when rates rise, the weakest borrowers are where the malinvestment shows first. Watch whether it spreads up the income ladder.",
+      "title": "Record car-loan defaults: the bust starts at the margin",
+      "url": "https://mises.org/notes-margin/auto-loan-delinquencies-are-rising-fast"
+    },
+    "mainstream": {
+      "source": "ING via Democrata, abcbourse",
+      "text": "The mainstream view: the French 10-year briefly topped 5% and the spread to Germany hit its widest since 2011 because parliament is preparing for elections instead of passing a 2027 budget. Moody's kept the rating on Friday, betting the deficit shrinks next year.",
+      "title": "France's bond scare: politics, not markets, is the problem",
+      "url": "https://www.democrata.es/en/economy/the-french-10-year-bond-exceeds-5-for-the-first-time-since-2002-and-the-risk-premium-approaches-160-points/"
+    }
+  },
+  "sample": true,
+  "sources": [
+    {
+      "t": "ABC",
+      "u": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004"
+    },
+    {
+      "t": "Crypto Times",
+      "u": "https://www.cryptotimes.io/2026/10/25/bitcoin-price-today-btc-falls-below-80000-as-820m-crypto-liquidations-hit-longs/"
+    },
+    {
+      "t": "Tribune",
+      "u": "https://www.tribuneindia.com/news/hormuz/no-offer-made-to-us-no-proposal-sent-to-pakistan-mediator-on-strait-of-hormuz-reopening-iranian-media-rejects-reports"
+    }
+  ],
+  "thread": {
+    "text": "Since July the war has moved from shipping lanes to energy infrastructure. This weekend it reached Riyadh again.",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "text": "The Houthis claimed strikes on King Khalid airport and oil facilities on Saturday; on Sunday Saudi air defences intercepted drones over Riyadh and ten ballistic missiles aimed at the south.",
+      "title": "Houthis hit Riyadh's airport and Saudi oil sites again",
+      "why": "Brent is already at its highest since May; every new strike on Gulf energy feeds inflation and the Fed's next move."
+    },
+    {
+      "text": "Foreign Minister Araghchi said a new war would not change Iran's stance and that shipping routes and management of the strait will change permanently. Iranian media denied that Tehran sent a reopening offer via Pakistan.",
+      "title": "Iran: Hormuz will be run differently from now on",
+      "why": "No diplomatic path is visible, while Washington talks about new strikes."
+    },
+    {
+      "text": "Bitcoin fell to about $79,300 on Saturday as $821m of leveraged crypto positions were liquidated, 84% of them longs, before recovering to about $80,900.",
+      "title": "Bitcoin dips below $80,000",
+      "why": "The $81,500 average cost of US ETF buyers is now being tested from below."
+    }
+  ]
+}
