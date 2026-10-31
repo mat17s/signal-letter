@@ -23,7 +23,9 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 
 ## Automatic publishing
 
-The last step of the Daily scheduled task (18:35 Zurich, every day, so it also picks up Sunday's Weekly) downloads the news editions
-from the claude.ai site and runs `python3 -I tools/sync.py EXPORT_DIR`, then commits and pushes
-whatever changed. It only reads the news collections (daily, markets, stories, calls) and the published
-daily/ and weeks/ files.
+1. The Daily scheduled task (18:35 Zurich, every day) ends by publishing export files to the claude.ai news site:
+   `export/daily/<date>.json` (last three days), `export/markets.json`, `export/stories.json`, `export/calls.json`.
+2. A scheduled check in the Claude project thread (19:20 Zurich) downloads those files plus any new `daily/*.pdf`
+   and `weeks/*` files, runs `python3 -I tools/sync.py EXPORT_DIR`, and pushes whatever changed.
+
+Only news is exported: never portfolio, budget or other finance data.

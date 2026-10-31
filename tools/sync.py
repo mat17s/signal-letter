@@ -5,6 +5,8 @@ usage: python3 -I tools/sync.py EXPORT_DIR
 EXPORT_DIR holds what the publish task downloaded:
   db/daily/*.json, db/markets/latest.json, db/stories/*.json, db/calls/*.json   (ArtifactData out_dir)
   files/daily/*.pdf, files/weeks/*                                             (Artifact read out_dir)
+or, in place of db/, the news site's own export files (written by the Daily task):
+  files/export/daily/*.json, files/export/markets.json, files/export/stories.json, files/export/calls.json
 Only these news collections are read; portfolio, budget or other finance data is never touched.
 """
 import json, shutil, sys
@@ -31,17 +33,21 @@ def copy(f, dest):
 def load(f):
     return json.loads(f.read_text(encoding='utf8'))
 
-for f in sorted((db / 'daily').glob('*.json')):
+exp = files / 'export'
+for f in sorted((db / 'daily').glob('*.json')) + sorted((exp / 'daily').glob('*.json')):
     write_json(ROOT / 'data/daily' / f.name, load(f))
 dates = sorted(p.stem for p in (ROOT / 'data/daily').glob('20*.json'))
 write_json(ROOT / 'data/daily/index.json', {'dates': dates})
 
-if (db / 'markets/latest.json').exists():
-    write_json(ROOT / 'data/markets.json', load(db / 'markets/latest.json'))
+for m in (db / 'markets/latest.json', exp / 'markets.json'):
+    if m.exists():
+        write_json(ROOT / 'data/markets.json', load(m))
 for name in ('stories', 'calls'):
     docs = sorted((db / name).glob('*.json'))
     if docs:
         write_json(ROOT / f'data/{name}.json', [load(f) for f in docs])
+    elif (exp / f'{name}.json').exists():
+        write_json(ROOT / f'data/{name}.json', load(exp / f'{name}.json'))
 
 for sub in ('daily', 'weeks'):
     for f in sorted((files / sub).glob('*')):
