@@ -1,0 +1,230 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-10-31",
+  "label": "Saturday, 31 October 2026",
+  "number": {
+    "text": "What the Pentagon says the Iran war had cost the US by 16 October, according to EA WorldView.",
+    "value": "$47.1 billion"
+  },
+  "pdf": "daily/2026-10-31.pdf",
+  "podcast": {
+    "episode": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+    "show": "All-In",
+    "url": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+    "why": "The VC hosts on the AI repricing behind this week's tech sell-off and their final calls before Tuesday's midterms; a VC perspective."
+  },
+  "reads": {
+    "ai": {
+      "claude": "The interesting number is not the token bill but the hourly release rule: when writing code is cheap, the bottleneck moves to testing and rollback. For most firms, including architecture and engineering offices, the practical lesson is to invest in checks that catch an agent's mistakes before it is given more speed.",
+      "fact": "Simon Willison highlights Jacob Sansbury's account of Spawn, a multiplayer game whose world is edited by an in-game agent and whose code is built by autonomous agents that deploy to production every hour. The team says it spends more than $3 million a month on tokens and treats an hour without a release as a top-severity incident.",
+      "src": [
+        {
+          "t": "Simon Willison: Building a multiplayer game world with autonomous Fable-class models",
+          "u": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
+        }
+      ],
+      "title": "A company that ships with autonomous agents every hour, at $3 million a month in tokens"
+    },
+    "austrian": {
+      "claude": "The rebound fits the Austrian point that state intervention destroys output, but it is a recovery to well below the three million barrels a day Venezuela pumped before nationalisation and decay. Decades of underinvestment do not reverse in ten months, and today's output depends on Washington's goodwill.",
+      "fact": "Venezuela's oil output reached about 1.25 million barrels a day in a report to acting President Delcy Rodríguez last week, up from about 830,000 in December, after Nicolás Maduro's removal in January eased sanctions and let diluent imports resume.",
+      "opinion": [
+        {
+          "text": "sanctions and blockades, not reserves, set production limits, and Venezuela shows how much untapped hydrocarbon potential the Western Hemisphere holds once political barriers fall.",
+          "who": "Doomberg"
+        }
+      ],
+      "src": [
+        {
+          "t": "Doomberg: Gating Functions",
+          "u": "https://newsletter.doomberg.com/p/gating-functions"
+        }
+      ],
+      "title": "Doomberg on Venezuela: politics, not geology, decides how much oil flows"
+    },
+    "mainstream": {
+      "claude": "The fee was designed for Shein and Temu, yet it hits Swiss shops exactly like Chinese ones. That shows how thin the free trade agreement is once Brussels changes customs rules unilaterally, an argument both sides of the Swiss EU-treaty debate will use.",
+      "fact": "From 1 November the EU charges a €2 handling fee on parcels from non-EU countries, on top of the €3 levy on consignments worth up to €150 introduced in July; it is charged per product category, so 20 T-shirts cost €2 but T-shirts, caps and an umbrella cost €6. Platforms pay, not consumers, and Swiss Post says the fee applies regardless of the Swiss–EU free trade agreement. Small-parcel imports into the EU have fallen 64% since the July levy, AFP reports.",
+      "opinion": [
+        {
+          "text": "the impact on Swiss retail as a whole is minimal because it is mostly domestic, but niche shops with many small EU deliveries will feel it.",
+          "who": "Patrick Erny, Swiss Retail Federation"
+        }
+      ],
+      "src": [
+        {
+          "t": "swissinfo: From 1 November, parcels from Switzerland will be subject to new EU customs duties",
+          "u": "https://www.swissinfo.ch/eng/swiss-politics/from-1-november-parcels-from-switzerland-will-be-subject-to-new-eu-customs-duties/92306367"
+        }
+      ],
+      "title": "From tomorrow, every Swiss parcel into the EU carries a new €2 fee"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+    },
+    {
+      "t": "EA WorldView",
+      "u": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4/"
+    },
+    {
+      "t": "Euronews",
+      "u": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit"
+    },
+    {
+      "t": "Times of Israel (31 Oct live blog)",
+      "u": "https://www.timesofisrael.com/liveblog-october-31-2026/"
+    },
+    {
+      "t": "CBS News",
+      "u": "https://www.cbsnews.com/news/binance-hack-north-korea/"
+    },
+    {
+      "t": "Semafor Technology (30 Oct)",
+      "u": "https://semafor.com/s/xa6wnte9vo"
+    },
+    {
+      "t": "swissinfo",
+      "u": "https://www.swissinfo.ch/eng/swiss-politics/from-1-november-parcels-from-switzerland-will-be-subject-to-new-eu-customs-duties/92306367"
+    },
+    {
+      "t": "Simon Willison",
+      "u": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
+    },
+    {
+      "t": "Doomberg",
+      "u": "https://newsletter.doomberg.com/p/gating-functions"
+    }
+  ],
+  "thread": {
+    "text": "Gulf officials say US strikes could come from 4 November while Iran sends a delegation to Doha and calls the US outreach a positive step.",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "Threats and talks in the same week are a pressure tactic, not a contradiction. The date is the tell: striking after the vote removes the domestic cost of a fuel-price spike before the election, so the next four days of Doha diplomacy matter more than the rhetoric.",
+      "fact": "Three senior Gulf officials say the Trump camp is warning of brief but intense strikes on Iran as early as 4 November, the day after the US midterms; the White House declined to comment. At the same time an Iranian delegation travelled to Doha, a day after Qatari mediators were in Tehran, and Foreign Minister Abbas Araghchi called the US outreach, a letter from Vice President JD Vance, a positive step while saying Iran sees no need to meet the Americans yet. Attacks on ships in the Strait of Hormuz and nearby waters in October were more than double September's total, and Brent is still above $114.",
+      "opinion": [
+        {
+          "text": "Iran has cut Qatar's proposed five-day timetable for reopening Hormuz to two days, but wants sanctions lifted, US forces reduced and frozen funds released first.",
+          "who": "Abbas Araghchi, Iran's foreign minister (to Al Jazeera)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Al Jazeera: Iran FM says US outreach a 'positive step' as delegation in Qatar for talks",
+          "u": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+        },
+        {
+          "t": "EA WorldView: US War on Iran, Day 247 – Trump camp threatens attacks on November 4",
+          "u": "https://eaworldview.com/2026/10/us-war-on-iran-trump-threatens-strikes-november-4/"
+        },
+        {
+          "t": "The National: Attacks on ships transiting Hormuz in October highest since start of war",
+          "u": "https://www.thenationalnews.com/news/mena/2026/10/31/live-iran-war-strait-of-hormuz/"
+        }
+      ],
+      "title": "Washington warns of Iran strikes from 4 November while envoys gather in Doha",
+      "why": "A new round of US strikes would hit oil, shipping and Gulf stability the day after the midterms."
+    },
+    {
+      "claude": "Falling turnout is not the same as fading anger: the demands have widened from schools to housing and Macron himself. Combined with Thursday's contraction, Paris now has less room for both spending cuts and concessions.",
+      "fact": "France's interior ministry counted about 320,000 protesters nationwide on Saturday, 70,000 of them in Paris, down from 410,000 on 24 October and 550,000 on 17 October. The movement began as a school-student protest over run-down buildings, teacher shortages and university admissions, and unions angry at President Macron have since joined. Police used tear gas in Lyon, more than 40 Paris metro stations were closed, and unaccompanied minors face a 9 pm curfew around the Champs-Élysées this weekend.",
+      "src": [
+        {
+          "t": "Euronews: France's third weekend of social protests sees lower turnout and early clashes",
+          "u": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit"
+        },
+        {
+          "t": "France 24: Interior ministry says some 320,000 people protest across France",
+          "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
+        }
+      ],
+      "title": "France's third protest weekend: 320,000 on the streets, fewer than before, clashes in Paris and Lyon",
+      "why": "The unrest adds political risk to an economy that just shrank."
+    },
+    {
+      "claude": "There is a precedent: in March 2024 a US warning preceded the Crocus City Hall attack, and the Kremlin dismissed it. That the FSB now credits Washington publicly says as much about the state of US–Russian relations as about the threat.",
+      "fact": "The US Embassy in Moscow warned of a credible threat of a mass-casualty attack at the Tsaritsyno Museum Reserve, and Russia's FSB said the United States had passed the warning to Russian services. The warning comes as Washington presses Kyiv and European allies toward a truce with Moscow.",
+      "src": [
+        {
+          "t": "Times of Israel: Russia's FSB says US tipped it off about Moscow attack plot",
+          "u": "https://www.timesofisrael.com/liveblog_entry/russias-fsb-says-us-tipped-it-off-about-moscow-attack-plot"
+        },
+        {
+          "t": "LBC: US Embassy in Moscow issues warning over threat of 'mass casualty terror attack'",
+          "u": "https://www.lbc.co.uk/article/us-embassy-moscow-terror-attack-5HjdkjG_2/"
+        }
+      ],
+      "title": "US tips off Russia about a mass-casualty attack plot at a Moscow museum",
+      "why": "Rare security cooperation between Washington and Moscow in the middle of truce talks over Ukraine."
+    },
+    {
+      "claude": "The arithmetic favours stalemate: Eisenkot can reach 61 only with Arab-party support, which part of his own bloc rejects, and Netanyahu needs defectors. A fresh election is a real possibility, which would keep Israel's war policy in caretaker hands.",
+      "fact": "With all votes from Tuesday's election counted, Prime Minister Benjamin Netanyahu's bloc has 53 of 120 seats, Gadi Eisenkot's bloc 48 and the Arab parties 19, so no camp reaches the 61 needed. On Saturday opposition leaders Yair Lapid and Eisenkot met to coordinate their next moves, and Avigdor Liberman said he has no interest in becoming Knesset speaker.",
+      "src": [
+        {
+          "t": "Times of Israel: With all votes counted, Netanyahu's bloc has 53 seats, Eisenkot's 48, Arab parties 19",
+          "u": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+        },
+        {
+          "t": "Al Jazeera: Israel election result shows no overall majority as vote count complete",
+          "u": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete"
+        }
+      ],
+      "title": "Israel's final count: Netanyahu 53 seats, Eisenkot 48, neither can govern without the Arab parties",
+      "why": "A hung Knesset during a regional war means weeks of coalition bargaining."
+    },
+    {
+      "fact": "Blockchain analysts TRM Labs said with high confidence that North Korea's TraderTraitor unit, which the FBI tied to last year's $1.5 billion Bybit theft, took about $6.36 billion from Binance wallets on ten blockchains, most of it within 20 minutes. Binance says about $3 billion has been frozen, withdrawals should resume within a day or two, and it will cover all customer losses.",
+      "opinion": [
+        {
+          "text": "this is the kind of hack cyber experts warn about in the AI era, when one open door is enough and AI agents get access to ever more systems.",
+          "who": "J.D. Capelouto, Semafor Technology"
+        }
+      ],
+      "src": [
+        {
+          "t": "CBS News: $6.3 billion Binance hack was likely work of North Korea",
+          "u": "https://www.cbsnews.com/news/binance-hack-north-korea/"
+        },
+        {
+          "t": "TechCrunch: North Korean hackers blamed for stealing record $6.3B in Binance breach",
+          "u": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+        },
+        {
+          "t": "Semafor Technology: Another massive crypto hack",
+          "u": "https://semafor.com/s/s4ccquaqj9"
+        }
+      ],
+      "title": "Investigators blame North Korea for the $6.3 billion Binance hack; $3 billion frozen",
+      "why": "The record theft now has a state actor behind it, which raises the stakes for exchanges and regulators."
+    },
+    {
+      "claude": "The SMI's gain is the other side of the same trade: Nestlé, Roche and Novartis offer earnings that do not depend on AI spending paying off. If Tuesday's midterms or a new Iran strike add risk, that rotation has room to run.",
+      "fact": "The Nasdaq ended the week 2.0% lower and the S&P 500 0.6% lower after Friday's 2.9% and 1.8% drops, while the SMI gained 2.4%. Gold fell 3.1% on the week to about $3,884 an ounce, the US 10-year yield closed at 4.93%, and the dollar ended at 0.823 francs. Alphabet's 12% fall came even as Gemini passed 1 billion users and Google posted a second quarter of negative free cash flow from record AI spending.",
+      "opinion": [
+        {
+          "text": "record capex is the short-term cost of a long-term AI bet; Google has consumers on the hook and will find ways to make money from them.",
+          "who": "Jake Angelo, Semafor Technology"
+        }
+      ],
+      "src": [
+        {
+          "t": "Market data: The Signal-Letter markets table (Friday close)",
+          "u": "https://claude.ai/artifact/5AbdRc3ddSCTrxJMX63V24"
+        },
+        {
+          "t": "Semafor Technology: Google's AI bet is a long-term play",
+          "u": "https://semafor.com/s/4v7n6z8qcz"
+        }
+      ],
+      "title": "A week of AI repricing: Nasdaq down 2%, Swiss stocks up 2.4%, gold off 3%",
+      "why": "Money rotated out of US tech into defensive markets like Switzerland."
+    }
+  ]
+}

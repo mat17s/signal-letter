@@ -8,6 +8,14 @@
     "who": "Naeem Aslam"
   },
   {
+    "check": "2028-10-31",
+    "claim": "Bitcoin above $200,000 in a couple of years; the bear market is behind us.",
+    "made": "2026-10-28",
+    "source": "The Bitcoin Layer",
+    "status": "open",
+    "who": "Nik Bhatia"
+  },
+  {
     "check": "2027-01-31",
     "claim": "The four-year cycle puts Bitcoin's low around the week of 18 Oct 2026.",
     "made": "2026-10-18",
@@ -26,12 +34,28 @@
     "who": "Ray Dalio"
   },
   {
+    "check": "2026-12-17",
+    "claim": "About an 85% chance the Fed hikes in December.",
+    "made": "2026-10-30",
+    "source": "Rio Times, 30 Oct",
+    "status": "open",
+    "who": "Fed funds futures"
+  },
+  {
     "check": "2030-12-31",
     "claim": "Gold at $8,900 by 2030 looks realistic.",
     "made": "2026-09-24",
     "source": "In Gold We Trust / Kitco",
     "status": "open",
     "who": "Ronald Stoeferle"
+  },
+  {
+    "check": "2028-02-28",
+    "claim": "PC sales fall about 10% in 2027 because of AI-driven memory shortages.",
+    "made": "2026-10-29",
+    "source": "Q3 results, via Semafor",
+    "status": "open",
+    "who": "Intel"
   },
   {
     "check": "2036-12-31",
@@ -45,8 +69,9 @@
     "check": "2026-10-28",
     "claim": "About a 1-in-3 chance the Fed hikes on 28 October (priced 14 Oct).",
     "made": "2026-10-14",
+    "result": "Fed held at 3.75–4.00% on 28 Oct, as the market's two-in-three lean expected; two officials dissented for a hike.",
     "source": "via Simply Bitcoin",
-    "status": "open",
+    "status": "right",
     "who": "Kalshi traders"
   },
   {
@@ -56,6 +81,14 @@
     "source": "Bloomberg, via Simply Bitcoin",
     "status": "open",
     "who": "Michael Saylor"
+  },
+  {
+    "check": "2026-11-10",
+    "claim": "Democrats have a 76% chance of winning the Senate in the 3 Nov midterms (The Economist's model: 54%).",
+    "made": "2026-10-30",
+    "source": "via Semafor Americana",
+    "status": "open",
+    "who": "Nate Silver"
   },
   {
     "check": "2027-04-30",

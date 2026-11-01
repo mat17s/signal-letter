@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-01",
+  "label": "Sunday, 1 November 2026",
+  "btc": {
+    "text": ""
+  },
+  "top": [
+    {
+      "title": "Iran talks run into a third day in Doha as Khamenei orders forces to be ready",
+      "why": "Whether these talks hold decides if the war escalates right after Tuesday's US vote.",
+      "fact": "Iranian negotiators were in Doha on Sunday for a third straight day of talks with Qatari mediators on ending the eight-month US-Israeli war on Iran, after more than 12 hours of Iran–Qatar talks in Tehran on Friday that were coordinated with Washington. Secretary of State Marco Rubio said President Trump has not decided on new strikes and prefers a diplomatic outcome, and Trump has said there will be no new attacks before the 3 November vote. Supreme Leader Mojtaba Khamenei ordered the armed forces on Saturday to be ready to answer any attack, and security chief Mohsen Rezaei said Tehran is debating whether to drop its ban on nuclear weapons if fighting resumes, though no decision has been taken.",
+      "unc": "Iran's Revolutionary Guards say four oil tankers, one a supertanker with more than two million barrels, hit mines near the Omani coast after using unauthorised routes; Reuters could not verify the claim.",
+      "claude": "Both sides are building leverage for the week after the vote: Washington by keeping strikes on the table, Tehran by floating the nuclear question and the mines. The nuclear remark is the more serious signal, because once a ban is publicly in doubt it is hard to restore, whatever Doha produces.",
+      "src": [
+        {
+          "t": "Reuters via SRN News: Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
+          "u": "https://srnnews.com/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says/"
+        },
+        {
+          "t": "Reuters via GV Wire: Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+          "u": "https://gvwire.com/2026/11/01/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms/"
+        },
+        {
+          "t": "GeopoliticsUnplugged: Iran claims 4 oil tankers hit mines as leader threatens wider war",
+          "u": "https://geopoliticsunplugged.substack.com/p/iran-claims-4-oil-tankers-hit-mines"
+        }
+      ]
+    },
+    {
+      "title": "Two days before the midterms, Democrats lead the generic ballot by almost 9 points",
+      "why": "Control of Congress decides how much room Trump has for the Iran war, tariffs and spending in his last two years.",
+      "fact": "Yahoo News' polling roundup puts Democrats nearly 9 points ahead on the generic ballot; they need a net gain of three seats for the House and four for the Senate, where they lead in Maine, Michigan, Georgia and North Carolina and are close in Ohio and Kansas. Trump's net approval stands at about −22.6 in the Silver Bulletin average. On the campaign trail he has tied government help to the vote, telling Camp Lejeune victims there is no compensation money if Republicans lose and saying in Kansas he would not allow year-round E15 ethanol sales if Democrat Adam Hamilton wins, the AP reports.",
+      "opinion": [
+        {
+          "who": "Senator Jon Ossoff (Democrat, Georgia)",
+          "text": "tying federal help to votes is a losing strategy for the president."
+        }
+      ],
+      "claude": "Polls missed Trump voters in 2016 and 2020, so a 9-point lead is less safe than it looks. The bigger story may be the Senate: if Democrats win it, Trump's nominees and any war-powers vote get much harder.",
+      "src": [
+        {
+          "t": "Yahoo News: The 2026 midterms are just 3 days away. Here's what the latest polls say",
+          "u": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html"
+        },
+        {
+          "t": "AP: Vote Republican, or else: How Trump is dangling government help on the campaign trail",
+          "u": "https://www.yahoo.com/news/politics/articles/vote-republican-else-trump-dangling-040330628.html"
+        }
+      ]
+    },
+    {
+      "title": "US approves $2.1 billion sale of 500 Patriot interceptors to Ukraine, paid for by Europe and Canada",
+      "why": "Air defence is Ukraine's scarcest resource as Russia hits the power grid before winter.",
+      "fact": "The State Department approved the sale of 500 PAC-3 Patriot missiles worth $2.1 billion, funded by Canada, Germany and Norway and by the EU's Ukraine Support Loan, with no US money involved; Lockheed Martin is the main contractor. President Zelensky warned that deliveries could take several years, since only about 600 Patriot missiles are produced each year. Russian strikes this week cut power to about 200,000 households in the Dnipro region and 80,000 around Kyiv.",
+      "claude": "The deal shows the new model of Western support: Washington sells, Europe pays. The bottleneck is no longer money or political will but factory output, which is why Europe's own missile production matters more than any single approval.",
+      "src": [
+        {
+          "t": "BBC: US approves sale of 500 Patriot missiles to Ukraine",
+          "u": "https://www.bbc.com/news/articles/c3vgxznlx7jzo"
+        }
+      ]
+    },
+    {
+      "title": "Alaska asks a judge to throw out Trump administration's bid to set aside Senate ballots",
+      "why": "A federal attempt to block certification of a Senate race would be a first and could decide control of the Senate.",
+      "fact": "Alaska's Republican-led state government asked a federal judge on Saturday to dismiss with prejudice a Justice Department suit, filed on 22 October, that seeks to stop certification of the Senate race if Republican Senator Dan S. Sullivan loses. The department alleges that Democrat Mary Peltola's campaign helped recruit a retired teacher also named Dan Sullivan to confuse voters, which Peltola denies; the state called the demand to segregate ballots impossible. A ruling is expected before Tuesday.",
+      "claude": "That a Republican state government is resisting a Republican administration matters more than the case itself: it shows election officials are guarding the certification process regardless of party, which is reassuring for the days after Tuesday.",
+      "src": [
+        {
+          "t": "NBC News: Alaska officials ask judge to deny Trump administration's 'impossible' demand to set aside Senate ballots",
+          "u": "https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765"
+        }
+      ]
+    },
+    {
+      "title": "Hackers steal data of about 41,000 students and teachers in canton Vaud",
+      "why": "Swiss public bodies keep being hit, and this time the victims are mostly teenagers.",
+      "claude": "Vaud, Neuchâtel and several communes have been hit in recent years. Shared platforms are efficient, but one weak point exposes a whole canton's schools; parents should expect phishing that uses the stolen details.",
+      "src": [
+        {
+          "t": "swissinfo: Data of 40,000 Swiss students and teachers stolen",
+          "u": "https://www.swissinfo.ch/eng/latest-news/"
+        }
+      ],
+      "unc": "A cyberattack on the IT support platform used by post-compulsory schools in canton Vaud exposed the data of about 3,500 teachers and 38,000 students, swissinfo reports."
+    },
+    {
+      "title": "FBI blames North Korea for the record $6.3 billion Binance theft",
+      "why": "Official attribution turns a crypto hack into a sanctions and national-security case.",
+      "fact": "The FBI said on Saturday that North Korea's TraderTraitor hacking unit was behind the theft of about $6.3 billion from Binance, the largest crypto theft on record, confirming what blockchain analysts TRM Labs found on Friday. The FBI, Secret Service and IRS investigators are tracking the funds, which were mostly converted into Ether. Binance said it has covered about 90% of the loss, expects to restore withdrawals by Sunday and will absorb the full impact for customers.",
+      "claude": "TraderTraitor was also behind the $1.5 billion Bybit theft last year, so Pyongyang has now taken close to $8 billion from two exchanges in under two years. With the money moving into Ether and decentralised exchanges, the next test is whether swap services cooperate fast enough to freeze more of it.",
+      "src": [
+        {
+          "t": "Investing.com via Yahoo News: FBI links record $6.3 billion Binance crypto theft to North Korea",
+          "u": "https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353"
+        },
+        {
+          "t": "Euronews: FBI blames North Korea for $6.3 billion Binance crypto hack (1 Nov bulletin)",
+          "u": "https://www.euronews.com/2026/11/01/latest-news-bulletin-november-1st-2026-midday"
+        }
+      ]
+    }
+  ],
+  "reads": {
+    "mainstream": {
+      "title": "Schweizerhalle, 40 years on: the night the Rhine turned red",
+      "fact": "On 1 November 1986 a fire at a Sandoz chemical warehouse in Schweizerhalle near Basel sent tonnes of pesticides and mercury compounds, washed out with the firefighting water, into the Rhine, killing fish and eels for hundreds of kilometres downstream. swissinfo marks the anniversary of one of the worst environmental disasters in Swiss history; the accident led to the Seveso-style major-accident ordinance and the international Rhine Action Programme, after which salmon slowly returned.",
+      "claude": "Schweizerhalle is a rare case where a disaster produced lasting, cross-border fixes that worked. The lesson for today's chemical and battery industries along the Rhine is that retention basins and reporting rules are cheap compared with the cleanup.",
+      "src": [
+        {
+          "t": "swissinfo: Schweizerhalle chemical disaster remembered 40 years on",
+          "u": "https://www.swissinfo.ch/eng/latest-news/"
+        }
+      ]
+    },
+    "ai": {
+      "title": "How one share link could have taken over a ChatGPT account",
+      "fact": "Simon Willison highlights a write-up by Parameter Labs showing how ChatGPT's sandbox for HTML previews could be broken: a math-keyboard component inserted raw HTML from a message, and a YouTube embed endpoint let JavaScript slip past OpenAI's security policy. A crafted share link could then read private data from another signed-in user. OpenAI fixed the bug and paid a $5,000 bounty.",
+      "claude": "Every AI assistant that renders code, previews or apps inside the chat now has a browser-sized attack surface. The practical rule for any office, including architecture firms sharing chats: treat a shared AI link like an email attachment from a stranger, and keep client data out of tools that render untrusted content.",
+      "src": [
+        {
+          "t": "Simon Willison: How We Took Over ChatGPT Accounts",
+          "u": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+        }
+      ]
+    },
+    "austrian": {
+      "title": "BlingBling: if the world were ending he would buy chickens; until then, stocks",
+      "fact": "In his October report the German Bitcoin writer behind BlingBling says the money supply grows by 6 to 8% a year, so whoever holds no scarce assets gets poorer, yet his own portfolio has become steadily more stock-heavy. He cites global poverty falling from about 60% in 1950 to about 10% today.",
+      "opinion": [
+        {
+          "who": "BlingBling (Substack)",
+          "text": "gold and Bitcoin remain building blocks against monetary expansion, but stocks are the best way to share in humanity's endless problem-solving, and only someone expecting collapse should hold nothing but gold and Bitcoin."
+        }
+      ],
+      "claude": "This is the Austrian case at its most balanced: sound money as insurance, capitalism as the engine. The weak spot is the 6 to 8% figure: money growth is not inflation one-for-one, and Swiss M3 has grown far less, so a CHF saver's maths differs from a euro saver's.",
+      "src": [
+        {
+          "t": "BlingBling: Wenn die Welt untergeht, kaufe ich Hühner",
+          "u": "https://blingbling.substack.com/p/wenn-die-welt-untergeht-kaufe-ich"
+        }
+      ]
+    }
+  },
+  "number": {
+    "value": "600",
+    "text": "Patriot interceptors the US produces a year, against the 500 just approved for Ukraine alone (BBC)."
+  },
+  "podcast": {
+    "show": "Lex Fridman Podcast",
+    "episode": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+    "why": "Three mathematicians on what happens to proof and research when AI starts cracking open problems; a calm counterweight to this week's AI market panic.",
+    "url": "https://lexfridman.com/math-ai-crisis/"
+  },
+  "thread": {
+    "title": "Iran war",
+    "text": "Talks move to a third day in Doha; Khamenei puts forces on alert and Tehran says it is debating its nuclear-weapons ban."
+  },
+  "sources": [
+    {
+      "t": "Reuters via SRN News",
+      "u": "https://srnnews.com/iranian-negotiators-in-doha-to-continue-talks-to-end-the-us-iran-war-official-says/"
+    },
+    {
+      "t": "Reuters via GV Wire",
+      "u": "https://gvwire.com/2026/11/01/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms/"
+    },
+    {
+      "t": "Yahoo News",
+      "u": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html"
+    },
+    {
+      "t": "AP",
+      "u": "https://www.yahoo.com/news/politics/articles/vote-republican-else-trump-dangling-040330628.html"
+    },
+    {
+      "t": "BBC",
+      "u": "https://www.bbc.com/news/articles/c3vgxznlx7jzo"
+    },
+    {
+      "t": "NBC News",
+      "u": "https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765"
+    },
+    {
+      "t": "swissinfo",
+      "u": "https://www.swissinfo.ch/eng/latest-news/"
+    },
+    {
+      "t": "Simon Willison",
+      "u": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/"
+    },
+    {
+      "t": "BlingBling",
+      "u": "https://blingbling.substack.com/p/wenn-die-welt-untergeht-kaufe-ich"
+    },
+    {
+      "t": "Lex Fridman Podcast",
+      "u": "https://lexfridman.com/math-ai-crisis/"
+    }
+  ],
+  "pdf": "daily/2026-11-01.pdf"
+}

@@ -9,12 +9,17 @@
       {
         "date": "2026-10-27",
         "text": "Anthropic's public prospectus (revenue up about 14× in H1, $112bn cash) lifted the Nasdaq over 1% before Big Tech earnings."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: Anthropic files S-1 (ticker ANT, H1 revenue $16.3bn); Alphabet loses about $500bn in a day, Intel −20%+; Nasdaq −2.0% on the week, SMI +2.4%.",
+        "week": "2026-W44"
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-10-27"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -22,12 +27,17 @@
         "date": "2026-10-25",
         "text": "SVP deadline closed: seven candidates, Aeschi undecided. Vote on 9 December.",
         "week": "2026-W43"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: SVP hearings with eight candidates; committee proposal by 13 Nov, group vote 20 Nov; Greens critical of Amaudruz.",
+        "week": "2026-W44"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bundesrat: Parmelin's successor",
-    "updated": "2026-10-25"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -43,12 +53,17 @@
         "date": "2026-10-25",
         "text": "Bond rally: 10-year back below 5% as money leaves AI stocks. Fed decides 28 Oct.",
         "week": "2026-W43"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "28 Oct: Fed holds at 3.75–4.00% with two dissents for a hike (Cook, Hammack); futures price a December hike at about 85%. ECB holds at 2.5%; Lagarde to leave 7 Feb 2027.",
+        "week": "2026-W44"
       }
     ],
     "region": "USA",
     "status": "active",
     "title": "Fed, rates and the bond market",
-    "updated": "2026-10-25"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -60,12 +75,17 @@
         "date": "2026-10-25",
         "text": "10-year yield briefly above 5%, spread to Bunds near 160 bp; Moody's holds the rating.",
         "week": "2026-W43"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: Q3 GDP contracts; third protest weekend draws about 320,000, down from 550,000.",
+        "week": "2026-W44"
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "France: unrest and debt",
-    "updated": "2026-10-25"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -97,12 +117,42 @@
       {
         "date": "2026-10-29",
         "text": "Washington writes to Tehran to restart truce talks and Gulf states push a deal to reopen Hormuz; oil falls, but the US says strikes resume if talks fail."
+      },
+      {
+        "date": "2026-10-31",
+        "text": "Gulf officials say US strikes could come from 4 November; Iran sends a delegation to Doha and calls the US outreach a positive step; October ship attacks in and around Hormuz more than double September's."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: Saudi, Pakistani and Turkish envoys in Tehran; Vance letter restarts truce talks; Iranian delegation in Doha, while Gulf officials say US strikes could come from 4 Nov.",
+        "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Talks move to a third day in Doha; Khamenei puts forces on alert and Tehran says it is debating its nuclear-weapons ban."
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-10-29"
+    "updated": "2026-11-01"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-10-27",
+        "text": "Israel votes; record turnout of about 78%."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Final count: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties 19; nobody reaches 61. Netanyahu stays caretaker with war powers.",
+        "week": "2026-W44"
+      }
+    ],
+    "region": "Middle East",
+    "status": "active",
+    "title": "Israel: election and coalition",
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -114,12 +164,17 @@
         "date": "2026-10-25",
         "text": "Final list due 11 Nov, effective after 30 Nov; JPMorgan estimates ~$2.8bn of forced selling of the stock.",
         "week": "2026-W43"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: Strategy buys no Bitcoin 19–25 Oct, holds 848,517 BTC, buys back $205m of STRC; MSCI decision date not confirmed this week.",
+        "week": "2026-W44"
       }
     ],
     "region": "Bitcoin",
     "status": "active",
     "title": "Strategy vs MSCI",
-    "updated": "2026-10-25"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -127,12 +182,17 @@
         "date": "2026-10-25",
         "text": "FINMA approves BBIT, the first retail spot Bitcoin fund; SIX listing in November.",
         "week": "2026-W43"
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: BBIT listing on SIX still expected in November; no date announced.",
+        "week": "2026-W44"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bitcoin in Switzerland",
-    "updated": "2026-10-25"
+    "updated": "2026-11-01"
   },
   {
     "entries": [
@@ -144,11 +204,16 @@
       {
         "date": "2026-10-30",
         "text": "Kyiv pauses refinery strikes at US request and the Oleshky local ceasefire holds a third day, while Russia kills 14 in Dnipro."
+      },
+      {
+        "date": "2026-11-01",
+        "text": "Week 44: Finland and Norway call Putin; Oleshky local ceasefire holds; Kyiv reportedly pauses refinery strikes at US request; 14 killed in Dnipro.",
+        "week": "2026-W44"
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "Ukraine: peace talks",
-    "updated": "2026-10-30"
+    "updated": "2026-11-01"
   }
 ]
