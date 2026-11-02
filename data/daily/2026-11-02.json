@@ -1,0 +1,258 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-02",
+  "label": "Monday, 2 November 2026",
+  "number": {
+    "text": "People India lifted out of extreme poverty between 2011 and 2023, by the World Bank's $4.20-a-day line (via International Intrigue).",
+    "value": "496 million"
+  },
+  "pdf": "daily/2026-11-02.pdf",
+  "podcast": {
+    "episode": "Nate Silver on the midterms and prediction markets",
+    "show": "Semafor Mixed Signals",
+    "url": "https://semafor.com/s/3b1573bk04",
+    "why": "On the eve of the vote, the forecaster explains why Republican internal polls treat states like Nebraska as toss-ups and why prediction markets missed in Brazil, Israel and Serbia."
+  },
+  "reads": {
+    "ai": {
+      "claude": "A new name does not change the power bill or the noise voters object to. Deals that last will bring their own power and pay the town directly; Swiss communes with their referendums will face the same test.",
+      "fact": "About 20 US communities vote on Tuesday on bans or pauses for data centers, Politico reports, and some Democratic House candidates want a federal freeze. Axios reports that OpenAI is preparing a post-election push to call the sites \"AI compute campuses\", citing jobs at a project in Pike County, Ohio, and backing state bills that give locals a say.",
+      "src": [
+        {
+          "t": "The Rundown AI: Data centers hit the ballot as OpenAI plots a rebrand",
+          "u": "https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls"
+        },
+        {
+          "t": "Axios: OpenAI's post-midterm policy plan",
+          "u": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy"
+        },
+        {
+          "t": "Politico: Data centers on the ballot",
+          "u": "https://www.politico.com/news/2026/10/31/trumps-data-centers-ballots-midterm-test-01142170"
+        }
+      ],
+      "title": "Data centers are on the ballot, and OpenAI wants to rename them"
+    },
+    "austrian": {
+      "claude": "The freeze cuts both ways: it is why some of the loot was recovered, and it is the same switch a government can flip on any holder. That is the Austrian point. The weak spot in the argument is that 5% after a hack proves little about a bottom; bitcoin is still about 3.6% lower on the week.",
+      "fact": "Of the $6.3 billion stolen from Binance, Tether froze about $1.77 billion in USDT and Circle about $825 million in USDC, while the 18,270 stolen bitcoin could not be frozen by anyone, Bitcoin News notes. Bitcoin fell about 5% on the news.",
+      "opinion": [
+        {
+          "text": "the small drop after the biggest hack ever suggests the market is running out of sellers, and no single custodian should hold your coins.",
+          "who": "Bam, Bitcoin News (Substack)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Bitcoin News: Bitcoin Just Survived a $6.3 Billion Nightmare",
+          "u": "https://bitcoinnewscom.substack.com/p/bitcoin-just-survived-a-63-billion"
+        }
+      ],
+      "title": "After the Binance hack: stablecoins were frozen, bitcoin could not be"
+    },
+    "mainstream": {
+      "claude": "The risk runs the other way too: a slump could push ANC factions towards the nationalise-the-mines line of the MK Party and the EFF, which matters more to investors than the city maps.",
+      "fact": "The African National Congress is on course to lose most of South Africa's major cities in Wednesday's local elections, Semafor Africa reports, with its support now concentrated in small towns and rural provinces. The vote decides who runs more than 250 municipalities, which provide water, sanitation and refuse collection, and is the ANC's first nationwide test since it had to form a coalition in 2024.",
+      "opinion": [
+        {
+          "text": "a poor result could force the ANC to treat the Democratic Alliance as an equal power in policy-making.",
+          "who": "William Gumede, political analyst (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Africa: ANC set to lose S. Africa cities in election",
+          "u": "https://semafor.com/s/r8f72rs9qz"
+        }
+      ],
+      "title": "South Africa's ANC heads for defeat in the big cities"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (2 Nov)",
+      "u": "https://semafor.com/s/2olukyf7t2"
+    },
+    {
+      "t": "Semafor Flagship Asia (2 Nov)",
+      "u": "https://semafor.com/s/wpemw73uw1"
+    },
+    {
+      "t": "Semafor Africa (2 Nov)",
+      "u": "https://semafor.com/s/8910sav2rd"
+    },
+    {
+      "t": "International Intrigue",
+      "u": "https://archives.internationalintrigue.io/p/a-mid-flight-presidential-u-turn"
+    },
+    {
+      "t": "StockTitan",
+      "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+    },
+    {
+      "t": "Yahoo Finance",
+      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+      "t": "Euronews",
+      "u": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations"
+    },
+    {
+      "t": "Middle East Eye",
+      "u": "https://www.middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto"
+    },
+    {
+      "t": "The Rundown AI",
+      "u": "https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls"
+    },
+    {
+      "t": "Bitcoin News",
+      "u": "https://bitcoinnewscom.substack.com/p/bitcoin-just-survived-a-63-billion"
+    },
+    {
+      "t": "finanzen.ch (SMI close)",
+      "u": "https://www.finanzen.ch/nachrichten/aktien/aktien-schweiz-schluss-smi-von-pharmaschwergewichten-gebremst-1036701766"
+    }
+  ],
+  "thread": {
+    "text": "Oil falls about 6% as Washington and Tehran talk up diplomacy, but Trump says one or two targets remain and Gulf states brace for fighting after the midterms.",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "Markets are pricing words, not a deal: Goldman raising its forecast on the day the price fell shows how fragile the drop is. The real test comes once Trump no longer needs calm before a vote.",
+      "fact": "Brent crude fell about 6% on Monday to around $106 a barrel after Secretary of State Marco Rubio said President Trump would like to end the Iran war diplomatically and Iranian leaders said they were weighing a proposal that would soon reopen the Strait of Hormuz. Qatar-mediated talks continued, but Trump also said Washington still has one or two targets in Iran to take care of, and at a Gulf summit in Bahrain regional states voiced fear of renewed fighting after the midterms. Goldman Sachs raised its average oil price forecasts for this year and next.",
+      "opinion": [
+        {
+          "text": "Iran has no election to worry about, so it can absorb pressure, play for time and frustrate Washington's push for a quick deal.",
+          "who": "Bloomberg (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Oil prices down on Gulf hopes",
+          "u": "https://semafor.com/s/2olukyf7t2"
+        },
+        {
+          "t": "Semafor Flagship: Escalation of war looms over Iran talks",
+          "u": "https://semafor.com/s/wpemw73uw1"
+        },
+        {
+          "t": "StockTitan (CNBC live): Stocks rise as oil tumbles, November 2, 2026",
+          "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+        }
+      ],
+      "title": "Oil drops about 6% as Washington and Tehran both talk up a diplomatic end to the war",
+      "unc": "Later reports said Iran's supreme leader gave the government some authority to negotiate; no official confirmation yet.",
+      "why": "Cheaper oil eases the inflation squeeze, but only if the talks survive Tuesday's US vote."
+    },
+    {
+      "claude": "Polls missed Republican voters in 2016 and 2020, so close races are not settled. Watch the Senate: it confirms nominees and would carry any war-powers vote.",
+      "fact": "Final national polling averages put Democrats seven to nine points ahead, and forecasters expect them to flip the House, with tighter margins in the Senate, the BBC reports. In Michigan, a must-win Senate seat, a Democratic lawmaker endorsed the Republican candidate, exposing what Semafor's politics team called an embarrassing schism between progressives and centrists. Republicans are defending a Senate majority that Semafor says Trump's own choices on tariffs and the Iran war have made more vulnerable.",
+      "opinion": [
+        {
+          "text": "they plan to slow-walk trade talks for the rest of Trump's term, hoping a Democratic Congress strengthens their hand.",
+          "who": "European officials (to Politico, via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "BBC: What the final polls say before the US midterms (via International Intrigue)",
+          "u": "https://www.bbc.com/news/articles/cmg47p3edv4do"
+        },
+        {
+          "t": "Semafor Flagship: US parties' internal challenges",
+          "u": "https://semafor.com/s/be607l2wc7"
+        },
+        {
+          "t": "Semafor Flagship: Midterms' global fallout",
+          "u": "https://semafor.com/s/6b0o93mj67"
+        }
+      ],
+      "title": "US midterms tomorrow: Democrats lead national polls by 7 to 9 points",
+      "why": "Who controls Congress decides how much room Trump has on Iran, tariffs and spending in his last two years."
+    },
+    {
+      "claude": "Both sides now claim the constitution and reject each other's judges, so every future ruling can be contested, a precedent that is hard to undo.",
+      "fact": "On Friday evening seven judges of Poland's Constitutional Tribunal suspended its president, Bogdan Święczkowski, accusing him of complicity in President Karol Nawrocki's refusal to swear in judges chosen by parliament. Nawrocki turned his plane back mid-flight to Senegal and joined protesters outside the court, calling it a coup, while Prime Minister Donald Tusk says he is restoring the rule of law. Police were deployed at the court, which has lost its quorum, and protests continued over the weekend.",
+      "opinion": [
+        {
+          "text": "both camps have dirty hands, since the centrists tried to pack the court in 2015 before the populists turned it into an enabler.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Euronews: Polish president turns back mid-flight amid coup d'état allegations",
+          "u": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations"
+        },
+        {
+          "t": "Reuters via Cyprus Mail: Polish president turns back from Senegal trip as top court chief suspended",
+          "u": "https://cyprus-mail.com/2026/10/30/polish-president-turns-back-from-senegal-trip-as-top-court-chief-suspended"
+        },
+        {
+          "t": "International Intrigue: Poles apart",
+          "u": "https://archives.internationalintrigue.io/p/a-mid-flight-presidential-u-turn"
+        }
+      ],
+      "title": "Poland's constitutional court splits in two after judges suspend its chief",
+      "why": "A member state with two rival top courts tests the EU's rule-of-law machinery from the inside."
+    },
+    {
+      "claude": "Selling shares to build data centers is what companies do when cash flow no longer covers the plan. Tonight's Apple and Palantir results matter more than one green Monday.",
+      "fact": "The Dow rose about 1% and the S&P 500 and Nasdaq gained about 0.4% by midday in New York, helped by cheaper oil and an October ISM manufacturing reading of 55.5, above forecasts. Oracle said it will sell $10 billion of new shares and $10 billion of bonds to fund AI spending, and its stock fell about 5%; Alphabet launched its second euro bond sale this year. Morgan Stanley counts almost $500 billion of AI-related borrowing through September, up from $100 billion a year earlier. Apple and Palantir report after the close.",
+      "opinion": [
+        {
+          "text": "this may be the most transformative tech boom yet, but it is not big enough to defy the high price of money.",
+          "who": "An analyst quoted by Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "Yahoo Finance: Dow, S&P 500, Nasdaq recover from bruising sell-off as oil prices fall",
+          "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+        },
+        {
+          "t": "StockTitan (CNBC live): Stocks rise as oil tumbles",
+          "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-2-2026"
+        },
+        {
+          "t": "Semafor Flagship: Alphabet sells euro bonds",
+          "u": "https://semafor.com/s/tn2pjgkbbw"
+        }
+      ],
+      "title": "Wall Street rebounds, but Oracle's $20 billion raise shows the strain of paying for AI",
+      "why": "After Friday's AI sell-off, how tech firms fund their spending is now the market's main question."
+    },
+    {
+      "claude": "The common thread is trust: an alert app that cries wolf once is ignored the next time, exactly what an attacker before a real strike would want.",
+      "fact": "Ukraine and Russia both said their official emergency-alert apps were breached and used to send false warnings of missile and nuclear attacks, which a researcher told the BBC was a first for an official Ukrainian app. Germany said lawmakers' and officials' phones were targeted in a cyberattack; a minister said it was unclear whether AI was used. WIRED reported that a Pentagon contractor's AI agent operated inside a government network for months before it was found.",
+      "src": [
+        {
+          "t": "Semafor Flagship: AI hacking worries spread",
+          "u": "https://semafor.com/s/hd5fwxh7os"
+        },
+        {
+          "t": "Semafor Flagship (citing WIRED): Pentagon contractor's AI agent",
+          "u": "https://semafor.com/s/163iep3p7f"
+        }
+      ],
+      "title": "Fake missile alerts and hacked phones: AI-era cyberattacks hit Ukraine, Russia and Germany",
+      "why": "Attacks on public warning systems turn a hack into a panic tool."
+    },
+    {
+      "claude": "It helps Morocco, whose claim Washington has backed since 2020, and leaves Sahrawis seeking independence with no international presence on the ground.",
+      "src": [
+        {
+          "t": "Middle East Eye: UN Western Sahara peacekeeping mission left in limbo after US-Russia veto (via International Intrigue)",
+          "u": "https://www.middleeasteye.net/live-blog/live-blog-update/un-western-sahara-peacekeeping-mission-left-limbo-after-us-russia-veto"
+        }
+      ],
+      "title": "UN ends its 35-year Western Sahara mission after rival US and Russian resolutions fail",
+      "unc": "Russia vetoed a US draft leaning towards Morocco's claim, and most Council members then abstained on Russia's plan for a simple 12-month rollover, so the MINURSO peacekeeping mission will wind down, Middle East Eye reports.",
+      "why": "A deadlocked Security Council is now shutting down missions rather than renewing them."
+    }
+  ]
+}
