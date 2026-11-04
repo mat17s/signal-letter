@@ -1,0 +1,259 @@
+{
+  "date": "2026-11-04",
+  "label": "Wednesday, 4 November 2026",
+  "btc": {
+    "text": ""
+  },
+  "top": [
+    {
+      "title": "Democrats take both houses of Congress in a midterm rout of Trump's party",
+      "why": "Trump loses control of the House agenda and of Senate confirmations for his last two years.",
+      "fact": "Democrats won majorities in both the House and the Senate in Tuesday's US midterms, Semafor and International Intrigue report, with Senate wins in Texas and Kansas, a Republican seat since 1932, and Maine's Susan Collins ousted. International Intrigue puts the House majority on track for up to 255 seats and the Senate at about 55, while Democrats also won governorships in Texas, Georgia and Iowa. House leaders say they will focus on corruption investigations and the cost of living, and Trump has congratulated the winners and pledged to work across the aisle.",
+      "opinion": [
+        {
+          "who": "A senior Republican (via Semafor)",
+          "text": "called it a generational wipeout that could leave the party in the Senate minority for years."
+        }
+      ],
+      "claude": "The Senate result matters more than the House: without it Trump cannot confirm judges or cabinet members, which turns the next two years into a fight over executive orders and courts. Inflation and fuel prices after the Iran war, not ideology, look like the main driver.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Democrats redraw US electoral map",
+          "u": "https://semafor.com/s/kigypxbxzo"
+        },
+        {
+          "t": "Semafor Flagship: Corruption, costs top Democrat agenda",
+          "u": "https://semafor.com/s/5morj9et37"
+        },
+        {
+          "t": "International Intrigue: Over and Don with",
+          "u": "https://archives.internationalintrigue.io/"
+        }
+      ]
+    },
+    {
+      "title": "A weakened Trump is expected to turn abroad, and Europe braces for more pressure",
+      "why": "Lame-duck presidents spend their power where Congress can't reach: war, trade and alliances.",
+      "fact": "With his domestic agenda blocked, Trump is expected to focus on foreign policy, Semafor reports; he told the Financial Times he has no immediate plans to strike Iran. European officials fear more pressure on trade and defence and uncertainty over Ukraine. On election day Trump also said he had agreed with Netanyahu to wind down the $4 billion a year in US military aid to Israel by the end of the year, two years early.",
+      "opinion": [
+        {
+          "who": "The longtime head of the Munich Security Conference (to Politico)",
+          "text": "Europe needs to brace itself for more acrimony."
+        }
+      ],
+      "claude": "Watch Iran first: Trump had promised no strikes before the vote, and the reason to hold back is now gone. Europe's lever is that a president without Congress needs foreign wins more, not less.",
+      "unc": "The Israel aid deal rests on Trump's own statement reported by CNN; Israeli officials have not commented.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Trump expected to go global",
+          "u": "https://semafor.com/s/gas8h3d7nx"
+        },
+        {
+          "t": "Al Jazeera: Trump says US will not strike Iran before midterm elections",
+          "u": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections"
+        },
+        {
+          "t": "CNN: Trump on US aid to Israel",
+          "u": "https://edition.cnn.com/2026/11/03/politics/trump-us-aid-israel"
+        }
+      ]
+    },
+    {
+      "title": "Markets like gridlock, but the AI build-out hits a brake in Texas",
+      "why": "Cheaper US borrowing helps bonds, while voters push back on data centers that the tech rally depends on.",
+      "fact": "Stocks and Treasuries gained after the results on hopes that divided government slows US borrowing, Semafor reports, after Nasdaq 100 futures had fallen about 2% overnight as results came in, according to International Intrigue. Tesla and SpaceX slipped after Elon Musk spent heavily against Democrats in Texas, where the new Democratic governor's win suggests a pause on rural AI data centers may now last. Meta launched its first euro bond, and Nikkei estimates Big Tech's off-balance-sheet AI obligations have doubled in six months to about $3.2 trillion.",
+      "opinion": [
+        {
+          "who": "A Morgan Stanley executive (to CNBC)",
+          "text": "markets like gridlock; they don't like a party with too much power."
+        }
+      ],
+      "claude": "Texas is due to host a large share of new US data-center capacity, so a local political brake is a bigger risk to AI capex than any Washington bill. Rising debt plus less political goodwill is a combination to watch in tech earnings.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Markets up on Democrat victory",
+          "u": "https://semafor.com/s/uq09qfjrym"
+        },
+        {
+          "t": "Semafor Flagship: Meta issues first euro bond",
+          "u": "https://semafor.com/s/8ojy9kv5oi"
+        },
+        {
+          "t": "International Intrigue: Over and Don with",
+          "u": "https://archives.internationalintrigue.io/"
+        }
+      ]
+    },
+    {
+      "title": "EU weighs looser membership tiers as Armenia says it will apply next year",
+      "why": "Brussels is redesigning what it means to join the EU, with Ukraine, Canada and even the UK in view.",
+      "fact": "Armenia's prime minister told Euronews his country will apply for EU membership as soon as next year, Semafor reports, as Brussels considers an associate tier for countries such as Ukraine and Canada; the Commission presents its enlargement report today. EU leaders are also preparing a trade toolkit with stronger defences against Chinese practices and changes to single-market rules on subsidies and vehicle approvals, according to Bloomberg.",
+      "opinion": [
+        {
+          "who": "International Intrigue",
+          "text": "the EU-Canada Alliance for the Future looks like a rebrand of the associate-member idea without the treaty headache."
+        }
+      ],
+      "claude": "For Switzerland this matters directly: a flexible associate tier would sit close to the bilateral package Bern is negotiating, and could become the benchmark Swiss voters compare it to.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Expansive EU tweaks the rules",
+          "u": "https://semafor.com/s/bdbwws3f1b"
+        },
+        {
+          "t": "Semafor Flagship: EU set to sign trade pact",
+          "u": "https://semafor.com/s/iy0dyizbxj"
+        },
+        {
+          "t": "The Guardian: Canada and EU alliance",
+          "u": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        }
+      ]
+    },
+    {
+      "title": "Coordinated bomb hoaxes divert flights across four European countries",
+      "why": "A pattern of hybrid disruption that stretches Europe's security services without firing a shot.",
+      "fact": "At least seven flights across Italy, Poland, Bulgaria and Spain were diverted or inspected, some with fighter-jet escorts, after a wave of bomb threats that were later confirmed as hoaxes, Reuters reports; an Israel-bound cruise ship in Greece was also targeted. No one has claimed responsibility.",
+      "opinion": [
+        {
+          "who": "International Intrigue",
+          "text": "the mix of airlines and countries suggests an attempt to sow chaos across Europe, and points to Moscow."
+        }
+      ],
+      "claude": "Attribution to Russia is plausible but unproven. The real cost is fatigue: each hoax must be treated as real, which is exactly what makes them cheap to repeat.",
+      "src": [
+        {
+          "t": "Reuters: Bomb threats reported on two passenger planes from Warsaw",
+          "u": "https://www.reuters.com/business/aerospace-defense/bomb-threats-reported-two-passenger-planes-warsaw-both-land-2026-11-03/"
+        },
+        {
+          "t": "International Intrigue: Over and Don with",
+          "u": "https://archives.internationalintrigue.io/"
+        }
+      ]
+    },
+    {
+      "title": "Indonesia's president sacks his chief of staff over alleged wiretapping",
+      "why": "A treason-style scandal at the top of the world's fourth most populous country, already under market pressure.",
+      "fact": "Indonesian President Prabowo Subianto dismissed his chief of staff, a former police chief, a day after his arrest with two senior police officers, Malay Mail reports. Authorities have not given details on motive or scale.",
+      "claude": "Prabowo has leaned on the security services to govern; a spying case inside his own office could push him to centralise further, which markets and neighbours will read as instability.",
+      "src": [
+        {
+          "t": "Malay Mail: Indonesia sacks and arrests Prabowo's chief of staff over alleged wiretapping",
+          "u": "https://www.malaymail.com/news/world/2026/11/04/treason-indonesia-sacks-and-arrests-prabowos-chief-of-staff-over-alleged-wiretapping/241954"
+        },
+        {
+          "t": "International Intrigue: Over and Don with",
+          "u": "https://archives.internationalintrigue.io/"
+        }
+      ],
+      "unc": "The allegation that the three wiretapped the president, officials and journalists, and advisers' talk of treason, rest on Malay Mail's report so far."
+    }
+  ],
+  "reads": {
+    "mainstream": {
+      "title": "South Africa votes as the ANC shrugs off losing US trade perks",
+      "fact": "South Africans vote today in local elections where polls put the ANC as low as 32%, and it could lose Johannesburg to the Democratic Alliance. Pretoria played down its removal from the US AGOA trade deal: exports already face a 12.5% US tariff, and losing duty-free access adds about 3.4 percentage points, the agriculture envoy Wandile Sihlobo told Semafor.",
+      "opinion": [
+        {
+          "who": "Wandile Sihlobo, South Africa's agriculture envoy",
+          "text": "losing AGOA is not a train smash."
+        }
+      ],
+      "claude": "The AGOA hit is small next to crime and unemployment, which drive this vote. A lost Johannesburg would still shake the national coalition more than any US tariff.",
+      "src": [
+        {
+          "t": "Semafor Africa: South Africa plays down AGOA blow",
+          "u": "https://semafor.com/s/h1xgaechwu"
+        },
+        {
+          "t": "Semafor Flagship: S. Africans vote in local polls",
+          "u": "https://semafor.com/s/ql0oh8mrlk"
+        }
+      ]
+    },
+    "ai": {
+      "title": "Apple lets any app plug into its new Siri",
+      "fact": "Apple released a developer preview of Siri AI, its rebuilt assistant that can see the screen and read messages, letting any app add its own actions and teach Siri multi-step skills. Apps can only be tested internally for now; App Store submissions open in spring.",
+      "opinion": [
+        {
+          "who": "The Rundown AI",
+          "text": "a real crack in Apple's walled garden, though the best AI features still feel far off for the iPhone."
+        }
+      ],
+      "claude": "Opening the door is the right move but a slow one: by spring, agents that operate apps directly may make per-app Siri skills look dated. The winners will be apps that expose clean actions early.",
+      "src": [
+        {
+          "t": "Apple Developer: Siri AI developer preview",
+          "u": "https://developer.apple.com/news/?id=gdk2umrf"
+        },
+        {
+          "t": "The Rundown AI: Apple cracks the door open to Siri AI",
+          "u": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai"
+        }
+      ]
+    },
+    "austrian": {
+      "title": "America's gas glut, and the jet engines that may soak it up",
+      "fact": "US natural gas output is forecast to grow this year by more than the EU's entire production, with Appalachian spot prices around $1-2 per million BTU, and EQT agreed to buy Range Resources in a $13 billion all-stock deal. Gas turbines are sold out for years, some until 2030 or later.",
+      "opinion": [
+        {
+          "who": "Doomberg",
+          "text": "used aircraft engines can be repurposed to burn cheap gas, so arbitrage will find a way around the turbine bottleneck."
+        }
+      ],
+      "claude": "This is the price signal working as Austrians describe it: very cheap gas pulls in entrepreneurs with improvised fixes. The counterpoint is that the data-center demand they bet on is partly political, as Texas just showed, so some of this capital may be malinvestment.",
+      "src": [
+        {
+          "t": "Doomberg: Recycle Bin",
+          "u": "https://newsletter.doomberg.com/p/recycle-bin"
+        }
+      ]
+    }
+  },
+  "number": {
+    "value": "$3.2 trillion",
+    "text": "Big Tech's off-balance-sheet AI obligations, doubled in six months, about 80% of their combined assets (Nikkei, via Semafor)."
+  },
+  "podcast": {
+    "show": "Semafor Future Proof",
+    "episode": "Marissa Mayer on Dazzle AI and the consumer agent",
+    "url": "https://semafor.com/s/4eyokxs0k2",
+    "why": "Ex-Yahoo chief on why your phone's photo library could be the context layer for personal AI agents."
+  },
+  "thread": {
+    "title": "US midterms",
+    "text": "Democrats won both chambers; Trump congratulated them and pledged to work across the aisle."
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (4 Nov)",
+      "u": "https://semafor.com/s/cssdgocmwc"
+    },
+    {
+      "t": "International Intrigue (4 Nov)",
+      "u": "https://archives.internationalintrigue.io/"
+    },
+    {
+      "t": "Semafor Africa (4 Nov)",
+      "u": "https://semafor.com/s/557jqi9e1g"
+    },
+    {
+      "t": "The Rundown AI (4 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/apple-cracks-the-door-open-to-siri-ai"
+    },
+    {
+      "t": "Doomberg: Recycle Bin",
+      "u": "https://newsletter.doomberg.com/p/recycle-bin"
+    },
+    {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/business/aerospace-defense/bomb-threats-reported-two-passenger-planes-warsaw-both-land-2026-11-03/"
+    },
+    {
+      "t": "Malay Mail",
+      "u": "https://www.malaymail.com/news/world/2026/11/04/treason-indonesia-sacks-and-arrests-prabowos-chief-of-staff-over-alleged-wiretapping/241954"
+    }
+  ],
+  "pdf": "daily/2026-11-04.pdf"
+}
