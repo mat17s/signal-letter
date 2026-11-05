@@ -1,0 +1,263 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-05",
+  "label": "Thursday, 5 November 2026",
+  "number": {
+    "text": "Drop in China's marriage registrations in the first three quarters of 2026 compared with 2025 (International Intrigue).",
+    "value": "~10%"
+  },
+  "podcast": {
+    "episode": "McDonald's CEO Chris Kempczinski on the K-shaped consumer",
+    "show": "Semafor The CEO Signal",
+    "url": "https://semafor.com/s/a3saje8ol5",
+    "why": "Why low-income Americans are skipping breakfast, and what that means for a $5 burger in a $1 lobby."
+  },
+  "reads": {
+    "ai": {
+      "claude": "The backlash is about electricity bills more than about AI itself, so the fix is power, not public relations: projects that bring their own generation and pay for grid upgrades will get built. For every AI lab, compute now has a local political price.",
+      "fact": "Data-center opponents won 38 of 39 fully counted local ballot measures in Tuesday's elections, The Rundown AI reports, and in NBC's exit poll 76% would oppose a data center in their own community. In Piqua, Ohio, voters banned large data centers and recalled the officials who backed Meta's project, and shares of suppliers Modine and Sterling Infrastructure fell about 21% on Wednesday, Semafor reports.",
+      "opinion": [
+        {
+          "text": "the days of a hands-off federal approach to US AI labs are likely coming to an end.",
+          "who": "The Rundown AI"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Rundown AI: AI agents can now make your phone calls",
+          "u": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls"
+        },
+        {
+          "t": "Semafor Business: Data-center backlash gets expensive",
+          "u": "https://semafor.com/s/8ruexdjudq"
+        },
+        {
+          "t": "NBC News: 2026 exit polls",
+          "u": "https://www.nbcnews.com/politics/2026-elections/exit-polls"
+        }
+      ],
+      "title": "US voters reject data centers almost everywhere they were on the ballot"
+    },
+    "austrian": {
+      "claude": "The fiscal point is strong, but divided government has historically slowed deficits, as in the late 1990s, and markets cheered the gridlock this week. The real risk for Bitcoiners is narrower: rules that treat self-custody wallets and miners as financial intermediaries.",
+      "fact": "The crypto market-structure bill Clarity stalled in the Senate in September, and Trump appointees keep running the SEC and CFTC whatever the new Congress does.",
+      "opinion": [
+        {
+          "text": "Bitcoin does not need the Clarity bill or a strategic reserve; no Congress will fix the debt, which is why savings belong partly in money no government can print.",
+          "who": "The Daily Bitcoiner"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Daily Bitcoiner: Democrats Took Congress. Bitcoin Doesn't Care.",
+          "u": "https://dailybitcoiner.substack.com/p/democrats-took-congress-bitcoin-doesnt"
+        }
+      ],
+      "title": "Democrats took Congress, and the debt is still there"
+    },
+    "mainstream": {
+      "claude": "For ABB this means plan B, probably a spin-off, and for Swiss industry a clear lesson: any company with big factories in China now sells only with Beijing's permission. That is a risk Swiss boards price too low.",
+      "fact": "China has blocked SoftBank's planned takeover of the robotics division of Zurich-based ABB, swissinfo and Semafor report; swissinfo values the deal at $5.4 billion, while Semafor cites $4.5 billion. The unit is focused on the Chinese market and runs a large factory in Shanghai's Pudong district. Separately, swissinfo reports that a Chinese state group is weighing a takeover of Swiss machine builder Kellenberger.",
+      "src": [
+        {
+          "t": "swissinfo: China blocks sale of ABB robotics division to SoftBank",
+          "u": "https://www.swissinfo.ch/eng/"
+        },
+        {
+          "t": "Semafor Business: China blocks SoftBank robotics takeover",
+          "u": "https://semafor.com/s/gl44tdrw48"
+        }
+      ],
+      "title": "Beijing blocks SoftBank's purchase of ABB's robotics arm"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (5 Nov)",
+      "u": "https://semafor.com/s/v0bg3xh2lv"
+    },
+    {
+      "t": "International Intrigue (5 Nov)",
+      "u": "https://archives.internationalintrigue.io/p/f-e56b"
+    },
+    {
+      "t": "Semafor Business (5 Nov)",
+      "u": "https://semafor.com/s/ugaaowaajk"
+    },
+    {
+      "t": "Semafor Energy (5 Nov)",
+      "u": "https://semafor.com/s/3uhn5kwe51"
+    },
+    {
+      "t": "The Rundown AI (5 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls"
+    },
+    {
+      "t": "The Daily Bitcoiner (4 Nov)",
+      "u": "https://dailybitcoiner.substack.com/p/democrats-took-congress-bitcoin-doesnt"
+    },
+    {
+      "t": "swissinfo",
+      "u": "https://www.swissinfo.ch/eng/"
+    },
+    {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+    }
+  ],
+  "thread": {
+    "text": "Trump conceded the war cost Republicans the midterms but said he would do it again; Democrats plan to use their majority to end it.",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "Congress cannot order peace, but it can cut the Pentagon's money, and that is the lever to watch in the next budget fights. Tehran may also read the result as proof that its energy squeeze works, which argues for holding out rather than talking.",
+      "fact": "President Trump conceded that the Iran war was the defining issue behind the Republican defeat, Semafor reports, yet insisted he would make the same choice again. His vice president JD Vance publicly wrote that the party lost because of the war, according to International Intrigue, which notes that petrol above $4 and diesel above $6 made the link easy for voters. The presumptive Democratic speaker said the new majority will aim to end the war, scrap tariffs and restore health spending, though Trump keeps his veto and near-total control of foreign policy.",
+      "opinion": [
+        {
+          "text": "the risk of escalation structurally grows after the midterms, so the oil selloff is somewhat baffling.",
+          "who": "An oil analyst quoted by Semafor"
+        },
+        {
+          "text": "the election is over but the Iran war is not, and a cornered president has few good exits.",
+          "who": "John Mearsheimer (Substack)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Midterms blamed on Iran war",
+          "u": "https://semafor.com/s/7bo2ipsnf0"
+        },
+        {
+          "t": "Semafor Flagship: Democrats' ambitious agenda",
+          "u": "https://semafor.com/s/jjbhzv8828"
+        },
+        {
+          "t": "International Intrigue: If you can't beat Dem",
+          "u": "https://archives.internationalintrigue.io/p/f-e56b"
+        },
+        {
+          "t": "John Mearsheimer: The Election Is Over, but Iran Is Not",
+          "u": "https://mearsheimer.substack.com/"
+        }
+      ],
+      "title": "Trump admits the Iran war cost him the midterms, but says he would do it again",
+      "why": "With a hostile Congress now able to squeeze war funding, the next move on Iran decides oil, inflation and Trump's last two years."
+    },
+    {
+      "claude": "A glut during a war that is not over is fragile: one strike on Gulf infrastructure would flip it back. Thursday's rebound shows traders already doubt the calm.",
+      "fact": "Global oil supply exceeded demand by about 1.4 million barrels a day in October, JPMorgan estimates, as Middle Eastern exports returned to prewar levels and Latin American output rose by about 1.5 million barrels a day on the year, Semafor reports. Brent fell for four days to near $93 before bouncing to about $97 on Thursday evening (finanzen.ch), and crude is roughly 20% below this year's peak. HSBC expects Saudi output to jump in the fourth quarter.",
+      "opinion": [
+        {
+          "text": "Americans are days away from the cheapest petrol since March.",
+          "who": "A Bloomberg columnist (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Oil market in supply glut",
+          "u": "https://semafor.com/s/83grrdwjjm"
+        },
+        {
+          "t": "Semafor Energy: Big Oil breaks a sweat",
+          "u": "https://semafor.com/s/3uhn5kwe51"
+        },
+        {
+          "t": "finanzen.ch: Ölpreis Brent",
+          "u": "https://www.finanzen.ch/rohstoffe/oelpreis"
+        }
+      ],
+      "title": "The oil market flips to a glut, and Brent is 20% below its war peak",
+      "why": "Cheaper fuel eases the inflation shock that has driven rates and politics all year."
+    },
+    {
+      "claude": "Hiking into a falling oil price is a bet that the second-round effects in wages and services are already locked in. If Brent stays in the 90s, the next move could just as easily be a pause, so the vote split matters more than the hike.",
+      "fact": "The Bank of England raised Bank Rate on Thursday, its first hike in three years, CNBC and Semafor report; the rate had stood at 3.75% since September (Bank of England), and reports put the new level at 4%. The bank warned that inflation will rise to near 5%, and FXStreet describes the vote as divided.",
+      "src": [
+        {
+          "t": "CNBC: Bank of England hikes interest rate for the first time since Iran war",
+          "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+        },
+        {
+          "t": "Bank of England: Interest rates and Bank Rate",
+          "u": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+        },
+        {
+          "t": "FXStreet: BoE recap, a divided hike",
+          "u": "https://fxstreet.com/news/boe-recap-a-divided-hike-and-a-warning-that-the-energy-shock-is-not-over-202611051712"
+        }
+      ],
+      "title": "Bank of England raises rates for the first time since the Iran war and warns of 5% inflation",
+      "unc": "The exact new rate (4%) and the vote split rest on single secondary reports so far.",
+      "why": "The first big central bank to tighten again shows the energy shock has not left Europe's prices."
+    },
+    {
+      "claude": "Record exports are the problem, not the argument: the bigger China's surplus, the more Europe will copy US-style defences, whatever Washington does.",
+      "fact": "Beijing called on the US and the EU to reconsider levies on Chinese goods as its exports hit record highs, Semafor reports. It offered to buy more US farm goods only if tariffs are cut; soybean imports have restarted but remain far below pre-trade-war levels. China also criticised new EU measures on low-value parcels from retailers such as Shein and Temu, as the China International Import Expo opens in Shanghai.",
+      "opinion": [
+        {
+          "text": "Beijing has mixed feelings: happy to see ties stabilised and US red lines wobbling, uneasy about what a cornered Trump might do.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: China hits out at levies",
+          "u": "https://semafor.com/s/30obs0dnfs"
+        },
+        {
+          "t": "International Intrigue: If you can't beat Dem",
+          "u": "https://archives.internationalintrigue.io/p/f-e56b"
+        }
+      ],
+      "title": "China posts record exports and demands the US and EU cut their tariffs",
+      "why": "Beijing is pressing its advantage while Washington is distracted and Europe is building new trade defences."
+    },
+    {
+      "claude": "France has slow growth, high debt and a street that blocks every cut, so the likely outcome is more borrowing. That keeps French spreads, and Brussels' patience, as the thing to watch.",
+      "fact": "Unions, students and the yellow-vest movement held a nationwide general strike on Thursday over public services, wages and the cost of living, disrupting trains and schools, Semafor and Sortir à Paris report. Their demands include higher pay, taxes on the rich and better worker protection; Spain faces its own strike soon, and yellow-vest protests are planned again for 6 and 7 November.",
+      "opinion": [
+        {
+          "text": "the pillars underpinning post-war European stability have eroded.",
+          "who": "Bruegel (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: France faces general strike",
+          "u": "https://semafor.com/s/eeisdc9q72"
+        },
+        {
+          "t": "Sortir à Paris: Protest and strike on November 5, 2026",
+          "u": "https://www.sortiraparis.com/en/news/in-paris/articles/354559-protest-and-strike-on-november-5-2026-transport-schools-and-routes-what-to-expect"
+        }
+      ],
+      "title": "France shuts down for a general strike over wages and public services",
+      "why": "A test of whether France's debt-laden government can still reform anything."
+    },
+    {
+      "claude": "With a majority behind him Peña will probably survive the vote; the lasting damage is to trust in a central bank seen as too close to a politically connected lender.",
+      "fact": "Paraguay's opposition filed an impeachment motion against President Santiago Peña over his links to Ueno, a fast-growing digital bank that collapsed and froze customer deposits and some state funds, UPI reports via International Intrigue. Reuters had reported in October that the central bank was under pressure over doubts about the politically connected lender. Peña's party holds firm majorities in both chambers.",
+      "src": [
+        {
+          "t": "UPI: Paraguay impeachment charges over Ueno bank collapse",
+          "u": "https://www.upi.com/Top_News/World-News/2026/11/04/latam-paraguay-impeachment-charges-president-Ueno-bank-collapse/1251793815095/"
+        },
+        {
+          "t": "Reuters (via The Star): Paraguay's central bank under pressure over politically connected lender",
+          "u": "https://www.thestar.com.my/news/world/2026/10/23/paraguay039s-central-bank-under-pressure-over-politically-connected-lender"
+        },
+        {
+          "t": "International Intrigue: If you can't beat Dem",
+          "u": "https://archives.internationalintrigue.io/p/f-e56b"
+        }
+      ],
+      "title": "Paraguay's president faces impeachment over a collapsed digital bank",
+      "unc": "International Intrigue's figure that Ueno served half of Paraguay's adults is not confirmed elsewhere.",
+      "why": "A bank run that froze ordinary savings and state money now reaches the presidency."
+    }
+  ],
+  "pdf": "daily/2026-11-05.pdf"
+}

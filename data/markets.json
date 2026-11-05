@@ -1,87 +1,87 @@
 {
-  "asOf": "2026-11-04T16:31:00Z",
+  "asOf": "2026-11-05T17:40:00Z",
   "intraday": true,
   "items": [
     {
       "ccy": "pts",
-      "d1": 0.36,
+      "d1": 1.76,
       "key": "SPX",
       "name": "S&P 500",
-      "price": 7568.92,
-      "w1": -0.15
-    },
-    {
-      "ccy": "pts",
-      "d1": 0.83,
-      "key": "NDQ",
-      "name": "Nasdaq",
-      "price": 25372.01,
-      "w1": -0.26
-    },
-    {
-      "ccy": "pts",
-      "d1": -0.38,
-      "key": "DJI",
-      "name": "Dow Jones",
-      "price": 51786.72,
-      "w1": 0.03
+      "price": 7702.21,
+      "w1": 1.61
     },
     {
       "ccy": "pts",
       "d1": 1.9,
+      "key": "NDQ",
+      "name": "Nasdaq",
+      "price": 25852.95,
+      "w1": 1.63
+    },
+    {
+      "ccy": "pts",
+      "d1": 2.91,
+      "key": "DJI",
+      "name": "Dow Jones",
+      "price": 53295.24,
+      "w1": 2.94
+    },
+    {
+      "ccy": "pts",
+      "d1": -0.08,
       "key": "SMI",
       "name": "SMI",
-      "price": 15022.85,
-      "w1": 1.44
+      "price": 15010.68,
+      "w1": 1.36
     },
     {
       "ccy": "USD",
-      "d1": 1.83,
+      "d1": -5.4,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 78500,
-      "w1": -3.41
+      "price": 76134,
+      "w1": -6.33
     },
     {
       "ccy": "USD",
-      "d1": 2.91,
+      "d1": 1.26,
       "key": "XAU",
       "name": "Gold",
-      "price": 4055.2,
-      "w1": 4.01
+      "price": 4114.52,
+      "w1": 5.53
     },
     {
       "ccy": "USD",
-      "d1": -1.17,
+      "d1": 2.69,
       "key": "BRENT",
       "name": "Brent",
-      "price": 102.39,
-      "w1": -9.73
+      "price": 97.17,
+      "w1": -14.33
     },
     {
-      "d1bp": 5.8,
+      "d1bp": -4.8,
       "key": "US10Y",
       "name": "US 10-year",
-      "price": 4.952,
+      "price": 4.904,
       "unit": "%",
-      "w1bp": 2.3
+      "w1bp": -2.5
     },
     {
       "ccy": "",
-      "d1": 0.35,
+      "d1": -0.18,
       "key": "EURCHF",
       "name": "EUR/CHF",
-      "price": 0.9193,
-      "w1": -0.17
+      "price": 0.917,
+      "w1": -0.42
     },
     {
       "ccy": "",
-      "d1": -0.09,
+      "d1": 0.03,
       "key": "USDCHF",
       "name": "USD/CHF",
-      "price": 0.8177,
-      "w1": -0.72
+      "price": 0.8174,
+      "w1": -0.75
     }
   ],
-  "label": "Wed 4 Nov, 18:45 · SMI at close; others as of 12:10 (US at Tue close)"
+  "label": "Thu 5 Nov, 18:40 · Bitcoin, gold, Brent, USD/CHF and SMI (15:48) from today; US indices, US 10-year and EUR/CHF kept from Wed 4 Nov close"
 }
