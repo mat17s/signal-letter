@@ -1,0 +1,241 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-06",
+  "label": "Friday, 6 November 2026",
+  "number": {
+    "text": "Record debt of low- and middle-income countries in 2025, the World Bank said (via Semafor).",
+    "value": "$9.4 trillion"
+  },
+  "podcast": {
+    "episode": "In der Zukunft brauchst du weder Geld noch Bitcoin – Die Live-Analyse",
+    "show": "Der Bitcoin Podcast",
+    "url": "https://derbitcoinpodcast.beehiiv.com/p/in-der-zukunft-brauchst-du-weder-geld-noch-bitcoin-die-live-analyse",
+    "why": "Does AI abundance make money obsolete, or make true scarcity more valuable? A German-language look at Musk, Saylor and Calacanis."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Coming from the model Anthropic makes, the honest reading is that this is the week's most important AI number and the least checkable: an auditor confirms a speedup but cannot publish most of why. Verification the public can see now matters more than any benchmark.",
+      "fact": "After 11 weeks of inside access, the evaluation nonprofit METR estimates that Anthropic's capability progress has run about 1.9 times faster since October 2025 (95% interval 1.5 to 2.8) and attributes perhaps 80% of the recent acceleration to AI itself. It found no convincing bottlenecks for the next year, though it is not confident of that. Anthropic redacted most of the evidence METR found most informative, to avoid helping rivals go faster, METR and The Rundown AI report.",
+      "src": [
+        {
+          "t": "METR: Anthropic AI R&D acceleration assessment",
+          "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        },
+        {
+          "t": "The Rundown AI: An inside look at Anthropic's AI speedup",
+          "u": "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup"
+        }
+      ],
+      "title": "METR: AI has roughly doubled the pace of Anthropic's own research"
+    },
+    "austrian": {
+      "claude": "Fair history, but deposit insurance and central-bank backstops keep bank claims safe for most savers most of the time, while self-custody moves the risk of loss and theft onto the owner, and Bitcoin's drop of more than 5% in a day this week shows the asset trades credit risk for price risk.",
+      "fact": "Bank deposits are payable on demand while banks hold loans that run for years, and lending itself creates new deposits; the US closed the dollar's last gold-conversion window for foreign governments in 1971. Amsterdam's Wisselbank, opened in 1609, was an early bank where merchants paid by moving balances instead of coins.",
+      "opinion": [
+        {
+          "text": "fiat won because it travels well over networks, but it ties every saver to a leveraged system and its rescuers; Bitcoin lets you hold and send the asset itself.",
+          "who": "The Daily Bitcoiner"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Daily Bitcoiner: Your Money Is a Claim on Somebody Else's Books",
+          "u": "https://dailybitcoiner.substack.com/p/your-money-is-a-claim-on-somebody"
+        }
+      ],
+      "title": "Your bank balance is a claim on somebody else's books"
+    },
+    "mainstream": {
+      "claude": "The spying story rests on one newsletter and unnamed investigators, so treat the details as unconfirmed; the trend, a grand elite bargain turning into rivalry inside the security services, is the point.",
+      "fact": "About 20,000 troops are deployed across Jakarta, which officials call a routine rotation, International Intrigue reports. President Prabowo had moved police chief Listyo Sigit Prabowo into the palace as chief of staff, and investigators now say police leaders spied on the president and his allies. Prabowo's approval has fallen about 30 points amid a school-lunch scandal, a sacked finance minister and a record-low rupiah.",
+      "opinion": [
+        {
+          "text": "two powerful dynasties, Prabowo's and former president Jokowi's, may be facing off, with the state caught in the middle.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: 20,000 troops vs palace bugs",
+          "u": "https://archives.internationalintrigue.io/p/20-000-troops-vs-palace-bugs"
+        }
+      ],
+      "title": "Why Indonesia's president put 20,000 troops in his own capital"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (6 Nov)",
+      "u": "https://semafor.com/s/ysmovkgjxl"
+    },
+    {
+      "t": "Semafor Flagship Asia (6 Nov)",
+      "u": "https://semafor.com/s/a4e0v4dz1i"
+    },
+    {
+      "t": "Semafor Business (6 Nov)",
+      "u": "https://semafor.com/s/7dl1gc5ds3"
+    },
+    {
+      "t": "International Intrigue (6 Nov)",
+      "u": "https://archives.internationalintrigue.io/p/20-000-troops-vs-palace-bugs"
+    },
+    {
+      "t": "The Rundown AI (6 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup"
+    },
+    {
+      "t": "METR (5 Nov)",
+      "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+    },
+    {
+      "t": "Bureau of Labor Statistics (6 Nov)",
+      "u": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+      "t": "Checkonchain (6 Nov)",
+      "u": "https://newsletter.checkonchain.com/p/election-slam"
+    },
+    {
+      "t": "The Daily Bitcoiner (6 Nov)",
+      "u": "https://dailybitcoiner.substack.com/p/your-money-is-a-claim-on-somebody"
+    },
+    {
+      "t": "Der Bitcoin Podcast (6 Nov)",
+      "u": "https://derbitcoinpodcast.beehiiv.com/p/in-der-zukunft-brauchst-du-weder-geld-noch-bitcoin-die-live-analyse"
+    }
+  ],
+  "thread": {
+    "text": "After meeting Putin's envoy Kirill Dmitriev, Trump promised a \"big agreement\" that could involve more than Ukraine, ahead of talks in Abu Dhabi next week (International Intrigue).",
+    "title": "Ukraine: peace talks"
+  },
+  "top": [
+    {
+      "claude": "This reprices the cost of building, not demand: chips are still sold out, but power, permits and local consent just got dearer, which favours giants that can pay for their own generation.",
+      "fact": "The Nasdaq fell more than 5% on Thursday, its worst day since March 2020, and entered correction territory; every one of the S&P 500's 11 sectors closed lower for the first time in five months, Semafor reports. The trigger was fear that the Democratic sweep and this week's local votes against data centers will slow the AI buildout: tech skeptics won in Texas, Georgia and Ohio, which hold about 40% of planned US data-center capacity. On Friday the selloff reached Asia and Europe, with record losses in Taiwan and a trading halt in South Korea after an 8% drop, before US futures pointed to a partial rebound.",
+      "opinion": [
+        {
+          "text": "the AI boom stays on track but may become costlier, slower and more consolidated in the coming years.",
+          "who": "JPMorgan analysts (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: US tech selloff erases post-midterm gains",
+          "u": "https://semafor.com/s/8dur8ov9l0"
+        },
+        {
+          "t": "Semafor Flagship: Stock selloff goes global",
+          "u": "https://semafor.com/s/nv4nmh3l8b"
+        },
+        {
+          "t": "Semafor Business: AI panic hits markets",
+          "u": "https://semafor.com/s/nrvbg19e3k"
+        },
+        {
+          "t": "Checkonchain: Election Slam",
+          "u": "https://newsletter.checkonchain.com/p/election-slam"
+        }
+      ],
+      "title": "AI panic goes global: the Nasdaq's worst day since 2020 hits Taiwan and Korea",
+      "unc": "Semafor's report that some investors now doubt Anthropic will reach its IPO valuation target rests on unnamed investors.",
+      "why": "The market is now pricing political risk into the AI buildout that has carried stocks all year."
+    },
+    {
+      "claude": "A president boxed in at home has more reason, not less, to seek a win abroad, which is why traders don't trust the calm.",
+      "fact": "Brent briefly neared $100 a barrel on Friday after a four-day slide, Semafor reports, as Washington and Tehran traded heated rhetoric and Iran said three tankers had been hit in the Strait of Hormuz. President Trump spoke with the emir of Qatar, which has been trying to mediate a truce, and S&P analysts raised their crude price assumptions for 2026 and 2027.",
+      "opinion": [
+        {
+          "text": "puts the likelihood that fighting resumes at 80%.",
+          "who": "Rapidan Energy (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Oil up on Mideast fears",
+          "u": "https://semafor.com/s/8u7mo4dy2x"
+        },
+        {
+          "t": "Semafor Gulf: Phonathon",
+          "u": "https://semafor.com/s/a2anoxjr2n"
+        }
+      ],
+      "title": "Oil jumps back toward $100 as Iran says three tankers were hit in Hormuz",
+      "unc": "The tanker strikes are so far Iran's claim, as reported by Semafor.",
+      "why": "Yesterday's glut lasts only as long as the strait stays open."
+    },
+    {
+      "claude": "Solid hiring means the selloff is about AI politics, not a weakening economy, and it gives the Fed no reason to rush a cut into an oil shock.",
+      "fact": "Nonfarm payrolls rose by 165,000 in October, against an average monthly gain of 48,000 over the prior 12 months, and unemployment held at 4.1%, the Bureau of Labor Statistics said on Friday. August and September were revised up by a combined 84,000, and hourly earnings rose 3.1% on the year.",
+      "src": [
+        {
+          "t": "Bureau of Labor Statistics: The Employment Situation, October 2026",
+          "u": "https://www.bls.gov/news.release/empsit.nr0.htm"
+        },
+        {
+          "t": "Semafor Flagship: Mounting AI job fears",
+          "u": "https://semafor.com/s/rnok1tnzb6"
+        }
+      ],
+      "title": "US economy adds 165,000 jobs in October, far above the year's average",
+      "why": "Strong hiring makes it harder to blame the market slump on a weakening economy."
+    },
+    {
+      "claude": "Firing Hegseth before January is the cheap option; waiting hands Democrats a confirmation fight over the war itself.",
+      "fact": "Senior Republican lawmakers and strategists have urged the White House to fire Defense Secretary Pete Hegseth and end the Iran war quickly, blaming it for the fuel prices that topped voters' concerns, Semafor reports; an outgoing Republican congressman plans to start impeachment proceedings next week. Any replacement named after January would need a Democratic Senate's approval. Democrats are also preparing subpoenas for companies close to Trump; Rep. Jamie Raskin told Semafor he has a \"top 50 list\".",
+      "src": [
+        {
+          "t": "Semafor Flagship: Calls for White House shakeup",
+          "u": "https://semafor.com/s/ejt5ae65kr"
+        },
+        {
+          "t": "Semafor Flagship: CEOs, firms brace for subpoenas",
+          "u": "https://semafor.com/s/q5fd1klicn"
+        },
+        {
+          "t": "Semafor Business: Dems vs. Big Business",
+          "u": "https://semafor.com/s/v8fisz08tn"
+        }
+      ],
+      "title": "Republicans press Trump to fire Hegseth and wind down the Iran war",
+      "unc": "The pressure campaign on Hegseth is reported by Semafor from unnamed lawmakers and strategists.",
+      "why": "The first personnel fight after the midterms decides who runs the war Trump now admits cost him Congress."
+    },
+    {
+      "claude": "Removing the strongest rival by court order turns a referendum on Tinubu's reforms into a fight over legitimacy, and the appeal judges now matter more than the voters.",
+      "fact": "A Nigerian court voided the candidacy of former vice president Atiku Abubakar, the main challenger to President Bola Tinubu and runner-up in two previous elections, Semafor's Flagship and Africa briefings report; Atiku said he will appeal. The IMF raised its 2026 growth forecast for Nigeria to 4.2% last month, but scrapping fuel subsidies has added to high inflation, and more than 10,000 people were killed in insecurity during Tinubu's first two years.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Nigeria election upended",
+          "u": "https://semafor.com/s/8occ46j04w"
+        },
+        {
+          "t": "Semafor Africa: New era",
+          "u": "https://semafor.com/s/jlhxwbru5l"
+        }
+      ],
+      "title": "Nigerian court bars the main challenger ten weeks before the presidential vote",
+      "why": "Africa's most populous country risks an election whose result many will not accept."
+    },
+    {
+      "claude": "No one has claimed the hoaxes, but cheap, deniable and resource-draining fits the hybrid campaigns Europe has faced before. For Swiss banks the French case shows cyber is now a balance-sheet risk.",
+      "fact": "A French bank said hackers stole €100 million ($112 million), a rare heist at a mainstream lender, Semafor reports; recent weeks also brought attacks on France's blood banks and a hack of supermarket fridges in 10 countries. On Thursday more than 21 flights across Europe received fake bomb threats, the third day of hoaxes this week, International Intrigue reports. A survey cited by Semafor linked 84% of recent ransomware attacks to AI.",
+      "src": [
+        {
+          "t": "Semafor Flagship: French hack spurs cyber fears",
+          "u": "https://semafor.com/s/c0ohxooh0m"
+        },
+        {
+          "t": "International Intrigue: 20,000 troops vs palace bugs",
+          "u": "https://archives.internationalintrigue.io/p/20-000-troops-vs-palace-bugs"
+        }
+      ],
+      "title": "Europe under pressure: a €100 million bank heist and a third day of fake bomb threats",
+      "unc": "The bomb-threat count comes from International Intrigue only.",
+      "why": "Cyber and hybrid attacks are becoming a routine cost for European banks, airlines and states."
+    }
+  ],
+  "pdf": "daily/2026-11-06.pdf"
+}
