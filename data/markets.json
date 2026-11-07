@@ -1,30 +1,30 @@
 {
-  "asOf": "2026-11-06T17:30:00Z",
-  "intraday": true,
+  "asOf": "2026-11-07T17:40:00Z",
+  "intraday": false,
   "items": [
     {
       "ccy": "pts",
-      "d1": -4.36,
+      "d1": 0.31,
       "key": "SPX",
       "name": "S&P 500",
-      "price": 7353.73,
-      "w1": -2.99
+      "price": 7376.86,
+      "w1": -2.68
     },
     {
       "ccy": "pts",
-      "d1": -5.52,
+      "d1": 1.09,
       "key": "NDQ",
       "name": "Nasdaq",
-      "price": 24315,
-      "w1": -4.41
+      "price": 24579.42,
+      "w1": -3.37
     },
     {
       "ccy": "pts",
-      "d1": -3.44,
+      "d1": -0.46,
       "key": "DJI",
       "name": "Dow Jones",
-      "price": 51523.06,
-      "w1": -0.48
+      "price": 51285.73,
+      "w1": -0.94
     },
     {
       "ccy": "pts",
@@ -36,35 +36,35 @@
     },
     {
       "ccy": "USD",
-      "d1": -5.62,
+      "d1": 0.5,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 75712,
-      "w1": -2.74
+      "price": 76068,
+      "w1": -1.7
     },
     {
       "ccy": "USD",
-      "d1": -0.94,
+      "d1": -0.95,
       "key": "XAU",
       "name": "Gold",
-      "price": 4075,
-      "w1": 4.52
+      "price": 4074.5,
+      "w1": 4.5
     },
     {
       "ccy": "USD",
-      "d1": -0.16,
+      "d1": -0.32,
       "key": "BRENT",
       "name": "Brent",
-      "price": 98.13,
-      "w1": -16.58
+      "price": 97.98,
+      "w1": -16.71
     },
     {
-      "d1bp": -5.7,
+      "d1bp": 2.2,
       "key": "US10Y",
       "name": "US 10-year",
-      "price": 4.837,
+      "price": 4.859,
       "unit": "%",
-      "w1bp": -9.2
+      "w1bp": -7
     },
     {
       "ccy": "",
@@ -76,12 +76,12 @@
     },
     {
       "ccy": "",
-      "d1": 0.42,
+      "d1": 0.47,
       "key": "USDCHF",
       "name": "USD/CHF",
-      "price": 0.8197,
-      "w1": -0.48
+      "price": 0.8203,
+      "w1": -0.4
     }
   ],
-  "label": "Fri 6 Nov, 18:30 · SMI close, US closes Thu"
+  "label": "Sat 7 Nov, 18:40 · Friday close, Bitcoin live"
 }

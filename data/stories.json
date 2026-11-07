@@ -19,7 +19,8 @@
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "ai-trade"
   },
   {
     "entries": [
@@ -37,7 +38,8 @@
     "region": "Switzerland",
     "status": "active",
     "title": "Bundesrat: Parmelin's successor",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "bundesrat"
   },
   {
     "entries": [
@@ -63,7 +65,8 @@
     "region": "USA",
     "status": "active",
     "title": "Fed, rates and the bond market",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "fed-rates"
   },
   {
     "entries": [
@@ -85,7 +88,8 @@
     "region": "Europe",
     "status": "active",
     "title": "France: unrest and debt",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "france-debt"
   },
   {
     "entries": [
@@ -138,12 +142,17 @@
       {
         "date": "2026-11-05",
         "text": "Trump conceded the war cost Republicans the midterms but said he would do it again; Democrats plan to use their majority to end it, and Brent fell to near $93 before rebounding."
+      },
+      {
+        "date": "2026-11-07",
+        "text": "UKMTO: 11 ships attacked around Hormuz in the week to 6 Nov, three sunk, traffic about 65% below pre-war; Qeshm hit again; Araghchi sets seven conditions to reopen the strait."
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-11-05"
+    "updated": "2026-11-07",
+    "id": "iran-war"
   },
   {
     "entries": [
@@ -160,7 +169,8 @@
     "region": "Middle East",
     "status": "active",
     "title": "Israel: election and coalition",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "israel-coalition"
   },
   {
     "entries": [
@@ -182,7 +192,8 @@
     "region": "Bitcoin",
     "status": "active",
     "title": "Strategy vs MSCI",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "strategy-msci"
   },
   {
     "entries": [
@@ -200,7 +211,8 @@
     "region": "Switzerland",
     "status": "active",
     "title": "Bitcoin in Switzerland",
-    "updated": "2026-11-01"
+    "updated": "2026-11-01",
+    "id": "swiss-bitcoin-etf"
   },
   {
     "entries": [
@@ -230,7 +242,8 @@
     "region": "Europe",
     "status": "active",
     "title": "Ukraine: peace talks",
-    "updated": "2026-11-06"
+    "updated": "2026-11-06",
+    "id": "ukraine-talks"
   },
   {
     "entries": [
@@ -242,6 +255,7 @@
     "region": "Americas",
     "status": "active",
     "title": "US midterms",
-    "updated": "2026-11-04"
+    "updated": "2026-11-04",
+    "id": "us-midterms"
   }
 ]

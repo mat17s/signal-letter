@@ -5,7 +5,8 @@
     "made": "2026-10-23",
     "source": "Zaye Capital, via Rigzone",
     "status": "open",
-    "who": "Naeem Aslam"
+    "who": "Naeem Aslam",
+    "id": "aslam-brent"
   },
   {
     "check": "2028-10-31",
@@ -13,7 +14,8 @@
     "made": "2026-10-28",
     "source": "The Bitcoin Layer",
     "status": "open",
-    "who": "Nik Bhatia"
+    "who": "Nik Bhatia",
+    "id": "bhatia-200k"
   },
   {
     "check": "2027-01-31",
@@ -22,7 +24,8 @@
     "result": "Right if no lower low than Oct 2026 by end of January.",
     "source": "BlingBling newsletter",
     "status": "open",
-    "who": "BlingBling"
+    "who": "BlingBling",
+    "id": "blingbling-cycle-low"
   },
   {
     "check": "2027-04-30",
@@ -31,7 +34,8 @@
     "result": "Test: US 10-year back above its 5.36% October high.",
     "source": "Principled Perspectives",
     "status": "open",
-    "who": "Ray Dalio"
+    "who": "Ray Dalio",
+    "id": "dalio-bond-bear"
   },
   {
     "check": "2026-12-17",
@@ -39,7 +43,8 @@
     "made": "2026-10-30",
     "source": "Rio Times, 30 Oct",
     "status": "open",
-    "who": "Fed funds futures"
+    "who": "Fed funds futures",
+    "id": "futures-dec-hike"
   },
   {
     "check": "2030-12-31",
@@ -47,7 +52,8 @@
     "made": "2026-09-24",
     "source": "In Gold We Trust / Kitco",
     "status": "open",
-    "who": "Ronald Stoeferle"
+    "who": "Ronald Stoeferle",
+    "id": "igwt-gold-8900"
   },
   {
     "check": "2028-02-28",
@@ -55,7 +61,8 @@
     "made": "2026-10-29",
     "source": "Q3 results, via Semafor",
     "status": "open",
-    "who": "Intel"
+    "who": "Intel",
+    "id": "intel-pc-2027"
   },
   {
     "check": "2036-12-31",
@@ -63,7 +70,8 @@
     "made": "2026-10-20",
     "source": "LTCMA 2027",
     "status": "open",
-    "who": "JPMorgan Asset Management"
+    "who": "JPMorgan Asset Management",
+    "id": "jpm-btc-10"
   },
   {
     "check": "2026-10-28",
@@ -72,7 +80,8 @@
     "result": "Fed held at 3.75–4.00% on 28 Oct, as the market's two-in-three lean expected; two officials dissented for a hike.",
     "source": "via Simply Bitcoin",
     "status": "right",
-    "who": "Kalshi traders"
+    "who": "Kalshi traders",
+    "id": "kalshi-oct-hike"
   },
   {
     "check": "2027-10-31",
@@ -80,7 +89,8 @@
     "made": "2026-10-16",
     "source": "Bloomberg, via Simply Bitcoin",
     "status": "open",
-    "who": "Michael Saylor"
+    "who": "Michael Saylor",
+    "id": "saylor-60k"
   },
   {
     "check": "2026-11-10",
@@ -88,7 +98,8 @@
     "made": "2026-10-30",
     "source": "via Semafor Americana",
     "status": "open",
-    "who": "Nate Silver"
+    "who": "Nate Silver",
+    "id": "silver-senate-2026"
   },
   {
     "check": "2027-04-30",
@@ -96,7 +107,8 @@
     "made": "2026-10-20",
     "source": "The Bitcoin Layer",
     "status": "open",
-    "who": "Nik Bhatia"
+    "who": "Nik Bhatia",
+    "id": "tbl-default-cycle"
   },
   {
     "check": "2027-10-31",
@@ -104,6 +116,7 @@
     "made": "2026-10-20",
     "source": "Was Bitcoin bringt",
     "status": "open",
-    "who": "Loddi Tröster"
+    "who": "Loddi Tröster",
+    "id": "troester-qe"
   }
 ]

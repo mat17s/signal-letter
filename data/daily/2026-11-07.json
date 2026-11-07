@@ -1,0 +1,237 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-07",
+  "label": "Saturday, 7 November 2026",
+  "number": {
+    "text": "Days since 1971 on which the Nasdaq fell as much as it did on Thursday (5.5%) or more, out of almost 16,000 trading days (The Bitcoin Layer).",
+    "value": "36"
+  },
+  "pdf": "daily/2026-11-07.pdf",
+  "podcast": {
+    "episode": "The Inflation Hot Potato",
+    "show": "Guns and Butter (Mises Institute)",
+    "url": "https://mises.org/podcasts/guns-and-butter/inflation-hot-potato",
+    "why": "Connor O'Keeffe on why inflation keeps deciding elections, including this week's, and why no one in office touches its cause."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Voters are weighing what they can see, power bills and noisy buildings, against benefits that still mostly show up in demos. Paying the grid costs is the cheapest fix, and the industry should take it before local votes become state laws.",
+      "fact": "Simon Willison highlighted The Verge editor Nilay Patel's argument that Big Tech lost big in the 2026 election because AI products are not yet good enough to justify their costs, including the strain data centers put on communities. Semafor's technology desk counts about 40 local and state anti-data-center measures that passed this week, but says most will not halt construction and none will affect compute arriving before 2029; OpenAI on Thursday called for rules making developers pay the grid costs they create.",
+      "opinion": [
+        {
+          "text": "the products are not yet good enough to justify what they cost the public.",
+          "who": "Nilay Patel, The Verge (via Simon Willison)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Simon Willison: Nilay Patel on Big Tech and the 2026 election",
+          "u": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+        },
+        {
+          "t": "Semafor Technology: Tactical blunders",
+          "u": "https://semafor.com/s/fxm9olbwec"
+        }
+      ],
+      "title": "Did voters just reject AI? Data-center builders say the damage is smaller than it looks"
+    },
+    "austrian": {
+      "claude": "Fair on opportunity cost, but grids and water pipes are where private markets underinvest everywhere. The better test is whether Beijing lets bad projects fail, which its banks rarely do.",
+      "fact": "Beijing expects more than 7 trillion yuan (just over $1 trillion) of investment in 2026 alone across its Six Networks programme of water, power grids, computing, telecoms, underground pipelines and logistics, and about 26 trillion yuan over five years, to prop up slowing growth and weak domestic demand.",
+      "opinion": [
+        {
+          "text": "without free prices, planners cannot know whether these assets earn back their cost, so useful grids come bundled with debt, excess capacity and firms that never get started.",
+          "who": "Joseph Solis-Mullen, Mises Institute"
+        }
+      ],
+      "src": [
+        {
+          "t": "Mises Institute: China: More State Investment Is Not the Answer",
+          "u": "https://mises.org/mises-wire/china-more-state-investment-not-answer"
+        }
+      ],
+      "title": "China's $4 trillion Six Networks plan: building more or building wrong?"
+    },
+    "mainstream": {
+      "claude": "That is the real risk: Cremo is the market's overflow valve, so if it shrinks, the surplus lands back on farmers' prices or on the federal budget.",
+      "fact": "Cremo, the Fribourg dairy that is the country's second-largest milk processor after Emmi, has lost more than CHF 75 million over four years, about CHF 17 million in 2025 alone despite cost cuts, SRF reports. Overproduction, thin margins, outdated plants and a fire are to blame. Cremo processes about one million litres a day from some 1,100 farmers.",
+      "opinion": [
+        {
+          "text": "Cremo plays a key role in turning surplus milk into butter and powder, which keeps the Swiss market in balance.",
+          "who": "Hansjürg Jäger, Bern University of Applied Sciences (via SRF)"
+        }
+      ],
+      "src": [
+        {
+          "t": "SRF: Cremo in der Krise – ein Problem für die ganze Milchbranche",
+          "u": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche"
+        }
+      ],
+      "title": "Switzerland's second-largest dairy is losing millions, and the whole milk market feels it"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera: Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "u": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"
+    },
+    {
+      "t": "Euronews (7 Nov)",
+      "u": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says"
+    },
+    {
+      "t": "SRF (7 Nov)",
+      "u": "https://www.srf.ch/news/schweiz/bundesgericht-ueber-die-liebe-gestolpert-eine-intrige-der-svp"
+    },
+    {
+      "t": "Doomberg (7 Nov)",
+      "u": "https://newsletter.doomberg.com/p/attrition-pocket"
+    },
+    {
+      "t": "Mises Institute (7 Nov)",
+      "u": "https://mises.org/mises-wire/china-more-state-investment-not-answer"
+    },
+    {
+      "t": "The Bitcoin Layer (6 Nov)",
+      "u": "https://thebitcoinlayer.substack.com/p/i-will-die-on-this-hill"
+    },
+    {
+      "t": "Semafor Technology (6 Nov)",
+      "u": "https://semafor.com/s/fxm9olbwec"
+    },
+    {
+      "t": "Simon Willison (6 Nov)",
+      "u": "https://simonwillison.net/2026/Nov/6/nilay-patel/"
+    }
+  ],
+  "thread": {
+    "text": "UKMTO counted 11 ships attacked around Hormuz in a week, three sunk, with traffic about 65% below pre-war levels; Iran's foreign minister set out seven conditions for reopening the strait (Al Jazeera).",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "A strait running at a third of normal with ships still sinking is a blockade in all but name, whatever either capital calls this phase.",
+      "fact": "At least 11 ships were attacked in and around the Strait of Hormuz in the week to 6 November and three of them sank, the UK's maritime agency UKMTO said in its weekly report; it counted 170 outbound and 155 inbound transits, about 65% below pre-war levels, Al Jazeera reports. Two projectiles hit Iran's Qeshm island on Friday night, the latest in weeks of strikes on air defences and launchers that President Trump has called \"minor\". Foreign Minister Abbas Araghchi set out seven conditions for reopening the strait after calls with 12 counterparts.",
+      "opinion": [
+        {
+          "text": "the risk of war in the short term has risen since the US midterms.",
+          "who": "Trita Parsi, Quincy Institute (via Al Jazeera)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Al Jazeera: Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+          "u": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"
+        },
+        {
+          "t": "US News (Reuters): Tankers hit in Hormuz as Iran keeps up pressure after US vote",
+          "u": "https://www.usnews.com/news/top-news/articles/2026-11-05/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote"
+        }
+      ],
+      "title": "Eleven ships attacked in a week as Iran says its missile range limit is gone",
+      "unc": "Iran's claims that it downed a US MQ-9 drone and that the Revolutionary Guards' roughly 2,000 km missile range limit has been lifted come from Iranian officials only.",
+      "why": "Hormuz traffic is a third of normal, and both sides are now raising the ceiling on the next round."
+    },
+    {
+      "claude": "Hitting heat and bridges before talks is leverage; Europe's refusal shows that a deal on its security made over its head would not hold.",
+      "fact": "Overnight strikes on the Kyiv region injured at least six people, including a child, and hit the Pivnichnyi (Northern) Bridge over the Dnipro, Mayor Vitali Klitschko said, disrupting heating and water in the capital; President Zelensky said 36 ballistic missiles were fired at Kyiv and its region and four were shot down, Euronews reports. In Warsaw, EU foreign policy chief Kaja Kallas rejected President Trump's talk of a \"very big\" deal that \"might involve all of Europe\", saying Europe already has a security architecture and Putin has no veto over it.",
+      "opinion": [
+        {
+          "text": "Moscow timed cutting the Dnipro bridges to the wider war with Iran.",
+          "who": "Doomberg"
+        }
+      ],
+      "src": [
+        {
+          "t": "Euronews: Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
+          "u": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says"
+        },
+        {
+          "t": "Euronews: EU rejects Trump's 'big beautiful' security deal with Russia and 'all of Europe'",
+          "u": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe"
+        },
+        {
+          "t": "Yahoo News: Kremlin negotiator returns to US ahead of Abu Dhabi peace talks",
+          "u": "https://www.yahoo.com/news/articles/kremlin-negotiator-returns-us-ahead-142913580.html"
+        },
+        {
+          "t": "Doomberg: Attrition Pocket",
+          "u": "https://newsletter.doomberg.com/p/attrition-pocket"
+        }
+      ],
+      "title": "Russia hits Kyiv's bridges and power before Abu Dhabi talks, and Europe rejects Trump's bigger deal",
+      "unc": "Zelensky's preliminary finding that Russia used North Korean KN-23 missiles is Ukraine's claim only.",
+      "why": "The fourth round of US-brokered talks opens next week with Kyiv's heating and water under fire."
+    },
+    {
+      "fact": "At least five people were killed and more than a dozen injured when a gunman opened fire on Kraków's Main Square on Saturday afternoon, Polish police said, according to Euronews; police said the attacker was shot by officers and taken to hospital. Prime Minister Donald Tusk said police are examining the background; no motive has been given.",
+      "src": [
+        {
+          "t": "Euronews: At least five killed in shooting in Kraków, Polish police say",
+          "u": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+        }
+      ],
+      "title": "Gunman kills at least five on Kraków's main square",
+      "unc": "A fire-service spokesperson told Polsat News the gunman fired from a passing car; the toll may still change.",
+      "why": "A mass shooting in the heart of one of Europe's most visited old towns."
+    },
+    {
+      "claude": "The charges are unproven, but when one bank can freeze half a country's savings, bank supervision becomes a question of regime survival.",
+      "fact": "Pedro Alliana, 52, the former vice president and Colorado Party leader, was sworn in on Friday after Congress impeached President Santiago Peña, Euronews reports, citing AFP and AP. The crisis followed this week's collapse of Ueno Bank, which froze the savings of about half of Paraguay's adults; Peña is under house arrest and is due to be questioned by prosecutors on Saturday over alleged breach of trust, influence peddling and misuse of funds.",
+      "src": [
+        {
+          "t": "Euronews: Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+          "u": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
+        },
+        {
+          "t": "The Bitcoin Layer: I Will Die On This Hill",
+          "u": "https://thebitcoinlayer.substack.com/p/i-will-die-on-this-hill"
+        }
+      ],
+      "title": "Paraguay swears in a new president after a bank collapse topples Peña",
+      "why": "A single bank failure froze savings across the country and brought down a government within a week."
+    },
+    {
+      "claude": "The affair is a real breach and the seat is a real prize; re-electing judges by party key is what turns a personal scandal into a political one.",
+      "fact": "The Federal Supreme Court ruled that the relationship between judges Yves Donzallaz and Beatrice van de Graaf was unlawful and grounds for reopening cases they decided together, SRF reports. Donzallaz, who left the SVP in 2022, accuses the party of an intrigue to remove him and warns of a \"Trumpised\" judiciary; the SVP calls that a smokescreen, and Christoph Mörgeli, who exposed the affair in Weltwoche, says the two judges alone are responsible. His rulings give the bilateral EU treaties precedence over Swiss laws.",
+      "opinion": [
+        {
+          "text": "Weltwoche has an agenda, but the affair itself happened.",
+          "who": "Lorenz Langer, University of Zurich (via SRF)"
+        }
+      ],
+      "src": [
+        {
+          "t": "SRF: Über die Liebe gestolpert – eine Intrige der SVP?",
+          "u": "https://www.srf.ch/news/schweiz/bundesgericht-ueber-die-liebe-gestolpert-eine-intrige-der-svp"
+        }
+      ],
+      "title": "A judges' affair at Switzerland's top court turns into a fight with the SVP",
+      "why": "Who fills one Federal Supreme Court seat could decide how Swiss law ranks the EU treaties."
+    },
+    {
+      "claude": "Falling yields alongside falling stocks mean investors now fear slower growth more than inflation, the reverse of the oil scare two weeks ago.",
+      "fact": "The Nasdaq ended the week down 3.4% and the S&P 500 down 2.7%, while gold rose 4.5% to about $4,075 an ounce and Brent fell about 17% to $98, according to Friday's closing prices. The US 10-year yield fell 7 basis points to 4.86%. Thursday's 5.5% Nasdaq drop was one of only 36 days since 1971 with a fall that large, The Bitcoin Layer calculates.",
+      "opinion": [
+        {
+          "text": "the selloff is a credit-cycle story first; credit had been weakening for weeks before the midterms, and stock returns from here could be tame to outright disappointing.",
+          "who": "The Bitcoin Layer"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Bitcoin Layer: I Will Die On This Hill",
+          "u": "https://thebitcoinlayer.substack.com/p/i-will-die-on-this-hill"
+        },
+        {
+          "t": "Semafor Technology: Tactical blunders",
+          "u": "https://semafor.com/s/fxm9olbwec"
+        }
+      ],
+      "title": "The week in markets: the Nasdaq loses 3.4% while gold gains 4.5% and oil falls 17%",
+      "why": "A tech selloff, an oil slide and falling yields in one week show money hiding, not fleeing."
+    }
+  ]
+}
