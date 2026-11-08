@@ -14,12 +14,17 @@
         "date": "2026-11-01",
         "text": "Week 44: Anthropic files S-1 (ticker ANT, H1 revenue $16.3bn); Alphabet loses about $500bn in a day, Intel −20%+; Nasdaq −2.0% on the week, SMI +2.4%.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: Nasdaq about −5.5% on Thursday, worst day since March 2020 (Nasdaq 100 −6.4%); data-center opponents win 38 of 39 local ballots; Anthropic's S-1/A shows ~$17bn Q3 revenue and a $567m operating loss; METR says AI roughly doubled the pace of Anthropic's research.",
+        "week": "2026-W45"
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-01",
+    "updated": "2026-11-08",
     "id": "ai-trade"
   },
   {
@@ -60,12 +65,17 @@
         "date": "2026-11-01",
         "text": "28 Oct: Fed holds at 3.75–4.00% with two dissents for a hike (Cook, Hammack); futures price a December hike at about 85%. ECB holds at 2.5%; Lagarde to leave 7 Feb 2027.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: US adds 165,000 jobs in October; futures still lean to a December hike; US 10-year −7 bp to 4.86%; Bank of England hikes in a divided vote and warns of ~5% inflation.",
+        "week": "2026-W45"
       }
     ],
     "region": "USA",
     "status": "active",
     "title": "Fed, rates and the bond market",
-    "updated": "2026-11-01",
+    "updated": "2026-11-08",
     "id": "fed-rates"
   },
   {
@@ -83,12 +93,17 @@
         "date": "2026-11-01",
         "text": "Week 44: Q3 GDP contracts; third protest weekend draws about 320,000, down from 550,000.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: nationwide general strike on 5 Nov over wages and public services; Belgium's coalition also breaks over its budget.",
+        "week": "2026-W45"
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "France: unrest and debt",
-    "updated": "2026-11-01",
+    "updated": "2026-11-08",
     "id": "france-debt"
   },
   {
@@ -146,12 +161,21 @@
       {
         "date": "2026-11-07",
         "text": "UKMTO: 11 ships attacked around Hormuz in the week to 6 Nov, three sunk, traffic about 65% below pre-war; Qeshm hit again; Araghchi sets seven conditions to reopen the strait."
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: Doha talks and a 6% oil drop on Monday, then US strikes on Qeshm; UKMTO counts 11 ships attacked and three sunk in the week to 6 Nov; Trump says the war cost the midterms but he would do it again.",
+        "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "US sets up Task Force Iron Gate to close Iran's land routes and the Caspian on top of the naval blockade; a Saudi Aramco building in Riyadh is hit by debris from an intercepted projectile (Al Jazeera)."
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-11-07",
+    "updated": "2026-11-08",
     "id": "iran-war"
   },
   {
@@ -187,12 +211,17 @@
         "date": "2026-11-01",
         "text": "Week 44: Strategy buys no Bitcoin 19–25 Oct, holds 848,517 BTC, buys back $205m of STRC; MSCI decision date not confirmed this week.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45 (unconfirmed, Bitcoin Treasuries): Strategy buys 811 BTC and spends $208m buying back STRC, which returns to $100.",
+        "week": "2026-W45"
       }
     ],
     "region": "Bitcoin",
     "status": "active",
     "title": "Strategy vs MSCI",
-    "updated": "2026-11-01",
+    "updated": "2026-11-08",
     "id": "strategy-msci"
   },
   {
@@ -206,12 +235,17 @@
         "date": "2026-11-01",
         "text": "Week 44: BBIT listing on SIX still expected in November; no date announced.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: BBIT still has no SIX listing date.",
+        "week": "2026-W45"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bitcoin in Switzerland",
-    "updated": "2026-11-01",
+    "updated": "2026-11-08",
     "id": "swiss-bitcoin-etf"
   },
   {
@@ -237,12 +271,17 @@
       {
         "date": "2026-11-06",
         "text": "After meeting Putin's envoy Kirill Dmitriev, Trump promised a \"big agreement\" that could involve more than Ukraine, ahead of talks in Abu Dhabi next week (International Intrigue)."
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: US to mediate Russia–Ukraine talks in Abu Dhabi; Russia strikes Kyiv's Northern Bridge and power; EU's Kallas rejects Trump's 'very big' deal covering all of Europe.",
+        "week": "2026-W45"
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "Ukraine: peace talks",
-    "updated": "2026-11-06",
+    "updated": "2026-11-08",
     "id": "ukraine-talks"
   },
   {
@@ -250,12 +289,17 @@
       {
         "date": "2026-11-04",
         "text": "Democrats won both chambers of Congress, including Senate seats in Texas and Kansas; Trump congratulated them and pledged to work across the aisle."
+      },
+      {
+        "date": "2026-11-08",
+        "text": "Week 45: Democrats win both chambers, including Senate seats in Texas and Kansas; Vance blames the Iran war; Republicans press Trump to fire Hegseth; subpoenas for Trump-linked firms in preparation.",
+        "week": "2026-W45"
       }
     ],
     "region": "Americas",
     "status": "active",
     "title": "US midterms",
-    "updated": "2026-11-04",
+    "updated": "2026-11-08",
     "id": "us-midterms"
   }
 ]

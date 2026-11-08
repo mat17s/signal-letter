@@ -28,6 +28,15 @@
     "id": "blingbling-cycle-low"
   },
   {
+    "check": "2027-06-30",
+    "claim": "UK inflation will rise to near 5%.",
+    "made": "2026-11-05",
+    "source": "5 Nov rate decision, via CNBC",
+    "status": "open",
+    "who": "Bank of England",
+    "id": "boe-inflation-5"
+  },
+  {
     "check": "2027-04-30",
     "claim": "The US bond bear market probably has further to run.",
     "made": "2026-10-13",
@@ -84,6 +93,15 @@
     "id": "kalshi-oct-hike"
   },
   {
+    "check": "2026-12-31",
+    "claim": "About an 80% chance that full US–Iran fighting resumes.",
+    "made": "2026-11-06",
+    "source": "via Semafor Flagship, 6 Nov",
+    "status": "open",
+    "who": "Rapidan Energy",
+    "id": "rapidan-iran-80"
+  },
+  {
     "check": "2027-10-31",
     "claim": "Bitcoin's bottom is slightly below $60,000, then back to six figures; 20–30% a year long run.",
     "made": "2026-10-16",
@@ -96,10 +114,21 @@
     "check": "2026-11-10",
     "claim": "Democrats have a 76% chance of winning the Senate in the 3 Nov midterms (The Economist's model: 54%).",
     "made": "2026-10-30",
+    "result": "Democrats won the Senate on 3 Nov, including seats in Texas and Kansas.",
     "source": "via Semafor Americana",
-    "status": "open",
+    "status": "right",
     "who": "Nate Silver",
     "id": "silver-senate-2026"
+  },
+  {
+    "check": "2027-11-08",
+    "claim": "Bitcoin is in the early stages of a bull market; the current fear spike will shake out weak holders.",
+    "made": "2026-11-08",
+    "result": "Test: Bitcoin above its 8 Nov level (~$75,900) a year later without a lower low below the Oct 2026 lows.",
+    "source": "Bitcoin Sentiment Weekly",
+    "status": "open",
+    "who": "Michael Sullivan",
+    "id": "sullivan-early-bull"
   },
   {
     "check": "2027-04-30",

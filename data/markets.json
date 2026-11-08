@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-07T17:40:00Z",
+  "asOf": "2026-11-08T17:45:00Z",
   "intraday": false,
   "items": [
     {
@@ -36,11 +36,11 @@
     },
     {
       "ccy": "USD",
-      "d1": 0.5,
+      "d1": -0.09,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 76068,
-      "w1": -1.7
+      "price": 75814,
+      "w1": -3.12
     },
     {
       "ccy": "USD",
@@ -83,5 +83,5 @@
       "w1": -0.4
     }
   ],
-  "label": "Sat 7 Nov, 18:40 · Friday close, Bitcoin live"
+  "label": "Sun 8 Nov, 18:45 · Friday close, Bitcoin live"
 }

@@ -1,0 +1,209 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-08",
+  "label": "Sunday, 8 November 2026",
+  "number": {
+    "text": "People who have reached the Canary island of El Hierro, population 11,400, in about 30 boats since 1 November (local authorities via Al Jazeera).",
+    "value": "3,300"
+  },
+  "pdf": "daily/2026-11-08.pdf",
+  "podcast": {
+    "episode": "Nach den Wahlen in Israel: Was wir vor Ort erlebt haben (#245)",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/Nach-den-Wahlen-in-Israel-Was-wir-vor-Ort-erlebt-haben--Grassl--Matei-245-e3rp77u",
+    "why": "Recorded in Israel after the election: the mood, the hard coalition maths behind today's Eisenkot mandate, and what the US midterms mean for Israel (in German)."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Small, but it is the same problem AI agents now multiply: software that fetches things on the chance someone wants them. Every wasted request costs server time and energy, and at agent scale those defaults matter.",
+      "fact": "Simon Willison found that Firefox prefetches the next page of results whenever a site sends a link header marked rel=next, so every visit to a Datasette table also loaded a second page almost nobody clicks. He changed Datasette to stop sending the header to Firefox on HTML pages, and found the Firefox bug about it has been open for 24 years, with an early comment linking to his own 2002 complaint.",
+      "src": [
+        {
+          "t": "Simon Willison: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+          "u": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+        }
+      ],
+      "title": "Why your browser quietly downloads pages you never open"
+    },
+    "austrian": {
+      "claude": "The Austrian point is that cheap credit built the boom and dearer credit exposes it. The counter: the Fed is already hiking into a selloff, which is the opposite of the bailout reflex the school expects, so this time the test is whether Warsh holds his nerve.",
+      "fact": "The Nasdaq 100 fell 6.4% on Thursday, its steepest one-day drop since March 2020, while traders still expect another rate hike in December after September's, James Lavish writes. Texas, where Wells Fargo estimates more than a quarter of planned US data-center capacity sits, elected Gina Hinojosa governor on a promise to pause new data centers.",
+      "opinion": [
+        {
+          "text": "the AI boom has its own inflation problem: chips, energy and other inputs are getting dearer faster than companies can raise prices, and Fed chair Kevin Warsh, who prefers to read markets over lagging data, now has a selloff and stubborn inflation pulling him in opposite directions.",
+          "who": "James Lavish, The Informationist"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Informationist: Can the AI Selloff Stop the Fed?",
+          "u": "https://www.jameslavish.com/p/can-the-ai-selloff-stop-the-fed"
+        }
+      ],
+      "title": "Can a stock-market slide stop Warsh's Fed from hiking again?"
+    },
+    "mainstream": {
+      "claude": "Aeschi lost in 2015 when parliament picked Parmelin over him; a two-name ticket protects the SVP from a repeat, but it also gives the other parties a choice he may not survive.",
+      "fact": "Thomas Aeschi, who leads the SVP group in parliament, wants to succeed Guy Parmelin in the Federal Council, SRF reports, and has called for the party to put forward at least two names. Valais's Franz Ruppen and Michael Graber are also running, while St Gallen's Esther Friedli has ruled herself out.",
+      "opinion": [
+        {
+          "text": "the party should offer parliament at least a two-person ticket.",
+          "who": "Thomas Aeschi (via Südostschweiz)"
+        }
+      ],
+      "src": [
+        {
+          "t": "SRF: Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+          "u": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden"
+        },
+        {
+          "t": "Südostschweiz: Aeschi will mindestens ein Zweierticket für Parmelin-Nachfolge",
+          "u": "https://www.suedostschweiz.ch/schweiz-und-welt/aeschi-will-mindestens-ein-zweierticket-fuer-parmelin-nachfolge-2-2192388"
+        },
+        {
+          "t": "SRF: Walliser Franz Ruppen und Michael Graber kandidieren",
+          "u": "https://www.srf.ch/news/schweiz/bundesrats-kandidatur-walliser-franz-ruppen-und-michael-graber-kandidieren"
+        },
+        {
+          "t": "SRF: Esther Friedli verzichtet",
+          "u": "https://www.srf.ch/news/schweiz/bundesratswahl-esther-friedli-verzichtet"
+        }
+      ],
+      "title": "Who replaces Guy Parmelin? SVP group leader Thomas Aeschi enters the race"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera (8 Nov)",
+      "u": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+    },
+    {
+      "t": "Al Jazeera live (8 Nov)",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"
+    },
+    {
+      "t": "Euronews (7–8 Nov)",
+      "u": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+    },
+    {
+      "t": "SRF (7–8 Nov)",
+      "u": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden"
+    },
+    {
+      "t": "swissinfo (7 Nov)",
+      "u": "https://www.swissinfo.ch/eng/latest-news/"
+    },
+    {
+      "t": "The Informationist (8 Nov)",
+      "u": "https://www.jameslavish.com/p/can-the-ai-selloff-stop-the-fed"
+    },
+    {
+      "t": "Simon Willison (7 Nov)",
+      "u": "https://simonwillison.net/2026/Nov/7/link-rel-next/"
+    }
+  ],
+  "thread": {
+    "text": "The US set up Task Force Iron Gate to close Iran's land routes and the Caspian, adding a land blockade to the naval one, while a Saudi Aramco building in Riyadh was hit by debris (Al Jazeera).",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "Closing land routes is the step that turns a naval blockade into a siege. That makes a deal more urgent for Tehran, but also gives its allies in Yemen more reason to hit Gulf targets.",
+      "fact": "US Central Command said on Saturday it had set up a task force under Adm. Brad Cooper to stop Iran moving weapons and materials by land, covering its land borders and the Caspian Sea, on top of the naval blockade of Iranian ports; it says it has redirected 147 vessels since July and disabled five, most recently the St Kitts-flagged M/V Huda in the Gulf of Oman, Al Jazeera reports. Euronews reports new targeted US strikes on Iran as President Trump claims progress in the Qatari-mediated talks. Saudi Arabia's energy ministry confirmed that a Saudi Aramco building in Riyadh was hit by falling debris after an incoming projectile was shot down, amid fighting with the Houthis in Yemen.",
+      "src": [
+        {
+          "t": "Al Jazeera: US launches task force to disrupt Iran's land-based supply routes",
+          "u": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+        },
+        {
+          "t": "Al Jazeera live: Saudi Aramco tower in Riyadh damaged",
+          "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes"
+        },
+        {
+          "t": "Euronews: US launches new targeted strikes on Iran as Trump claims progress in talks",
+          "u": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+        }
+      ],
+      "title": "The US opens a land front against Iran with Task Force Iron Gate, and a Saudi Aramco tower is hit in Riyadh",
+      "unc": "Iran's Revolutionary Guards say two oil tankers hit mines near Hormuz; Iranian state media reported explosions on Qeshm and in Jask, Sirik and Bandar Abbas. Both come from Iranian sources only.",
+      "why": "Washington is widening its blockade from the sea to Iran's borders and the Caspian while talks continue."
+    },
+    {
+      "claude": "The numbers do not add up yet: 67 recommendations include votes he says he will not govern with, so the real test is whether he can split a party off Netanyahu's bloc.",
+      "fact": "President Isaac Herzog gave the mandate to Gadi Eisenkot of the Yashar party after 67 lawmakers recommended him against 46 for Benjamin Netanyahu, Al Jazeera and SRF report. Eisenkot has 28 days, plus a possible 14-day extension, to reach 61 of the Knesset's 120 seats. In the 27 October election his four-party alliance won 48 seats, Netanyahu's bloc 53 and the Arab-led parties 19, and Eisenkot has ruled out governing with the Arab-led parties.",
+      "src": [
+        {
+          "t": "Al Jazeera: Israel's president picks Eisenkot over Netanyahu to form next government",
+          "u": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+        },
+        {
+          "t": "SRF: Gadi Eisenkot mit Regierungsbildung beauftragt",
+          "u": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-israel-gadi-eisenkot-mit-regierungsbildung-beauftragt"
+        }
+      ],
+      "title": "Israel's president passes over Netanyahu and asks Gadi Eisenkot to form the next government",
+      "why": "For the first time since 2022, someone other than Netanyahu gets the first try at building a coalition."
+    },
+    {
+      "fact": "The death toll from Saturday's shooting on Kraków's Main Market Square rose to six, four women and two men, with 15 wounded, Al Jazeera reports; a British national is among the dead. Police shot and detained the suspect, a Polish citizen whom the interior minister described as holding ultra-nationalist views and who fired from his car after driving onto the square. Prime Minister Donald Tusk called it an act of terrorism and declared two days of national mourning; SRF reports police assume he acted alone.",
+      "src": [
+        {
+          "t": "Al Jazeera: At least six people killed in shooting in Poland's Krakow main square",
+          "u": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+        },
+        {
+          "t": "SRF: Tödliche Schüsse in Krakau – das ist bekannt",
+          "u": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt"
+        }
+      ],
+      "title": "Kraków shooting: six dead, Tusk calls it terrorism and declares national mourning",
+      "why": "Poland's worst attack in years now has a suspect police describe as an ultra-nationalist."
+    },
+    {
+      "claude": "The yearly total is down, but arrivals are bunching on the smallest and most exposed island, which is what turns a statistic into an emergency.",
+      "fact": "Authorities on El Hierro declared an emergency after more than 3,300 people arrived in about 30 boats since the start of November, Al Jazeera reports, citing local officials; the island's council head Alpidio Armas called conditions at the hospital undesirable. Canary Islands leader Fernando Clavijo called the situation absolutely unsustainable. Spain's interior ministry counts 13,327 arrivals on the Canaries from January to October, 5.5% fewer than a year earlier.",
+      "src": [
+        {
+          "t": "Al Jazeera: Canary Islands' El Hierro declares emergency amid migrant, refugee influx",
+          "u": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
+        }
+      ],
+      "title": "Canary island of El Hierro declares an emergency after 3,300 migrants arrive in a week",
+      "why": "An island of 11,400 people has received about 30 boats since 1 November and asks Madrid for help."
+    },
+    {
+      "claude": "A justice-department probe of the party that now controls Congress invites the obvious reply: congressional investigations of the White House from January.",
+      "fact": "President Trump ordered the Justice Department to investigate Democrats he accuses of threatening people, Al Jazeera reports, after the party won control of both chambers of Congress this week. Euronews and SRF report that he has offered the White House press secretary role to UFC chief Dana White.",
+      "src": [
+        {
+          "t": "Al Jazeera: Trump orders DOJ to investigate Democrats for 'threatening' people",
+          "u": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people"
+        },
+        {
+          "t": "Euronews: Trump offers UFC boss press secretary role",
+          "u": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job"
+        },
+        {
+          "t": "SRF: Trump schlägt Kampfsportler als Pressesprecher vor",
+          "u": "https://www.srf.ch/news/international/midterms-2026-us-praesident-trump-schlaegt-kampfsportler-als-pressesprecher-vor"
+        }
+      ],
+      "title": "After losing Congress, Trump orders a DOJ probe of Democrats and offers the UFC boss the press job",
+      "why": "The first moves after the midterm defeat point to confrontation rather than a reset."
+    },
+    {
+      "claude": "Pump prices lag crude by weeks, so if Brent stays near $98 there is more relief to come, but one escalation in Hormuz could undo it within days.",
+      "fact": "Unleaded 95 now costs CHF 1.99 a litre on average in Switzerland, the first time it has been under CHF 2 since early September, swissinfo reports. Brent crude ended the week at about $98 a barrel, down about 17% in a week, according to Friday's closing prices.",
+      "src": [
+        {
+          "t": "swissinfo: Petrol prices in Switzerland fall below CHF2",
+          "u": "https://www.swissinfo.ch/eng/latest-news/"
+        }
+      ],
+      "title": "Swiss petrol falls below CHF 2 a litre for the first time since early September",
+      "why": "The oil slide is reaching Swiss pumps."
+    }
+  ]
+}
