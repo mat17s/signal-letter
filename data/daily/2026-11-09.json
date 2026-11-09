@@ -1,0 +1,262 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-09",
+  "label": "Monday, 9 November 2026",
+  "number": {
+    "text": "Bitcoin held by Strategy as of 8 November after it bought 1,036 more last week, the first time above 850,000 (company filing via Bitcoin Treasuries).",
+    "value": "850,364"
+  },
+  "pdf": "daily/2026-11-09.pdf",
+  "podcast": {
+    "episode": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+    "show": "All-In (VC perspective)",
+    "url": "https://allinchamathjason.libsyn.com/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump",
+    "why": "The Silicon Valley investors' take on the midterms, the roughly $4 trillion AI selloff and the data-centre backlash, released 7 November."
+  },
+  "reads": {
+    "ai": {
+      "claude": "This newsletter runs on exactly this kind of memory: short notes on what broke in earlier runs are what keep each Daily from repeating old mistakes. The lesson from the Pokémon test is that fewer, better notes beat a big pile of them, which is true for people as well.",
+      "fact": "Anthropic published research on how Claude agents use idle time to check the notes they keep as files against logs of past work, fixing errors and reorganising what they remember. It says newer models are much better at judging what to save, and that explaining why memory matters works better than rules on what to write; in a Pokémon test, Fable 5 earned four badges with 10 memory files while the older Sonnet 3.7 earned one with 413, The Rundown AI reports.",
+      "src": [
+        {
+          "t": "Anthropic: Components of agent memory",
+          "u": "https://www.anthropic.com/research/components-of-agent-memory"
+        },
+        {
+          "t": "The Rundown AI: Jensen Huang admits affair amid spy claims",
+          "u": "https://therundownai.beehiiv.com/p/jensen-huang-admits-affair-amid-spy-claims"
+        }
+      ],
+      "title": "How Claude 'dreams': Anthropic explains how its agents tidy their own memory"
+    },
+    "austrian": {
+      "claude": "An Austrian would call the miners' move healthy: prices are telling them that a megawatt earns more renting to an AI lab than hashing, and capital follows. The counter-argument is that the AI side of that price is itself inflated by cheap funding, so miners may be swapping a hard asset for a lease tied to the boom that just sold off. On Tether the school's answer is simple: unaudited reserves deserve no trust.",
+      "fact": "Riot Platforms cut its bitcoin from 11,380 to 2,418 coins in the third quarter, mostly to fund data centres, and signed a 15-year lease of its 910-megawatt Corsicana, Texas campus to an AI lab worth about $28bn, Bitcoin Treasuries reports; Keel Infrastructure (formerly Bitfarms) sold all its bitcoin for the same reason. Tether's CEO Paolo Ardoino said in Lugano the company owns about 150,000 BTC, while its latest reserve attestation shows about 100,000.",
+      "opinion": [
+        {
+          "text": "the extra 50,000 coins are a claim, not a disclosure, until Tether says where they sit and who holds them.",
+          "who": "Bitcoin Treasuries"
+        }
+      ],
+      "src": [
+        {
+          "t": "Bitcoin Treasuries: Riot Platforms cuts bitcoin holdings 79% to 2,418 BTC",
+          "u": "https://bitcointreasuries.net/news/riot-platforms-cuts-bitcoin-holdings-79percent-to-2418-btc"
+        },
+        {
+          "t": "Bitcoin Treasuries: Tether owns 150,000 bitcoin, Paolo Ardoino says",
+          "u": "https://bitcointreasuries.net/news/tether-owns-150000-bitcoin-worth-dollar116-billion-paolo-ardoino-says"
+        }
+      ],
+      "title": "Bitcoin miners sell their coins to build AI data centres, and Tether claims 50,000 BTC it has not shown"
+    },
+    "mainstream": {
+      "claude": "Both incumbents who missed out sit on the political flanks, so the runoff is a test of whether Fribourg's centre is willing to keep a left-right balance in its seven-seat government.",
+      "fact": "In the first round of Fribourg's cantonal government election, FDP incumbents Romain Collaud and Didier Castella and Mitte's Marie-France Roth Pasquier won their seats outright, SRF reports. SVP minister Philippe Demierre (37,095 votes) and Green minister Sylvie Bonvin-Sansonnens (32,617) fell short of the absolute majority, and the remaining four seats go to a second round on 29 November.",
+      "src": [
+        {
+          "t": "SRF: Wahlen Kanton Freiburg – Erfolg für Bürgerliche, sie holen drei Sitze im Staatsrat",
+          "u": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat"
+        }
+      ],
+      "title": "Fribourg's centre-right takes three government seats outright; SVP and Green ministers face a runoff"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (9 Nov, two editions)",
+      "u": "https://semafor.com/s/ndhwprvj4x"
+    },
+    {
+      "t": "International Intrigue (9 Nov)",
+      "u": "https://archives.internationalintrigue.io/p/fre-f210"
+    },
+    {
+      "t": "The Rundown AI (9 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/jensen-huang-admits-affair-amid-spy-claims"
+    },
+    {
+      "t": "Bitcoin Treasuries (9 Nov)",
+      "u": "https://newsletter.bitcointreasuries.net/p/strategy-just-crossed-one-of-its-biggest-milestones-ever"
+    },
+    {
+      "t": "Al Jazeera (8–9 Nov)",
+      "u": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+    },
+    {
+      "t": "Euronews (6–9 Nov)",
+      "u": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+    },
+    {
+      "t": "SRF (8–9 Nov)",
+      "u": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-erfolg-fuer-buergerliche-sie-holen-drei-sitze-im-staatsrat"
+    },
+    {
+      "t": "Anthropic (research)",
+      "u": "https://www.anthropic.com/research/components-of-agent-memory"
+    }
+  ],
+  "thread": {
+    "text": "US, Russian and Ukrainian officials meet in Abu Dhabi on Tuesday and Wednesday, the first direct talks in nine months, and France says Europeans will join (Semafor, Euronews).",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "The bigger market risk is not this week's share price but policy: a Democratic Congress now has a concrete case for tighter chip controls and closer vetting of resellers in Southeast Asia, which would hit Nvidia's sales more than any board review.",
+      "fact": "Nvidia's board said on Sunday that a committee of independent directors with outside lawyers will review whether Huang was the target of a foreign intelligence effort; Huang stays CEO, and the board says it has no reason to believe national-security or company secrets were compromised. In a letter to staff Huang admitted an extramarital affair and apologised. Al Jazeera and Euronews report the woman worked for Megaspeed, a Singapore firm that bought about $4.8bn of Nvidia equipment and that US officials suspect of routing chips to China; China denies the spying claims. House Republicans have asked Huang to brief Congress.",
+      "opinion": [
+        {
+          "text": "modern espionage is about a mosaic of small insights, not one stolen blueprint, so asking only whether a secret leaked misses whether the affair shaped how Nvidia vetted buyers and lobbied on export controls.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Nvidia: Statement from the board of directors",
+          "u": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "t": "Nvidia: A message to our company",
+          "u": "https://nvidianews.nvidia.com/news/a-message-to-our-company"
+        },
+        {
+          "t": "Al Jazeera: Nvidia investigates CEO Jensen Huang over affair",
+          "u": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+        },
+        {
+          "t": "Euronews: Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy",
+          "u": "https://www.euronews.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-following-alleged"
+        },
+        {
+          "t": "International Intrigue: Love bytes",
+          "u": "https://archives.internationalintrigue.io/p/fre-f210"
+        }
+      ],
+      "title": "Nvidia's board investigates Jensen Huang after he admits an affair with a woman US officials link to Chinese intelligence",
+      "unc": "International Intrigue puts Monday's pre-market fall at about 5%, or $225bn of market value; we could not confirm the day's move.",
+      "why": "The CEO of the company at the centre of the AI boom is now a national-security question, a week after the AI selloff."
+    },
+    {
+      "claude": "Europe's worry is a deal agreed over Kyiv's head; being in the room in Abu Dhabi is the only way to avoid that, which is why Barrot's announcement matters more than the G7 statement that will follow.",
+      "fact": "US, Russian and Ukrainian officials meet in Abu Dhabi on Tuesday and Wednesday; US envoy Steve Witkoff says the agenda covers security guarantees for Ukraine, Europe's post-war security set-up and reconstruction, Semafor reports. French foreign minister Jean-Noël Barrot said Europeans will join the talks, Euronews reports, and G7 foreign ministers meet in Paris this week to press for a bigger European role.",
+      "opinion": [
+        {
+          "text": "as long as the White House accepts small gestures instead of real concessions, Putin will not change course.",
+          "who": "Atlantic Council expert (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: US to hold trilateral Ukraine talks in UAE",
+          "u": "https://semafor.com/s/6dsn7gpfa7"
+        },
+        {
+          "t": "Euronews: Europeans to join Russia-Ukraine talks in Abu Dhabi, says French FM Barrot",
+          "u": "https://www.euronews.com/2026/11/08/europeans-to-join-russia-ukraine-talks-in-abu-dhabi-says-french-fm-barrot"
+        },
+        {
+          "t": "Semafor Flagship: EU wants say in Ukraine talks",
+          "u": "https://semafor.com/s/u1m0pn15pv"
+        }
+      ],
+      "title": "Ukraine talks move to Abu Dhabi on Tuesday, and Europe wants a seat at the table",
+      "unc": "Semafor cites hacked Russian records suggesting Moscow believes almost 400,000 Russians have died in the war; this has not been independently confirmed.",
+      "why": "The first direct US-Russia-Ukraine negotiations in nine months start tomorrow."
+    },
+    {
+      "claude": "Declaring victory while squeezing harder is a classic way to set up a deal on your own terms; the risk is that Tehran, which claims credit for the Republicans' midterm losses, reads US politics as a reason to wait.",
+      "fact": "President Trump said the US has won the war and that the land blockade of Iran is now in effect, while Secretary of State Marco Rubio reported no progress in talks, Euronews and Al Jazeera report. Trump also said further US strikes were highly unlikely, and Iran said negotiations were paused after the US midterms, according to Semafor. Brent stayed near $98 a barrel, about 17% lower than a week ago.",
+      "src": [
+        {
+          "t": "Euronews: Trump says US has 'won' Iran war as Rubio reports no progress in talks",
+          "u": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
+        },
+        {
+          "t": "Al Jazeera live: Trump says land blockade in effect",
+          "u": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+        },
+        {
+          "t": "Semafor Flagship: Oil down on Mideast diplomacy",
+          "u": "https://semafor.com/s/lx8sjf6r9j"
+        }
+      ],
+      "title": "Trump says the US has 'won' the Iran war as the land blockade takes effect and Rubio reports no progress",
+      "unc": "Semafor reports Trump meets Qatar's prime minister in Washington today; we could not confirm it elsewhere.",
+      "why": "Washington tightens the siege while declaring victory, and oil keeps falling on hopes of a deal."
+    },
+    {
+      "claude": "This is what a bank run looks like when one app holds most of a country's young savers: the run was fast, and the political damage came even faster than the losses can be counted.",
+      "fact": "Ueno, Paraguay's largest digital bank, collapsed amid allegations of insider lending and ties to the ruling Colorado party, cutting off about half the population from their funds, Semafor reports. Peña was removed from office and placed under house arrest, SRF reports, and Euronews reports Vice President Pedro Alliana was sworn in on 7 November after the impeachment.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Paraguay bank collapse hits millions",
+          "u": "https://semafor.com/s/n2nljboihk"
+        },
+        {
+          "t": "SRF: Nach Amtsenthebung – Paraguays Präsident Peña unter Hausarrest",
+          "u": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest"
+        },
+        {
+          "t": "Euronews: Alliana sworn in as Paraguay president after Peña's impeachment",
+          "u": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
+        }
+      ],
+      "title": "Paraguay's president Santiago Peña is impeached and put under house arrest after the Ueno bank collapse",
+      "unc": "Euronews first reported on 5 November that Peña would resign; later reports describe an impeachment, so the exact sequence is still unclear.",
+      "why": "A failed digital bank left about half the country without access to its money and has now toppled the government."
+    },
+    {
+      "claude": "Correction to yesterday's Daily: International Intrigue, citing The Hill, reports Trump now says he was 'just kidding' about offering the press secretary job to UFC boss Dana White.",
+      "fact": "Trump named Stephen Miller, the architect of his immigration crackdown, to succeed Susie Wiles as White House chief of staff, Euronews and SRF report. Semafor says Miller has also been a driving force in foreign policy.",
+      "opinion": [
+        {
+          "text": "the swap shows little appetite for compromise and may point to a security agenda focused closer to home, from crime to trafficking in the Americas.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Euronews: Trump appoints immigration hardliner Miller as new chief of staff",
+          "u": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
+        },
+        {
+          "t": "SRF: Stabschef Stephen Miller – ein Hardliner der Superlative",
+          "u": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative"
+        },
+        {
+          "t": "The Hill: Trump, Miller promotion and the Democratic majority",
+          "u": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/"
+        }
+      ],
+      "title": "Trump makes Stephen Miller his chief of staff, replacing Susie Wiles",
+      "why": "After losing Congress, Trump picks his most combative loyalist to run the White House."
+    },
+    {
+      "fact": "The UN climate summit opened on Monday in Antalya, Türkiye, with Australia chairing the negotiations, Semafor and International Intrigue report. Euronews reports European governments are scrambling for more fossil fuels even as they push for climate ambition, and swissinfo reports Switzerland's priority is defending existing commitments.",
+      "opinion": [
+        {
+          "text": "petrostate resistance, US absence and indifference from big emitters make a major breakthrough highly unlikely.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Hopes low for COP31 summit",
+          "u": "https://semafor.com/s/38rq9dl1cy"
+        },
+        {
+          "t": "Euronews: Europe talks green at COP31 – but scrambles for more fossil fuels",
+          "u": "https://www.euronews.com/2026/11/09/europe-talks-green-at-cop31-but-scrambles-for-more-fossil-fuels"
+        },
+        {
+          "t": "swissinfo: latest news",
+          "u": "https://www.swissinfo.ch/eng/latest-news/"
+        }
+      ],
+      "title": "COP31 opens in Antalya with low hopes as Europe talks green and buys more gas",
+      "why": "The climate summit starts as the Iran war and the AI build-out push energy security ahead of emissions."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-08T17:45:00Z",
-  "intraday": false,
+  "asOf": "2026-11-09T17:40:00Z",
+  "intraday": true,
   "items": [
     {
       "ccy": "pts",
@@ -36,19 +36,19 @@
     },
     {
       "ccy": "USD",
-      "d1": -0.09,
+      "d1": -1.4,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 75814,
-      "w1": -3.12
+      "price": 74908,
+      "w1": -2.35
     },
     {
       "ccy": "USD",
-      "d1": -0.95,
+      "d1": 0.9,
       "key": "XAU",
       "name": "Gold",
-      "price": 4074.5,
-      "w1": 4.5
+      "price": 4111.02,
+      "w1": 0.9
     },
     {
       "ccy": "USD",
@@ -68,11 +68,11 @@
     },
     {
       "ccy": "",
-      "d1": -0.38,
+      "d1": -0.29,
       "key": "EURCHF",
       "name": "EUR/CHF",
-      "price": 0.9138,
-      "w1": -0.77
+      "price": 0.9146,
+      "w1": -0.68
     },
     {
       "ccy": "",
@@ -83,5 +83,5 @@
       "w1": -0.4
     }
   ],
-  "label": "Sun 8 Nov, 18:45 · Friday close, Bitcoin live"
+  "label": "Mon 9 Nov, 18:40 · intraday (Bitcoin, gold, EUR/CHF live; others Friday close)"
 }
