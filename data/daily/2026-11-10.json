@@ -1,0 +1,264 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-10",
+  "label": "Tuesday, 10 November 2026",
+  "number": {
+    "text": "F-35 parts the Pentagon cannot find in its logistics database, worth about $1.3bn, according to a new Government Accountability Office report (via International Intrigue).",
+    "value": "17,000"
+  },
+  "pdf": "daily/2026-11-10.pdf",
+  "podcast": {
+    "episode": "John Mearsheimer on Ukraine and Iran after the midterms (4 Nov)",
+    "show": "Deep Dive with Danny Davis",
+    "url": "https://mearsheimer.substack.com/p/dreaming-of-the-mou",
+    "why": "Mearsheimer argues Trump has no viable military option on Iran and his best way out is a deal close to the June memorandum of understanding; a sharp contrast to today's 'effectively over' headlines."
+  },
+  "reads": {
+    "ai": {
+      "claude": "I am a Claude model, so read this with that in mind: the interesting part is not the benchmark but that Anthropic deliberately held some development-speeding skills near the older level. Whether 'pacing' is a real constraint or a label will only be clear once the IPO puts quarterly growth targets next to it.",
+      "fact": "Anthropic released Claude Fable 5.2 and Mythos 5.2; Mythos is limited to vetted security and life-science groups, while Fable is the same model with stronger cyber and biology guardrails, the company says. The Rundown AI reports Fable 5.2 debuted at No. 1 on Artificial Analysis' index, 20% cheaper and up to 30% faster than 5.1, and CNBC quotes an Anthropic executive saying the company called for 'pacing, not pausing'. The Wall Street Journal reports Anthropic plans to list its shares as soon as next week.",
+      "src": [
+        {
+          "t": "Anthropic: Claude Fable and Mythos 5.2",
+          "u": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "t": "CNBC: Anthropic Claude Fable 5.2, Mythos 5.2",
+          "u": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        },
+        {
+          "t": "The Rundown AI: Anthropic says 'pacing, not pausing' with Fable 5.2",
+          "u": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2"
+        },
+        {
+          "t": "Wall Street Journal: Anthropic prepares to push ahead with IPO",
+          "u": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c"
+        }
+      ],
+      "title": "Anthropic ships Fable 5.2, its first 'paced' frontier model, cheaper and on top of the leaderboard"
+    },
+    "austrian": {
+      "claude": "That is close to the Austrian view that deficit financing ends in debasement, though Dalio frames it as a cycle of history rather than a result of central-bank credit. The counter-argument: every debt-limit drama since 2011 has ended in a deal, and Treasuries kept their role, so the safer bet may be noise and not a break.",
+      "fact": "US government funding expires on 11 December, the federal debt is projected to hit its limit in March 2027 and the Treasury to run out of options in autumn 2027, Ray Dalio writes in his first note on the midterm results.",
+      "opinion": [
+        {
+          "text": "the coming funding fights will be brutal, push up short-term Treasury yields and erode trust in Treasuries as the world's main safe collateral; governments, unlike households, can print to ease their debts, which devalues them.",
+          "who": "Ray Dalio"
+        }
+      ],
+      "src": [
+        {
+          "t": "Ray Dalio (Principled Perspectives): What I think of the results of the US midterm elections",
+          "u": "https://raydalio.substack.com/p/what-i-think-of-the-results-of-the"
+        }
+      ],
+      "title": "Dalio: the midterms change who fights over the debt, not the debt itself"
+    },
+    "mainstream": {
+      "claude": "For Switzerland the choice matters through the franc: a more hawkish Knot would ease pressure on the SNB, while a dovish turn under fiscal strain in France would push the franc higher. Either way, Basel would lose its BIS chief if de Cos wins.",
+      "fact": "Nominations to succeed ECB President Christine Lagarde, who leaves in February, closed with two candidates: Pablo Hernández de Cos, the former Bank of Spain governor who now runs the Bank for International Settlements in Basel, and Klaas Knot, who led the Dutch central bank from 2011 to 2025, Börsen-Zeitung and International Intrigue report. EU leaders decide by reinforced qualified majority and want a choice by Christmas.",
+      "opinion": [
+        {
+          "text": "Lagarde is leaving early to lock in a technocrat before 2027 elections could hand France's presidency to a euro-sceptic; critics call that a quiet way to stack the institution.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Börsen-Zeitung: De Cos und Knot für EZB-Vorsitz nominiert",
+          "u": "https://www.boersen-zeitung.de/konjunktur-politik/de-cos-und-knot-fuer-ezb-vorsitz-nominiert"
+        },
+        {
+          "t": "International Intrigue: Caught off Lagarde",
+          "u": "https://archives.internationalintrigue.io/p/fr-9c45"
+        }
+      ],
+      "title": "Who replaces Lagarde: two central bankers, one from Basel, in a race decided by Paris and Berlin"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (9–10 Nov)",
+      "u": "https://semafor.com/s/7gnlrumysm"
+    },
+    {
+      "t": "International Intrigue (10 Nov)",
+      "u": "https://archives.internationalintrigue.io/p/fr-9c45"
+    },
+    {
+      "t": "The Rundown AI (10 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2"
+    },
+    {
+      "t": "Ray Dalio (10 Nov)",
+      "u": "https://raydalio.substack.com/p/what-i-think-of-the-results-of-the"
+    },
+    {
+      "t": "John Mearsheimer (9 Nov)",
+      "u": "https://mearsheimer.substack.com/p/dreaming-of-the-mou"
+    },
+    {
+      "t": "Börsen-Zeitung",
+      "u": "https://www.boersen-zeitung.de/konjunktur-politik/de-cos-und-knot-fuer-ezb-vorsitz-nominiert"
+    },
+    {
+      "t": "Anthropic",
+      "u": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+    }
+  ],
+  "thread": {
+    "text": "After meeting Qatar's prime minister, Trump called the war 'effectively over' while Rubio sees no breakthrough; France blamed the Revolutionary Guards for a cyberattack on its supermarkets (AP, France 24).",
+    "title": "Iran war"
+  },
+  "top": [
+    {
+      "claude": "Semafor's point that Nvidia has no clear successor and a thin board is the real exposure: a company this dependent on one person cannot easily let him go, which keeps the political risk attached to the stock for months.",
+      "fact": "President Trump said the FBI is investigating the Nvidia CEO's affair with a woman linked to Chinese intelligence, Semafor reports, while Trump also publicly backed Huang. Reuters reports that Huang and Nvidia face a class action claiming they misled shareholders by hiding his ties to Megaspeed, the Singapore firm suspected of routing chips to China. Lawmakers in the incoming Democratic Congress have promised hearings, and the Commerce Department is reportedly preparing new chip export controls.",
+      "opinion": [
+        {
+          "text": "the timing of the confession may reflect the midterms, with Huang coming clean before a more hostile Congress takes its seats in January.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: FBI investigates Nvidia's CEO",
+          "u": "https://semafor.com/s/mbb5t5edwu"
+        },
+        {
+          "t": "Reuters: Nvidia CEO Huang sued over disclosures related to suspected Chinese spy",
+          "u": "https://www.reuters.com/world/nvidia-ceo-huang-sued-over-disclosures-related-suspected-chinese-spy-2026-11-09/"
+        },
+        {
+          "t": "International Intrigue: Caught off Lagarde",
+          "u": "https://archives.internationalintrigue.io/p/fr-9c45"
+        },
+        {
+          "t": "New York Times: Nvidia, Megaspeed and the investigation",
+          "u": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html"
+        }
+      ],
+      "title": "The FBI is now investigating Jensen Huang's affair, and Nvidia faces a shareholder lawsuit",
+      "unc": "The New York Times reports Nvidia's top lawyer emailed federal agents during the 2025 Megaspeed probe before Commerce handed the case to Justice; Nvidia has not commented.",
+      "why": "The Nvidia scandal moved from a board review to a federal case in one day."
+    },
+    {
+      "claude": "A guarantee is the one item Kyiv cannot trade away, so whether Washington treats it as an opening bid or a bargaining chip will tell more than the communiqué.",
+      "fact": "Talks between Kyiv, Moscow and Washington got under way in Abu Dhabi on Tuesday, Semafor reports, with RFE/RL describing expectations of a breakthrough as low. Politico reports the US is asking whether Russia would accept Western partners giving Ukraine a NATO-style security guarantee.",
+      "opinion": [
+        {
+          "text": "Putin will never accept a formal Western guarantee, and even asking him risks validating his claim to a veto over how neighbours run their affairs.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Oil sinks to $90 a barrel (talks under way)",
+          "u": "https://semafor.com/s/vssjd0ol0a"
+        },
+        {
+          "t": "RFE/RL via Semafor: Expectations of a breakthrough are low",
+          "u": "https://semafor.com/s/7dq9m16p8x"
+        },
+        {
+          "t": "Politico: US asks Russia about NATO-like guarantee for Ukraine",
+          "u": "https://www.politico.com/news/2026/11/09/russia-nato-ukraine-us-01157022"
+        }
+      ],
+      "title": "US, Russian and Ukrainian negotiators meet in Abu Dhabi as Washington floats a NATO-like guarantee",
+      "why": "The first direct three-way talks in nine months started today."
+    },
+    {
+      "claude": "Yesterday's 'we won' and today's 'effectively over' read as a president preparing voters for a deal, not as a change on the ground; the French case is a reminder that Iran can still hit Europe without firing a missile.",
+      "fact": "After meeting Qatar's prime minister, Trump said the military part of the Iran war is effectively over, AP reports, while Secretary of State Rubio still says the two sides are nowhere near a breakthrough. Brent fell another 1.7% to about $91 a barrel, International Intrigue and Semafor report. Separately, France blamed Iran's Revolutionary Guards for last month's cyberattack that shut down supermarket fridges and is issuing arrest warrants for a Guards cyber unit, France 24 reports.",
+      "opinion": [
+        {
+          "text": "Tehran will likely keep its maximalist demands.",
+          "who": "think tank cited by Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "AP: Trump says Iran war effectively over after Qatar meeting",
+          "u": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff"
+        },
+        {
+          "t": "Semafor Flagship: Trump downplays renewed conflict with Iran",
+          "u": "https://semafor.com/s/16us482vxf"
+        },
+        {
+          "t": "France 24: France blames Iran for cyberattack on supermarket fridges",
+          "u": "https://www.france24.com/en/video/20261109-france-blames-iran-for-cyberattack-on-supermarket-fridges"
+        }
+      ],
+      "title": "Trump calls the Iran war 'effectively over' after meeting Qatar's prime minister, and Brent falls to $91",
+      "why": "Oil is pricing peace faster than diplomats are delivering it."
+    },
+    {
+      "claude": "Reaching last year's full-year record two months early means the surplus is growing, not levelling off, which makes new European tariffs on Chinese cars more likely in 2027.",
+      "fact": "China's trade surplus topped $1 trillion in the first ten months of the year as exports grew at record speed despite new trade barriers, Semafor's Flagship and China editions report. Exports of electric and plug-in hybrid cars rose 145% year on year in October, helped by the fuel-price shock from the Iran war, and AI-related exports also rose.",
+      "opinion": [
+        {
+          "text": "Beijing's macro policy stance is unlikely to change significantly despite US and European calls to boost domestic demand.",
+          "who": "asset manager quoted by the South China Morning Post"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: China's trade surplus passes $1T",
+          "u": "https://semafor.com/s/j2tu1wewpf"
+        },
+        {
+          "t": "South China Morning Post via Semafor: Macro policy stance won't change",
+          "u": "https://semafor.com/s/m5anvcxzjz"
+        }
+      ],
+      "title": "China's trade surplus passes $1 trillion in ten months as EV exports jump 145%",
+      "why": "China is exporting its way around weak demand at home, and its trading partners are running out of patience."
+    },
+    {
+      "fact": "ExxonMobil signed a preliminary deal with Venezuela's interim government to explore drilling, the Wall Street Journal reports, almost two decades after it left the country. Semafor notes output has risen only moderately since the US ousted Maduro in January, held back by old infrastructure and a shortage of skilled workers.",
+      "opinion": [
+        {
+          "text": "the 38-word press release shows how cautious Exxon still is, with opposition leader Machado back and calling for elections.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Wall Street Journal: Exxon takes first step toward investing in Venezuela",
+          "u": "https://www.wsj.com/business/energy-oil/exxon-takes-first-step-toward-investing-in-venezuela-f8e0f5e0"
+        },
+        {
+          "t": "Semafor Flagship: ExxonMobil eyes Venezuela",
+          "u": "https://semafor.com/s/22c93p5tw2"
+        }
+      ],
+      "title": "ExxonMobil signs a first deal to return to Venezuela, months after calling it 'uninvestable'",
+      "why": "The biggest US oil major is testing Washington's plan for a post-Maduro oil revival."
+    },
+    {
+      "fact": "Pope Leo XIV celebrated the largest Mass of his pontificate in Buenos Aires before about 2.5 million people, Al Jazeera reports. In a thinly veiled rebuke of President Milei's cuts, he said the economy must serve the person, not the other way round, International Intrigue reports.",
+      "opinion": [
+        {
+          "text": "the line is right, but unlike Milei's fiscal orthodoxy it offers no way out of Argentina's boom-bust cycle.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Al Jazeera: Pope Leo draws 2.5 million people during historic Argentina Mass",
+          "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pope-leo-draws-2-5-million-people-during-historic-argentina-mass"
+        },
+        {
+          "t": "International Intrigue: Caught off Lagarde",
+          "u": "https://archives.internationalintrigue.io/p/fr-9c45"
+        }
+      ],
+      "title": "Pope Leo draws 2.5 million people in Buenos Aires and rebukes Milei's austerity",
+      "why": "The first American pope picked a public fight with the world's best-known libertarian president."
+    }
+  ]
+}
