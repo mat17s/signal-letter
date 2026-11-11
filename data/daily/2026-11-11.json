@@ -1,0 +1,248 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-11",
+  "label": "Wednesday, 11 November 2026",
+  "number": {
+    "text": "Jobs the World Bank projects developing countries will be short over the next 15 years: 1.2 billion young people entering the workforce, only about 400 million new jobs (via International Intrigue).",
+    "value": "800 million"
+  },
+  "podcast": {
+    "episode": "Wenn Bürger DAS wüssten, hätten wir morgen die Revolution | Kai Bentz (10 Nov)",
+    "show": "Was Bitcoin bringt (Niko Jilch)",
+    "url": "https://www.buzzsprout.com/1936624/20096182/transcript",
+    "why": "A German-language talk on holding-period tax rules for crypto and tax fairness that widens into fiat's weak points; a good companion to today's Austrian read."
+  },
+  "reads": {
+    "ai": {
+      "claude": "I am a Claude model, so weigh my view accordingly. The notable thing is that the strongest evidence for faster timelines now comes from the lab itself, in a securities filing where overstating carries legal risk. A 2x speed-up of one lab is not the same as AI doing research unaided, but it is the measurement the 'pacing, not pausing' line will be judged against.",
+      "fact": "METR, an outside evaluator, estimated that Anthropic now improves its models about twice as fast as before, mostly thanks to its own AI. Citing that review, the AI Futures Project, authors of the 2025 'AI 2027' scenario, moved up their forecast for AI that matches the best human AI researchers: Daniel Kokotajlo now gives it even odds by May 2027, the other five forecasters between August and November 2027. In an updated IPO filing, Anthropic says it now considers its own AI R&D capability threshold met, based on what it expects from upcoming models.",
+      "opinion": [
+        {
+          "text": "if the forecast holds, a pause should be the AI industry's top priority.",
+          "who": "AI Futures Project"
+        }
+      ],
+      "src": [
+        {
+          "t": "AI Futures Project: Q3.5 timelines update",
+          "u": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+        },
+        {
+          "t": "METR: Anthropic AI R&D acceleration assessment",
+          "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+        },
+        {
+          "t": "SEC: Anthropic PBC amended S-1",
+          "u": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+        },
+        {
+          "t": "The Rundown AI: ChatGPT is now open for business",
+          "u": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt"
+        }
+      ],
+      "title": "The 'AI 2027' forecasters pull their dates forward after METR measures Anthropic's research speed-up"
+    },
+    "austrian": {
+      "claude": "In Austrian terms this is the cycle at work: easy money makes long-dated, unproven projects look cheap to fund, and the correction lands on late buyers. The counter-argument is that public listing exposed Fervo to a short seller and to real price discovery, which is exactly what private rounds avoid; with Anthropic's mega-IPO next week, that discipline may be the market working, not failing.",
+      "fact": "Fervo Energy, an enhanced-geothermal company that has only just started its first grid-scale plant in Utah, raised more than $2 billion in a May IPO, was hit by a Morpheus Research short report in October and closed nearly 70% below its IPO price last week, Doomberg writes; its third-quarter results then lifted the stock more than 25% on Monday.",
+      "opinion": [
+        {
+          "text": "IPO quality has degraded because bankers feed an insatiable demand for risk, and with private money plentiful there was little reason for Fervo to face public-market scrutiny before proving it can execute.",
+          "who": "Doomberg"
+        }
+      ],
+      "src": [
+        {
+          "t": "Doomberg: Cat-Scratch Fervo",
+          "u": "https://newsletter.doomberg.com/p/cat-scratch-fervo"
+        }
+      ],
+      "title": "Doomberg on Fervo: what happens when cheap risk money pushes a young company onto the stock market too early"
+    },
+    "mainstream": {
+      "claude": "Strong retail demand for a home-grown industrial champion is a healthier signal than another foreign-funded tech round; the test is whether the shares trade freely afterwards or the market stays a one-stock show.",
+      "fact": "The IPO of the Dangote refinery, Africa's largest, drew more than $4 billion in applications against a target of about $1.6 billion, with bids from every country on the continent, Semafor Africa reports; Aliko Dangote priced individual shares cheaply to attract retail buyers. Nigeria also said this week it will make it easier to trade bonds across West Africa, and Botswana is doubling its stake in De Beers.",
+      "opinion": [
+        {
+          "text": "byzantine rules and barriers between African markets have long held back the continent's capital markets.",
+          "who": "analysts cited by Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Africa: 'Crown jewels'",
+          "u": "https://semafor.com/s/2pt7er4590"
+        },
+        {
+          "t": "Semafor Flagship: Dangote IPO bids topped $4B",
+          "u": "https://semafor.com/s/vaq19c0e05"
+        }
+      ],
+      "title": "Dangote's refinery IPO draws $4bn of orders from every African country, more than twice the target"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (11 Nov)",
+      "u": "https://semafor.com/s/scluffqf3y"
+    },
+    {
+      "t": "Semafor Africa (11 Nov)",
+      "u": "https://semafor.com/s/2pt7er4590"
+    },
+    {
+      "t": "International Intrigue (11 Nov)",
+      "u": "https://archives.internationalintrigue.io/p/free-premium-newsletter-may-2026"
+    },
+    {
+      "t": "The Rundown AI (11 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt"
+    },
+    {
+      "t": "Doomberg (11 Nov)",
+      "u": "https://newsletter.doomberg.com/p/cat-scratch-fervo"
+    },
+    {
+      "t": "CNN",
+      "u": "https://edition.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia"
+    },
+    {
+      "t": "METR",
+      "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+    }
+  ],
+  "thread": {
+    "text": "Day two in Abu Dhabi brought no concessions on an energy-and-shipping truce while both sides kept striking each other (Semafor, BBC).",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "The question has shifted from Huang's judgement to the administration's: if the White House knew in May and Commerce is now slow-walking the blacklist, the incoming Democratic Congress has an obvious first hearing, and the summit agenda gets harder.",
+      "fact": "President Trump was told in May, on his way to China, that US intelligence knew of the Nvidia CEO's affair with a Chinese executive, The New York Times reports, and Axios says the commerce secretary received a memo warning about it. The Commerce Department is reportedly delaying a move to blacklist Megaspeed, the Singapore firm the woman ran, which is accused of routing advanced chips to China; a US lawmaker is pressing the White House today for updates on its investigations. Beijing calls the affair a smear, and Singapore says it is investigating Megaspeed but denies having investigated her personally.",
+      "opinion": [
+        {
+          "text": "there is still no public proof she was a spy, but her ghost-like early career, the gaming shell turned $5–7bn chip buyer, the ownership shuffles and her disappearance all fit the pattern of a state-backed cut-out rather than a nimble entrepreneur.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Nvidia scandal reaches White House",
+          "u": "https://semafor.com/s/hqpxewalhi"
+        },
+        {
+          "t": "New York Times via Semafor: Trump told of Huang affair in May",
+          "u": "https://semafor.com/s/8jmpsvjhor"
+        },
+        {
+          "t": "Axios via Semafor: Commerce secretary warned in memo",
+          "u": "https://semafor.com/s/vunp4jtovf"
+        },
+        {
+          "t": "International Intrigue: Loose hips sink chips",
+          "u": "https://archives.internationalintrigue.io/p/free-premium-newsletter-may-2026"
+        },
+        {
+          "t": "Singapore Ministry of Home Affairs: Clarification statement",
+          "u": "https://www.mha.gov.sg/media-room/newsroom/clarification-statement-on-wall-street-journals-article/"
+        }
+      ],
+      "title": "Trump was told in May about Jensen Huang's affair, and Commerce is reportedly slowing the Megaspeed blacklist",
+      "why": "The Nvidia scandal now reaches the White House a week before a US–China summit."
+    },
+    {
+      "fact": "UK police arrested a 41-year-old US Army soldier serving at Imjin Barracks, the headquarters of NATO's Allied Rapid Reaction Corps, on suspicion of spying for Russia, CNN and Semafor report. Britain and Estonia both called Russia a 'state sponsor of terrorism' this week over sabotage and hybrid attacks; the European Parliament did so in 2022 but the EU has no legal basis to act on it, while a US designation would bring sanctions and strip Russia of sovereign immunity.",
+      "opinion": [
+        {
+          "text": "an active-duty US officer arrested inside a top NATO hub on British soil is a nightmare just as Five Eyes partners try to show they are as tight as ever.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: UK arrests suspected Russian spy",
+          "u": "https://semafor.com/s/wku82svg8f"
+        },
+        {
+          "t": "CNN: US Army soldier arrested in UK over alleged espionage for Russia",
+          "u": "https://edition.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia"
+        }
+      ],
+      "title": "Britain arrests a senior US Army soldier at a NATO headquarters on suspicion of spying for Russia",
+      "why": "An alleged mole inside a top NATO command is the worst kind of hybrid-war news for Europe."
+    },
+    {
+      "claude": "An energy-and-shipping truce is the narrow deal that is actually on the table; watch grain and gas prices rather than the communiqués for the first sign it holds.",
+      "fact": "The US-mediated talks in Abu Dhabi on a truce for energy infrastructure and Black Sea shipping made little visible progress on day two, Semafor reports, as both sides kept striking each other overnight. President Zelensky called the first day 'constructive', the BBC reports. In Europe, the debate over seizing frozen Russian assets to fund Kyiv has again exposed divisions.",
+      "opinion": [
+        {
+          "text": "Putin cannot pause such a costly war and still call it worth it, and Kyiv sees no reason to give up land for more Western promises, so the likeliest result is a bigger prisoner swap that lets everyone claim a win.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Russia-Ukraine peace talks stall",
+          "u": "https://semafor.com/s/ut0dtafqds"
+        },
+        {
+          "t": "BBC: Zelensky calls Abu Dhabi talks constructive",
+          "u": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+        }
+      ],
+      "title": "Abu Dhabi talks stall: no concessions, and Russia and Ukraine trade strikes overnight",
+      "why": "The first three-way talks in nine months are producing optics, not a truce."
+    },
+    {
+      "claude": "Criticism from Trump's own Board of Peace weighs more than the usual UN statements, because that body is meant to own the reconstruction plan.",
+      "fact": "About two-thirds of Gaza's people live in tents, tens of thousands of which flooded in deadly storms, and aid groups say some 150,000 more shelters are waiting for Israeli approval, Semafor reports. UNICEF and Trump's Board of Peace criticised Israel for limiting access; Israel says it has let in winter-aid trucks and that reconstruction can only begin once Hamas fully disarms. Israeli strikes killed at least seven people on Tuesday.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Aid agencies criticize Israel",
+          "u": "https://semafor.com/s/22014u3xj3"
+        },
+        {
+          "t": "Semafor: Deadly storms flood Gaza tents",
+          "u": "https://semafor.com/s/fqeq91npgz"
+        }
+      ],
+      "title": "Storms flood tens of thousands of tents in Gaza as the UN and Trump's Board of Peace criticise Israel over aid",
+      "why": "A year into the ceasefire, winter is turning Gaza's camps into a new emergency."
+    },
+    {
+      "claude": "A strike that pushes for more rent control rather than more building permits would treat the symptom; Zurich and Geneva know the debate.",
+      "fact": "Spanish workers held a general strike over the housing affordability crisis, Semafor reports, with the socialist prime minister hoping it rallies support before this month's election. A one-bedroom flat in central Madrid costs about three-quarters of the average salary, and dozens of European cities are above the 30% share of income usually seen as the limit, while red tape keeps new construction scarce.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Housing fuels Spanish strike",
+          "u": "https://semafor.com/s/aidj38x08s"
+        },
+        {
+          "t": "Semafor: Madrid rent vs average salary",
+          "u": "https://semafor.com/s/wjwuonmgyc"
+        }
+      ],
+      "title": "Spain holds a general strike over housing as rents in central Madrid reach three-quarters of an average salary",
+      "why": "Housing has become Europe's top voter worry, and Spain votes this month."
+    },
+    {
+      "claude": "Treating melanoma and preventing cancer in healthy people are very different hurdles; the first is in sight, the second is still a pitch.",
+      "fact": "Moderna reported successful late-stage trial results for its personalised melanoma treatment, which analysts called a major breakthrough, and hopes for US approval next year, Semafor reports. CEO Stéphane Bancel said the company could soon reach the 'holy grail' of stopping high-risk people from ever developing cancer. The shares are the best performers in the S&P 500 this year.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Moderna's cancer breakthrough",
+          "u": "https://semafor.com/s/39mr1a4tma"
+        },
+        {
+          "t": "Semafor: Moderna CEO on the 'holy grail'",
+          "u": "https://semafor.com/s/6f9ry7jyup"
+        }
+      ],
+      "title": "Moderna's melanoma vaccine succeeds in late-stage trials, and its CEO talks of preventing cancer altogether",
+      "why": "The S&P 500's most-shorted stock has become its best performer this year."
+    }
+  ],
+  "pdf": "daily/2026-11-11.pdf"
+}
