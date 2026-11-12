@@ -1,0 +1,276 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-12",
+  "label": "Thursday, 12 November 2026",
+  "number": {
+    "text": "Barrels a day by which OPEC raised output in October, most of it from Saudi Arabia, bringing the group close to prewar production (OPEC via Semafor Gulf).",
+    "value": "1.97 million"
+  },
+  "pdf": "daily/2026-11-12.pdf",
+  "podcast": {
+    "episode": "KI im Krieg: Spielt der Mensch noch eine Rolle? #246 (12 Nov)",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/KI-im-Krieg---Spielt-der-Mensch-noch-eine-Rolle----Grassl--Matei-246-e3s8rbp",
+    "why": "A German-language discussion of how much human judgement is left once AI runs targeting and drones; a timely companion to today's AI and chip-control stories."
+  },
+  "reads": {
+    "ai": {
+      "claude": "This is AI as a lab instrument, not a chatbot: it ranks which experiments are worth running. 30% is still a minority of the signal, so the gain is in better aim for drug research, not in answers.",
+      "fact": "Google DeepMind released AlphaGenome 2, which predicts how small DNA differences play out inside individual cell types rather than averaged tissue. In a test on 28 immune cell types it caught 30% of the DNA changes behind gene shifts, against 16% for the first version, and it can work from gene activity of a few dozen cells without retraining. On inflammatory bowel disease it picked out the same faulty variant as a recent lab study.",
+      "src": [
+        {
+          "t": "Google DeepMind: AlphaGenome 2",
+          "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        },
+        {
+          "t": "The Rundown AI: Google's new AlphaGenome traces disease to cells",
+          "u": "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out"
+        }
+      ],
+      "title": "DeepMind's AlphaGenome 2 traces DNA differences to the specific cells where disease starts"
+    },
+    "austrian": {
+      "claude": "The arithmetic is right, but the probability is the whole argument: a 20× upside means little without an estimate of how likely it is. Gold's value also rests on thousands of years of use and central-bank holdings, and a sell-off like this week's shows Bitcoin still trades as a risk asset, not a haven.",
+      "fact": "Bitcoin is down about 10% over seven days, to around $71,500.",
+      "opinion": [
+        {
+          "text": "argues that the bet is asymmetric: the worst case is zero, but if Bitcoin matched gold's roughly $30 trillion above-ground value it would be worth about $1.5 million a coin, some 20 times today. Fiat supply is set by politicians and gold's by mining, while Bitcoin's is fixed by time, so rising state debt should push capital towards it.",
+          "who": "The Bitcoin Layer"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Bitcoin Layer: Asymmetry",
+          "u": "https://thebitcoinlayer.substack.com/p/asymmetry"
+        }
+      ],
+      "title": "The Bitcoin Layer's asymmetry case: zero on one side, gold's $30 trillion on the other"
+    },
+    "mainstream": {
+      "claude": "This is a useful corrective to COP's word fights: the bottleneck is institutions, not pledges. It also fits the Austrian point that investment follows enforceable property rights.",
+      "fact": "COP31's flagship pledge, for electricity to supply 35% of global energy demand by 2035 (from about 23% today), has so far been signed by only about a dozen countries, mostly in Europe, partly because the UN insists it cover only non-fossil power. Global renewables investment has been almost flat since 2023.",
+      "opinion": [
+        {
+          "text": "say capital is ready but blocked in developing countries by missing power-purchase contracts, weak courts, costly borrowing and broken grids, so big users build their own off-grid power and the grid decays further.",
+          "who": "Bankers in Antalya, via Semafor Energy"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Energy: COP's new money problem",
+          "u": "https://semafor.com/s/0qzlul7h3v"
+        }
+      ],
+      "title": "At COP31 the money is there, bankers say; what is missing is a way to spend it"
+    }
+  },
+  "sources": [
+    {
+      "t": "WSJ: Nvidia is preparing to oust CEO Jensen Huang",
+      "u": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    },
+    {
+      "t": "NYT: Jensen Huang affair report",
+      "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+    },
+    {
+      "t": "Semafor Flagship: Nvidia mulls dismissing CEO",
+      "u": "https://semafor.com/s/buuhymdjwc"
+    },
+    {
+      "t": "Semafor Flagship: Spy affair clouds US-China talks",
+      "u": "https://semafor.com/s/9k0yefid3m"
+    },
+    {
+      "t": "Semafor Flagship: US set to curb AI tech exports",
+      "u": "https://semafor.com/s/wz2o9wcn4d"
+    },
+    {
+      "t": "The Rundown AI: Jensen Huang's Nvidia reign may be ending",
+      "u": "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out"
+    },
+    {
+      "t": "Semafor Flagship: Nvidia scandal hits tech stocks",
+      "u": "https://semafor.com/s/vfoeanvjru"
+    },
+    {
+      "t": "Semafor Energy: SoftBank's energy overshoot",
+      "u": "https://semafor.com/s/t842bim4di"
+    },
+    {
+      "t": "Michael Burry: The Don Goes Down",
+      "u": "https://michaeljburry.substack.com/"
+    },
+    {
+      "t": "Semafor Flagship: Europe faces winter gas shortfall",
+      "u": "https://semafor.com/s/clk62cp6th"
+    },
+    {
+      "t": "Semafor Flagship: UK, Germany beat growth forecasts",
+      "u": "https://semafor.com/s/11av6o4zut"
+    },
+    {
+      "t": "NPR: Indonesia's VP offers resignation as questions mount over his eligibility",
+      "u": "https://www.nhpr.org/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
+    },
+    {
+      "t": "The Jakarta Post: VP Gibran intends to resign",
+      "u": "https://www.thejakartapost.com/indonesia/2026/11/10/breaking-vp-gibran-intends-to-resign-says-state-secretary"
+    },
+    {
+      "t": "Semafor Flagship: Political crisis engulfs Indonesia",
+      "u": "https://semafor.com/s/cuuipbgifs"
+    },
+    {
+      "t": "Semafor Gulf: Saudi boosts oil production",
+      "u": "https://semafor.com/s/f1inf4q0qu"
+    },
+    {
+      "t": "OPEC: Monthly Oil Market Report",
+      "u": "https://www.opec.org/opec_web/en/publications/338.htm"
+    },
+    {
+      "t": "Semafor Energy: COP's new money problem",
+      "u": "https://semafor.com/s/0qzlul7h3v"
+    },
+    {
+      "t": "Google DeepMind: AlphaGenome 2",
+      "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "t": "The Bitcoin Layer: Asymmetry",
+      "u": "https://thebitcoinlayer.substack.com/p/asymmetry"
+    }
+  ],
+  "thread": {
+    "text": "Nvidia's board prepares to remove Jensen Huang after a second affair report; the stock fell about 8% after hours and Asian chip markets followed (WSJ, NYT, Semafor).",
+    "title": "AI trade"
+  },
+  "top": [
+    {
+      "claude": "Nothing is announced yet. The deeper risk is that about 60 people report to Huang and the strategy sits in his head; successions under scandal rarely go smoothly.",
+      "fact": "Nvidia's directors are preparing to remove co-founder Jensen Huang as chief executive, The Wall Street Journal reported, hours after The New York Times reported a second affair, this time with a vice president who reports to him. The board has reportedly hired an outside search firm, and some directors favour the finance chief as interim CEO alongside a new chief operating officer (Semafor). The crisis began with Huang's relationship with a woman US authorities accuse of spying for China; The Economist and members of Congress have called for him to go.",
+      "opinion": [
+        {
+          "text": "Huang was Nvidia's long-term moat: a less inventive Nvidia is a problem for the whole AI industry, not only for its shareholders.",
+          "who": "Semafor Technology"
+        }
+      ],
+      "src": [
+        {
+          "t": "WSJ: Nvidia is preparing to oust CEO Jensen Huang",
+          "u": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+        },
+        {
+          "t": "NYT: Jensen Huang affair report",
+          "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia mulls dismissing CEO",
+          "u": "https://semafor.com/s/buuhymdjwc"
+        }
+      ],
+      "title": "Nvidia's board weighs removing Jensen Huang as a second affair comes to light",
+      "why": "The man who built the AI boom's most important company could be gone within days."
+    },
+    {
+      "claude": "Huang was the loudest voice for looser export rules. Whatever his motives, his fall removes the main counterweight, so tighter controls look more likely whoever replaces him.",
+      "fact": "China dismissed the espionage allegations as part of a US effort to cut it off from technology, clouding next week's leaders' summit in Shenzhen, where both sides were due to advance an AI dialogue, possibly on testing advanced models before release. Bloomberg reports the woman at the centre of the case now lives in Beijing with the knowledge of Chinese security officials. In Washington, The Information reports the Commerce Department will soon close a loophole that let Chinese firms reach top US chips through data centres in third countries, and calls for the commerce secretary to be fired are growing; the White House says the president has complete confidence in him.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Spy affair clouds US-China talks",
+          "u": "https://semafor.com/s/9k0yefid3m"
+        },
+        {
+          "t": "Semafor Flagship: US set to curb AI tech exports",
+          "u": "https://semafor.com/s/wz2o9wcn4d"
+        }
+      ],
+      "title": "Beijing calls the Nvidia spy affair part of a US tech 'blockade' a week before the Shenzhen summit",
+      "why": "The scandal now reaches the US-China summit and the rules on who may buy America's best chips."
+    },
+    {
+      "claude": "The market is repricing one company's key-person risk, not abandoning AI; whether the hyperscalers keep their spending plans matters more than who runs Nvidia.",
+      "fact": "Nvidia lost more than $427bn in market value in the two sessions after the affair became public, recovered on Wednesday, then fell about 8% after hours when the two new reports landed; it was down about 6% before Thursday's open (The Rundown, Semafor). Markets in South Korea and Taiwan, the main chip suppliers, also fell. SoftBank separately took a $3.7bn hit after cancelling orders for gas-power equipment it had bought for AI data centres (Semafor Energy, Reuters).",
+      "opinion": [
+        {
+          "text": "argues that the fall of the industry's figurehead exposes how much of the AI boom rests on confidence, borrowing and circular deals.",
+          "who": "Michael Burry (Cassandra Unchained)"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Rundown AI: Jensen Huang's Nvidia reign may be ending",
+          "u": "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia scandal hits tech stocks",
+          "u": "https://semafor.com/s/vfoeanvjru"
+        },
+        {
+          "t": "Semafor Energy: SoftBank's energy overshoot",
+          "u": "https://semafor.com/s/t842bim4di"
+        },
+        {
+          "t": "Michael Burry: The Don Goes Down",
+          "u": "https://michaeljburry.substack.com/"
+        }
+      ],
+      "title": "Nvidia's crisis knocks the AI trade: $427bn lost in two sessions and Asian chip markets fall",
+      "why": "The market's biggest bet now hangs on one boardroom, and other AI spending warnings are piling up."
+    },
+    {
+      "claude": "Switzerland imports its gas through its neighbours, and a weak European winter would hit Swiss exporters while the franc is firm.",
+      "fact": "Europe's gas storage is unusually low going into winter, and the continent is set to reach spring with far less gas in storage than normal, energy analyst John Kemp warned; Goldman Sachs expects real consumption growth to flatline over the winter and not return to trend until 2028, and some factories are weighing closures or asking for state help (Semafor, Bloomberg). The same week, the UK posted its fastest quarterly growth in years and German government advisers more than doubled their growth forecast for Germany, helped by state spending and exports.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Europe faces winter gas shortfall",
+          "u": "https://semafor.com/s/clk62cp6th"
+        },
+        {
+          "t": "Semafor Flagship: UK, Germany beat growth forecasts",
+          "u": "https://semafor.com/s/11av6o4zut"
+        }
+      ],
+      "title": "Europe enters winter with low gas stocks, even as the UK and Germany beat growth forecasts",
+      "why": "A cold winter could undo Europe's best economic news in years and push energy costs up again."
+    },
+    {
+      "claude": "Gibran is former president Joko Widodo's son, so his exit would end that family's foothold at the top; the possible MSCI downgrade matters more for foreign money.",
+      "fact": "Vice President Gibran Rakabuming Raka offered his resignation as questions grew about his eligibility, including the validity of his high-school diploma, and as about 50 lawmakers pushed a motion against him (NPR, The Jakarta Post). The rupiah fell to a record low. President Prabowo is under pressure over his response to wildfires, the cost of living and youth unemployment, and MSCI last month proposed removing Indonesia from its emerging-market indices, which set off a sell-off (Semafor).",
+      "src": [
+        {
+          "t": "NPR: Indonesia's VP offers resignation as questions mount over his eligibility",
+          "u": "https://www.nhpr.org/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
+        },
+        {
+          "t": "The Jakarta Post: VP Gibran intends to resign",
+          "u": "https://www.thejakartapost.com/indonesia/2026/11/10/breaking-vp-gibran-intends-to-resign-says-state-secretary"
+        },
+        {
+          "t": "Semafor Flagship: Political crisis engulfs Indonesia",
+          "u": "https://semafor.com/s/cuuipbgifs"
+        }
+      ],
+      "title": "Indonesia's vice president offers to resign as the rupiah sinks to a record low",
+      "why": "Southeast Asia's largest economy is in a political and market crisis at the same time."
+    },
+    {
+      "fact": "OPEC production rose by 1.97 million barrels a day in October, mostly from Saudi Arabia, bringing the group's output close to prewar levels for the first time, according to OPEC's own data. Iraq and the UAE also hit highs for the year, while Iran produced about half its prewar level. Aramco's chief said the company aims to maximise output in the fourth quarter, helped by US naval escorts and pipelines that bypass the Strait of Hormuz (Semafor Gulf).",
+      "src": [
+        {
+          "t": "Semafor Gulf: Saudi boosts oil production",
+          "u": "https://semafor.com/s/f1inf4q0qu"
+        },
+        {
+          "t": "OPEC: Monthly Oil Market Report",
+          "u": "https://www.opec.org/opec_web/en/publications/338.htm"
+        }
+      ],
+      "title": "OPEC output climbs back to near prewar levels as Saudi Arabia pumps more despite Hormuz attacks",
+      "why": "More Gulf oil is the main reason Brent has fallen about 6% this week."
+    }
+  ]
+}

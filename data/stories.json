@@ -19,12 +19,16 @@
         "date": "2026-11-08",
         "text": "Week 45: Nasdaq about −5.5% on Thursday, worst day since March 2020 (Nasdaq 100 −6.4%); data-center opponents win 38 of 39 local ballots; Anthropic's S-1/A shows ~$17bn Q3 revenue and a $567m operating loss; METR says AI roughly doubled the pace of Anthropic's research.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-12",
+        "text": "Nvidia's board prepares to remove Jensen Huang after a second affair report; the stock fell about 8% after hours and Asian chip markets followed (WSJ, NYT, Semafor)."
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-08",
+    "updated": "2026-11-12",
     "id": "ai-trade"
   },
   {
