@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-13",
+  "label": "Friday, 13 November 2026",
+  "top": [
+    {
+      "title": "Jensen Huang resigns as Nvidia's CEO; finance chief Colette Kress takes over for now",
+      "why": "The founder who built the AI boom's key supplier is gone, four days before Nvidia reports earnings.",
+      "fact": "Nvidia said Jensen Huang has stepped down as chief executive and left the board with immediate effect, and that CFO Colette Kress will serve as interim CEO while the board searches for a successor. The exit followed reports of several affairs, including one with a Megaspeed executive US authorities link to Chinese intelligence; Reuters reported a third relationship after the resignation. The shares closed down about 4% on Thursday after falling more than 14% during the session, while AMD rose nearly 6%. Earnings are due on 17 November.",
+      "opinion": [
+        {
+          "who": "Semafor's Liz Hoffman",
+          "text": "Huang's exit ends the 'Nvidia put': the company was one of the AI trade's biggest buyers and backers, so the buildout gets more expensive for everyone."
+        }
+      ],
+      "claude": "The market reaction was milder than the headlines: rivals and hyperscalers rose, and Anthropic's IPO is reportedly six times oversubscribed. That suggests investors see a governance shock at one company, not the end of AI spending. The 17 November results will show whether customers agree.",
+      "src": [
+        {
+          "t": "Nvidia: Nvidia announces CEO transition",
+          "u": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+        },
+        {
+          "t": "Semafor Flagship: Huang ouster sparks market turmoil",
+          "u": "https://semafor.com/s/k4e4m192m1"
+        },
+        {
+          "t": "The Rundown AI: Nvidia enters life without Jensen Huang",
+          "u": "https://www.therundown.ai/"
+        }
+      ]
+    },
+    {
+      "title": "Washington turns on Lutnick as Justice Department probes into Nvidia are reported",
+      "why": "The scandal has moved from a boardroom to the heart of US chip-export policy.",
+      "fact": "Commerce Secretary Howard Lutnick faces growing criticism from lawmakers of his own party for not sanctioning Megaspeed, the Nvidia customer accused of smuggling chips, and several Republican senators want him and Huang to testify. Singapore said the US gave only limited help with its own investigation of the Megaspeed executive. Huang has reportedly agreed to testify before Congress.",
+      "unc": "Semafor reports that the Justice Department has opened several probes into Nvidia, including an antitrust case and inquiries into the executive's role at Megaspeed and Super Micro; The Information reports that the affair may have helped move at least $7.5 billion of Nvidia chips to China. Neither is confirmed by a second outlet yet.",
+      "opinion": [
+        {
+          "who": "Politico",
+          "text": "The affair exposes the administration's deep vulnerability on chip policy, after months of deferring to the Nvidia chief."
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Criticism towards Lutnick grows",
+          "u": "https://semafor.com/s/yjoia5mmtu"
+        },
+        {
+          "t": "Semafor: DOJ opens probes into chip giant",
+          "u": "https://semafor.com/s/kortv2sf7z"
+        },
+        {
+          "t": "Politico via Semafor: Trump administration's vulnerability on export controls",
+          "u": "https://semafor.com/s/32r2ocqh4z"
+        }
+      ]
+    },
+    {
+      "title": "Trump ends the Iran talks: 'we don't need a deal'",
+      "why": "With Hormuz still unresolved, the Gulf may be left to settle with Tehran on its own.",
+      "fact": "President Trump said on Thursday that the US does not need a deal with Iran, ending the negotiations led by his vice president and undercutting a Gulf-backed push to end the war. Earlier in the week he had also said further US strikes were not needed. The status of the Strait of Hormuz remains open and Brent is still near $96.",
+      "opinion": [
+        {
+          "who": "John Mearsheimer",
+          "text": "Iran will not 'cry uncle': the war has not broken Tehran, and the end of the midterms does not change that."
+        }
+      ],
+      "claude": "Walking away without strikes or a deal is a third option few planned for. It keeps oil risk priced in and pushes Saudi Arabia, Qatar and the UAE to negotiate their own terms with Iran.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Trump says US doesn't need Iran deal",
+          "u": "https://semafor.com/s/0u0sfhdabu"
+        },
+        {
+          "t": "Washington Post via Semafor: Gulf allies left to come to terms with Iran",
+          "u": "https://semafor.com/s/bjtduu8wkf"
+        },
+        {
+          "t": "John Mearsheimer: Iran Won't Cry Uncle",
+          "u": "https://mearsheimer.substack.com/"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine says a new Starlink outage hit its army as US envoys meet Putin in Moscow",
+      "why": "Kyiv suspects Washington is using satellite access as leverage in the peace talks.",
+      "fact": "Ukraine said a fresh disruption of Starlink services hampered military operations, and suggested it could be US pressure in the negotiations. US envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow after three-way talks in Abu Dhabi earlier this week produced no breakthrough. Tankers carrying Russian diesel to the US turned back for lack of buyers.",
+      "opinion": [
+        {
+          "who": "John Mearsheimer (on Glenn Diesen's podcast)",
+          "text": "Ukraine cannot win, and European leaders who keep it fighting are pursuing a morally and strategically bankrupt policy."
+        }
+      ],
+      "claude": "Mearsheimer's case rests on demography and attrition, which are real, but it leaves out that Russia's own costs are also rising. If Starlink access is indeed a bargaining chip, it shows how much of Ukraine's defence now depends on one private US company.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Ukraine warns of Starlink disruptions",
+          "u": "https://semafor.com/s/4ys2wtwsvu"
+        },
+        {
+          "t": "Semafor: Abu Dhabi talks yield no breakthrough",
+          "u": "https://semafor.com/s/1zhy7bi30t"
+        },
+        {
+          "t": "John Mearsheimer: Ukraine's Tragedy, Europe's Madness",
+          "u": "https://mearsheimer.substack.com/p/ukraines-tragedy-europes-madness"
+        }
+      ]
+    },
+    {
+      "title": "Trump threatens to double tariffs on Mexico over a migrant caravan",
+      "why": "The US's biggest trading partner is again the target, days after Stephen Miller became chief of staff.",
+      "fact": "President Trump threatened to double tariffs on Mexico unless it stops a migrant caravan heading for the US border. Illegal crossings have fallen sharply in his second term, partly because Mexico, which sends most of its exports to the US, deployed troops to stop them. Trump recently made Stephen Miller, the architect of his immigration crackdown, his chief of staff.",
+      "claude": "Mexico has already given Washington most of what it asked for on the border, so a tariff threat now looks aimed at a domestic audience after the Democrats' midterm gains. Doubling tariffs would also hit US car and food supply chains.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Trump threatens new Mexico tariffs",
+          "u": "https://semafor.com/s/ti1ltl7nhe"
+        },
+        {
+          "t": "Semafor: Miller's elevation to chief of staff",
+          "u": "https://semafor.com/s/8q5nc7tlfe"
+        }
+      ]
+    },
+    {
+      "title": "Congo's president opens the door to a third term",
+      "why": "A key supplier of cobalt, copper and tin to the US risks a new political crisis.",
+      "fact": "Félix Tshisekedi signed a decree that could let him run for a third term, which opponents call an attempt to cling to power. Under him the DRC has moved closer to Washington: US imports from the country have risen more than a hundredfold, led by tin, and foreign investment is at a record. Corruption is widespread, militias still hold large areas, and an Ebola epidemic has killed thousands despite more than $1 billion in donor money.",
+      "claude": "Washington's minerals deals give it little reason to object, which is exactly why the opposition fears the decree will stand.",
+      "src": [
+        {
+          "t": "Semafor Flagship: DRC's leader seeks another term",
+          "u": "https://semafor.com/s/z9ar18ew0g"
+        },
+        {
+          "t": "Semafor Africa: Shock and ore",
+          "u": "https://semafor.com/s/a1ijpln68p"
+        }
+      ]
+    }
+  ],
+  "reads": {
+    "mainstream": {
+      "title": "A wealth tax nearly brings down the Dutch government",
+      "fact": "Prime Minister Rob Jetten's party passed a wealth-tax bill by a narrow margin with opposition votes, and a centre-right coalition partner threatened to quit. It comes a week after California voters rejected a tax on billionaires.",
+      "opinion": [
+        {
+          "who": "Institute for Fiscal Studies (via Semafor)",
+          "text": "Wealth taxes penalise saving and investment; taxing the sources of wealth, such as capital gains, reaches the same goals better."
+        }
+      ],
+      "claude": "Switzerland is the counter-example both sides quote: it has taxed net wealth in every canton for decades, but at low rates and with no capital-gains tax on private shares. The Dutch fight is less about whether to tax wealth than about how high and how it is valued.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Dutch in wealth tax row",
+          "u": "https://semafor.com/s/g39e0m6kek"
+        }
+      ]
+    },
+    "ai": {
+      "title": "Google takes on Meta's Ray-Bans with Gemini glasses from $395",
+      "fact": "Google opened pre-orders for its first Gemini-powered smart glasses, built with Samsung and sold in Warby Parker and Gentle Monster frames. They have a 12MP camera, open-ear speakers and up to nine hours of battery, but no display; Google says faces of bystanders are blurred before Gemini sees them. Sales start on 10 December in the US and South Korea, against Meta, which shipped 81% of AI glasses in the first half of the year.",
+      "claude": "Privacy is the real product here: a camera on your face is useful only if people around you tolerate it. For site work, hands-free questions about what you are looking at (a detail, a label, a defect) are a more practical use than social video, but only once companies allow such cameras on site.",
+      "src": [
+        {
+          "t": "The Rundown AI: Google joins the race for your face with AI glasses",
+          "u": "https://www.therundown.ai/"
+        }
+      ]
+    },
+    "austrian": {
+      "title": "Panic sellers lock in $680 million of losses as Bitcoin falls below $70,000",
+      "fact": "Bitcoin traded around $69,000 at midday, down about 9% on the week. On-chain data show more than $680 million of realised losses on Thursday.",
+      "opinion": [
+        {
+          "who": "Checkonchain (James Check)",
+          "text": "argues that the sellers are mostly late buyers who bought above $80,000 and now sell at prices they once wished to buy; fear this deep has historically marked better entry points than exits."
+        }
+      ],
+      "claude": "In Austrian terms this is a shift in time preference: holders with short horizons hand coins to holders with long ones. But 'fear is a buy signal' only works in hindsight; with US 10-year yields above 5% and the AI trade wobbling, Bitcoin is still trading as a risk asset, and cheap can get cheaper.",
+      "src": [
+        {
+          "t": "Checkonchain: Is Bitcoin Cheap Again?",
+          "u": "https://newsletter.checkonchain.com/p/is-bitcoin-cheap-again"
+        }
+      ]
+    }
+  },
+  "btc": {
+    "text": ""
+  },
+  "number": {
+    "value": "$1.1 billion",
+    "text": "Penalties the US SEC imposed last year, the lowest in two decades, as staff and budget cuts shrink enforcement (Semafor, Financial Times)."
+  },
+  "podcast": {
+    "show": "Glenn Diesen",
+    "episode": "With John Mearsheimer on the Ukraine war (11 Nov)",
+    "why": "A sharp, one-sided realist case that Ukraine cannot win and Europe is wrong to keep it fighting; worth hearing next to today's Starlink and Moscow-talks story.",
+    "url": "https://mearsheimer.substack.com/p/ukraines-tragedy-europes-madness"
+  },
+  "thread": {
+    "title": "AI trade",
+    "text": "Jensen Huang resigned and CFO Colette Kress became interim CEO; Nvidia closed down 4% after a 14% intraday drop, while Anthropic's IPO is reportedly six times oversubscribed (Nvidia, Semafor)."
+  },
+  "sources": [
+    {
+      "t": "Nvidia: Nvidia announces CEO transition",
+      "u": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+      "t": "Semafor Flagship, 12 Nov evening: Chips and dip",
+      "u": "https://semafor.com/s/elwghaljsh"
+    },
+    {
+      "t": "Semafor Flagship, 13 Nov: Not easy, but essential",
+      "u": "https://semafor.com/s/86zejy07u4"
+    },
+    {
+      "t": "The Rundown AI, 13 Nov",
+      "u": "https://www.therundown.ai/"
+    },
+    {
+      "t": "Checkonchain: Is Bitcoin Cheap Again?",
+      "u": "https://newsletter.checkonchain.com/p/is-bitcoin-cheap-again"
+    },
+    {
+      "t": "John Mearsheimer: Ukraine's Tragedy, Europe's Madness",
+      "u": "https://mearsheimer.substack.com/p/ukraines-tragedy-europes-madness"
+    }
+  ],
+  "pdf": "daily/2026-11-13.pdf"
+}

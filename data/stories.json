@@ -23,12 +23,16 @@
       {
         "date": "2026-11-12",
         "text": "Nvidia's board prepares to remove Jensen Huang after a second affair report; the stock fell about 8% after hours and Asian chip markets followed (WSJ, NYT, Semafor)."
+      },
+      {
+        "date": "2026-11-13",
+        "text": "Jensen Huang resigned and CFO Colette Kress became interim CEO; Nvidia closed down 4% after a 14% intraday drop, while Anthropic's IPO is reportedly six times oversubscribed (Nvidia, Semafor)."
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "id": "ai-trade"
   },
   {
