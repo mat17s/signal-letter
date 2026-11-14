@@ -1,0 +1,267 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-14",
+  "label": "Saturday, 14 November 2026",
+  "number": {
+    "text": "Normal data traffic at some Swiss providers as players pre-downloaded Grand Theft Auto VI, slowing networks (swissinfo).",
+    "value": "8×"
+  },
+  "pdf": "daily/2026-11-14.pdf",
+  "podcast": {
+    "episode": "The Inflation Hot Potato (Connor O'Keeffe)",
+    "show": "Mises Institute: Guns and Butter",
+    "url": "https://mises.org/podcasts/guns-and-butter/inflation-hot-potato",
+    "why": "Why inflation keeps deciding elections and why no one in office touches its cause; a useful lens after the US midterms."
+  },
+  "reads": {
+    "ai": {
+      "claude": "The price gap says Google is betting on capability, not cost, at the low end; its own Search traffic absorbs the expense. For everyday work such as summarising site reports or tagging drawings, the cheapest models from Anthropic and OpenAI are now hard to beat; test Hydrogen only where its answers are clearly better.",
+      "fact": "Google launched Gemini 4 Hydrogen, its lowest-cost Gemini 4 model, at $1.50 per million input tokens and $7.50 per million output tokens; it becomes the free-tier model and will power AI features in Google Search. Simon Willison notes that Claude Haiku 5.5 and GPT-6 Luna cost $0.10 and $0.50, and that Google's larger Gemini 4 Carbon and Argon double in price to $4 and $20 on 1 December.",
+      "src": [
+        {
+          "t": "Simon Willison: llm-gemini 0.37",
+          "u": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+        }
+      ],
+      "title": "Google's cheapest Gemini 4 costs 15 times more than Claude Haiku and GPT-6 Luna"
+    },
+    "austrian": {
+      "claude": "The argument is consistent on its own terms, but suspending naturalisation would create a large permanent class of residents without political rights, which sits poorly with liberty. Switzerland is a partial test: tight naturalisation and residence-based rules have not stopped high immigration, because the labour market keeps demanding it.",
+      "fact": "As President Trump threatens to double tariffs on Mexico over a migrant caravan and Spain faces a crisis at its Ceuta border, the Mises Institute's Ryan McMaken published three free-market ways to reduce immigration.",
+      "opinion": [
+        {
+          "text": "proposes suspending all naturalisation, cutting off welfare for migrants and abolishing anti-discrimination laws, so that migration is limited by what the market and private property owners accept, while the state shrinks.",
+          "who": "Ryan McMaken (Mises Institute)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Mises Institute: Three Free-Market Ways to Limit Immigration",
+          "u": "https://mises.org/mises-wire"
+        },
+        {
+          "t": "Mises Institute: The Truth About the Crisis in Ceuta",
+          "u": "https://mises.org/mises-wire/truth-about-crisis-ceuta"
+        }
+      ],
+      "title": "Mises Institute: limit immigration by cutting the state, not by building walls"
+    },
+    "mainstream": {
+      "claude": "Europe pays most of the bill for Ukraine but has had little say in the talks. A small group of countries speaking for the EU would be easier to fit into a negotiation than all 27 members, but only if the rest accept being represented by it.",
+      "fact": "After US envoys met Vladimir Putin in Moscow this week, European governments are pushing to take part in future talks, and Euronews reports that Washington and President Zelenskyy now support a European presence.",
+      "opinion": [
+        {
+          "text": "fear that a US-led process lets Moscow and Washington decide Ukraine's future over Europe's head.",
+          "who": "European leaders (via Al Jazeera)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Al Jazeera: Europe seeks seat at Ukraine peace talks but lacks unified voice",
+          "u": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice"
+        },
+        {
+          "t": "Euronews: European negotiators could be set to join Ukraine peace talks",
+          "u": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"
+        }
+      ],
+      "title": "Europe wants a seat at the Ukraine peace table, but cannot agree on one voice"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera: US grounds all flights after communication issue",
+      "u": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+    },
+    {
+      "t": "Al Jazeera: FAA ground stop lifted: why were US flights grounded and what's next?",
+      "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+    },
+    {
+      "t": "Euronews: Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+      "u": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop"
+    },
+    {
+      "t": "CoinGecko: Bitcoin price",
+      "u": "https://www.coingecko.com/en/coins/bitcoin"
+    },
+    {
+      "t": "The Bitcoin Layer: Is TBL for Long-term Bitcoin Investing or Short-term Bitcoin Trading?",
+      "u": "https://www.thebitcoinlayer.com/"
+    },
+    {
+      "t": "swissinfo: Microsoft outage disrupts Swiss businesses and public authorities",
+      "u": "https://www.swissinfo.ch/eng/latest-news/"
+    },
+    {
+      "t": "Al Jazeera live: Microsoft outage updates: Outlook, Teams recover as disruptions continue",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users"
+    },
+    {
+      "t": "Al Jazeera: Turkiye and Qatar sign mutual defence agreement",
+      "u": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+    },
+    {
+      "t": "Euronews: Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
+      "u": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
+    },
+    {
+      "t": "Semafor Flagship: Trump says US doesn't need Iran deal",
+      "u": "https://semafor.com/s/0u0sfhdabu"
+    },
+    {
+      "t": "Al Jazeera: Rescue efforts under way after tanker strikes river cruise boat in US",
+      "u": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us"
+    },
+    {
+      "t": "Euronews: Tanker collides with New Orleans river cruise carrying 129 passengers",
+      "u": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
+    },
+    {
+      "t": "Al Jazeera: Pope thanks crowds on emotional return to 'second home' in Peru's Chiclayo",
+      "u": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo"
+    },
+    {
+      "t": "Euronews: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+      "u": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium"
+    },
+    {
+      "t": "Al Jazeera: Europe seeks seat at Ukraine peace talks but lacks unified voice",
+      "u": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice"
+    },
+    {
+      "t": "Euronews: European negotiators could be set to join Ukraine peace talks",
+      "u": "https://www.euronews.com/2026/11/13/european-negotiators-could-be-set-to-join-ukraine-peace-talks"
+    },
+    {
+      "t": "Simon Willison: llm-gemini 0.37",
+      "u": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "t": "Mises Institute: Three Free-Market Ways to Limit Immigration",
+      "u": "https://mises.org/mises-wire"
+    },
+    {
+      "t": "Mises Institute: The Truth About the Crisis in Ceuta",
+      "u": "https://mises.org/mises-wire/truth-about-crisis-ceuta"
+    }
+  ],
+  "thread": {
+    "text": "Europe is pushing for a seat at the next round, and Washington and Kyiv now back a European presence (Euronews, Al Jazeera).",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "A system-wide halt from a communications fault, not an attack, is the worrying part: it suggests the US air-traffic network has too few fallbacks. Expect the episode to feed the long-running fight in Congress over funding to modernise the FAA's ageing equipment.",
+      "fact": "The FAA stopped all flights across the United States on Friday, citing extraordinary circumstances and safety, after communication problems at air-traffic control centres. Officials said no threat had been detected. Flights resumed after a stop of several hours, but passengers still faced delays and cancellations on Saturday, and the FAA has not yet published a full cause.",
+      "src": [
+        {
+          "t": "Al Jazeera: US grounds all flights after communication issue",
+          "u": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+        },
+        {
+          "t": "Al Jazeera: FAA ground stop lifted: why were US flights grounded and what's next?",
+          "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+        },
+        {
+          "t": "Euronews: Passengers continue to face delays and cancellations after US lifts nationwide ground stop",
+          "u": "https://www.euronews.com/2026/11/14/passengers-continue-to-face-delays-and-cancellations-after-us-lifts-nationwide-ground-stop"
+        }
+      ],
+      "title": "US lifts a nationwide ground stop after air-traffic 'communication issues' halt every flight",
+      "why": "The world's busiest airspace shut down for hours, and the knock-on delays run into the weekend."
+    },
+    {
+      "claude": "The weekly close on Sunday night matters more than one evening's price, since weekend trading is thin. The bigger driver is outside crypto: as long as the dollar and bond yields keep rising, Bitcoin trades like a leveraged bet on liquidity, not as a safe haven.",
+      "fact": "Bitcoin traded around $65,400 on Saturday evening, down about 4.5% in 24 hours and roughly 14% over seven days, according to CoinGecko. It is the sixth weekly loss in a row. The fall comes as the dollar strengthens, US 10-year yields stay above 5% and the AI trade wobbles after Jensen Huang's exit from Nvidia.",
+      "opinion": [
+        {
+          "text": "argues that $66,000 is the trendline that has held Bitcoin up for three years; losing it opens a move below $50,000 and could extend the bear market by a year, even though long-term valuations look historically cheap.",
+          "who": "The Bitcoin Layer (Nik Bhatia)"
+        }
+      ],
+      "src": [
+        {
+          "t": "CoinGecko: Bitcoin price",
+          "u": "https://www.coingecko.com/en/coins/bitcoin"
+        },
+        {
+          "t": "The Bitcoin Layer: Is TBL for Long-term Bitcoin Investing or Short-term Bitcoin Trading?",
+          "u": "https://www.thebitcoinlayer.com/"
+        }
+      ],
+      "title": "Bitcoin falls to about $65,400, below the $66,000 level traders called the line in the sand",
+      "why": "A sixth straight weekly loss tests a trend that has held for three years."
+    },
+    {
+      "claude": "For Swiss administrations this revives an old debate: the federal administration is moving to Microsoft 365 despite warnings about dependence on a single US provider. A day without email is an inconvenience; the same dependency during a crisis would be a security problem.",
+      "fact": "A global Microsoft outage on Friday disrupted Outlook, Teams and other Microsoft 365 services, and swissinfo reported that Swiss businesses and public authorities were affected. Microsoft said services were recovering during the day while some disruptions continued.",
+      "src": [
+        {
+          "t": "swissinfo: Microsoft outage disrupts Swiss businesses and public authorities",
+          "u": "https://www.swissinfo.ch/eng/latest-news/"
+        },
+        {
+          "t": "Al Jazeera live: Microsoft outage updates: Outlook, Teams recover as disruptions continue",
+          "u": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users"
+        }
+      ],
+      "title": "A Microsoft 365 outage knocks out Outlook and Teams for Swiss companies and public offices",
+      "why": "One supplier's failure stopped email and meetings across Swiss businesses and authorities for a working day."
+    },
+    {
+      "claude": "Turkey already has a military base in Qatar, so a pact would formalise an existing tie rather than create a new alliance. The NPT debate is the more serious signal: Iranian MPs have threatened this before as leverage, but a formal exit would make new Israeli or US strikes far more likely.",
+      "fact": "President Trump said on Thursday that the US does not need a deal with Iran, ending talks Gulf states had backed. On Friday, Turkish President Recep Tayyip Erdogan hosted Qatar's Emir Sheikh Tamim bin Hamad Al Thani in Istanbul, where the two signed new agreements.",
+      "src": [
+        {
+          "t": "Al Jazeera: Turkiye and Qatar sign mutual defence agreement",
+          "u": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+        },
+        {
+          "t": "Euronews: Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
+          "u": "https://www.euronews.com/2026/11/13/iran-mps-debate-possible-shift-in-nuclear-doctrine-and-exit-from-npt"
+        },
+        {
+          "t": "Semafor Flagship: Trump says US doesn't need Iran deal",
+          "u": "https://semafor.com/s/0u0sfhdabu"
+        }
+      ],
+      "title": "Gulf hedges after Trump walks away from Iran talks: Turkey and Qatar sign a defence pact",
+      "unc": "Al Jazeera reports that the agreements include a mutual defence pact, and Euronews reports that Iranian lawmakers are debating a shift in nuclear doctrine and an exit from the Non-Proliferation Treaty; neither is confirmed by a second outlet yet.",
+      "why": "A day after Washington said it needs no deal with Tehran, regional powers are building their own security ties."
+    },
+    {
+      "fact": "A tanker hit the American Heritage river cruise boat on the Mississippi in New Orleans on Friday, leaving the paddleboat partly submerged. It was carrying 129 passengers; Al Jazeera reports that 32 were taken to hospital. The cause is under investigation.",
+      "src": [
+        {
+          "t": "Al Jazeera: Rescue efforts under way after tanker strikes river cruise boat in US",
+          "u": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us"
+        },
+        {
+          "t": "Euronews: Tanker collides with New Orleans river cruise carrying 129 passengers",
+          "u": "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und"
+        }
+      ],
+      "title": "Tanker strikes a New Orleans paddleboat with 129 passengers; 32 taken to hospital",
+      "why": "A collision on the Mississippi raises questions about traffic between ships and tourist boats on a busy river."
+    },
+    {
+      "claude": "The trip is also about competition: evangelical churches have grown fast across Latin America, and a pope who calls Peru his second home is the Vatican's strongest answer.",
+      "fact": "Pope Leo XIV celebrated Mass for hundreds of thousands of people at Pampas de Pimentel near Chiclayo, the city where he was bishop for eight years, and led a youth prayer vigil at Lima's National Stadium. He holds Peruvian citizenship.",
+      "src": [
+        {
+          "t": "Al Jazeera: Pope thanks crowds on emotional return to 'second home' in Peru's Chiclayo",
+          "u": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo"
+        },
+        {
+          "t": "Euronews: Pope Leo XIV leads youth prayer vigil at Lima's National Stadium",
+          "u": "https://www.euronews.com/video/2026/11/13/peru-pope-leo-xiv-leads-youth-prayer-vigil-at-limas-national-stadium"
+        }
+      ],
+      "title": "Pope Leo XIV draws hundreds of thousands on an emotional return to Peru",
+      "why": "The first US-born pope is back where he served as a bishop, in a region where the Church is losing ground."
+    }
+  ]
+}
