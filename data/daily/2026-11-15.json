@@ -1,0 +1,249 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-15",
+  "label": "Sunday, 15 November 2026",
+  "number": {
+    "text": "Interest the US government paid on its debt in October alone, more than it spent on veterans, agriculture and education combined (The Informationist, citing Treasury data).",
+    "value": "$103bn"
+  },
+  "podcast": {
+    "episode": "KI im Krieg: Spielt der Mensch noch eine Rolle? (#246)",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/KI-im-Krieg---Spielt-der-Mensch-noch-eine-Rolle----Grassl--Matei-246-e3s8rbp",
+    "why": "A German-language look at Helsing's new military AI platform and what it means for human control and European defence sovereignty."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Reporting by headquarters is a common, legal method, so the change alone proves nothing. But together with the WSJ findings it points to the real weakness of export controls: they track who pays, not where the chip runs. After Jensen Huang's exit, Nvidia's next filing will be read closely for any change in how China exposure is disclosed.",
+      "fact": "The Wall Street Journal reported this weekend that large data centres in Southeast Asia gave Chinese companies access to Nvidia computing power through a gap in US sanctions, and served as cover for alleged chip smuggling. Michael Burry notes that in late 2025 Nvidia switched from counting revenue by billing location to counting it by customer headquarters, after which Singapore's fast-growing share stopped showing in the figures.",
+      "opinion": [
+        {
+          "text": "argues the change made it harder to see where Nvidia's chips really end up, says the press has finally started to scrutinise the company, and says he still holds put options on the stock.",
+          "who": "Michael Burry (Cassandra Unchained)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Michael Burry: How NVIDIA's Changed Asian Revenue Reporting 'Disappeared' Singapore",
+          "u": "https://michaeljburry.substack.com/p/how-nvidias-changed-asian-revenue"
+        }
+      ],
+      "title": "Michael Burry: Nvidia changed how it reports Asian sales, and Singapore 'disappeared'"
+    },
+    "austrian": {
+      "claude": "The arithmetic is the Treasury's own, but the conclusion is not automatic. Fed independence is still real: it hiked in September against the Treasury's wishes, and 10-year yields above 5% show markets demanding more, not less, from the Fed. Higher taxes or growth from AI could also narrow the gap, even if neither looks likely soon.",
+      "fact": "Treasury Secretary Scott Bessent said on Friday that the Fed should not hike too much into an energy supply shock and that core inflation remains under control. The Fed raised rates in September for the first time since 2023. The Treasury's own Financial Report projects federal debt held by the public rising from 99% of GDP to over 150% by 2040, and Social Security's trustees expect its retirement trust fund to run dry in late 2032.",
+      "opinion": [
+        {
+          "text": "calls this fiscal dominance in the open: with $12 trillion to refinance by the end of next year and $103 billion of interest paid in October alone, Washington will borrow rather than cut, and the Fed will end up printing to buy the debt.",
+          "who": "James Lavish (The Informationist; holds Bitcoin)"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Informationist: The US Treasury Is Sounding the Alarm",
+          "u": "https://www.jameslavish.com/p/the-us-treasury-is-sounding-the-alarm"
+        }
+      ],
+      "title": "The Informationist: the US Treasury is quietly warning the Fed not to hike"
+    },
+    "mainstream": {
+      "claude": "A 2028 vote lands after the 2027 federal elections, so the treaty becomes a campaign issue rather than a settled question. For Brussels, the delay keeps Switzerland in limbo while the EU itself is busy with Ukraine, sanctions and its own budget; the longer it takes, the more the details risk being reopened.",
+      "fact": "SRF reports that the popular vote on the Bilaterals III package with the EU will most likely come in 2028 at the earliest, because the Council of States has not yet scheduled the reconciliation of differences with the National Council. The package, which updates market access, wages protection and Switzerland's contribution to the EU, has split parties for two years.",
+      "src": [
+        {
+          "t": "SRF: Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
+          "u": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028"
+        }
+      ],
+      "title": "Switzerland's EU treaty package will not reach voters before 2028"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera: Trump, Xi and Putin to hold first three-way summit in China",
+      "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    },
+    {
+      "t": "SRF: Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+      "u": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
+    },
+    {
+      "t": "Al Jazeera: Iran war live: Bahrain targeted as Gulf nations warned against US support",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+    },
+    {
+      "t": "Al Jazeera: UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+    },
+    {
+      "t": "Al Jazeera: Saudi-led coalition intercepts suspected Houthi missiles and drones",
+      "u": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+    },
+    {
+      "t": "Euronews: US floats Ukraine ceding land in exchange for NATO membership: Kyiv",
+      "u": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    },
+    {
+      "t": "Al Jazeera: US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "u": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"
+    },
+    {
+      "t": "Euronews: EU forces board suspected Russian shadow fleet tanker: Kallas",
+      "u": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+    },
+    {
+      "t": "Euronews: Three commercial vessels struck by drones near Romania's Black Sea, PM says",
+      "u": "https://www.euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says"
+    },
+    {
+      "t": "Al Jazeera: SpaceX's Starship captured by launchpad arms in dramatic first",
+      "u": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+    },
+    {
+      "t": "Euronews: SpaceX catches part of its Starship rocket in historic first",
+      "u": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first"
+    },
+    {
+      "t": "Euronews: Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+      "u": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions"
+    },
+    {
+      "t": "Al Jazeera: Israeli air strike kills senior Hamas commander in Gaza",
+      "u": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+    },
+    {
+      "t": "Al Jazeera: EU calls for immediate humanitarian access to Gaza",
+      "u": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+    },
+    {
+      "t": "SRF: Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
+      "u": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028"
+    },
+    {
+      "t": "Michael Burry: How NVIDIA's Changed Asian Revenue Reporting 'Disappeared' Singapore",
+      "u": "https://michaeljburry.substack.com/p/how-nvidias-changed-asian-revenue"
+    },
+    {
+      "t": "The Informationist: The US Treasury Is Sounding the Alarm",
+      "u": "https://www.jameslavish.com/p/the-us-treasury-is-sounding-the-alarm"
+    },
+    {
+      "t": "CoinGecko: Bitcoin price",
+      "u": "https://www.coingecko.com/en/coins/bitcoin"
+    }
+  ],
+  "thread": {
+    "text": "Kyiv says Washington floated ceding parts of Donbas in exchange for NATO membership (Euronews, Al Jazeera).",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "Low expectations are probably honest: China has always refused limits while its arsenal is far smaller than the US and Russian ones. The real value of the meeting is a channel between three leaders who are each fighting or backing a war, from Ukraine to the Gulf.",
+      "fact": "The White House announced that Donald Trump, Xi Jinping and Vladimir Putin will meet on the sidelines of the APEC summit in Shenzhen next week, the first trilateral meeting of the three. It comes nine months after New START, the last US-Russia arms-control treaty, lapsed in February. A senior US official played down expectations, saying Washington does not expect any agreement; SRF asks whether a new disarmament treaty is on the table.",
+      "src": [
+        {
+          "t": "Al Jazeera: Trump, Xi and Putin to hold first three-way summit in China",
+          "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+        },
+        {
+          "t": "SRF: Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+          "u": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an"
+        }
+      ],
+      "title": "Trump, Xi and Putin will hold the first three-way summit of nuclear powers in Shenzhen next week",
+      "why": "The leaders of the three largest nuclear arsenals meet with no arms-control treaty left between them."
+    },
+    {
+      "claude": "Brent near $96 already prices a lot of this, which is why oil barely moved on Friday. The risk is a shift from harassment to closure: Iran's parliament speaker says the country will not accept 'neither war nor peace', which reads like a warning that the current level is a floor, not a ceiling.",
+      "fact": "Bahrain's military said its air defences stopped Iranian attacks on Sunday, and the Saudi-led coalition reported intercepting missiles and drones over Riyadh. UN assistant secretary-general Khaled Khiari told the Security Council that 25 seafarers have been killed in and around the Strait of Hormuz since the war began; the IMO has logged 136 security incidents since 1 March, 35 of them in October. UKMTO says Hormuz traffic is about 65% below pre-war levels.",
+      "src": [
+        {
+          "t": "Al Jazeera: Iran war live: Bahrain targeted as Gulf nations warned against US support",
+          "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+        },
+        {
+          "t": "Al Jazeera: UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+        },
+        {
+          "t": "Al Jazeera: Saudi-led coalition intercepts suspected Houthi missiles and drones",
+          "u": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+        }
+      ],
+      "title": "Iran fires at a US base in Bahrain while the UN counts 25 seafarers killed around Hormuz",
+      "unc": "Iran says three oil tankers hit mines on Saturday; no independent outlet has confirmed it yet.",
+      "why": "Two days after Washington walked away from talks, the Gulf war is spreading to shipping and US allies."
+    },
+    {
+      "claude": "The offer may matter less for its chance of acceptance than for what it signals: NATO membership is now on the US table, which Moscow has called a red line. Expect Russia to reject that half loudly, and European capitals to press harder for their seat at the talks.",
+      "fact": "President Zelenskyy said US negotiators suggested that Ukraine could cede parts of the Donbas region to Russia in exchange for joining NATO, Euronews and Al Jazeera report. The idea follows US envoys' talks with Vladimir Putin in Moscow this week; Washington has not publicly confirmed the proposal.",
+      "src": [
+        {
+          "t": "Euronews: US floats Ukraine ceding land in exchange for NATO membership: Kyiv",
+          "u": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+        },
+        {
+          "t": "Al Jazeera: US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+          "u": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"
+        }
+      ],
+      "title": "Kyiv says the US floated a swap: give up parts of Donbas, get NATO membership",
+      "why": "It would be the first time Washington tied Ukraine's NATO path to ceding territory."
+    },
+    {
+      "claude": "Boarding is a step up from sanctions on paper, and it carries a risk Europe has long avoided: a direct confrontation at sea if Moscow decides to protect its tankers. The Monday package targeting buyers and banks will matter more for Moscow's oil income than any single boarding.",
+      "fact": "EU foreign-policy chief Kaja Kallas said the EU's Operation Irini boarded the tanker MV Midag in the Mediterranean on Friday and confirmed it was sailing under a false flag. EU foreign ministers are due on Monday to approve new sanctions on banks, buyers and companies that support the shadow fleet. Separately, Romania's prime minister said three commercial vessels were struck by drones near its Black Sea coast.",
+      "src": [
+        {
+          "t": "Euronews: EU forces board suspected Russian shadow fleet tanker: Kallas",
+          "u": "https://www.euronews.com/2026/11/15/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean-kallas-says"
+        },
+        {
+          "t": "Euronews: Three commercial vessels struck by drones near Romania's Black Sea, PM says",
+          "u": "https://www.euronews.com/2026/11/15/three-commercial-vessels-struck-by-drones-near-romanias-black-sea-pm-says"
+        }
+      ],
+      "title": "EU naval forces board a Russian shadow-fleet tanker sailing under a false flag",
+      "why": "Europe is moving from listing shadow-fleet ships to physically stopping them, a day before new sanctions."
+    },
+    {
+      "claude": "If SpaceX can repeat this, the cost of putting a tonne into orbit falls again, and so does the cost of the Starlink and Starshield networks that now matter in Ukraine. Zelenskyy questioned SpaceX on Sunday over reported speed limits on Starshield, a reminder of how much depends on one company.",
+      "fact": "On Saturday's test flight from Starbase in Texas, SpaceX caught its Starship upper stage with the mechanical arms of the launch tower, a first after earlier flights in which only the Super Heavy booster was caught. Al Jazeera and Euronews both report the catch.",
+      "src": [
+        {
+          "t": "Al Jazeera: SpaceX's Starship captured by launchpad arms in dramatic first",
+          "u": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first"
+        },
+        {
+          "t": "Euronews: SpaceX catches part of its Starship rocket in historic first",
+          "u": "https://www.euronews.com/2026/11/15/spacex-catches-part-of-its-starship-rocket-in-historic-first"
+        },
+        {
+          "t": "Euronews: Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+          "u": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions"
+        }
+      ],
+      "title": "SpaceX catches Starship with the launch tower's arms for the first time",
+      "why": "Catching the ship, not only the booster, is the step that makes a fully reusable rocket possible."
+    },
+    {
+      "fact": "Hamas confirmed that Samir Abu Younis, commander of its Rafah brigade, was killed in an Israeli drone strike on al-Mawasi near Khan Younis on Saturday. Gaza's Health Ministry says Israeli attacks killed 16 people in the past 48 hours and puts the toll since October 2023 at 74,695. The EU called on Friday for immediate humanitarian access, saying Israel must enable the work of the UN and its agencies.",
+      "src": [
+        {
+          "t": "Al Jazeera: Israeli air strike kills senior Hamas commander in Gaza",
+          "u": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+        },
+        {
+          "t": "Al Jazeera: EU calls for immediate humanitarian access to Gaza",
+          "u": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+        }
+      ],
+      "title": "Israeli strike kills Hamas's Rafah commander as Gaza's toll passes 74,600",
+      "why": "Strikes continue despite the ceasefire framework, and the EU now demands immediate aid access."
+    }
+  ],
+  "pdf": "daily/2026-11-15.pdf"
+}

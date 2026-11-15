@@ -21,9 +21,9 @@
     "check": "2027-01-31",
     "claim": "The four-year cycle puts Bitcoin's low around the week of 18 Oct 2026.",
     "made": "2026-10-18",
-    "result": "Right if no lower low than Oct 2026 by end of January.",
+    "result": "Bitcoin made a lower low: about $62,600 on 15 Nov, below the October low of about $77,300 (CoinGecko).",
     "source": "BlingBling newsletter",
-    "status": "open",
+    "status": "wrong",
     "who": "BlingBling",
     "id": "blingbling-cycle-low"
   },
@@ -47,6 +47,15 @@
     "id": "dalio-bond-bear"
   },
   {
+    "check": "2027-01-03",
+    "claim": "The energy permitting overhaul becomes law in the lame-duck session, where it stands its best chance.",
+    "made": "2026-11-15",
+    "source": "Lame Duck à L'Orange, 15 Nov",
+    "status": "open",
+    "who": "Doomberg",
+    "id": "doomberg-permitting-lameduck"
+  },
+  {
     "check": "2026-12-17",
     "claim": "About an 85% chance the Fed hikes in December.",
     "made": "2026-10-30",
@@ -54,6 +63,15 @@
     "status": "open",
     "who": "Fed funds futures",
     "id": "futures-dec-hike"
+  },
+  {
+    "check": "2031-03-31",
+    "claim": "Anthropic revenue above $600 billion by 2030.",
+    "made": "2026-11-13",
+    "source": "IPO research, via Semafor Flagship, 13 Nov",
+    "status": "open",
+    "who": "Goldman Sachs",
+    "id": "goldman-anthropic-600bn"
   },
   {
     "check": "2030-12-31",
@@ -72,6 +90,15 @@
     "status": "open",
     "who": "Intel",
     "id": "intel-pc-2027"
+  },
+  {
+    "check": "2029-03-31",
+    "claim": "US AI capex of at least $1.5 trillion in 2027, then roughly flat in 2028.",
+    "made": "2026-11-11",
+    "source": "via Semafor Flagship, 11 Nov",
+    "status": "open",
+    "who": "JPMorgan",
+    "id": "jpm-ai-capex-2027"
   },
   {
     "check": "2036-12-31",

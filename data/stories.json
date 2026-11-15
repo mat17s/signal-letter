@@ -27,12 +27,17 @@
       {
         "date": "2026-11-13",
         "text": "Jensen Huang resigned and CFO Colette Kress became interim CEO; Nvidia closed down 4% after a 14% intraday drop, while Anthropic's IPO is reportedly six times oversubscribed (Nvidia, Semafor)."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: Huang resigns; Nvidia loses nearly $1tn in days and falls 14% intraday on Thursday; Anthropic IPO reported six times oversubscribed, debut planned late next week.",
+        "week": "2026-W46"
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "id": "ai-trade"
   },
   {
@@ -46,12 +51,17 @@
         "date": "2026-11-01",
         "text": "Week 44: SVP hearings with eight candidates; committee proposal by 13 Nov, group vote 20 Nov; Greens critical of Amaudruz.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: SVP selection committee postpones its recommendation to next week; group still aims to nominate on 20 Nov; election 9 Dec.",
+        "week": "2026-W46"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bundesrat: Parmelin's successor",
-    "updated": "2026-11-01",
+    "updated": "2026-11-15",
     "id": "bundesrat"
   },
   {
@@ -78,12 +88,17 @@
         "date": "2026-11-08",
         "text": "Week 45: US adds 165,000 jobs in October; futures still lean to a December hike; US 10-year −7 bp to 4.86%; Bank of England hikes in a divided vote and warns of ~5% inflation.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: October CPI +0.4% (core +0.3%), above forecast; US 10-year +30 bp to 5.15%; Bessent warns the Fed against hiking into a supply shock.",
+        "week": "2026-W46"
       }
     ],
     "region": "USA",
     "status": "active",
     "title": "Fed, rates and the bond market",
-    "updated": "2026-11-08",
+    "updated": "2026-11-15",
     "id": "fed-rates"
   },
   {
@@ -182,12 +197,17 @@
       {
         "date": "2026-11-10",
         "text": "After meeting Qatar's prime minister, Trump called the war 'effectively over' while Rubio sees no breakthrough; France blamed the Revolutionary Guards for a cyberattack on its supermarkets (AP, France 24)."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: Trump says the US 'won' and 'doesn't need a deal', ending Vance-led talks; land blockade in effect; Iran MPs debate NPT exit; Türkiye and Qatar sign a defence pact.",
+        "week": "2026-W46"
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-11-10",
+    "updated": "2026-11-15",
     "id": "iran-war"
   },
   {
@@ -200,12 +220,17 @@
         "date": "2026-11-01",
         "text": "Final count: Netanyahu bloc 53, Eisenkot bloc 48, Arab parties 19; nobody reaches 61. Netanyahu stays caretaker with war powers.",
         "week": "2026-W44"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: President Herzog gives Gadi Eisenkot the first mandate to form a government (about six weeks).",
+        "week": "2026-W46"
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Israel: election and coalition",
-    "updated": "2026-11-01",
+    "updated": "2026-11-15",
     "id": "israel-coalition"
   },
   {
@@ -228,12 +253,17 @@
         "date": "2026-11-08",
         "text": "Week 45 (unconfirmed, Bitcoin Treasuries): Strategy buys 811 BTC and spends $208m buying back STRC, which returns to $100.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: Strategy passes 850,000 BTC after buying 1,036 at ~$79,000 and spends $188m buying back STRC; Bitcoin now trades below that cost.",
+        "week": "2026-W46"
       }
     ],
     "region": "Bitcoin",
     "status": "active",
     "title": "Strategy vs MSCI",
-    "updated": "2026-11-08",
+    "updated": "2026-11-15",
     "id": "strategy-msci"
   },
   {
@@ -300,12 +330,21 @@
       {
         "date": "2026-11-14",
         "text": "Europe pushes for a seat at the next round after US envoys met Putin in Moscow; Washington and Kyiv now back a European presence (Euronews, Al Jazeera)."
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: Abu Dhabi talks on an energy and Black Sea truce bring no breakthrough; Witkoff and Kushner meet Putin; UK arrests a US soldier at a NATO HQ for spying for Russia.",
+        "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Kyiv says Washington floated ceding parts of Donbas in exchange for NATO membership (Euronews, Al Jazeera)."
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "Ukraine: peace talks",
-    "updated": "2026-11-14",
+    "updated": "2026-11-15",
     "id": "ukraine-talks"
   },
   {
@@ -318,12 +357,17 @@
         "date": "2026-11-08",
         "text": "Week 45: Democrats win both chambers, including Senate seats in Texas and Kansas; Vance blames the Iran war; Republicans press Trump to fire Hegseth; subpoenas for Trump-linked firms in preparation.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-15",
+        "text": "Week 46: Stephen Miller replaces Susie Wiles as chief of staff; Dalio expects 'more fighting and more dysfunction' around the 11 Dec funding deadline.",
+        "week": "2026-W46"
       }
     ],
     "region": "Americas",
     "status": "active",
     "title": "US midterms",
-    "updated": "2026-11-08",
+    "updated": "2026-11-15",
     "id": "us-midterms"
   }
 ]

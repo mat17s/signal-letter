@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-14T17:45:00Z",
+  "asOf": "2026-11-15T17:45:00Z",
   "intraday": false,
   "items": [
     {
@@ -36,27 +36,27 @@
     },
     {
       "ccy": "USD",
-      "d1": -4.5,
+      "d1": -1.2,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 65439,
-      "w1": -13.6
+      "price": 64675,
+      "w1": -14.8
     },
     {
       "ccy": "USD",
-      "d1": -0.09,
+      "d1": 0.03,
       "key": "XAU",
       "name": "Gold",
-      "price": 3881.8,
-      "w1": -4.74
+      "price": 3886.3,
+      "w1": -4.63
     },
     {
       "ccy": "USD",
-      "d1": 0.27,
+      "d1": 0.02,
       "key": "BRENT",
       "name": "Brent",
-      "price": 96.08,
-      "w1": -2.28
+      "price": 95.84,
+      "w1": -2.52
     },
     {
       "d1bp": 5.1,
@@ -68,20 +68,20 @@
     },
     {
       "ccy": "",
-      "d1": 0.2,
+      "d1": 0.07,
       "key": "EURCHF",
       "name": "EUR/CHF",
-      "price": 0.9252,
-      "w1": 1.05
+      "price": 0.9243,
+      "w1": 0.95
     },
     {
       "ccy": "",
-      "d1": 0.84,
+      "d1": 0.27,
       "key": "USDCHF",
       "name": "USD/CHF",
-      "price": 0.8393,
-      "w1": 2.93
+      "price": 0.8382,
+      "w1": 2.8
     }
   ],
-  "label": "Sat 14 Nov, 18:45 · Fri close, Bitcoin live"
+  "label": "Sun 15 Nov, 18:45 · Fri close, Bitcoin live"
 }
