@@ -1,0 +1,257 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-16",
+  "label": "Monday, 16 November 2026",
+  "number": {
+    "text": "Strategy shares that funds tracking MSCI indexes hold, about 60% of the stock's average daily volume, before MSCI drops it on 30 November (Strategy estimate via Bitcoin Treasuries).",
+    "value": "13 million"
+  },
+  "podcast": {
+    "episode": "The Rise of the Welfare-Warfare State",
+    "show": "Radio Rothbard (Mises Institute)",
+    "url": "http://mises.org/podcasts/radio-rothbard/rise-welfare-warfare-state",
+    "why": "Ryan McMaken and Murray Sabrin trace how the US moved from a republic to a regulating, taxing welfare-warfare state, a useful frame for today's fiscal and war headlines."
+  },
+  "reads": {
+    "ai": {
+      "claude": "The Altman comparison misses the key difference: that fight was inside one company, while this one involves Congress, the Treasury and export-control law. A board can reverse itself; it cannot make Washington's questions about chip sales to China go away. Watch whether Tuesday's earnings call says anything about China exposure.",
+      "fact": "Elon Musk, Nvidia staff and large investors are pushing Nvidia's board to reconsider Jensen Huang's exit; an online petition passed 140,000 signatures, more than 7,000 from people saying they work at Nvidia. The Financial Times reports Huang is privately weighing a return. Megaspeed, the Nvidia customer at the centre of the scandal, said Alice Huang left the company in 2025, Al Jazeera reports, while Treasury Secretary Scott Bessent demanded a \"dramatic shakeup\" at Nvidia.",
+      "opinion": [
+        {
+          "text": "compares it to Sam Altman's return at OpenAI in 2023, when staff and investor pressure reversed a board decision within days.",
+          "who": "The Rundown"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Rundown AI: Jensen Huang weighs a comeback at Nvidia",
+          "u": "https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia"
+        },
+        {
+          "t": "Business Insider: Petition to reinstate Jensen Huang",
+          "u": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11"
+        },
+        {
+          "t": "Al Jazeera: Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+          "u": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025"
+        }
+      ],
+      "title": "The Rundown: a petition to bring back Jensen Huang passes 140,000 signatures"
+    },
+    "austrian": {
+      "claude": "His self-criticism is sharper than most Bitcoin writing, but the data cut both ways: the MSCI deletion is mechanical selling of a stock, and the network itself has not been harmed. The real risk sits with leveraged holders such as Trump Media, whose bitcoin is almost all pledged, with a cash put due on 30 November.",
+      "fact": "MSCI will remove Strategy from the MSCI USA index and Metaplanet from its Japan small-cap index at the close on 30 November, the first use of its new rule for non-operating companies. Strategy estimated index funds hold about 13 million of its shares, about 60% of average daily volume; the rule forces share sales, not bitcoin sales. Strategy still bought 485 bitcoin last week, below its own average cost, and holds 850,849 BTC. Bitcoin is down about 14% in a week, near $64,100.",
+      "opinion": [
+        {
+          "text": "writes that Bitcoin and gold are sold first because they are liquid, that sales-driven 'education' and cheering Trump and Wall Street replaced engineers with marketers, and that an unwinding of treasury companies is now more likely, though Bitcoin will probably survive and grow more resilient.",
+          "who": "Rahim Taghizadegan (Scholarium; Bitcoin holder)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Scholarium (Rahim Taghizadegan): What weighs on our shoulders",
+          "u": "https://scholarium.at/scholien"
+        },
+        {
+          "t": "Bitcoin Treasuries: MSCI to remove Strategy and Metaplanet from its indexes",
+          "u": "https://bitcointreasuries.net/news/msci-to-remove-strategy-and-metaplanet-from-its-indexes"
+        },
+        {
+          "t": "Bitcoin Treasuries: Strategy adds 485 bitcoin, buys back $228 million of STRC",
+          "u": "https://bitcointreasuries.net/news/strategy-adds-485-bitcoin-buys-back-dollar228-million-of-strc"
+        }
+      ],
+      "title": "Scholarium: Bitcoin is capitulating, and the treasury companies may unwind"
+    },
+    "mainstream": {
+      "claude": "Anthropic makes Claude, so read this as plain facts. The useful point is the sequencing: a weak Nvidia report on Tuesday would land days before the debut, so the two events will be read as one verdict on the AI trade.",
+      "fact": "Semafor reports that Anthropic's listing, expected this week at $70 to $78 a share and a valuation of about $1.4 trillion, is six times oversubscribed according to Bloomberg, and that Nvidia is expected to invest $10 billion in a private placement alongside it. Nvidia reports earnings on Tuesday, its first without Jensen Huang. Commerce Secretary Howard Lutnick, criticised for slow-walking chip export curbs to China, will join Trump on the trip to Asia.",
+      "opinion": [
+        {
+          "text": "argues the IPO will either steady an AI industry badly in need of good news or deliver another hit, and warns that oversubscription figures are inflated because buyers overstate orders.",
+          "who": "Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Business: On tenterhooks",
+          "u": "https://semafor.com/s/785q7lpgok"
+        }
+      ],
+      "title": "Semafor Business: Anthropic's $1.4 trillion IPO is the test of the AI trade"
+    }
+  },
+  "sources": [
+    {
+      "t": "Al Jazeera: Third US carrier arrives in Middle East, Iran says oil tankers hit mines",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+    },
+    {
+      "t": "Semafor Flagship: There is no comeback",
+      "u": "https://semafor.com/s/y14h6sty38"
+    },
+    {
+      "t": "International Intrigue: Putin on airs",
+      "u": "https://www.internationalintrigue.io/"
+    },
+    {
+      "t": "Euronews: US floats Ukraine ceding land in exchange for NATO membership: Kyiv",
+      "u": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    },
+    {
+      "t": "Al Jazeera: After a nationwide ground stop, US faces aviation infrastructure questions",
+      "u": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions"
+    },
+    {
+      "t": "Al Jazeera: ASEAN, China fall short of agreeing on South China Sea code",
+      "u": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+    },
+    {
+      "t": "Al Jazeera: Eisenkot says Netanyahu can't remain Israel PM amid alleged vote meddling",
+      "u": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
+    },
+    {
+      "t": "Semafor Business: On tenterhooks",
+      "u": "https://semafor.com/s/785q7lpgok"
+    },
+    {
+      "t": "The Rundown AI: Jensen Huang weighs a comeback at Nvidia",
+      "u": "https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia"
+    },
+    {
+      "t": "Business Insider: Petition to reinstate Jensen Huang",
+      "u": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11"
+    },
+    {
+      "t": "Al Jazeera: Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+      "u": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025"
+    },
+    {
+      "t": "Scholarium (Rahim Taghizadegan): What weighs on our shoulders",
+      "u": "https://scholarium.at/scholien"
+    },
+    {
+      "t": "Bitcoin Treasuries: MSCI to remove Strategy and Metaplanet from its indexes",
+      "u": "https://bitcointreasuries.net/news/msci-to-remove-strategy-and-metaplanet-from-its-indexes"
+    },
+    {
+      "t": "Bitcoin Treasuries: Strategy adds 485 bitcoin, buys back $228 million of STRC",
+      "u": "https://bitcointreasuries.net/news/strategy-adds-485-bitcoin-buys-back-dollar228-million-of-strc"
+    },
+    {
+      "t": "CoinGecko: Bitcoin price",
+      "u": "https://www.coingecko.com/en/coins/bitcoin"
+    }
+  ],
+  "thread": {
+    "text": "Zelensky says he would put a Donbas-for-NATO swap to a national vote if he gets full security guarantees, no army limits and reconstruction aid.",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "Three carriers and a pre-emption warning is the setup in which a small incident becomes a big one. The market is still pricing harassment, not closure, which is why oil rose only modestly.",
+      "fact": "Washington said a third aircraft carrier group has arrived in the Middle East, after Iran struck a US base in Bahrain over the weekend. Tehran warned it may strike first rather than wait for another US attack, while a senior Iranian politician said a path to a deal still exists. Donald Trump said the US would proceed \"a bit more civilly\" and lean on economic pressure, and oil prices rose on fears that fighting resumes; Brent stood near $95.",
+      "src": [
+        {
+          "t": "Al Jazeera: Third US carrier arrives in Middle East, Iran says oil tankers hit mines",
+          "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+        },
+        {
+          "t": "Semafor Flagship: There is no comeback",
+          "u": "https://semafor.com/s/y14h6sty38"
+        }
+      ],
+      "title": "A third US carrier group reaches the Gulf as Tehran warns it may strike first",
+      "unc": "Iran says several oil tankers hit mines; US intelligence reportedly puts Iran's remaining missile stock at up to 2,500 (Semafor, citing reports). Neither is independently confirmed.",
+      "why": "The war is in a pause, not an end: both sides are adding pressure while talking about a deal."
+    },
+    {
+      "claude": "Moscow's demands, limits on Ukraine's army and no foreign troops, are the exact opposite of Zelensky's conditions. The gap is not about land but about whether Ukraine stays armed.",
+      "fact": "After the first in-person US-Ukraine-Russia talks since February in Abu Dhabi, US envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow and then Volodymyr Zelensky in Dublin. Zelensky said US negotiators asked whether Kyiv would cede all of the Donbas, including land it still holds, in exchange for NATO membership, the first time this was raised. He said he would put the question to a national vote if Europe and the US offered full security guarantees, no limits on Ukraine's army and reconstruction aid.",
+      "opinion": [
+        {
+          "text": "suggests the offer may be a probe of Kyiv's red lines, or that Zelensky went public to pin Washington to the guarantees, and doubts Moscow will accept a deal that leaves Putin with only the Donbas.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: Putin on airs",
+          "u": "https://www.internationalintrigue.io/"
+        },
+        {
+          "t": "Euronews: US floats Ukraine ceding land in exchange for NATO membership: Kyiv",
+          "u": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+        }
+      ],
+      "title": "Zelensky would put a Donbas-for-NATO swap to a national vote, on conditions",
+      "why": "The first US offer to tie Ukraine's NATO path to territory is now a live negotiating line."
+    },
+    {
+      "claude": "A single upgrade bringing down the whole system points to missing redundancy, not bad luck. Expect a funding fight in the new Congress over the air-traffic modernisation that has been promised for two decades.",
+      "fact": "A communications outage triggered a four-hour nationwide ground stop on Friday, the longest since the September 11 attacks, and more than 18,000 US flights have been cancelled since. Transport Secretary Sean Duffy blamed a copper-wire upgrade. Al Jazeera reports the episode has reopened questions about the state of US aviation systems.",
+      "src": [
+        {
+          "t": "International Intrigue: Putin on airs",
+          "u": "https://www.internationalintrigue.io/"
+        },
+        {
+          "t": "Al Jazeera: After a nationwide ground stop, US faces aviation infrastructure questions",
+          "u": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions"
+        }
+      ],
+      "title": "More than 18,000 US flights cancelled after a communications outage grounded the country",
+      "why": "The longest nationwide ground stop since 9/11 exposes how old America's air-traffic infrastructure is."
+    },
+    {
+      "claude": "Holding stimulus in reserve while investment collapses is a bet that the worst is still ahead. For the Shenzhen summit it means Xi needs calm trade with Washington more than he lets on.",
+      "fact": "China's retail sales and industrial output for October missed forecasts, and fixed investment fell by the most in a month outside the pandemic, Semafor reports, feeding fears of deflation. Japan's economy also unexpectedly cooled under higher energy prices from the Gulf war. Separately, ASEAN and China again failed to agree a code of conduct for the South China Sea.",
+      "opinion": [
+        {
+          "text": "says policymakers are holding back stimulus because they expect conditions to worsen in 2027 and 2028.",
+          "who": "Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: There is no comeback",
+          "u": "https://semafor.com/s/y14h6sty38"
+        },
+        {
+          "t": "Al Jazeera: ASEAN, China fall short of agreeing on South China Sea code",
+          "u": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code"
+        }
+      ],
+      "title": "China's economy slows more than expected just before Xi hosts APEC in Shenzhen",
+      "why": "Weak data and a stalled South China Sea deal weaken Beijing's hand before the Trump-Xi-Putin meeting."
+    },
+    {
+      "claude": "With the three largest military powers split three ways, a binding treaty is unlikely soon. The realistic outcome is a set of norms, which matters most for what Europe allows its own new defence firms to build.",
+      "fact": "Officials from 128 countries begin discussions at the UN today on global rules for autonomous weapons. Russia, which this summer killed three Ukrainians with an autonomous AI-powered drone, opposes any curbs; the US wants non-binding rules and European countries want binding ones. North Korea said last month it tested an AI-equipped torpedo.",
+      "src": [
+        {
+          "t": "Semafor Flagship: There is no comeback",
+          "u": "https://semafor.com/s/y14h6sty38"
+        }
+      ],
+      "title": "128 countries open UN talks on rules for autonomous weapons already in use",
+      "unc": "Semafor reports experts saying China has concluded AI is best used to shorten the kill chain rather than for fully autonomous weapons; this rests on that single report.",
+      "why": "AI-driven weapons are spreading faster than any rule that could limit them."
+    },
+    {
+      "claude": "The details of the allegation matter and are still thin in the reporting. Treat this as the opening of a domestic fight rather than a sign Netanyahu is about to go.",
+      "fact": "Gadi Eisenkot, former army chief and opposition politician, said Benjamin Netanyahu cannot remain prime minister amid allegations of meddling in the vote, Al Jazeera reports. Israel's government is in caretaker status while it fights in Gaza and alongside the US against Iran.",
+      "src": [
+        {
+          "t": "Al Jazeera: Eisenkot says Netanyahu can't remain Israel PM amid alleged vote meddling",
+          "u": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling"
+        }
+      ],
+      "title": "Israeli ex-army chief Eisenkot says Netanyahu cannot stay in office over alleged vote meddling",
+      "why": "A caretaker government at war now faces a legitimacy fight at home."
+    }
+  ],
+  "pdf": "daily/2026-11-16.pdf"
+}
