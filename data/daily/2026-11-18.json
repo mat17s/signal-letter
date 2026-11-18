@@ -1,0 +1,217 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-18",
+  "label": "Wednesday, 18 November 2026",
+  "number": {
+    "text": "Voyager 1 became the first human-made object a full light-day from Earth, about 26 billion km away, 49 years after launch (Semafor).",
+    "value": "1 light-day"
+  },
+  "pdf": "daily/2026-11-18.pdf",
+  "podcast": {
+    "episode": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+    "show": "All-In (VC perspective)",
+    "url": "https://allinchamathjason.libsyn.com/databricks-ceo-agi-is-already-here-why-companies-are-behind-and-the-superintelligence-debate",
+    "why": "Released yesterday: a tech-investor view of how far companies really are with AI, a useful counterweight to today's talk of an AI winter."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Benchmarks and tester mood are diverging, which says more about how people now judge models (on coding and readability) than about raw capability. The self-improvement rating is the detail that deserves more attention than the reviews: it is a safety threshold, and crossing it publicly raises the bar for every lab, Anthropic included.",
+      "fact": "OpenAI released GPT-6.2 Astra and the cheaper GPT-6.2 Sol for professional work. Astra climbed to second place on Artificial Analysis's index, behind Fable 5.2 and ahead of Google's Gemini 4 Carbon; Sol matches September's Astra at about 15% of the cost per task, but coding barely improved and Sol regressed. OpenAI rated Astra at its own High threshold for AI self-improvement, a first for a public model. Several testers panned it, one calling it the worst model OpenAI has released.",
+      "src": [
+        {
+          "t": "The Rundown AI: OpenAI's newest release lands to rough reviews",
+          "u": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews"
+        }
+      ],
+      "title": "The Rundown: OpenAI's GPT-6.2 Astra and Sol land to rough reviews days before Anthropic's IPO"
+    },
+    "austrian": {
+      "claude": "Through an Austrian lens this is credit built on a hard asset: dilute shareholders to support a 12% paper promise. The counter-argument is that defending the preferred's price keeps Strategy's funding channel open; but if Bitcoin keeps falling, the money goes to servicing claims rather than buying the asset.",
+      "fact": "From 9 to 15 November Strategy raised $244.7 million from new common shares and put $206.3 million of it into buying back its STRC preferred stock, plus interest income for a total of $228.1 million, nearly seven times the $33.4 million it spent on 485 bitcoin, its filing shows. STRC slipped to $98.70, a 12.16% yield, while the US 10-year yield rose to 5.10%.",
+      "opinion": [
+        {
+          "text": "tracks the gap between these preferreds and Treasuries, which widened to 706 basis points for STRC, as the measure of how much risk investors now price in.",
+          "who": "Bitcoin Treasuries"
+        }
+      ],
+      "src": [
+        {
+          "t": "Bitcoin Treasuries: SATA Is About to Pay More",
+          "u": "https://bitcointreasuries.net/digital-credit"
+        }
+      ],
+      "title": "Bitcoin Treasuries: Strategy sold stock to buy back its own 12% preferred, not Bitcoin"
+    },
+    "mainstream": {
+      "claude": "Both sides frame this as principle, but it is also leverage: Starlink would compete with local operators, and Pretoria loses little by waiting. African AI ambitions need connectivity first, so the stand-off costs South Africa more over time than it costs Musk.",
+      "fact": "South Africa's president told Semafor that Elon Musk's failure to accept a law requiring 30% Black local ownership of telecom operations is the main thing stopping Starlink from launching there. Musk has called the rule openly racist. Ramaphosa, in California to court tech investment for AI, said companies must follow the country's policies, while ties with Washington have soured: the US removed South Africa from the AGOA trade programme and put visa curbs on some officials.",
+      "src": [
+        {
+          "t": "Semafor Africa: 'Difficulty in understanding'",
+          "u": "https://semafor.com/s/9v8odj9cg8"
+        }
+      ],
+      "title": "Semafor Africa: Ramaphosa says Musk's 'difficulty in understanding' keeps Starlink out of South Africa"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship: Nvidia beats expectations",
+      "u": "https://semafor.com/s/0q7w1xcyhc"
+    },
+    {
+      "t": "Semafor Flagship: All thunder, no rain",
+      "u": "https://semafor.com/s/09ixe3a2ar"
+    },
+    {
+      "t": "The Rundown AI: OpenAI's newest release lands to rough reviews",
+      "u": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews"
+    },
+    {
+      "t": "International Intrigue: What a Deutsche-bag",
+      "u": "https://www.internationalintrigue.io/"
+    },
+    {
+      "t": "Semafor Gulf: LIV and let die",
+      "u": "https://semafor.com/s/qif58a07fd"
+    },
+    {
+      "t": "Semafor Africa: 'Difficulty in understanding'",
+      "u": "https://semafor.com/s/9v8odj9cg8"
+    },
+    {
+      "t": "Bitcoin Treasuries: SATA Is About to Pay More",
+      "u": "https://bitcointreasuries.net/digital-credit"
+    }
+  ],
+  "thread": {
+    "text": "Nvidia beat forecasts but its board ruled out Huang's return; Anthropic's IPO is about seven times oversubscribed ahead of listing.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "Strong numbers and a leadership vacuum can coexist for a quarter, not for a year. The open question is less who runs Nvidia than whether a new CEO keeps Huang's close dealings with Washington and with the customers Nvidia helps finance.",
+      "fact": "Nvidia beat revenue expectations and raised its profit guidance on Tuesday, with interim CEO Colette Kress telling analysts that \"our momentum is real\", Semafor and The Rundown report. In his first statement since resigning, Jensen Huang apologised for \"serious mistakes\" and said he would be honoured to return, backed by a petition with more than 188,000 signatures. Board chair Harvey Jones said Nvidia does not intend to reinstate him, and Semafor reports the board is looking outside, with the heads of Arm and Marvell in the running, though some directors favour Huang. The Wall Street Journal reports the SEC is investigating whether Huang broke disclosure rules.",
+      "opinion": [
+        {
+          "text": "urged Nvidia to pick an insider, saying an outside CEO would have a vanishingly small chance of success in so complex a business.",
+          "who": "Jeff Bezos (at a Semafor event)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Nvidia beats expectations",
+          "u": "https://semafor.com/s/0q7w1xcyhc"
+        },
+        {
+          "t": "Semafor Flagship: All thunder, no rain",
+          "u": "https://semafor.com/s/09ixe3a2ar"
+        },
+        {
+          "t": "The Rundown AI: OpenAI's newest release lands to rough reviews",
+          "u": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews"
+        },
+        {
+          "t": "International Intrigue: What a Deutsche-bag",
+          "u": "https://www.internationalintrigue.io/"
+        }
+      ],
+      "title": "Nvidia beats forecasts, but its board rules out Jensen Huang's return and looks outside for a CEO",
+      "why": "The AI boom's most important company has record numbers and no settled leader, a day before Anthropic lists."
+    },
+    {
+      "claude": "Prices falling while ships are hit tells you the market now treats the war as background noise. That is when a single strike on export infrastructure can surprise most.",
+      "fact": "Iran fired at US military targets in Bahrain and Kuwait and at UAE ships in the Strait of Hormuz, while the US hit missile launch sites on Qeshm Island, Semafor reports citing Reuters; the strikes on Kuwait were Iran's first in more than two months. ADNOC Logistics & Services said one person was missing and 11 injured after one of its vessels was hit in the strait. Qatar's foreign ministry called it a dangerous escalation, and Saudi Arabia said it kept intercepting Houthi missiles, including at Riyadh. Oil still fell on signs of a supply surplus; Brent was near $90 at midday, down about 6% on the week.",
+      "src": [
+        {
+          "t": "Semafor Gulf: LIV and let die",
+          "u": "https://semafor.com/s/qif58a07fd"
+        }
+      ],
+      "title": "Iran strikes US targets in Bahrain and Kuwait as the Gulf war hardens into stalemate",
+      "why": "The nine-month US-Iran war is widening again, with a tanker hit in the Strait of Hormuz."
+    },
+    {
+      "claude": "The Swiss angle is worth watching: if regulators follow up on the oligarch money parked in Zurich, FINMA will be asked what it knew. The share fall looks like reputational risk being priced, not a solvency question.",
+      "fact": "A consortium of more than 50 newsrooms published Inside Deutsche Bank, based on over 15 million leaked emails, chats and audits, and the bank's shares have fallen nearly 8% since Monday, International Intrigue and Semafor report. The files cover dealings with Jeffrey Epstein, Russian oligarchs (about 20 of whom moved fortunes into its Swiss and Luxembourg units before the invasion of Ukraine), payments linked to suspected North Korean fronts, and Trump's 2017 tax documents. Deutsche Bank says the scandals date back many years and that it is now a stronger and safer bank.",
+      "opinion": [
+        {
+          "text": "wrote that the articles cover historical events that are largely known and addressed.",
+          "who": "RBC analyst (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: What a Deutsche-bag",
+          "u": "https://www.internationalintrigue.io/"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia beats expectations",
+          "u": "https://semafor.com/s/0q7w1xcyhc"
+        }
+      ],
+      "title": "The largest banking leak ever: 15 million Deutsche Bank files hit its shares",
+      "why": "Europe's comeback bank faces questions over Russia, North Korea, Epstein and its Swiss subsidiaries."
+    },
+    {
+      "claude": "Low expectations are a gift to all three leaders: any joint line on nuclear risk will be sold as a breakthrough. The chip-access fight is the more likely flashpoint.",
+      "fact": "In his first APEC speech, Xi Jinping called for more cooperation on free trade and AI and criticised Western protectionism, shortly before Donald Trump arrived in Shenzhen, Semafor reports. After talks with Vladimir Putin, Xi said Moscow and Beijing should lead the trend towards a multipolar world, International Intrigue reports citing Al Jazeera. Nuclear arms control is on Thursday's agenda, after the last US-Russia arms treaty expired this year while China builds up its arsenal. Beijing has also threatened retaliation if the US restricts its remote access to advanced chips.",
+      "opinion": [
+        {
+          "text": "expects the summit to be all thunder and no rain.",
+          "who": "former CIA China analyst (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: All thunder, no rain",
+          "u": "https://semafor.com/s/09ixe3a2ar"
+        },
+        {
+          "t": "International Intrigue: What a Deutsche-bag",
+          "u": "https://www.internationalintrigue.io/"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia beats expectations",
+          "u": "https://semafor.com/s/0q7w1xcyhc"
+        }
+      ],
+      "title": "Trump lands in Shenzhen as Xi casts himself as free trade's champion before Thursday's three-way summit",
+      "why": "The first US-China-Russia leaders' meeting could reshape trade, chips and nuclear arms control."
+    },
+    {
+      "fact": "Anthropic is reportedly aiming for a higher share price than planned for its listing later this week, with orders nearly seven times the shares on offer, Semafor reports citing Bloomberg. Qatar Investment Authority, an early investor, told Semafor it has applied for more shares. Bloomberg Intelligence notes Anthropic is on the hook for about $900 billion in infrastructure financing.",
+      "opinion": [
+        {
+          "text": "warned that if financing and demand tighten together, the whole industry could correct.",
+          "who": "Derek Thompson (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Nvidia beats expectations",
+          "u": "https://semafor.com/s/0q7w1xcyhc"
+        },
+        {
+          "t": "Semafor Gulf: LIV and let die",
+          "u": "https://semafor.com/s/qif58a07fd"
+        }
+      ],
+      "title": "Anthropic's IPO draws about seven times more orders than shares, with Qatar asking for more",
+      "why": "The year's biggest tech listing is a test of whether money still flows into AI after the Nvidia shock."
+    },
+    {
+      "fact": "Congo's outbreak of the Bundibugyo strain is spreading at a record pace despite more funding and is now Africa's largest Ebola outbreak by geographic reach, Semafor reports. About half of those infected die, the highest rate recorded, as there is no approved vaccine or treatment for this strain. Misinformation, violence and missing equipment hamper the response, and the Africa Centres for Disease Control says more than $700 million remains unaccounted for by Congo, while frontline workers have gone unpaid for months.",
+      "src": [
+        {
+          "t": "Semafor Flagship: All thunder, no rain",
+          "u": "https://semafor.com/s/09ixe3a2ar"
+        }
+      ],
+      "title": "Congo's Ebola outbreak becomes Africa's largest by reach, with half of patients dying",
+      "why": "A strain with no vaccine is spreading fast in a war zone while aid money goes missing."
+    }
+  ]
+}
