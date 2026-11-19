@@ -1,0 +1,254 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-19",
+  "label": "Thursday, 19 November 2026",
+  "number": {
+    "text": "African gold smuggled to the UAE in 2024, worth about $52 billion; the UAE remains the top destination despite tighter rules (International Intrigue).",
+    "value": "413 tonnes"
+  },
+  "pdf": "daily/2026-11-19.pdf",
+  "podcast": {
+    "episode": "Chips, China, and the Hawks",
+    "show": "John Mearsheimer on Judging Freedom",
+    "url": "https://mearsheimer.substack.com/",
+    "why": "Recorded yesterday: a realist reading of the Huang affair and the Shenzhen summit, as a contrast to today's mainstream coverage."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Google's benchmarks are Google's; the independent index is the better guide, and there Neon is strong but not first. The more important trend is price: near-frontier quality is getting cheaper every month, which squeezes every lab, Anthropic included, in the week it goes public. The self-improvement hint is a tweet, not evidence.",
+      "fact": "Google released Gemini 4 Neon, its fourth Gemini 4 model in under two months. On Artificial Analysis's index it scores 61, behind only Claude Fable 5.2 and GPT-6.2 Astra; Google's own tests have it beating Claude Opus 5.5 and GPT-6.2 Sol on 16 of 19 benchmarks, and its API costs $3/$15 per million tokens, a quarter below Opus 5.5. A Google researcher hinted that self-improving AI is behind the pace.",
+      "src": [
+        {
+          "t": "The Rundown AI: Google's shipping spree continues with Neon",
+          "u": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon"
+        },
+        {
+          "t": "Artificial Analysis: Intelligence Index",
+          "u": "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index"
+        }
+      ],
+      "title": "The Rundown: Google's Gemini 4 Neon nears the top of the leaderboard at a mid-tier price"
+    },
+    "austrian": {
+      "claude": "This is the Austrian case in miniature: prices, not planners, rerouted a pipeline. The counterpoint is that this market rests on permits, eminent domain and regulated tariffs, and that data-centre demand forecasts may be as inflated as the AI financing behind them.",
+      "fact": "Platts has tracked 46.5 billion cubic feet a day of proposed US gas pipeline projects announced in 2026, about 20 of them from Texas, to serve LNG terminals, power plants and data centres. The Rockies Express pipeline, built to carry gas east, was reversed once Appalachian shale output surged, turning the Ohio village of Clarington into a major hub.",
+      "opinion": [
+        {
+          "text": "sees a network forming almost spontaneously through arbitrage, and argues cheap, abundant gas gives the US lasting leverage in the AI race.",
+          "who": "Doomberg"
+        }
+      ],
+      "src": [
+        {
+          "t": "Doomberg: The Internet of Gas",
+          "u": "https://newsletter.doomberg.com/p/the-internet-of-gas"
+        }
+      ],
+      "title": "Doomberg: The 'internet of gas' that nobody planned"
+    },
+    "mainstream": {
+      "claude": "The talent point is the strongest: Nvidia, DeepMind and Anduril all grew out of gaming. The soft-power argument is weaker for China, whose biggest titles sell well abroad without changing how people see Beijing.",
+      "fact": "Grand Theft Auto VI was released on Thursday after 13 years. The games sector earns more than $200 billion a year, more than music and film combined, and China's Tencent is now the largest company by market share at about 17%, ahead of Sony. US tariffs cut China's share of US-bound consoles from 86% to 5% within a year, and Saudi Arabia's PIF is the second-largest shareholder in Rockstar's parent Take-Two (Semafor Gulf).",
+      "opinion": [
+        {
+          "text": "argues games are now soft power and a pipeline for military tech and talent, quoting a Belgian general: gamers are the new soldiers.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: How games went geopolitical",
+          "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+        },
+        {
+          "t": "Semafor Gulf: Low-Hormuz",
+          "u": "https://semafor.com/s/r503p2uvw0"
+        }
+      ],
+      "title": "International Intrigue: GTA VI arrives, and gaming turns out to be geopolitics"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship: Telegraphing strength",
+      "u": "https://semafor.com/s/gzwznwnt26"
+    },
+    {
+      "t": "Semafor Flagship: A lot of money",
+      "u": "https://semafor.com/s/tjgw25mdqx"
+    },
+    {
+      "t": "Semafor Business: Icebreakers",
+      "u": "https://semafor.com/s/226xo7rko2"
+    },
+    {
+      "t": "Semafor Gulf: Low-Hormuz",
+      "u": "https://semafor.com/s/r503p2uvw0"
+    },
+    {
+      "t": "International Intrigue: How games went geopolitical",
+      "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+    },
+    {
+      "t": "The Rundown AI: Google's shipping spree continues with Neon",
+      "u": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon"
+    },
+    {
+      "t": "Doomberg: The Internet of Gas",
+      "u": "https://newsletter.doomberg.com/p/the-internet-of-gas"
+    },
+    {
+      "t": "ICJ: The Gambia v. Myanmar",
+      "u": "https://www.icj-cij.org/case/178"
+    }
+  ],
+  "thread": {
+    "text": "Anthropic priced at $83 a share, the largest IPO ever, while Nvidia halted H200 sales to China and a board faction still wants Huang back.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "The picture was the product. For Beijing, hosting in Shenzhen, the city Xi's father helped build, signals manufacturing confidence; for Putin, sitting at the table is the gain. Watch whether the chip-access dispute produces anything in writing in the coming days.",
+      "fact": "The leaders of the US, China and Russia held an 80-minute meeting at the APEC summit in Shenzhen, Semafor and International Intrigue report; Xi Jinping greeted Donald Trump on the tarmac, and Trump said \"we are making history\". The three pledged to raise the supply of petroleum products, but oil barely moved, and few other concrete steps were agreed. They stayed split on AI rules (Trump rejects \"globalist regulation\"), on nuclear arms control, on Iran and on a long-stalled Russian gas deal with China.",
+      "opinion": [
+        {
+          "text": "argues that Ukraine isn't Trump's to give, Taiwan isn't Xi's to take, and Putin, whose Kerch Bridge was hit for the third time this week, can dictate little.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        },
+        {
+          "t": "Semafor Business: Icebreakers",
+          "u": "https://semafor.com/s/226xo7rko2"
+        },
+        {
+          "t": "International Intrigue: How games went geopolitical",
+          "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+        }
+      ],
+      "title": "Trump, Xi and Putin meet in Shenzhen: 80 minutes of symbolism, few concrete steps",
+      "why": "The first three-way meeting of the US, Chinese and Russian leaders sets the tone on trade, chips, Iran and nuclear arms."
+    },
+    {
+      "claude": "Pricing above the range says demand was there before the bell; how the shares trade over the first weeks says more. The gap between enthusiasm for labs and scepticism about the companies that build their data centres is the tension to watch.",
+      "fact": "Anthropic priced its IPO at $83 a share, above its initial $70–78 range, raising $81.3 billion ahead of trading on Nasdaq on Thursday and overtaking SpaceX's $75 billion as the largest IPO ever, International Intrigue reports citing Bloomberg. Semafor puts the total with a private placement at $107 billion, valuing the company at about $1.5 trillion, with orders roughly seven times the shares on offer. Semafor notes the company has very large commitments for chips and data centres.",
+      "opinion": [
+        {
+          "text": "doubts that mega-listings break the ice for others, pointing to Alibaba in 2014 and Uber in 2019, and sees investors favouring pure AI labs over infrastructure firms.",
+          "who": "Semafor Business"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: How games went geopolitical",
+          "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+        },
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        },
+        {
+          "t": "Semafor Flagship: A lot of money",
+          "u": "https://semafor.com/s/tjgw25mdqx"
+        },
+        {
+          "t": "The Rundown AI: Google's shipping spree continues with Neon",
+          "u": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon"
+        }
+      ],
+      "title": "Anthropic prices the largest IPO in history at $83 a share, above its range",
+      "unc": "The Rundown reports that the Center for AI Safety published a statement calling Anthropic \"not a safe AI company\", signed by several prominent researchers.",
+      "why": "Its debut is the clearest test yet of whether money still flows into AI after the Nvidia shock."
+    },
+    {
+      "fact": "The International Court of Justice ruled that Myanmar acted with genocidal intent against its Rohingya minority, finding that its troops killed thousands of civilians and committed widespread sexual violence, Semafor and International Intrigue report. It is the first time the ICJ has found a state responsible for genocide; the case was brought by The Gambia, and more than 700,000 Rohingya fled to Bangladesh. There is no appeal, and enforcement would run through the UN Security Council.",
+      "opinion": [
+        {
+          "text": "calls the seven-year wait an indictment of an indifferent international community, and notes that China and Russia would pay a higher price for vetoing sanctions now.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "ICJ: The Gambia v. Myanmar",
+          "u": "https://www.icj-cij.org/case/178"
+        },
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        },
+        {
+          "t": "International Intrigue: How games went geopolitical",
+          "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+        }
+      ],
+      "title": "World Court finds Myanmar committed genocide against the Rohingya, a first for any state",
+      "why": "The ruling sets a precedent for pending cases, including South Africa's against Israel."
+    },
+    {
+      "claude": "The IEA's line that one can diversify away from Hormuz but not from the Middle East is the key caveat: the region's supply stays central even if the route changes.",
+      "fact": "A Houthi attack early on Thursday damaged several floors of the tower housing Saudi Arabia's Public Investment Fund, which had stood empty for weeks, Semafor Gulf reports; Saudi officials expect the campaign against the Houthis to last well into 2027 (Reuters). Semafor reports the US and Iran traded strikes again after a two-month lull and that Trump is weighing further strikes. The IEA's World Energy Outlook says the war could permanently cut global oil demand by at least 4% by 2035 and, in a first 'low-Hormuz' scenario, flows through the strait could fall from 20 million barrels a day to under 2 million.",
+      "src": [
+        {
+          "t": "Semafor Gulf: Low-Hormuz",
+          "u": "https://semafor.com/s/r503p2uvw0"
+        },
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        }
+      ],
+      "title": "Houthis hit the Riyadh tower of Saudi Arabia's wealth fund as the IEA sketches a 'low-Hormuz' future",
+      "unc": "Semafor, citing unnamed people, reports that a growing number of foreign executives are leaving Riyadh, whose financial district has been closed for weeks.",
+      "why": "The Gulf war is now driving out expatriate executives and reshaping long-term oil demand."
+    },
+    {
+      "fact": "Nvidia said it has stopped selling its H200 chips to China, which the White House had approved for export in January, as lawmakers of both parties push for more oversight ahead of ousted CEO Jensen Huang's expected testimony to Congress next month, Semafor reports. Nvidia shares dipped after its strong earnings; interim CEO Colette Kress reportedly promised staff pay rises and the company is expanding buybacks. Semafor also reports that a faction of the board is still pushing for Huang's return despite the chair's statement.",
+      "opinion": [
+        {
+          "text": "said the clampdown sets everyone in China back but speeds the move to domestic compute.",
+          "who": "Tencent's president (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: A lot of money",
+          "u": "https://semafor.com/s/tjgw25mdqx"
+        },
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        }
+      ],
+      "title": "Nvidia halts H200 sales to China as Congress turns up the pressure",
+      "why": "The chip fight now runs through Washington's investigation of Nvidia, not only through export rules."
+    },
+    {
+      "fact": "US Defense Secretary Pete Hegseth flew to Caracas and signed a defence cooperation deal with interim President Delcy Rodríguez, International Intrigue and Semafor report. The incoming Democratic Congress has promised to investigate a $100 billion deal giving the US preferential access to Venezuela's oil, which Hegseth said made Gulf disruptions a 'nonfactor'. Venezuela's opposition leader is calling for more scrutiny and for elections.",
+      "opinion": [
+        {
+          "text": "notes it is the same regime minus Maduro, and that US-friendly leaders in Peru and Chile are still courting Chinese investment at APEC.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "International Intrigue: How games went geopolitical",
+          "u": "https://archives.internationalintrigue.io/p/how-games-went-geopolitical"
+        },
+        {
+          "t": "Semafor Flagship: Telegraphing strength",
+          "u": "https://semafor.com/s/gzwznwnt26"
+        }
+      ],
+      "title": "Ten months after Maduro's capture, the US signs a defence pact with Venezuela",
+      "why": "Washington's former main foe in Latin America is now a military partner, with oil at the centre."
+    }
+  ]
+}
