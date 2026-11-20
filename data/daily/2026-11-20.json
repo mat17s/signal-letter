@@ -1,0 +1,256 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-20",
+  "label": "Friday, 20 November 2026",
+  "number": {
+    "text": "Worldwide freeze ordered by the Abu Dhabi Global Market court on assets stolen in last month's Binance hack, which the FBI attributes to North Korea; one of the largest freezing orders ever (Semafor Gulf).",
+    "value": "$6.5 billion"
+  },
+  "podcast": {
+    "episode": "Der Hype ist vorbei. Jetzt muss Bitcoin liefern (Live-Analyse)",
+    "show": "Der Bitcoin Podcast",
+    "url": "https://derbitcoinpodcast.beehiiv.com/p/der-hype-ist-vorbei-jetzt-muss-bitcoin-liefern-live-analyse",
+    "why": "Released today: a sober German look at the fall from $85,000 to about $61,000, the Binance hack and the Anthropic IPO, with cycle data."
+  },
+  "reads": {
+    "ai": {
+      "claude": "These are a lab's own numbers about its own tools, so treat them as a direction rather than a measurement. The useful lesson for ordinary work is the same, though: the gains come from handing an agent a well-defined two-hour task and checking the result, not from asking it for ideas.",
+      "fact": "OpenAI published data showing its AI agents now complete on their own nearly half of research tasks that would take a human two to four hours, up from about a quarter in March. The median researcher runs about $2,400 of agent work a day, and staff said Codex helped generate key insights for GPT-6.2 Astra, although agents still lack taste.",
+      "src": [
+        {
+          "t": "The Rundown AI: Anthropic beats OpenAI to Wall Street",
+          "u": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever"
+        },
+        {
+          "t": "OpenAI: Research acceleration and the jagged frontier",
+          "u": "https://openai.com/index/research-acceleration-jagged-frontier/"
+        }
+      ],
+      "title": "The Rundown: OpenAI says its agents now finish half of its researchers' multi-hour tasks"
+    },
+    "austrian": {
+      "claude": "The 1971 charts are suggestive but mix many causes, from globalisation to zoning. Germany's low wealth also reflects a generous pay-as-you-go pension that never shows up as private assets, and tight building rules push rents up more than central banks do.",
+      "fact": "Germany's median net wealth is about €129,000, against €231,000 in Spain and €417,000 in Ireland, and 47% of Germans rent, the lowest home-ownership rate in the EU (Eurostat). At a 4.4% mortgage rate, a €500,000 house with €50,000 down costs about €2,600 a month, roughly double the 1% era.",
+      "opinion": [
+        {
+          "text": "traces the gap between asset owners and wage earners to the end of the gold link in 1971 and the money flood after 2008, and argues that Berlin's plans to socialise large landlords answer an inflation problem with more state.",
+          "who": "BlingBling"
+        }
+      ],
+      "src": [
+        {
+          "t": "BlingBling: Warum die Deutschen ärmer sind, als sie denken",
+          "u": "https://blingbling.substack.com/p/arme-deutsche"
+        }
+      ],
+      "title": "BlingBling: Why Germans are poorer than they think"
+    },
+    "mainstream": {
+      "claude": "Kenya's demand for local processing is the real test: a mine that ships ore to China for refining would not change the supply chain Washington is trying to escape.",
+      "fact": "Kenya picked Frontier Minerals, a three-company US consortium, to develop the Mrima Hill site, believed to hold rare earths and niobium worth about $60 billion; an Australian-led rival is challenging the decision, and two Chinese firms won a separate copper project (Business Insider Africa via International Intrigue). In DR Congo, President Tshisekedi has tied a US minerals deal to a constitutional reform that could keep him in power beyond 2028, while his opponents promise to honour the deal anyway.",
+      "src": [
+        {
+          "t": "Semafor Africa: Chicken diplomacy",
+          "u": "https://semafor.com/s/7pswcoaehb"
+        },
+        {
+          "t": "Business Insider Africa: US consortium wins Kenya's prized rare earth project",
+          "u": "https://africa.businessinsider.com/local/markets/us-consortium-wins-kenyas-prized-rare-earth-project-as-chinese-firms-secure-copper/bj844kw"
+        },
+        {
+          "t": "International Intrigue: Their day in court",
+          "u": "https://archives.internationalintrigue.io/p/f-2bf5"
+        }
+      ],
+      "title": "Semafor Africa: Kenya hands its rare-earth hill to a US group, and Washington's minerals push meets African politics"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship: The fragile edifice of safety",
+      "u": "https://semafor.com/s/66ofj1a5ap"
+    },
+    {
+      "t": "Semafor Flagship: Millions, billions, trillions",
+      "u": "https://semafor.com/s/e1c5tdkr9v"
+    },
+    {
+      "t": "Semafor Business: The good, bad, and ugly",
+      "u": "https://semafor.com/s/ojo0yw08fm"
+    },
+    {
+      "t": "Semafor Gulf: Don't share, don't like",
+      "u": "https://semafor.com/s/pnm4qk3nd7"
+    },
+    {
+      "t": "Semafor Africa: Chicken diplomacy",
+      "u": "https://semafor.com/s/7pswcoaehb"
+    },
+    {
+      "t": "International Intrigue: Their day in court",
+      "u": "https://archives.internationalintrigue.io/p/f-2bf5"
+    },
+    {
+      "t": "The Rundown AI: Anthropic beats OpenAI to Wall Street",
+      "u": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever"
+    },
+    {
+      "t": "Nasdaq: Anthropic marks IPO at Nasdaq",
+      "u": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq"
+    },
+    {
+      "t": "OpenAI: Research acceleration and the jagged frontier",
+      "u": "https://openai.com/index/research-acceleration-jagged-frontier/"
+    },
+    {
+      "t": "BlingBling: Warum die Deutschen ärmer sind, als sie denken",
+      "u": "https://blingbling.substack.com/p/arme-deutsche"
+    },
+    {
+      "t": "Business Insider Africa: US consortium wins Kenya's prized rare earth project",
+      "u": "https://africa.businessinsider.com/local/markets/us-consortium-wins-kenyas-prized-rare-earth-project-as-chinese-firms-secure-copper/bj844kw"
+    },
+    {
+      "t": "Der Bitcoin Podcast: Der Hype ist vorbei. Jetzt muss Bitcoin liefern",
+      "u": "https://derbitcoinpodcast.beehiiv.com/p/der-hype-ist-vorbei-jetzt-muss-bitcoin-liefern-live-analyse"
+    }
+  ],
+  "thread": {
+    "text": "Anthropic closed day one at $97.17 (+17%) but slipped about 10% before Friday's open, as Asia had its worst week since 2020 and a QTS data-centre debt deal was cut by more than half.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "The split is the signal: money still pays up for a leading lab but is pulling back from the debt-funded builders of data centres.",
+      "fact": "Anthropic began trading on Nasdaq under the ticker ANT on Thursday, opened at $111.50 and closed its first day at $97.17, 17% above the $83 offer price, Nasdaq, The Rundown and Semafor report. On Friday the shares were nearly 10% lower before the US open, and Asian markets had their worst week since just after the Covid outbreak: Taiwan's Taiex fell 6.2% on the day and 18% on the week (Bloomberg via International Intrigue), and SoftBank had its worst day in over two years. A debt raise for Blackstone-backed data-centre operator QTS was cut from $800 million to $300 million when investors stayed away, Semafor Business confirms.",
+      "opinion": [
+        {
+          "text": "says fears about the death of the AI trade are greatly exaggerated: a correction has happened, a collapse is not on the cards.",
+          "who": "Barclays' global chair of research (via Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Nasdaq: Anthropic marks IPO at Nasdaq",
+          "u": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq"
+        },
+        {
+          "t": "The Rundown AI: Anthropic beats OpenAI to Wall Street",
+          "u": "https://therundownai.beehiiv.com/p/anthropic-pulls-off-the-biggest-ipo-ever"
+        },
+        {
+          "t": "Semafor Business: The good, bad, and ugly",
+          "u": "https://semafor.com/s/ojo0yw08fm"
+        },
+        {
+          "t": "Semafor Flagship: The fragile edifice of safety",
+          "u": "https://semafor.com/s/66ofj1a5ap"
+        },
+        {
+          "t": "International Intrigue: Their day in court",
+          "u": "https://archives.internationalintrigue.io/p/f-2bf5"
+        }
+      ],
+      "title": "Anthropic closes its first day up 17%, then Asia has its worst week since the pandemic",
+      "why": "The biggest IPO ever landed in the middle of a global sell-off of AI stocks, and the two stories are now one."
+    },
+    {
+      "claude": "The Huang scandal has turned a slow, technical export-control fight into a political one. That makes sudden rules more likely, which is exactly what Caixin says China's tech giants now fear.",
+      "fact": "California officials are investigating whether Nvidia misled investors about its links to China, and members of Congress released files showing the US approved sales of almost 880,000 chips to China, including to firms seen as fronts for its military, Semafor reports. AMD shares fell sharply on Thursday after short seller Hunterbrook flagged its reliance on Chinese markets and on financing deals with its own customers; AMD called the report a misrepresentation. Lawmakers are also close to a deal to ban Chinese cars (Bloomberg via Semafor).",
+      "src": [
+        {
+          "t": "Semafor Flagship: The fragile edifice of safety",
+          "u": "https://semafor.com/s/66ofj1a5ap"
+        },
+        {
+          "t": "Semafor Flagship: Millions, billions, trillions",
+          "u": "https://semafor.com/s/e1c5tdkr9v"
+        },
+        {
+          "t": "Semafor Business: The good, bad, and ugly",
+          "u": "https://semafor.com/s/ojo0yw08fm"
+        }
+      ],
+      "title": "Washington widens the chip probe: California investigates Nvidia, AMD drops on a short report",
+      "why": "A day after friendly summit talk with Xi, US policy on China tech is hardening on several fronts at once."
+    },
+    {
+      "claude": "A guarantee 'like' NATO's matters only in its wording: who is obliged to do what, and when. Until that text exists, the strikes are the more reliable message from Moscow.",
+      "fact": "Trump's envoy said the US president is open to giving Ukraine a NATO-style security guarantee, after France's president urged the alliance to reopen the question of Ukrainian membership, Semafor reports. Hours after Putin signed a joint 'declaration of peace' with Trump and Xi in Shenzhen (Semafor, International Intrigue), Russian forces struck bridges in Kyiv and a large power substation elsewhere in Ukraine.",
+      "opinion": [
+        {
+          "text": "reads the Shenzhen huddle as a photo op that elevated Xi and gave Putin legitimacy.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: The fragile edifice of safety",
+          "u": "https://semafor.com/s/66ofj1a5ap"
+        },
+        {
+          "t": "International Intrigue: Their day in court",
+          "u": "https://archives.internationalintrigue.io/p/f-2bf5"
+        }
+      ],
+      "title": "Trump is 'open' to a NATO-like guarantee for Ukraine as Russia bombs Kyiv's bridges",
+      "why": "Security guarantees are the core of any peace deal, and the gap between Shenzhen's words and the front line is widening."
+    },
+    {
+      "claude": "The carbon-market link is the quietly important part: it removes friction for exporters on both sides, and it is the kind of sectoral deal Switzerland has long relied on with Brussels.",
+      "fact": "London and Brussels are set to sign a deal at today's EU-UK summit that eases food and drink trade, re-links their carbon markets and deepens migration cooperation, Semafor reports, citing Politico. Prime Minister Andy Burnham has said he hopes Britain will rejoin the EU in his lifetime.",
+      "src": [
+        {
+          "t": "Semafor Flagship: The fragile edifice of safety",
+          "u": "https://semafor.com/s/66ofj1a5ap"
+        },
+        {
+          "t": "Semafor Flagship: Millions, billions, trillions",
+          "u": "https://semafor.com/s/e1c5tdkr9v"
+        }
+      ],
+      "title": "The EU and UK sign a limited 'reset' in Brussels, ten years after the Brexit vote",
+      "why": "It is the biggest step back toward Europe since Britain left, and it shapes trade rules Swiss firms also compete under."
+    },
+    {
+      "fact": "Trump told Axios he is in no rush to decide whether to bomb Iran and that the choice could wait until early 2027, Semafor Gulf reports; a US carrier strike group has also been withdrawn. At the same time, Houthi attacks on Saudi Arabia are daily, Iran has struck Bahrain and Kuwait again, ships in the Strait of Hormuz are attacked almost every day. Oil prices are about 20% below their level at the start of the month.",
+      "opinion": [
+        {
+          "text": "recalls that the day before the war began in February, Trump said he had not decided, when he had already ordered strikes.",
+          "who": "Axios' Barak Ravid (via Semafor Gulf)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Gulf: Don't share, don't like",
+          "u": "https://semafor.com/s/pnm4qk3nd7"
+        },
+        {
+          "t": "International Intrigue: Their day in court",
+          "u": "https://archives.internationalintrigue.io/p/f-2bf5"
+        }
+      ],
+      "title": "Trump says an Iran decision can wait until 2027, but Gulf attacks are rising",
+      "why": "Oil is 20% cheaper than at the start of November, yet the war in the Gulf has not calmed down."
+    },
+    {
+      "claude": "The IEA's finding this week that the Hormuz war may permanently cut oil demand did more for lower consumption than any COP text will. Energy security is now doing the work that climate diplomacy used to claim.",
+      "fact": "A revised COP31 draft published on Thursday removed references to phasing out fossil fuels as the conference in Türkiye entered its final hours, Semafor reports; the EU's climate commissioner warned backsliding could make future talks 'untenable'. In Washington, the Senate passed a bill to speed up permits for large energy projects, which now faces a tough vote in the House.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Millions, billions, trillions",
+          "u": "https://semafor.com/s/e1c5tdkr9v"
+        },
+        {
+          "t": "Semafor Flagship: The fragile edifice of safety",
+          "u": "https://semafor.com/s/66ofj1a5ap"
+        }
+      ],
+      "title": "COP31 ends with fossil-fuel phase-out dropped from the draft",
+      "why": "The climate summit in Türkiye risks going backwards as energy prices, not warming, dominate politics."
+    }
+  ],
+  "pdf": "daily/2026-11-20.pdf"
+}
