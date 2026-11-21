@@ -48,12 +48,16 @@
       {
         "date": "2026-11-20",
         "text": "Anthropic closed day one at $97.17 (+17%) but slipped about 10% before Friday's open, as Asia had its worst week since 2020 and a QTS data-centre debt deal was cut by more than half."
+      },
+      {
+        "date": "2026-11-21",
+        "text": "Nasdaq's worst week since 2020 closed with Anthropic more than 10% off its first-day close, and the sell-off spread to Bitcoin, which fell below $56,000 on Saturday."
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-20",
+    "updated": "2026-11-21",
     "id": "ai-trade"
   },
   {

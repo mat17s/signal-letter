@@ -1,7 +1,7 @@
 {
-  "asOf": "2026-11-20T17:40:00Z",
-  "intraday": true,
-  "label": "Fri 20 Nov, 18:40 · intraday · S&P, SMI and CHF updated; Nasdaq, Dow and 10-year as of Thu close; Bitcoin, gold and Brent as of 12:10",
+  "asOf": "2026-11-21T05:56:00Z",
+  "intraday": false,
+  "label": "Sat 21 Nov, 06:56 · Bitcoin updated (weekend); other markets at Friday's last quote",
   "items": [
     {
       "ccy": "pts",
@@ -9,7 +9,7 @@
       "key": "SPX",
       "name": "S&P 500",
       "price": 7107.59,
-      "w1": -6.0
+      "w1": -6
     },
     {
       "ccy": "pts",
@@ -37,11 +37,11 @@
     },
     {
       "ccy": "USD",
-      "d1": -2.86,
+      "d1": -4.33,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 61859,
-      "w1": -13.33
+      "price": 55789,
+      "w1": -21.83
     },
     {
       "ccy": "USD",
