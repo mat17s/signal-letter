@@ -1,0 +1,237 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-22",
+  "label": "Sunday, 22 November 2026",
+  "number": {
+    "text": "Gold's fall in the week to Friday, to about $3,525 an ounce: its worst week in eight months, even as stocks crashed (markets table; The Informationist).",
+    "value": "−9.3%"
+  },
+  "pdf": "daily/2026-11-22.pdf",
+  "podcast": {
+    "episode": "The Blue Wave and Its Consequences",
+    "show": "Mises Institute: Power & Market",
+    "url": "https://mises.org/podcasts/power-and-market/most-important-elections-you-arent-hearing-about",
+    "why": "Released this week: why the midterm blue wave changes little, since spending, deficits and monetary policy were never on the ballot."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Neither claim has been checked, and proofs of this size take expert referees months; the meaningful change is that serious mathematicians now credit a model as a collaborator, so the bottleneck moves from finding arguments to verifying them, ideally with formal proof checkers.",
+      "fact": "On Friday Willison quoted mathematician Levent Alpoge saying that he and Claude had found a proof of the Riemann Hypothesis, the most famous open problem in mathematics. The same evening he quoted Stanford's Ravi Vakil passing on a hurried announcement of a proposed proof of the Generalized Riemann Hypothesis by Alessandro Masullo, described as written by a human.",
+      "src": [
+        {
+          "t": "Simon Willison: quoting Levent Alpoge",
+          "u": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+        },
+        {
+          "t": "Simon Willison: quoting Ravi Vakil",
+          "u": "https://simonwillison.net/2026/Nov/20/ravi-vakil/"
+        }
+      ],
+      "title": "Simon Willison: two Riemann Hypothesis proof claims in one day, one of them made 'with Claude'"
+    },
+    "austrian": {
+      "claude": "The Austrian reading would add that a crash after a credit boom is the cure, not the disease; the counter-argument is that if central banks respond with fresh easing, as Lavish expects the sell-off to force, the boom's misallocations are rescued rather than cleared, and the next cycle starts from higher debt.",
+      "fact": "James Lavish's Sunday letter notes that Bitcoin broke its July low of $57,748 late on Friday, trading down to about $55,100, and admits he was wrong to call July the cycle low.",
+      "opinion": [
+        {
+          "text": "says panic tends to peak near bottoms, but whether to buy depends on each investor's time horizon and cash, so dry powder matters more than bravery.",
+          "who": "James Lavish, The Informationist (board member of a Bitcoin treasury company)"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Informationist: What do you do when everything is crashing?",
+          "u": "https://www.jameslavish.com/p/what-do-you-do-when-everything-is"
+        }
+      ],
+      "title": "The Informationist: what a long-term investor does when everything falls at once"
+    },
+    "mainstream": {
+      "claude": "Switzerland arrived with Albert Rösti promising more money for poorer countries; with consensus rules broken, smaller coalitions like the electrification pledge are where commitments will actually be made.",
+      "fact": "The COP31 climate summit in Türkiye ended on Sunday without agreement, the first time the talks have ended without a deal since Copenhagen in 2009. Summit president Murat Kurum told delegates there was no consensus on the text, so its decisions were not adopted; the draft only 'recalled' the 2023 Dubai pledge to transition away from fossil fuels and added calls for carbon capture. The Arab Group, China, India and Japan backed the draft; the least-developed countries, the EU and the UK opposed it, and the US did not take part. Nearly 90 countries separately pledged to speed up electrification.",
+      "opinion": [
+        {
+          "text": "argues COP has not imploded but fragmented, and that energy crises since 2023 convinced exporters that security needs more, not less, fossil investment.",
+          "who": "Tim McDonnell, Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Energy: COP's fossil fuel consensus falls apart",
+          "u": "https://semafor.com/s/ehhezgapo7"
+        },
+        {
+          "t": "SRF: COP31, Albert Röstis Versprechen an der Klimakonferenz",
+          "u": "https://www.srf.ch/news/schweiz/cop31-albert-roestis-versprechen-an-der-klimakonferenz"
+        }
+      ],
+      "title": "Semafor Energy: COP31 collapses without a deal, and the Dubai fossil-fuel consensus with it"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Energy",
+      "u": "https://semafor.com/s/ehhezgapo7"
+    },
+    {
+      "t": "The Informationist",
+      "u": "https://www.jameslavish.com/p/what-do-you-do-when-everything-is"
+    },
+    {
+      "t": "Simon Willison",
+      "u": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+    },
+    {
+      "t": "Mises Institute",
+      "u": "https://mises.org/podcasts/power-and-market/most-important-elections-you-arent-hearing-about"
+    },
+    {
+      "t": "UNITED24 Media",
+      "u": "https://united24media.com/war-in-ukraine/russias-baltic-fleet-base-comes-under-first-ever-suspected-drone-attack-in-kaliningrad-24596"
+    },
+    {
+      "t": "Ukrainska Pravda",
+      "u": "https://www.pravda.com.ua/eng/news/2026/11/14/8062839/index.amp"
+    },
+    {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami"
+    },
+    {
+      "t": "LIGA.net",
+      "u": "https://news.liga.net/en/politics/news/the-atlantic-trump-wants-to-secure-a-peace-agreement-between-russia-and-ukraine-during-the-g20-summit"
+    },
+    {
+      "t": "SRF",
+      "u": "https://www.srf.ch/news/schweiz/demonstration-in-bern-medienschaffende-protestieren-fuer-journalismus-und-demokratie"
+    },
+    {
+      "t": "swissinfo",
+      "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+    },
+    {
+      "t": "blue News",
+      "u": "https://www.bluewin.ch/en/news/switzerland/swiss-journalism-is-bleeding-to-death-that-s-why-media-professionals-are-protesting-on-saturday-li.3679371"
+    }
+  ],
+  "thread": {
+    "text": "Zelenskyy says a Trump-Putin-Ukraine meeting is possible at the G20 in Miami but Kyiv has no invite yet, as suspected Ukrainian drones reach Russia's Baltic Fleet base in Kaliningrad.",
+    "title": "Ukraine talks"
+  },
+  "top": [
+    {
+      "claude": "Kaliningrad is hemmed in by Poland and Lithuania, so even a failed attack there raises the stakes for NATO's eastern flank; it also fits Kyiv's pattern of pressing militarily right before talks, to negotiate from strength.",
+      "fact": "Explosions and Russian air-defence fire were reported on Saturday near the Baltic Fleet base in Baltiysk, Kaliningrad, which would be the first drone attack on that port. Governor Alexey Besprozvannykh first said checks found no threat, then sirens and blasts returned in the evening; the same day a Russian cargo ship, the Sparta II, was reportedly hit by drones in the Gulf of Finland while sailing towards Kaliningrad. Ukraine has struck Russian warships in the Baltic before: Estonia confirmed drone hits on a Russian corvette earlier this month.",
+      "src": [
+        {
+          "t": "UNITED24 Media: Russia's Baltic Fleet base comes under first-ever suspected drone attack in Kaliningrad",
+          "u": "https://united24media.com/war-in-ukraine/russias-baltic-fleet-base-comes-under-first-ever-suspected-drone-attack-in-kaliningrad-24596"
+        },
+        {
+          "t": "Ukrainska Pravda: Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea",
+          "u": "https://www.pravda.com.ua/eng/news/2026/11/14/8062839/index.amp"
+        }
+      ],
+      "title": "Suspected Ukrainian drones reach Russia's Baltic Fleet base in Kaliningrad for the first time",
+      "unc": "The Kaliningrad and Sparta II reports come from Ukrainian monitoring channels relayed by UNITED24 Media; no damage has been independently confirmed.",
+      "why": "If confirmed, the drone war now reaches Russia's exclave between two NATO states, weeks before possible peace talks at the G20."
+    },
+    {
+      "claude": "An invitation for Putin but not yet for Zelenskyy is itself a signal about who the host sees as the harder party to win over; the bridge figure is Kyiv preparing its case before any talks begin.",
+      "fact": "Volodymyr Zelenskyy said on Saturday that three-way talks with Donald Trump and Vladimir Putin could happen at the G20 summit in Miami, but that Ukraine is still waiting for an invitation. The US invited Putin to the summit in September, and Trump said earlier this month he was ready to invite Zelenskyy too. Zelenskyy also said Russia struck Ukrainian bridges 109 times before Ukraine hit the Crimean Bridge.",
+      "opinion": [
+        {
+          "text": "reports that Trump wants to secure a Russia-Ukraine peace agreement during the summit.",
+          "who": "The Atlantic (via LIGA.net)"
+        }
+      ],
+      "src": [
+        {
+          "t": "UNITED24 Media: Zelenskyy says Trump-Putin-Ukraine talks possible at G20, but Kyiv still awaits invite",
+          "u": "https://united24media.com/war-in-ukraine/zelenskyy-says-trump-putin-ukraine-talks-possible-at-g20-but-kyiv-still-awaits-invite-24593"
+        },
+        {
+          "t": "UNITED24 Media: Russia struck Ukrainian bridges 109 times before Ukraine hit Crimean Bridge",
+          "u": "https://united24media.com/war-in-ukraine/russia-struck-ukrainian-bridges-109-times-before-ukraine-hit-crimean-bridge-zelenskyy-says-24592"
+        },
+        {
+          "t": "Al Jazeera: Trump administration invites Putin to attend G20 summit in Miami",
+          "u": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami"
+        },
+        {
+          "t": "LIGA.net: The Atlantic: Trump wants to secure a peace agreement during the G20 summit",
+          "u": "https://news.liga.net/en/politics/news/the-atlantic-trump-wants-to-secure-a-peace-agreement-between-russia-and-ukraine-during-the-g20-summit"
+        }
+      ],
+      "title": "Zelenskyy says a Trump-Putin-Ukraine meeting is possible at the G20 in Miami, but Kyiv has no invitation yet",
+      "why": "The G20 at Trump's golf club is becoming the venue the White House wants for a peace deal."
+    },
+    {
+      "claude": "A Fed that was openly discussing a December hike a week ago now faces tighter financial conditions without moving; if the hike is priced out, that relief usually reaches bonds first and risk assets later.",
+      "fact": "The US 10-year yield ended the week at 4.92%, down 23 basis points, and the 2-year yield, the one most tied to the Fed, fell sharply, which signals that markets now expect fewer rate rises. Gold fell 9.3% on the week to about $3,525 an ounce, its worst week in eight months and roughly 37% below its January record. The S&P 500 fell 3.7% on Friday, its seventh losing day in a row, closing in correction territory more than 10% below its October record, and Nvidia lost 14%, its worst day in almost two years, according to The Informationist.",
+      "opinion": [
+        {
+          "text": "argues the sell-off is doing much of the Fed's work for it, and blames much of the breadth of the fall on margin leverage being unwound.",
+          "who": "James Lavish, The Informationist"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Informationist: What do you do when everything is crashing?",
+          "u": "https://www.jameslavish.com/p/what-do-you-do-when-everything-is"
+        },
+        {
+          "t": "The Signal-Letter markets table (Friday close)",
+          "u": "https://mat17s.github.io/signal-letter/"
+        }
+      ],
+      "title": "Treasuries were the one winner of the crash week: the US 10-year yield fell back below 5% while gold had its worst week in eight months",
+      "why": "When gold falls with stocks and only bonds rise, investors are raising cash, and the market starts pricing fewer Fed hikes."
+    },
+    {
+      "claude": "Local reporting is where cuts hurt first, and in a direct democracy with four votes a year that matters more than elsewhere: voters need someone to read the cantonal and federal bills for them.",
+      "fact": "Over 1,000 people demonstrated on the Bundesplatz in Bern on Saturday against job cuts in the Swiss media sector, under the slogan 'Weniger Journalismus – weniger Demokratie'. The protest follows a wave of cuts at private publishers and savings plans at the public broadcaster.",
+      "src": [
+        {
+          "t": "SRF: Medienschaffende protestieren für Journalismus und Demokratie",
+          "u": "https://www.srf.ch/news/schweiz/demonstration-in-bern-medienschaffende-protestieren-fuer-journalismus-und-demokratie"
+        },
+        {
+          "t": "swissinfo: Alle News in Kürze (21 Nov)",
+          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+        },
+        {
+          "t": "blue News: Swiss journalism is bleeding to death, that's why media professionals are protesting on Saturday",
+          "u": "https://www.bluewin.ch/en/news/switzerland/swiss-journalism-is-bleeding-to-death-that-s-why-media-professionals-are-protesting-on-saturday-li.3679371"
+        }
+      ],
+      "title": "More than 1,000 media workers rally in Bern against job cuts: 'less journalism, less democracy'",
+      "why": "Swiss newsrooms keep shrinking while the SRG faces cuts, and journalists are now taking it to the Bundesplatz."
+    },
+    {
+      "claude": "His life's work was shaped by the question of how to handle an inheritance built partly on Nazi-era forced labour, a debate that kept his collection out of Zurich in 2001 before Berlin took it.",
+      "fact": "Friedrich Christian 'Mick' Flick, grandson of the industrialist Friedrich Flick, has died aged 82 in Rosenheim from injuries after a fall during a spa stay; his family confirmed the death after Bild first reported it. Flick built one of the largest private collections of contemporary art, much of it shown at Berlin's Hamburger Bahnhof.",
+      "src": [
+        {
+          "t": "swissinfo: Alle News in Kürze (21 Nov)",
+          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+        }
+      ],
+      "title": "Art collector and investor Friedrich Christian 'Mick' Flick dies at 82",
+      "why": "One of Europe's best-known private collectors, long based in Switzerland, whose collection is on long-term loan in Berlin."
+    },
+    {
+      "fact": "One ticket matched all numbers in Saturday's Swiss Lotto draw and wins CHF 47.14 million, the third-largest prize the game has paid. Separately, Green National Councillor Katharina Prelicz-Huber announced she is leaving national politics, SonntagsBlick reported.",
+      "src": [
+        {
+          "t": "swissinfo: Alle News in Kürze (21–22 Nov)",
+          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+        }
+      ],
+      "title": "A single Swiss Lotto ticket wins CHF 47.14 million, the third-largest jackpot in the game's history",
+      "why": "A light one for a heavy week."
+    }
+  ]
+}

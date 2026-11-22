@@ -56,6 +56,15 @@
     "id": "doomberg-permitting-lameduck"
   },
   {
+    "check": "2027-06-30",
+    "claim": "The SNB keeps its rate at zero until June 2027, then hikes.",
+    "made": "2026-11-22",
+    "source": "swissinfo/Bloomberg, 22 Nov",
+    "status": "open",
+    "who": "Bloomberg-surveyed economists",
+    "id": "economists-snb-june"
+  },
+  {
     "check": "2026-12-17",
     "claim": "About an 85% chance the Fed hikes in December.",
     "made": "2026-10-30",
@@ -110,6 +119,15 @@
     "id": "jpm-btc-10"
   },
   {
+    "check": "2026-12-09",
+    "claim": "About a 90% chance the Fed hikes 25 bp on 9 December.",
+    "made": "2026-11-20",
+    "source": "via Capp Notes, 20 Nov",
+    "status": "open",
+    "who": "Kalshi traders",
+    "id": "kalshi-dec-hike-90"
+  },
+  {
     "check": "2026-10-28",
     "claim": "About a 1-in-3 chance the Fed hikes on 28 October (priced 14 Oct).",
     "made": "2026-10-14",
@@ -118,6 +136,15 @@
     "status": "right",
     "who": "Kalshi traders",
     "id": "kalshi-oct-hike"
+  },
+  {
+    "check": "2027-04-30",
+    "claim": "Several rate increases before spring 2027.",
+    "made": "2026-11-18",
+    "source": "Fed minutes coverage, AP, 18 Nov",
+    "status": "open",
+    "who": "Alberto Musalem (St. Louis Fed)",
+    "id": "musalem-hikes-spring"
   },
   {
     "check": "2026-12-31",
@@ -151,9 +178,9 @@
     "check": "2027-11-08",
     "claim": "Bitcoin is in the early stages of a bull market; the current fear spike will shake out weak holders.",
     "made": "2026-11-08",
-    "result": "Test: Bitcoin above its 8 Nov level (~$75,900) a year later without a lower low below the Oct 2026 lows.",
+    "result": "Bitcoin made a lower low below the Oct 2026 lows: about $55,100 on 21 Nov (CoinGecko), so the test's condition failed.",
     "source": "Bitcoin Sentiment Weekly",
-    "status": "open",
+    "status": "wrong",
     "who": "Michael Sullivan",
     "id": "sullivan-early-bull"
   },

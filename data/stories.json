@@ -52,12 +52,17 @@
       {
         "date": "2026-11-21",
         "text": "Nasdaq's worst week since 2020 closed with Anthropic more than 10% off its first-day close, and the sell-off spread to Bitcoin, which fell below $56,000 on Saturday."
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Anthropic priced at $83, raised $81.3bn and closed Friday at $88.91; Nvidia −23% on the week as Reuters reports an SEC accounting review; S&P 500 −8.6%, Nasdaq −10.0%, worst week since 2020.",
+        "week": "2026-W47"
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-21",
+    "updated": "2026-11-22",
     "id": "ai-trade"
   },
   {
@@ -76,12 +81,17 @@
         "date": "2026-11-15",
         "text": "Week 46: SVP selection committee postpones its recommendation to next week; group still aims to nominate on 20 Nov; election 9 Dec.",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: SVP nominates Thomas Aeschi and Michael Graber, both hard-liners and neither from the Romandie; election in December.",
+        "week": "2026-W47"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bundesrat: Parmelin's successor",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "bundesrat"
   },
   {
@@ -113,12 +123,17 @@
         "date": "2026-11-15",
         "text": "Week 46: October CPI +0.4% (core +0.3%), above forecast; US 10-year +30 bp to 5.15%; Bessent warns the Fed against hiking into a supply shock.",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Fed minutes show nearly all officials expect a December hike (Waller backs 50 bp); the US 10-year still fell 23 bp to 4.92% as money fled stocks.",
+        "week": "2026-W47"
       }
     ],
     "region": "USA",
     "status": "active",
     "title": "Fed, rates and the bond market",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "fed-rates"
   },
   {
@@ -141,12 +156,17 @@
         "date": "2026-11-08",
         "text": "Week 45: nationwide general strike on 5 Nov over wages and public services; Belgium's coalition also breaks over its budget.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: cost-of-living protests resume on 17 Nov; Goldman calls a far-right win in 2027 the key uncertainty.",
+        "week": "2026-W47"
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "France: unrest and debt",
-    "updated": "2026-11-08",
+    "updated": "2026-11-22",
     "id": "france-debt"
   },
   {
@@ -222,12 +242,17 @@
         "date": "2026-11-15",
         "text": "Week 46: Trump says the US 'won' and 'doesn't need a deal', ending Vance-led talks; land blockade in effect; Iran MPs debate NPT exit; Türkiye and Qatar sign a defence pact.",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Iran strikes US targets in Bahrain and Kuwait; Hormuz attacks at the war's highest monthly level; 14+ Iranian tankers poised to run the blockade; Trump says a strike decision can wait until 2027.",
+        "week": "2026-W47"
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "iran-war"
   },
   {
@@ -245,12 +270,17 @@
         "date": "2026-11-15",
         "text": "Week 46: President Herzog gives Gadi Eisenkot the first mandate to form a government (about six weeks).",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Eisenkot says Netanyahu cannot stay amid alleged vote meddling.",
+        "week": "2026-W47"
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Israel: election and coalition",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "israel-coalition"
   },
   {
@@ -278,12 +308,17 @@
         "date": "2026-11-15",
         "text": "Week 46: Strategy passes 850,000 BTC after buying 1,036 at ~$79,000 and spends $188m buying back STRC; Bitcoin now trades below that cost.",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Strategy buys 485 BTC at ~$68,900 but spends $206m buying back STRC; shares −30% to $77.80; MSCI deletion effective after the 30 Nov close.",
+        "week": "2026-W47"
       }
     ],
     "region": "Bitcoin",
     "status": "active",
     "title": "Strategy vs MSCI",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "strategy-msci"
   },
   {
@@ -302,12 +337,17 @@
         "date": "2026-11-08",
         "text": "Week 45: BBIT still has no SIX listing date.",
         "week": "2026-W45"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: no confirmed first trading day for BBIT found in this week's sources.",
+        "week": "2026-W47"
       }
     ],
     "region": "Switzerland",
     "status": "active",
     "title": "Bitcoin in Switzerland",
-    "updated": "2026-11-08",
+    "updated": "2026-11-22",
     "id": "swiss-bitcoin-etf"
   },
   {
@@ -363,12 +403,21 @@
       {
         "date": "2026-11-16",
         "text": "Zelensky says he would put a Donbas-for-NATO swap to a national vote if he gets full security guarantees, no army limits and reconstruction aid (International Intrigue)."
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: Zelensky would put a Donbas-for-NATO swap to a vote on full guarantees; Trump's envoy says he is open to a NATO-style guarantee; Russia hits Kyiv bridges after signing the Shenzhen declaration.",
+        "week": "2026-W47"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Zelenskyy says a Trump-Putin-Ukraine meeting is possible at the G20 in Miami but Kyiv has no invite yet; suspected Ukrainian drones reach Russia's Baltic Fleet base in Kaliningrad."
       }
     ],
     "region": "Europe",
     "status": "active",
     "title": "Ukraine: peace talks",
-    "updated": "2026-11-16",
+    "updated": "2026-11-22",
     "id": "ukraine-talks"
   },
   {
@@ -386,12 +435,17 @@
         "date": "2026-11-15",
         "text": "Week 46: Stephen Miller replaces Susie Wiles as chief of staff; Dalio expects 'more fighting and more dysfunction' around the 11 Dec funding deadline.",
         "week": "2026-W46"
+      },
+      {
+        "date": "2026-11-22",
+        "text": "Week 47: incoming Democratic Congress plans to probe the $100bn Venezuela oil deal; Huang's House interviews set for 1 Dec.",
+        "week": "2026-W47"
       }
     ],
     "region": "Americas",
     "status": "active",
     "title": "US midterms",
-    "updated": "2026-11-15",
+    "updated": "2026-11-22",
     "id": "us-midterms"
   }
 ]

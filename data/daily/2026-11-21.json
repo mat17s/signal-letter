@@ -1,149 +1,62 @@
 {
+  "btc": {
+    "text": ""
+  },
   "date": "2026-11-21",
   "label": "Saturday, 21 November 2026",
-  "top": [
-    {
-      "title": "Bitcoin breaks its July low and falls below $56,000, the lowest since September 2024",
-      "why": "The bear market has a new floor, and the selling now runs through every risk asset.",
-      "fact": "Bitcoin fell almost 10% overnight to about $55,800 early on Saturday, below the summer low near $57,700 and its lowest level since September 2024; it is now more than half below its October 2025 record above $126,000. CoinGlass data showed about $2.4 billion of crypto derivatives liquidated in 24 hours, over $1 billion of it in Bitcoin futures, and US spot Bitcoin ETFs lost a net $1.12 billion from Monday to Thursday, $541 million of Thursday's outflow from BlackRock's IBIT.",
-      "opinion": [
-        {
-          "who": "James Check, Checkonchain",
-          "text": "calls it a capitulation that now exceeds the July sell-off in size and a clear undercut of the cycle low."
-        },
-        {
-          "who": "Wintermute",
-          "text": "says Bitcoin has to reclaim $68,000 with fresh ETF inflows before any lasting recovery."
-        }
-      ],
-      "claude": "The drop came on a weekend with thin liquidity, which exaggerates moves both ways; the ETF outflows are the more telling signal, because they show traditional buyers, not just leveraged traders, stepping back.",
-      "src": [
-        {
-          "t": "Yahoo Finance / Investing.com: Bitcoin falls below $56,000 as liquidity squeeze deepens crypto selloff",
-          "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashes-below-56-000-061626263.html"
-        },
-        {
-          "t": "crypto.news: Bitcoin below $56K, DEATH BETS Act, SEC fraud case",
-          "u": "https://crypto.news/bitcoin-56k-death-bets-act-sec-fraud-weekly-recap/"
-        },
-        {
-          "t": "Checkonchain: Undercut",
-          "u": "https://newsletter.checkonchain.com/p/undercut"
-        },
-        {
-          "t": "Farside: Bitcoin ETF flows",
-          "u": "https://farside.co.uk/bitcoin-etf-flow-all-data/"
-        }
-      ]
-    },
-    {
-      "title": "Wall Street heads out of its worst week since 2020 as the AI trade unwinds a day after Anthropic's debut",
-      "why": "The question is no longer whether AI stocks are expensive but who funds the build-out at 5% yields.",
-      "fact": "By Friday evening the S&P 500 was down about 6% for the week, the Dow about 6.2% and the Nasdaq about 5%, its biggest weekly fall since the Covid crash; the SMI lost 3.6%. Anthropic shares, up 17% on their first day, fell more than 10% on Friday, and Swiss markets also sold technology stocks on worries about rates and AI financing.",
-      "opinion": [
-        {
-          "who": "BlingBling",
-          "text": "argues the trigger is the Nvidia export-control scandal, which puts the sector's circular financing under pressure while 5% Treasuries pull money out of every other asset."
-        },
-        {
-          "who": "Reed Albergotti, Semafor",
-          "text": "notes that many in tech would welcome a slowdown, because compute is concentrated in a handful of firms building similar products."
-        }
-      ],
-      "claude": "Rising real yields and a Fed openly discussing a 50-basis-point hike in December are enough to explain much of the fall without any AI story; the AI names fall hardest because their valuations rest furthest in the future.",
-      "src": [
-        {
-          "t": "BlingBling: Alles, was Du über den Crash wissen musst",
-          "u": "https://blingbling.substack.com/p/alles-was-du-uber-den-crash-wissen"
-        },
-        {
-          "t": "Semafor Technology: The outage era",
-          "u": "https://semafor.com/s/ynhvrjn1qb"
-        },
-        {
-          "t": "swissinfo: Alle News in Kürze",
-          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
-        },
-        {
-          "t": "Forbes: Fed could consider 50 basis point rate hike in December",
-          "u": "https://www.forbes.com/sites/simonmoore/2026/11/13/waller-floats-prospect-of-larger-december-interest-rate-hike/"
-        }
-      ]
-    },
-    {
-      "title": "SVP puts Thomas Aeschi and Michael Graber forward for Guy Parmelin's Federal Council seat",
-      "why": "Parliament will choose between two hardliners, and French-speaking Switzerland loses its SVP seat.",
-      "fact": "The SVP parliamentary group nominated its group leader Thomas Aeschi (Zug) and National Councillor Michael Graber (Upper Valais) to succeed Guy Parmelin of Vaud. Both are from the party's hard-line wing, and neither comes from the Romandie, which held the seat until now; the United Federal Assembly elects the successor in December.",
-      "opinion": [
-        {
-          "who": "Watson",
-          "text": "dubs the pair a \"hooligan ticket\"."
-        }
-      ],
-      "claude": "The other parties can still elect an unofficial SVP candidate, but the SVP excludes members who accept such a choice, so in practice Parliament will pick one of these two.",
-      "src": [
-        {
-          "t": "SRF: Graber und Aeschi auf SVP-Ticket gewählt",
-          "u": "https://www.srf.ch/news/schweiz/nachfolger-von-guy-parmelin-svp-schickt-michael-graber-und-thomas-aeschi-ins-bundesratsrennen"
-        },
-        {
-          "t": "NZZ: Die SVP nominiert Thomas Aeschi und Michael Graber",
-          "u": "https://www.nzz.ch/schweiz/nachfolge-von-guy-parmelin-im-bundesrat-die-svp-nominiert-thomas-aeschi-und-michael-graber-ld.10070030"
-        },
-        {
-          "t": "Watson: «Hooliganticket» steht",
-          "u": "https://www.watson.ch/schweiz/bundesrat/771088785-hooliganticket-steht-svp-schickt-aeschi-und-graber-ins-rennen"
-        }
-      ]
-    },
-    {
-      "title": "The SEC freezes a $560 million 'AI crypto trading' scheme that promised 6% a month",
-      "why": "Market crashes expose frauds, and this one used the AI label to sell itself.",
-      "fact": "The SEC obtained an emergency asset freeze against Backward Hat Capital, which it says raised about $560 million from more than 2,000 investors by promising at least 6% a month from an AI-driven crypto strategy; over $250 million allegedly went to pay earlier investors. A temporary receiver was appointed in a parallel CFTC case in an Indiana federal court.",
-      "claude": "6% a month compounds to about 100% a year; no real strategy delivers that steadily, which is the oldest red flag in finance, whatever technology is named.",
-      "unc": "The figures are the regulators' allegations, not a court finding.",
-      "src": [
-        {
-          "t": "crypto.news: SEC charges Backward Hat Capital over $560M fraud",
-          "u": "https://crypto.news/sec-backward-hat-capital-560m-fraud/"
-        }
-      ]
-    },
-    {
-      "title": "Somalia expels the UAE ambassador and accuses Abu Dhabi of an 'invasion'",
-      "why": "The Horn of Africa's ports have become a Gulf power contest, and Mogadishu is losing control of them.",
-      "fact": "Somalia ordered the UAE's ambassador out and recalled its own envoy after a senior official accused the Emirates of an invasion, its sharpest step since January, when it cancelled all agreements with Abu Dhabi. Somalia's president accuses the UAE of signing port deals directly with regional administrations and arming forces outside national command; the UAE called the moves hostile and the Gulf Cooperation Council's chief condemned them.",
-      "claude": "DP World's investment of more than $400 million in Berbera, Somaliland, explains why the UAE will not back down: the ports give the regions their own revenue and Abu Dhabi a foothold on the Red Sea route.",
-      "src": [
-        {
-          "t": "Semafor Gulf: Don't share, don't like",
-          "u": "https://semafor.com/s/pnm4qk3nd7"
-        },
-        {
-          "t": "Semafor Gulf citing Al Jazeera: UAE-Somalia rift widens",
-          "u": "https://semafor.com/s/io7hla522y"
-        }
-      ]
-    },
-    {
-      "title": "Geneva talks on 'killer robots' end with only a minimal consensus",
-      "why": "Autonomous weapons are already in use in Ukraine and the Middle East, and the rules are not keeping up.",
-      "fact": "International talks in Geneva on safeguards for fully autonomous weapons ended on Saturday with only a minimal consensus among the states taking part.",
-      "claude": "Without the big military powers agreeing to binding limits, a minimal text mostly records that the talks will continue while the technology spreads.",
-      "unc": "Only a short agency report so far; details of the text are not yet public.",
-      "src": [
-        {
-          "t": "swissinfo: Alle News in Kürze (21 Nov)",
-          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
-        }
-      ]
-    }
-  ],
+  "number": {
+    "text": "Crypto derivatives liquidated in 24 hours as Bitcoin fell below $56,000, over $1 billion of it in Bitcoin futures (CoinGlass via Investing.com).",
+    "value": "$2.4 billion"
+  },
+  "pdf": "daily/2026-11-21.pdf",
+  "podcast": {
+    "episode": "#248 Shenzhen-Erklärung: Trump, Xi, Putin und Europas Zuschauerrolle",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/Shenzhen-Erklrung--Trump--Xi--Putin-und-Europas-Zuschauerrolle--Grassl--Matei-248-e3snmai",
+    "why": "Released Friday: a German geopolitics talk on the Shenzhen declaration and why Europe is watching from the sidelines."
+  },
   "reads": {
+    "ai": {
+      "claude": "This is the hidden cost of AI in software: finding bugs became cheap, fixing them did not, so maintainers of core infrastructure now carry the load and release dates slip.",
+      "fact": "PostgreSQL 19 shipped about two months after its usual September slot, which Willison attributes mainly to the work on a wave of security issues reported with AI tools. His favourite feature is WAIT FOR LSN, which lets a replica wait until it has caught up to a given point before answering, so apps get read-your-writes consistency without custom code.",
+      "opinion": [
+        {
+          "text": "links the recent run of outages, from FAA groundings to bank glitches, to rushed patches done in fear of AI-assisted hacking.",
+          "who": "Semafor Technology"
+        }
+      ],
+      "src": [
+        {
+          "t": "Simon Willison: PostgreSQL 19 Released",
+          "u": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
+        },
+        {
+          "t": "Semafor Technology: The age of outages is here",
+          "u": "https://semafor.com/s/ynhvrjn1qb"
+        }
+      ],
+      "title": "Simon Willison: PostgreSQL 19 arrives two months late, slowed by a wave of AI-found security bugs"
+    },
+    "austrian": {
+      "claude": "An Austrian would agree that a credit bust follows easy money, but would read a dollar squeeze as temporary: the bailout Bhatia expects is exactly the dilution that hard assets are meant to hedge, so his short-term and long-term views point in opposite directions.",
+      "fact": "Nik Bhatia's weekly letter lists the warning signs: high-yield credit spreads widening, gold down about $1,800 from its $5,500 peak, Bitcoin's 200-day average turning down, and Korean and Japanese stocks erasing their 2026 gains.",
+      "opinion": [
+        {
+          "text": "argues that in acute stress the dollar and US Treasuries are the superior asset, and expects a crisis in junk tech bonds, private credit or housing to force a large fiscal and monetary rescue.",
+          "who": "Nik Bhatia, The Bitcoin Layer"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Bitcoin Layer: Bitcoin Crash Continues, I'm Scared for What's Next",
+          "u": "https://thebitcoinlayer.substack.com/p/bitcoin-crash-continues-im-scared"
+        }
+      ],
+      "title": "The Bitcoin Layer: 'code red', and why the dollar is winning this crisis"
+    },
     "mainstream": {
-      "title": "NZZ and bz: Gen Z strikes across Europe reach eleven Swiss cities, with clashes in Basel",
-      "fact": "Thousands of young people marched in eleven Swiss cities on Friday as part of a Europe-wide youth strike, also held in France, Germany and Italy, against rearmament, the climate crisis and cuts to education budgets. Most protests were peaceful, but in Basel police cleared barricades near the Wettsteinbrücke with water cannon, rubber bullets and tear gas, and there were clashes in Lausanne and arrests in Zurich.",
       "claude": "The mix of causes is the story: a generation that grew up with climate strikes now sees defence spending competing with schools for the same budgets, a trade-off that will shape Swiss and European votes on the army and the debt brake.",
+      "fact": "Thousands of young people marched in eleven Swiss cities on Friday as part of a Europe-wide youth strike, also held in France, Germany and Italy, against rearmament, the climate crisis and cuts to education budgets. Most protests were peaceful, but in Basel police cleared barricades near the Wettsteinbrücke with water cannon, rubber bullets and tear gas, and there were clashes in Lausanne and arrests in Zurich.",
       "src": [
         {
           "t": "NZZ: Jugendstreik in Europa, live aus Frankreich, Deutschland, Italien und der Schweiz",
@@ -157,63 +70,9 @@
           "t": "swissinfo: Alle News in Kürze",
           "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
         }
-      ]
-    },
-    "ai": {
-      "title": "Simon Willison: PostgreSQL 19 arrives two months late, slowed by a wave of AI-found security bugs",
-      "fact": "PostgreSQL 19 shipped about two months after its usual September slot, which Willison attributes mainly to the work on a wave of security issues reported with AI tools. His favourite feature is WAIT FOR LSN, which lets a replica wait until it has caught up to a given point before answering, so apps get read-your-writes consistency without custom code.",
-      "opinion": [
-        {
-          "who": "Semafor Technology",
-          "text": "links the recent run of outages, from FAA groundings to bank glitches, to rushed patches done in fear of AI-assisted hacking."
-        }
       ],
-      "claude": "This is the hidden cost of AI in software: finding bugs became cheap, fixing them did not, so maintainers of core infrastructure now carry the load and release dates slip.",
-      "src": [
-        {
-          "t": "Simon Willison: PostgreSQL 19 Released",
-          "u": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
-        },
-        {
-          "t": "Semafor Technology: The age of outages is here",
-          "u": "https://semafor.com/s/ynhvrjn1qb"
-        }
-      ]
-    },
-    "austrian": {
-      "title": "The Bitcoin Layer: 'code red', and why the dollar is winning this crisis",
-      "fact": "Nik Bhatia's weekly letter lists the warning signs: high-yield credit spreads widening, gold down about $1,800 from its $5,500 peak, Bitcoin's 200-day average turning down, and Korean and Japanese stocks erasing their 2026 gains.",
-      "opinion": [
-        {
-          "who": "Nik Bhatia, The Bitcoin Layer",
-          "text": "argues that in acute stress the dollar and US Treasuries are the superior asset, and expects a crisis in junk tech bonds, private credit or housing to force a large fiscal and monetary rescue."
-        }
-      ],
-      "claude": "An Austrian would agree that a credit bust follows easy money, but would read a dollar squeeze as temporary: the bailout Bhatia expects is exactly the dilution that hard assets are meant to hedge, so his short-term and long-term views point in opposite directions.",
-      "src": [
-        {
-          "t": "The Bitcoin Layer: Bitcoin Crash Continues, I'm Scared for What's Next",
-          "u": "https://thebitcoinlayer.substack.com/p/bitcoin-crash-continues-im-scared"
-        }
-      ]
+      "title": "NZZ and bz: Gen Z strikes across Europe reach eleven Swiss cities, with clashes in Basel"
     }
-  },
-  "btc": {
-    "text": ""
-  },
-  "number": {
-    "value": "$2.4 billion",
-    "text": "Crypto derivatives liquidated in 24 hours as Bitcoin fell below $56,000, over $1 billion of it in Bitcoin futures (CoinGlass via Investing.com)."
-  },
-  "podcast": {
-    "show": "Grassl & Matei",
-    "episode": "#248 Shenzhen-Erklärung: Trump, Xi, Putin und Europas Zuschauerrolle",
-    "why": "Released Friday: a German geopolitics talk on the Shenzhen declaration and why Europe is watching from the sidelines.",
-    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/Shenzhen-Erklrung--Trump--Xi--Putin-und-Europas-Zuschauerrolle--Grassl--Matei-248-e3snmai"
-  },
-  "thread": {
-    "title": "AI trade and Anthropic IPO",
-    "text": "Nasdaq's worst week since 2020 closed with Anthropic more than 10% off its first-day close, and the sell-off spread to Bitcoin, which fell below $56,000 on Saturday."
   },
   "sources": [
     {
@@ -261,5 +120,146 @@
       "u": "https://crypto.news/bitcoin-56k-death-bets-act-sec-fraud-weekly-recap/"
     }
   ],
-  "pdf": "daily/2026-11-21.pdf"
+  "thread": {
+    "text": "Nasdaq's worst week since 2020 closed with Anthropic more than 10% off its first-day close, and the sell-off spread to Bitcoin, which fell below $56,000 on Saturday.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "The drop came on a weekend with thin liquidity, which exaggerates moves both ways; the ETF outflows are the more telling signal, because they show traditional buyers, not just leveraged traders, stepping back.",
+      "fact": "Bitcoin fell almost 10% overnight to about $55,800 early on Saturday, below the summer low near $57,700 and its lowest level since September 2024; it is now more than half below its October 2025 record above $126,000. CoinGlass data showed about $2.4 billion of crypto derivatives liquidated in 24 hours, over $1 billion of it in Bitcoin futures, and US spot Bitcoin ETFs lost a net $1.12 billion from Monday to Thursday, $541 million of Thursday's outflow from BlackRock's IBIT.",
+      "opinion": [
+        {
+          "text": "calls it a capitulation that now exceeds the July sell-off in size and a clear undercut of the cycle low.",
+          "who": "James Check, Checkonchain"
+        },
+        {
+          "text": "says Bitcoin has to reclaim $68,000 with fresh ETF inflows before any lasting recovery.",
+          "who": "Wintermute"
+        }
+      ],
+      "src": [
+        {
+          "t": "Yahoo Finance / Investing.com: Bitcoin falls below $56,000 as liquidity squeeze deepens crypto selloff",
+          "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashes-below-56-000-061626263.html"
+        },
+        {
+          "t": "crypto.news: Bitcoin below $56K, DEATH BETS Act, SEC fraud case",
+          "u": "https://crypto.news/bitcoin-56k-death-bets-act-sec-fraud-weekly-recap/"
+        },
+        {
+          "t": "Checkonchain: Undercut",
+          "u": "https://newsletter.checkonchain.com/p/undercut"
+        },
+        {
+          "t": "Farside: Bitcoin ETF flows",
+          "u": "https://farside.co.uk/bitcoin-etf-flow-all-data/"
+        }
+      ],
+      "title": "Bitcoin breaks its July low and falls below $56,000, the lowest since September 2024",
+      "why": "The bear market has a new floor, and the selling now runs through every risk asset."
+    },
+    {
+      "claude": "Rising real yields and a Fed openly discussing a 50-basis-point hike in December are enough to explain much of the fall without any AI story; the AI names fall hardest because their valuations rest furthest in the future.",
+      "fact": "By Friday evening the S&P 500 was down about 6% for the week, the Dow about 6.2% and the Nasdaq about 5%, its biggest weekly fall since the Covid crash; the SMI lost 3.6%. Anthropic shares, up 17% on their first day, fell more than 10% on Friday, and Swiss markets also sold technology stocks on worries about rates and AI financing.",
+      "opinion": [
+        {
+          "text": "argues the trigger is the Nvidia export-control scandal, which puts the sector's circular financing under pressure while 5% Treasuries pull money out of every other asset.",
+          "who": "BlingBling"
+        },
+        {
+          "text": "notes that many in tech would welcome a slowdown, because compute is concentrated in a handful of firms building similar products.",
+          "who": "Reed Albergotti, Semafor"
+        }
+      ],
+      "src": [
+        {
+          "t": "BlingBling: Alles, was Du über den Crash wissen musst",
+          "u": "https://blingbling.substack.com/p/alles-was-du-uber-den-crash-wissen"
+        },
+        {
+          "t": "Semafor Technology: The outage era",
+          "u": "https://semafor.com/s/ynhvrjn1qb"
+        },
+        {
+          "t": "swissinfo: Alle News in Kürze",
+          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+        },
+        {
+          "t": "Forbes: Fed could consider 50 basis point rate hike in December",
+          "u": "https://www.forbes.com/sites/simonmoore/2026/11/13/waller-floats-prospect-of-larger-december-interest-rate-hike/"
+        }
+      ],
+      "title": "Wall Street heads out of its worst week since 2020 as the AI trade unwinds a day after Anthropic's debut",
+      "why": "The question is no longer whether AI stocks are expensive but who funds the build-out at 5% yields."
+    },
+    {
+      "claude": "The other parties can still elect an unofficial SVP candidate, but the SVP excludes members who accept such a choice, so in practice Parliament will pick one of these two.",
+      "fact": "The SVP parliamentary group nominated its group leader Thomas Aeschi (Zug) and National Councillor Michael Graber (Upper Valais) to succeed Guy Parmelin of Vaud. Both are from the party's hard-line wing, and neither comes from the Romandie, which held the seat until now; the United Federal Assembly elects the successor in December.",
+      "opinion": [
+        {
+          "text": "dubs the pair a \"hooligan ticket\".",
+          "who": "Watson"
+        }
+      ],
+      "src": [
+        {
+          "t": "SRF: Graber und Aeschi auf SVP-Ticket gewählt",
+          "u": "https://www.srf.ch/news/schweiz/nachfolger-von-guy-parmelin-svp-schickt-michael-graber-und-thomas-aeschi-ins-bundesratsrennen"
+        },
+        {
+          "t": "NZZ: Die SVP nominiert Thomas Aeschi und Michael Graber",
+          "u": "https://www.nzz.ch/schweiz/nachfolge-von-guy-parmelin-im-bundesrat-die-svp-nominiert-thomas-aeschi-und-michael-graber-ld.10070030"
+        },
+        {
+          "t": "Watson: «Hooliganticket» steht",
+          "u": "https://www.watson.ch/schweiz/bundesrat/771088785-hooliganticket-steht-svp-schickt-aeschi-und-graber-ins-rennen"
+        }
+      ],
+      "title": "SVP puts Thomas Aeschi and Michael Graber forward for Guy Parmelin's Federal Council seat",
+      "why": "Parliament will choose between two hardliners, and French-speaking Switzerland loses its SVP seat."
+    },
+    {
+      "claude": "6% a month compounds to about 100% a year; no real strategy delivers that steadily, which is the oldest red flag in finance, whatever technology is named.",
+      "fact": "The SEC obtained an emergency asset freeze against Backward Hat Capital, which it says raised about $560 million from more than 2,000 investors by promising at least 6% a month from an AI-driven crypto strategy; over $250 million allegedly went to pay earlier investors. A temporary receiver was appointed in a parallel CFTC case in an Indiana federal court.",
+      "src": [
+        {
+          "t": "crypto.news: SEC charges Backward Hat Capital over $560M fraud",
+          "u": "https://crypto.news/sec-backward-hat-capital-560m-fraud/"
+        }
+      ],
+      "title": "The SEC freezes a $560 million 'AI crypto trading' scheme that promised 6% a month",
+      "unc": "The figures are the regulators' allegations, not a court finding.",
+      "why": "Market crashes expose frauds, and this one used the AI label to sell itself."
+    },
+    {
+      "claude": "DP World's investment of more than $400 million in Berbera, Somaliland, explains why the UAE will not back down: the ports give the regions their own revenue and Abu Dhabi a foothold on the Red Sea route.",
+      "fact": "Somalia ordered the UAE's ambassador out and recalled its own envoy after a senior official accused the Emirates of an invasion, its sharpest step since January, when it cancelled all agreements with Abu Dhabi. Somalia's president accuses the UAE of signing port deals directly with regional administrations and arming forces outside national command; the UAE called the moves hostile and the Gulf Cooperation Council's chief condemned them.",
+      "src": [
+        {
+          "t": "Semafor Gulf: Don't share, don't like",
+          "u": "https://semafor.com/s/pnm4qk3nd7"
+        },
+        {
+          "t": "Semafor Gulf citing Al Jazeera: UAE-Somalia rift widens",
+          "u": "https://semafor.com/s/io7hla522y"
+        }
+      ],
+      "title": "Somalia expels the UAE ambassador and accuses Abu Dhabi of an 'invasion'",
+      "why": "The Horn of Africa's ports have become a Gulf power contest, and Mogadishu is losing control of them."
+    },
+    {
+      "claude": "Without the big military powers agreeing to binding limits, a minimal text mostly records that the talks will continue while the technology spreads.",
+      "fact": "International talks in Geneva on safeguards for fully autonomous weapons ended on Saturday with only a minimal consensus among the states taking part.",
+      "src": [
+        {
+          "t": "swissinfo: Alle News in Kürze (21 Nov)",
+          "u": "https://www.swissinfo.ch/ger/alle-news-in-kuerze/"
+        }
+      ],
+      "title": "Geneva talks on 'killer robots' end with only a minimal consensus",
+      "unc": "Only a short agency report so far; details of the text are not yet public.",
+      "why": "Autonomous weapons are already in use in Ukraine and the Middle East, and the rules are not keeping up."
+    }
+  ]
 }
