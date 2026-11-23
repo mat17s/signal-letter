@@ -1,0 +1,207 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-23",
+  "label": "Monday, 23 November 2026",
+  "number": {
+    "text": "Market value Nvidia regained on Monday after reinstating Jensen Huang, after losing about $2 trillion in a month (Semafor Business).",
+    "value": "$1 trillion"
+  },
+  "pdf": "daily/2026-11-23.pdf",
+  "podcast": {
+    "episode": "#249 Von der Ostsee bis Libyen: Russlands Schiffe im Visier",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/Von-der-Ostsee-bis-Libyen-Russlands-Schiffe-im-Visier--Grassl--Matei-249-e3ss5ac",
+    "why": "Released today: Russia's maritime and supply-line pressure after the Kaliningrad drone alarms, the burning freighter off Finland and the ship sunk off Libya (in German)."
+  },
+  "reads": {
+    "ai": {
+      "claude": "A single number that predicts dangerous capabilities would be useful for coordination, but log-perplexity depends on the test data and tokeniser, so it is not directly comparable across labs; any shared limit would need an agreed benchmark and outside auditing, or it is a pledge each lab measures for itself.",
+      "fact": "OpenAI's chief scientist Jakub Pachocki published the internal log-perplexity scores the company has used since GPT-3.5 to track raw model capability, saying its new skills in cybersecurity and maths arrived below 0.8 and that an unreleased internal model sits at about 0.73. He expects further transformative capabilities around 0.68 to 0.70 and asked other labs to agree common limits until monitoring tools catch up; Sam Altman called it the most important thing OpenAI has published in a while.",
+      "src": [
+        {
+          "t": "The Rundown AI: OpenAI opens its private AI scorecard to rivals",
+          "u": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem"
+        },
+        {
+          "t": "OpenAI: Perplexity and intelligence",
+          "u": "https://openai.com/index/perplexity-and-intelligence/"
+        }
+      ],
+      "title": "OpenAI publishes its private 'intelligence' score and asks rival labs to agree on shared limits"
+    },
+    "austrian": {
+      "claude": "The incentive problem is real, but air-traffic control is a network where one standard and one operator make sense, and privatised systems (Canada's Nav Canada, the UK's NATS) also had big outages. The fix is accountability for unspent money, which is a governance question, not proof that the market would do it better.",
+      "fact": "On 13 November the US government grounded every plane in the country; Transportation Secretary Sean Duffy first blamed old routers and asked Congress for $50 billion, while House Democrats noted that most of the $12.5 billion already approved for the same upgrade had not been spent.",
+      "opinion": [
+        {
+          "text": "Every failure becomes a reason to ask for more money, and Congress rewards it; public agencies shrink their budgets by solving problems and grow them by creating new ones, the same risk-free logic as central banking.",
+          "who": "Jimmy Song, Bitcoin Tech Talk"
+        }
+      ],
+      "src": [
+        {
+          "t": "Jimmy Song: Bitcoin Tech Talk #528",
+          "u": "https://jimmysong.substack.com/p/bitcoin-tech-talk-528"
+        }
+      ],
+      "title": "Jimmy Song: the US air-traffic shutdown shows how bureaucracies get paid for failing"
+    },
+    "mainstream": {
+      "claude": "For Switzerland this is worth watching: a UK that rebuilds ties piece by piece, without rejoining, is the same bilateral path Bern is negotiating with its own EU package.",
+      "fact": "The UK agreed a 'soft reset' with the EU that loosens border checks on imports and makes it easier for young Britons and EU nationals to work across the Channel; the business secretary wrote in the FT that the Brexit the country was given has not worked. Semafor notes that Goldman Sachs, JPMorgan, Citi and Bank of America all kept or grew their UK headcount between 2016 and 2025, and that Barclays, Citi and JPMorgan are spending over $5 billion on new Canary Wharf headquarters.",
+      "src": [
+        {
+          "t": "Semafor Business: UK-EU inch back toward a 'reset'",
+          "u": "https://semafor.com/s/ivel4zccg5"
+        }
+      ],
+      "title": "Ten years after Brexit, the UK signs a 'soft reset' with the EU, and the City of London never actually left"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship",
+      "u": "https://semafor.com/s/1flzp09sv1"
+    },
+    {
+      "t": "Semafor Business",
+      "u": "https://semafor.com/s/v0volrgkb6"
+    },
+    {
+      "t": "Semafor Gulf",
+      "u": "https://semafor.com/s/7sja2fnvw8"
+    },
+    {
+      "t": "International Intrigue",
+      "u": "https://archives.internationalintrigue.io/p/f-0c58"
+    },
+    {
+      "t": "The Rundown AI",
+      "u": "https://therundownai.beehiiv.com/p/claude-helps-solve-math-s-biggest-open-problem"
+    },
+    {
+      "t": "Jimmy Song: Bitcoin Tech Talk",
+      "u": "https://jimmysong.substack.com/p/bitcoin-tech-talk-528"
+    }
+  ],
+  "thread": {
+    "text": "Huang is back as Nvidia CEO after White House input; Washington hawks now push for tighter chip export controls.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "Markets cheered, but the precedent lasts: a company at the centre of US export policy now owes its leadership to a political call, so every future China decision at Nvidia becomes political too.",
+      "fact": "Nvidia's board reinstated Jensen Huang as chief executive on Monday, two weeks after he was forced out over his affair with a suspected Chinese intelligence asset. The company's statement said input from senior levels of the US government had reassured the board that his return poses no national-security risk; Trump had posted on Sunday that rehiring Huang would be best for the company and the USA, and Semafor reports he joined the board meeting. The stock had lost about 40% in a month before the decision; the reinstatement added roughly $1 trillion of market value.",
+      "opinion": [
+        {
+          "text": "The board failed at succession planning and now confirms the 'imperial CEO'; the real signal to corporate America is that the last word on a CEO may rest with the president, not shareholders.",
+          "who": "Andrew Edgecliffe-Johnson, Semafor Business"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Business: Jensen Huang's return raises troubling questions for corporate America",
+          "u": "https://semafor.com/s/75lpcs6wq2"
+        },
+        {
+          "t": "Nvidia: board announcement",
+          "u": "https://semafor.com/s/8p4yyizv2s"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia scandal fallout widens",
+          "u": "https://semafor.com/s/57ifsb8h0i"
+        }
+      ],
+      "title": "Nvidia rehires Jensen Huang as CEO after Trump dials into the board meeting, and adds $1 trillion in a day",
+      "unc": "Trump's participation in the board meeting is reported by Semafor only.",
+      "why": "The world's most important chip company just let the White House decide who runs it."
+    },
+    {
+      "claude": "The rebound case rests on strong earnings; the bear case rests on the cost of debt. This week's tests are Dell's results on Tuesday and Wednesday's US data (PCE inflation, GDP), which decide whether the Fed really hikes again.",
+      "fact": "US futures pointed to a rebound on Monday after Friday's rout, when the Nasdaq posted its worst week since the pandemic and the S&P 500 entered correction territory; Asian markets slumped first, prompting regulators there to intervene. Anthropic and Nvidia both closed Friday down by double digits, Anthropic to just above its $83 IPO price, and the Nasdaq 100 slipped into a bear market. The Wall Street Journal reports that even some AI leaders' bonds could be priced below investment grade as infrastructure spending meets higher borrowing costs.",
+      "opinion": [
+        {
+          "text": "Letting air out of the tyres is healthy; firms without strong cash flows and assets will find it harder to raise money.",
+          "who": "Jane Fraser, Citigroup CEO (to Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: US stocks poised to rebound",
+          "u": "https://semafor.com/s/t7nbi4uzl1"
+        },
+        {
+          "t": "Semafor Business: The AI divide",
+          "u": "https://semafor.com/s/igetjm0w3o"
+        }
+      ],
+      "title": "Stocks try to bounce after the Nasdaq's worst week since Covid, as Asian regulators step in",
+      "why": "Whether this is a pause or the bottom decides how deep the AI correction goes."
+    },
+    {
+      "claude": "Brent near $89 already prices some of this risk; a confrontation with loaded tankers would test whether Washington is willing to stop ships by force, which is the step that turns a blockade into open naval war.",
+      "fact": "Saudi Arabia said it intercepted a Houthi ballistic missile and drone over the weekend, Bahrain said an Iranian strike on an industrial site injured two people, and two oil tankers were hit near Oman. Iran is reportedly preparing to move 14 vessels recently loaded at Kharg Island in an attempt to break the US naval blockade of its oil exports, while its foreign minister said the June memorandum signed in Versailles is no longer valid but could underpin a future deal. Qatar's prime minister, the chief mediator, meets Secretary of State Rubio in Washington today.",
+      "src": [
+        {
+          "t": "Semafor Gulf: Iran prepares to challenge blockade",
+          "u": "https://semafor.com/s/3qobukocz7"
+        }
+      ],
+      "title": "Iran plans to send 14 loaded tankers to test the US blockade in Hormuz as Qatar's PM meets Rubio",
+      "unc": "The 14-tanker plan is reported by Semafor Gulf from a single report.",
+      "why": "A blockade run could reignite the nine-month war just as diplomacy restarts."
+    },
+    {
+      "claude": "Hitting Russian ships in the Mediterranean and the Baltic shows Ukraine can reach Moscow's supply lines far from the front, but it also pulls NATO coastal states such as Finland closer to the fighting.",
+      "fact": "Kyiv sank a Russian warship refuelling off the coast of Libya, a day after a drone set a US-sanctioned Russian military logistics ship ablaze in the Gulf of Finland; Russian crews towed it out of Finnish waters. Russia retaliated with a heavy attack on Ukraine's energy infrastructure and civilian sites, killing at least a dozen people. Finland's prime minister Orpo warned that the war is spilling over, and European LNG prices rose ahead of winter.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Russia and Ukraine's tit-for-tat strikes",
+          "u": "https://semafor.com/s/l15i7kclnk"
+        },
+        {
+          "t": "Euronews: Russian cargo ship struck by drone in Gulf of Finland",
+          "u": "https://www.euronews.com/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say"
+        }
+      ],
+      "title": "Ukraine sinks a Russian warship off Libya and hits a cargo ship in the Baltic; Russia answers with strikes on Ukraine's grid",
+      "why": "The war is spreading to seas far from the front, and Europe's gas bill feels it."
+    },
+    {
+      "claude": "A shortfall against a pre-pandemic trend is not the same as jobs destroyed by AI: higher interest rates and post-Covid over-hiring also cut white-collar hiring. The strongest signal is the entry-level squeeze, because that is where AI substitutes most directly for routine work.",
+      "fact": "A report by RAISE US, led by a former US commerce secretary, and a labour research group finds 1.5 million fewer white-collar jobs in the US than pre-pandemic trends predicted, and says AI is already making it harder for young people to enter the labour market. Bloomberg reports a double-digit decline in AI-exposed jobs in China. The IMF's managing director last month called the effect a slow-moving tsunami.",
+      "src": [
+        {
+          "t": "Semafor Flagship: AI already hitting job market",
+          "u": "https://semafor.com/s/0opzi1oii1"
+        }
+      ],
+      "title": "Research finds 1.5 million fewer US white-collar jobs than expected, with young graduates hit hardest by AI",
+      "unc": "The report was first published as a Semafor exclusive.",
+      "why": "The first hard numbers on AI and jobs feed straight into the politics of the AI boom."
+    },
+    {
+      "fact": "Mexican forces, supported by the US Department of Homeland Security and other agencies, arrested Fausto Isidro Meza Flores, one of the FBI's ten most-wanted, according to the US attorney general. Violence erupted again in Sinaloa after the capture. Ties had been strained since CIA officials took part in a meth-lab raid in northern Mexico this year, which President Sheinbaum called a violation of sovereignty.",
+      "opinion": [
+        {
+          "text": "A win-win: Washington gets a bounty target, Sheinbaum shows she is tough on crime and can work with Trump, but removing a kingpin often starts a bloody succession war.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Mexico catches top cartel boss",
+          "u": "https://semafor.com/s/hffoin16nh"
+        },
+        {
+          "t": "Reuters: Mexico captures top drug lord 'El Chapo Isidro'",
+          "u": "https://www.reuters.com/world/americas/mexico-captures-top-drug-lord-el-chapo-isidro-latest-string-captures-2026-11-21/"
+        }
+      ],
+      "title": "Mexico captures cartel boss 'El Chapo Isidro' in a US-backed raid, and violence flares in Sinaloa",
+      "why": "A rare US-Mexico security win, in the middle of Washington's 'Donroe Doctrine'."
+    }
+  ]
+}
