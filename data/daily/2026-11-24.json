@@ -1,0 +1,297 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-24",
+  "label": "Tuesday, 24 November 2026",
+  "number": {
+    "text": "What Australia is reportedly offering Solomon Islands in a security treaty due to be signed on Wednesday, replacing the islands' 2022 pact with China (International Intrigue).",
+    "value": "$667 million"
+  },
+  "pdf": "daily/2026-11-24.pdf",
+  "podcast": {
+    "episode": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+    "show": "All-In",
+    "url": "https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem",
+    "why": "Released today: George Kurtz on whether the recent outages were cyberattacks and how AI puts nation-state-level hacking within reach of small groups (VC perspective), the day after CrowdStrike agreed to buy Zscaler."
+  },
+  "reads": {
+    "ai": {
+      "claude": "Coming from a lab that has argued against slowdowns, this is a notable shift in tone, but an essay is not a policy. The test is whether Meta changes anything it controls: publishing evaluations, sharing safety limits like the ones OpenAI proposed last week, or delaying a release. The proof itself still awaits independent checking by mathematicians.",
+      "fact": "Alexandr Wang, Meta's chief AI officer, posted an essay saying superintelligence is arriving, citing Claude's help with the Riemann hypothesis proof, and predicted models will soon do all of AI research and be superhuman at improving themselves. He called it lazy to treat the outcome as inevitable and said society should not accept a handover to AI.",
+      "src": [
+        {
+          "t": "Alexandr Wang on X: Superintelligence is arriving",
+          "u": "https://x.com/alexandr_wang/status/2124636606959345776"
+        },
+        {
+          "t": "The Rundown AI: Jensen Huang returns to Nvidia",
+          "u": "https://therundownai.beehiiv.com/p/jensen-huang-returns-to-nvidia"
+        }
+      ],
+      "title": "Meta's AI chief says 'superintelligence is arriving' and tells the industry to leave the default path"
+    },
+    "austrian": {
+      "claude": "Forced selling is a classic Austrian clue, but the case is thin: there is no data showing Saudi gold sales, and gold is up about 3% on the week in our table. A tighter Fed and a stronger dollar explain the earlier fall at least as well.",
+      "fact": "Houthi strikes have hit Aramco and PIF towers, and a US Federal Reserve note published on Friday found Europe could empty its gas storage by spring if LNG imports drop notably.",
+      "opinion": [
+        {
+          "text": "The recent drop in gold is less about a tight Fed than about holders who urgently need cash, above all a Saudi state facing a hidden deposit shortage; real scarcity, of gas in Europe or dollars in Riyadh, shows up in what owners are forced to sell.",
+          "who": "Doomberg, citing PauloMacro"
+        }
+      ],
+      "src": [
+        {
+          "t": "Doomberg: Everything is Awesome",
+          "u": "https://newsletter.doomberg.com/p/everything-is-awesome"
+        }
+      ],
+      "title": "Doomberg: gold isn't falling because of the Fed, it's being sold by those who need cash, starting with Riyadh"
+    },
+    "mainstream": {
+      "claude": "The money follows tariffs: plants in Africa can sell into Europe and the US under trade deals Chinese exports can't reach directly. That makes the trend durable, but power grids, not capital, set its limit.",
+      "fact": "Chinese firms put at least $19 billion into manufacturing across 19 African countries between September 2024 and June 2026, a new report by Development Reimagined found, a shift away from mining towards factories as price wars at home and Western tariffs push them abroad.",
+      "opinion": [
+        {
+          "text": "A bigger Chinese factory footprint does not make Africa the next industrial hub; unreliable power, poor transport and scarce finance have shrunk its share of world manufacturing since the 1970s.",
+          "who": "Yinka Adegoke (Semafor)"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor: Chinese manufacturers bet on Africa",
+          "u": "https://semafor.com/s/wrxejwbooh"
+        },
+        {
+          "t": "Semafor (Yinka Adegoke): Africa won't be the next industrial hub",
+          "u": "https://semafor.com/s/vhsd1goima"
+        }
+      ],
+      "title": "China's factories head to Africa: $19 billion in new plants, but no industrial boom yet"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor: Huang's comeback roils Washington",
+      "u": "https://semafor.com/s/46b0q7g325"
+    },
+    {
+      "t": "Semafor: US adds Megaspeed to chip blacklist",
+      "u": "https://semafor.com/s/xh3exflxbi"
+    },
+    {
+      "t": "International Intrigue: Huang in there",
+      "u": "https://archives.internationalintrigue.io/p/f-3433"
+    },
+    {
+      "t": "Nvidia: Board reinstates Jensen Huang",
+      "u": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    {
+      "t": "Semafor: China tries to stop stock selloff",
+      "u": "https://semafor.com/s/h9bpb8bwvy"
+    },
+    {
+      "t": "Bloomberg (via Semafor): fund managers on the bottom",
+      "u": "https://semafor.com/s/mpyrdvbpy0"
+    },
+    {
+      "t": "Semafor Gulf: Saudi seeks help restocking defenses",
+      "u": "https://semafor.com/s/ve6yjctm2y"
+    },
+    {
+      "t": "Semafor Gulf: Saudi Arabia's war bill mounts",
+      "u": "https://semafor.com/s/d63kfdccw4"
+    },
+    {
+      "t": "Doomberg (quoting Reuters): Everything is Awesome",
+      "u": "https://newsletter.doomberg.com/p/everything-is-awesome"
+    },
+    {
+      "t": "Semafor: Fears of Russia space nuclear launch",
+      "u": "https://semafor.com/s/mb0y46z67c"
+    },
+    {
+      "t": "The Independent: Russia satellite nuclear weapon",
+      "u": "https://www.independent.co.uk/news/world/europe/russia-satellite-nuclear-weapon-space-b3089665.html"
+    },
+    {
+      "t": "Reuters: North Korea may shut Swiss office in Pyongyang, KCNA says",
+      "u": "https://www.reuters.com/world/asia-pacific/north-korea-consider-shutting-down-swiss-diplomatic-office-pyongyang-kcna-says-2026-11-23/"
+    },
+    {
+      "t": "Semafor: Oil nears three-month low",
+      "u": "https://semafor.com/s/why4809ip7"
+    },
+    {
+      "t": "finanzen.net: Brent price",
+      "u": "https://www.finanzen.net/rohstoffe/oelpreis"
+    },
+    {
+      "t": "Semafor: Chinese manufacturers bet on Africa",
+      "u": "https://semafor.com/s/wrxejwbooh"
+    },
+    {
+      "t": "Semafor (Yinka Adegoke): Africa won't be the next industrial hub",
+      "u": "https://semafor.com/s/vhsd1goima"
+    },
+    {
+      "t": "Alexandr Wang on X: Superintelligence is arriving",
+      "u": "https://x.com/alexandr_wang/status/2124636606959345776"
+    },
+    {
+      "t": "The Rundown AI: Jensen Huang returns to Nvidia",
+      "u": "https://therundownai.beehiiv.com/p/jensen-huang-returns-to-nvidia"
+    }
+  ],
+  "thread": {
+    "text": "Megaspeed blacklisted the day after Huang's return; Cotton promises a tougher chip export bill and a House hearing is set for 1 December.",
+    "title": "AI trade and Anthropic IPO"
+  },
+  "top": [
+    {
+      "claude": "The market priced Huang back as a growth story; the risk now sits in Washington. If Democrats take Congress in January as expected, export controls and hearings could hit Nvidia's China sales harder than the scandal did.",
+      "fact": "A day after Nvidia's board reinstated Jensen Huang at President Trump's urging, the Commerce Department added Megaspeed, the Singapore firm accused of shipping Nvidia chips to China and whose executive had an affair with Huang, to its trade blacklist, while the Justice Department keeps investigating it. Senate intelligence chair Tom Cotton promised an inquiry and a tougher chip export-control bill, Huang and the commerce secretary are due to testify, and a House hearing is set for 1 December. The split runs inside the administration: Vice President Vance helped the return, Secretary of State Rubio's camp is more hawkish.",
+      "opinion": [
+        {
+          "text": "Asks how a firm can be guilty enough to blacklist while the CEO who oversaw the deals is clean enough to reinstate, and whether US tech policy now runs on laws or on whoever leaks last.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor: Huang's comeback roils Washington",
+          "u": "https://semafor.com/s/46b0q7g325"
+        },
+        {
+          "t": "Semafor: US adds Megaspeed to chip blacklist",
+          "u": "https://semafor.com/s/xh3exflxbi"
+        },
+        {
+          "t": "International Intrigue: Huang in there",
+          "u": "https://archives.internationalintrigue.io/p/f-3433"
+        },
+        {
+          "t": "Nvidia: Board reinstates Jensen Huang",
+          "u": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+        }
+      ],
+      "title": "Washington turns on the Huang comeback: Megaspeed is blacklisted the same day, and Congress wants Nvidia's boss under oath",
+      "why": "The biggest stock in the world now has a political risk premium."
+    },
+    {
+      "claude": "Cheaper trading and state buying can slow a fall, but they do not change earnings; past rescues (2015, 2024) worked only once growth news improved.",
+      "fact": "Chinese regulators said they will lower fees and margin requirements on the main stock exchanges, part of a package to cut transaction costs, days after state-backed funds bought record amounts of shares. The slide has also held back plans by large Chinese AI companies to list, while Asian chipmakers such as SK Hynix and TSMC jumped by double digits on Huang's return.",
+      "opinion": [
+        {
+          "text": "Not sure the market has hit rock bottom yet.",
+          "who": "A fund manager quoted by Bloomberg"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor: China tries to stop stock selloff",
+          "u": "https://semafor.com/s/h9bpb8bwvy"
+        },
+        {
+          "t": "Bloomberg (via Semafor): fund managers on the bottom",
+          "u": "https://semafor.com/s/mpyrdvbpy0"
+        }
+      ],
+      "title": "China cuts trading fees and margin rules to stop a long stock slide, and its AI firms' IPO plans stall",
+      "why": "Beijing's tech push needs a working stock market to fund it."
+    },
+    {
+      "claude": "A wide shopping list suggests the kingdom expects months, not weeks. Watch the budget's deficit and borrowing plan: that is the first official number on what the war costs.",
+      "fact": "Houthi missiles have hit Saudi Aramco's headquarters in Dhahran, the Aramco tower in Riyadh's financial district and a tower of the Public Investment Fund since mid-October, Reuters reported, and the kingdom has warned residents again not to film strikes. Riyadh presents its 2027 budget today, with oil below $90 and higher war spending widening the deficit.",
+      "opinion": [
+        {
+          "text": "The kingdom has the staying power to outlast the Houthis and will not let threats against its cities buy concessions.",
+          "who": "Ali Shihabi (Arab News), often close to the royal court"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Gulf: Saudi seeks help restocking defenses",
+          "u": "https://semafor.com/s/ve6yjctm2y"
+        },
+        {
+          "t": "Semafor Gulf: Saudi Arabia's war bill mounts",
+          "u": "https://semafor.com/s/d63kfdccw4"
+        },
+        {
+          "t": "Doomberg (quoting Reuters): Everything is Awesome",
+          "u": "https://newsletter.doomberg.com/p/everything-is-awesome"
+        }
+      ],
+      "title": "Saudi Arabia asks allies far beyond the US for missile interceptors as the Houthi war reaches Riyadh's towers",
+      "unc": "Saudi Arabia has sent a list of land-based interceptors and air-to-air missiles to a wide range of countries, including the US, UK and France, sources told Semafor; it is unclear whether stocks are running low.",
+      "why": "The Gulf's biggest economy is now the front line, on the day it unveils its 2027 budget."
+    },
+    {
+      "fact": "Berlin said it is taking seriously Western intelligence reports, first published by German media including Süddeutsche Zeitung, that Russia is preparing to launch a satellite that could carry a nuclear warhead. Moscow denies it; such a launch would break the 1967 Outer Space Treaty. It comes a week after Putin committed to nuclear non-proliferation talks with the US and Chinese leaders, and two months after the US confirmed it has weapons in space.",
+      "opinion": [
+        {
+          "text": "Moscow would likely point to Trump's Golden Dome and the US admission of space weapons to justify any launch.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor: Fears of Russia space nuclear launch",
+          "u": "https://semafor.com/s/mb0y46z67c"
+        },
+        {
+          "t": "The Independent: Russia satellite nuclear weapon",
+          "u": "https://www.independent.co.uk/news/world/europe/russia-satellite-nuclear-weapon-space-b3089665.html"
+        }
+      ],
+      "title": "Germany takes seriously reports that Russia plans to put a nuclear-capable weapon in orbit before year-end",
+      "why": "One blast in orbit could knock out GPS, banking and communications satellites."
+    },
+    {
+      "claude": "Bern followed the EU line here, which it usually does on sanctions. Losing the Pyongyang office would cost Switzerland one of its rare roles as a go-between, so watch whether it seeks a quiet compromise.",
+      "fact": "North Korea's state agency KCNA said Pyongyang may shut the recently opened Swiss diplomatic office after Switzerland sanctioned the Songdowon International Children's Camp, where, according to the EU, Russia sends Ukrainian children it has deported.",
+      "opinion": [
+        {
+          "text": "This is the neutrality dilemma in miniature: defending basic values versus staying a good-faith channel to regimes like North Korea; the referendum kept the status quo, leaving the Federal Council to weigh each case.",
+          "who": "International Intrigue"
+        }
+      ],
+      "src": [
+        {
+          "t": "Reuters: North Korea may shut Swiss office in Pyongyang, KCNA says",
+          "u": "https://www.reuters.com/world/asia-pacific/north-korea-consider-shutting-down-swiss-diplomatic-office-pyongyang-kcna-says-2026-11-23/"
+        },
+        {
+          "t": "International Intrigue: Huang in there",
+          "u": "https://archives.internationalintrigue.io/p/f-3433"
+        }
+      ],
+      "title": "North Korea threatens to close Switzerland's new office in Pyongyang over Swiss sanctions on a children's camp",
+      "why": "A test of how Swiss neutrality works after this year's referendum."
+    },
+    {
+      "claude": "Both forces run at once: supply fear is fading while the US-Iran blockade is still in place. A real ceasefire would test the glut forecast fast.",
+      "fact": "Brent fell below $90 a barrel, near a three-month low and down from about $92.6 at Friday's close, as traders read conditions in the Strait of Hormuz as calm. Saudi Arabia, the Houthis' main target, needs high prices for its spending plans.",
+      "opinion": [
+        {
+          "text": "The war has acted like a dam on Middle Eastern output; when it lifts, the race to win back market share could unleash a flood of supply.",
+          "who": "JPMorgan's head of commodities strategy"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor: Oil nears three-month low",
+          "u": "https://semafor.com/s/why4809ip7"
+        },
+        {
+          "t": "finanzen.net: Brent price",
+          "u": "https://www.finanzen.net/rohstoffe/oelpreis"
+        }
+      ],
+      "title": "Oil slides toward a three-month low as JPMorgan warns of a supply flood once the Gulf war ends",
+      "why": "Cheaper oil eases inflation, but squeezes Gulf budgets just as the bills for war rise."
+    }
+  ]
+}
