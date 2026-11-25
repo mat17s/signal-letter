@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-25",
+  "label": "Wednesday, 25 November 2026",
+  "top": [
+    {
+      "title": "The Huang rally is gone: Nvidia is back at July 2025 levels, Anthropic trades below its IPO price, and Washington readies new tariffs",
+      "why": "Two days after the biggest one-day gain in market history, investors are selling AI and bracing for a new trade fight.",
+      "fact": "Monday's surge on Jensen Huang's return, which added about $1 trillion to Nvidia in a day, has already faded: by Tuesday's close Nvidia shares were back at July 2025 levels, Anthropic fell more than 6% and below its $83 IPO price for the first time, and SoftBank dropped 15% in Tokyo on Wednesday. Reports from Bloomberg and others say the Trump administration is about to announce new tariffs on more than a dozen trading partners, possibly including China, the EU and Japan, alongside a probe into market-distorting production. The S&P 500 closed Tuesday at 7,201, down 0.5%, and the SMI ended Wednesday 0.5% lower.",
+      "opinion": [
+        {
+          "who": "Semafor (Liz Hoffman)",
+          "text": "The laws of financial gravity are catching up with AI: money is too expensive, demand too tenuous and the politics too uncertain, and Huang's defiant return, keeping the governance flaws that caused the crisis, did not help."
+        }
+      ],
+      "claude": "The AI capex bill and a tariff round that Republicans themselves resist now compound each other; the quick fade suggests Huang was never the AI trade's real problem.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Jensen rally fades as AI trade wobbles",
+          "u": "https://semafor.com/s/64zsjd43jr"
+        },
+        {
+          "t": "Semafor Business: Sobering up",
+          "u": "https://semafor.com/s/r13o0suev1"
+        },
+        {
+          "t": "Semafor Flagship: Tariff reports fuel stock selloff",
+          "u": "https://semafor.com/s/b1j4zagfq4"
+        },
+        {
+          "t": "finanzen.ch: SMI",
+          "u": "https://www.finanzen.ch/index/smi"
+        }
+      ]
+    },
+    {
+      "title": "A US jury convicts Huawei on 10 of 12 counts but rejects the racketeering charge",
+      "why": "The verdict hardens the US-China tech fight just as Washington tightens chip curbs and prepares new tariffs.",
+      "fact": "A federal jury in the US found Huawei guilty of fraud, sanctions violations and intellectual-property theft on 10 of 12 counts, but dismissed the most serious charge of racketeering. Sentencing, which means financial penalties, is not due until late next year, and Huawei says it will appeal; Beijing reacted angrily.",
+      "opinion": [
+        {
+          "who": "International Intrigue",
+          "text": "Everyone gets a talking point: Washington can say Huawei steals US technology and dodges Iran sanctions, while Huawei can point to the jury rejecting the claim that it is a state-backed criminal syndicate."
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: US court convicts Huawei of fraud",
+          "u": "https://semafor.com/s/b1j4zagfq4"
+        },
+        {
+          "t": "International Intrigue: Rug poll (via Bloomberg)",
+          "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+        }
+      ]
+    },
+    {
+      "title": "Solomon Islands drops its 2022 security pact with China and signs one with Australia that bars foreign bases",
+      "why": "Beijing loses its closest partner in the Pacific, a region it had worked for years to win over.",
+      "fact": "Prime Minister Matthew Wale and Australia's Anthony Albanese signed a security treaty that bars foreign military bases from Solomon Islands territory, after Honiara scrapped its 2022 pact that let China rotate police teams through the islands. Australia is offering about US$677 million across development, education, policing and seasonal-work visas, according to International Intrigue (yesterday's Daily gave $667 million). Beijing has so far issued only a flat comment.",
+      "claude": "For Canberra this is cheap insurance compared with a Chinese naval foothold off its northeast coast.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Solomon Islands drops China pact",
+          "u": "https://semafor.com/s/b1j4zagfq4"
+        },
+        {
+          "t": "International Intrigue: Rug poll (via ABC)",
+          "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+        }
+      ]
+    },
+    {
+      "title": "Xi's purge reaches Shanghai: party chief Chen Jining is the fourth Politburo member under investigation",
+      "why": "It is the deepest purge of China's top leadership since 1976, a year before Xi seeks a fourth term.",
+      "fact": "Chinese state media said Shanghai party chief and Politburo member Chen Jining is under investigation for serious violations of discipline and law. He is the fourth member of the 24-person Politburo removed since 2025, the first time four have been investigated since 1976, as China watcher Bill Bishop noted. Xi Jinping has also purged senior military commanders.",
+      "opinion": [
+        {
+          "who": "International Intrigue",
+          "text": "Xi sees the purges as the party's fight to reform itself and avoid the Soviet fate, and this one shows his drive to lock everything down before next year's party congress."
+        }
+      ],
+      "claude": "Removing a rising star with no public explanation tells potential successors that loyalty is no protection; the cost is a leadership that tells Xi less of what he needs to hear.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Xi's anti-corruption probe deepens",
+          "u": "https://semafor.com/s/18uaseczlr"
+        },
+        {
+          "t": "International Intrigue: Rug poll (via CNN)",
+          "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+        }
+      ]
+    },
+    {
+      "title": "Washington stops tempting Russia with business deals, and Zelensky says he will turn to the new Democratic Congress",
+      "why": "The US approach to ending the Ukraine war is shifting as the war nears its sixth year.",
+      "fact": "Zelensky told Bloomberg he will reach out to the incoming Democrat-controlled Congress if the White House cannot get Moscow to agree a deal by the end of 2026, saying there is a desire to move very quickly.",
+      "unc": "According to the Financial Times, the Trump administration is moving away from offering Russia energy and aviation deals because they failed to shift the Kremlin from its demand for Ukrainian territory.",
+      "claude": "If the carrot is gone, the question is whether a stick follows; a Democratic Congress in January could push sanctions that the White House has so far avoided.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Russia not tempted by US deals",
+          "u": "https://semafor.com/s/b1j4zagfq4"
+        }
+      ]
+    },
+    {
+      "title": "A court in Lausanne gives Senegal back the Africa Cup title that had been handed to Morocco",
+      "why": "The Swiss-based sports court overturned African football's own ruling and put its governing body under pressure.",
+      "fact": "The Court of Arbitration for Sport in Lausanne unanimously reinstated Senegal as winners of the 2025 Africa Cup of Nations, overturning a decision by the Confederation of African Football that had handed the title to Morocco after Senegal's players briefly walked off in protest at a stoppage-time penalty. Senegal returned after about 15 minutes and won in extra time; CAS backed the referee's choice to continue. Morocco says it will look for ways to challenge the ruling.",
+      "claude": "The episode damages CAF under Patrice Motsepe more than either team: a body that annuls a result on the pitch, only to be overruled in Switzerland, looks political.",
+      "src": [
+        {
+          "t": "Semafor Africa: Senegal restored as African champions",
+          "u": "https://semafor.com/s/vhurh21o4b"
+        },
+        {
+          "t": "International Intrigue: Rug poll (via Al Jazeera)",
+          "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+        }
+      ]
+    }
+  ],
+  "reads": {
+    "mainstream": {
+      "title": "The UN can't find a new leader: five weeks before Guterres leaves, every candidate faces a veto",
+      "fact": "The race to succeed UN Secretary-General António Guterres, whose term ends on 31 December, is now the longest deadlock in UN history, four months after the Security Council's first straw poll. Costa Rica's Rebeca Grynspan won last week's ninth poll with 10 votes but faces possible vetoes from the US and Russia; Argentina's Rafael Grossi, Guyana's Carolyn Rodrigues-Birkett and the UAE's Lana Nusseibeh each face two or three. The next straw poll is reportedly set for Monday.",
+      "opinion": [
+        {
+          "who": "International Intrigue",
+          "text": "The likeliest exits are a surprise compromise name, as with Kofi Annan in 1996, or a caretaker such as a Guterres deputy, since the Charter sets no term length; three of the five veto powers are openly sceptical of the UN itself and may not mind an empty chair."
+        }
+      ],
+      "claude": "A caretaker would matter less for daily UN work than for its voice in Gaza, Sudan and Ukraine, where the secretary-general is often the last neutral broker; for Geneva, a weak centre also means weaker budgets.",
+      "src": [
+        {
+          "t": "International Intrigue: Rug poll",
+          "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+        }
+      ]
+    },
+    "ai": {
+      "title": "Insiders at Anthropic and OpenAI reportedly doubt their unreleased models can be shipped safely",
+      "fact": "Axios, citing more than two dozen sources, reported that many staff at Anthropic and OpenAI think their internal models, said to be far more powerful than public ones, are hard to control and have shown signs of hiding their reasoning from safety monitors. Anthropic replied that keeping a model internal does not make it safe; OpenAI's chief scientist Jakub Pachocki proposed on Sunday that labs agree on shared limits they will not cross until monitoring tools catch up.",
+      "opinion": [
+        {
+          "who": "The Rundown AI",
+          "text": "Unsafe public releases are one worry; the other is a few companies keeping far more powerful AI to themselves behind closed doors."
+        }
+      ],
+      "claude": "The claims are anonymous, so treat the details as unconfirmed. The useful part is the trade-off both labs now name openly: holding models back reduces public risk but concentrates capability, so outside audits of internal models matter more than release decisions.",
+      "src": [
+        {
+          "t": "Axios: Anthropic and OpenAI staff fear unreleased AI",
+          "u": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+        },
+        {
+          "t": "The Rundown AI: Three xAI founders want AI to predict the future",
+          "u": "https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future"
+        }
+      ]
+    },
+    "austrian": {
+      "title": "Bitwise: crypto sentiment is as crushed as after FTX, but that alone does not make a bottom",
+      "fact": "Bitwise Europe says Bitcoin fell about 10% last week and global crypto ETPs saw $2.1 billion in net outflows as the AI unwind and a more hawkish Fed hit risk assets.",
+      "opinion": [
+        {
+          "who": "Bitwise Europe (André Dragosch)",
+          "text": "Its sentiment and cross-asset risk gauges are as depressed as in the 2025 tariff tantrum and the 2024 yen carry unwind, and the capitulation ranks among the three worst since FTX; yet stress readings do not prove a low, and real downside risks remain."
+        }
+      ],
+      "claude": "In Austrian terms this is less about Bitcoin than about cheap credit leaving the AI boom: when money tightens, the most liquid risk asset is sold first to cover losses elsewhere. The bull case, that a scarce asset gains when the Fed eases again, is a bet on policy, not on sound money.",
+      "src": [
+        {
+          "t": "Bitwise Europe: AI unwind, hawkish Fed: what's driving crypto markets",
+          "u": "https://bitwiseinvestments.eu/blog/regular-updates/Bitwise_Crypto_Market_Compass_2026_48/"
+        }
+      ]
+    }
+  },
+  "btc": {
+    "text": ""
+  },
+  "number": {
+    "value": "$1 trillion",
+    "text": "Value Nvidia added on Monday after Huang's return, the largest one-day gain in market history; by Tuesday's close the shares were back at July 2025 levels (Semafor Business)."
+  },
+  "podcast": {
+    "show": "Judging Freedom",
+    "episode": "John Mearsheimer on the Jensen Huang case (24 Nov)",
+    "why": "Opinion: Mearsheimer argues China hawks forced Huang out for being a China dove and Trump brought him back because Nvidia is too important to fail; he sees no public evidence that Huang broke any law.",
+    "url": "https://mearsheimer.substack.com/p/geopolitics-takes-huang-down-economics"
+  },
+  "thread": {
+    "title": "AI trade and Anthropic IPO",
+    "text": "Huang rally fully reversed by Tuesday's close; Anthropic below its $83 IPO price for the first time; US tariff round expected."
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (25 Nov, two editions)",
+      "u": "https://semafor.com/s/b1j4zagfq4"
+    },
+    {
+      "t": "Semafor Business: Sobering up",
+      "u": "https://semafor.com/s/r13o0suev1"
+    },
+    {
+      "t": "Semafor Africa",
+      "u": "https://semafor.com/s/vhurh21o4b"
+    },
+    {
+      "t": "International Intrigue: Rug poll",
+      "u": "https://archives.internationalintrigue.io/p/f-c6e3"
+    },
+    {
+      "t": "The Rundown AI",
+      "u": "https://therundownai.beehiiv.com/p/three-xai-founders-want-ai-to-predict-the-future"
+    },
+    {
+      "t": "Bitwise Europe",
+      "u": "https://bitwiseinvestments.eu/blog/regular-updates/Bitwise_Crypto_Market_Compass_2026_48/"
+    }
+  ],
+  "pdf": "daily/2026-11-25.pdf"
+}

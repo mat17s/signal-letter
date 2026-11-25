@@ -1,87 +1,87 @@
 {
-  "asOf": "2026-11-24T17:45:00Z",
+  "asOf": "2026-11-25T17:24:00Z",
   "intraday": true,
   "items": [
     {
       "ccy": "pts",
-      "d1": 4.73,
+      "d1": -0.5,
       "key": "SPX",
       "name": "S&P 500",
-      "price": 7237.17,
-      "w1": 4.73
+      "price": 7201.09,
+      "w1": 4.21
     },
     {
       "ccy": "pts",
-      "d1": -2.11,
+      "d1": -1.48,
       "key": "NDQ",
       "name": "Nasdaq",
-      "price": 23582.46,
-      "w1": 4.27
+      "price": 23733.54,
+      "w1": 4.93
     },
     {
       "ccy": "pts",
-      "d1": 3.01,
+      "d1": 0.85,
       "key": "DJI",
       "name": "Dow Jones",
-      "price": 49595.31,
-      "w1": 3.01
+      "price": 50018.7,
+      "w1": 3.89
     },
     {
       "ccy": "pts",
-      "d1": -0.01,
+      "d1": -0.47,
       "key": "SMI",
       "name": "SMI",
-      "price": 14733.89,
-      "w1": 1.11
+      "price": 14664.92,
+      "w1": 0.64
     },
     {
       "ccy": "USD",
-      "d1": -2.08,
+      "d1": -0.92,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 59884,
-      "w1": -7.65
+      "price": 59150,
+      "w1": -8.85
     },
     {
       "ccy": "USD",
-      "d1": -0.7,
+      "d1": -0.08,
       "key": "XAU",
       "name": "Gold",
-      "price": 3626,
-      "w1": 3.15
+      "price": 3558.9,
+      "w1": 1.24
     },
     {
       "ccy": "USD",
-      "d1": -2.97,
+      "d1": -3.63,
       "key": "BRENT",
       "name": "Brent",
-      "price": 86.72,
-      "w1": -6.32
+      "price": 88.08,
+      "w1": -4.85
     },
     {
-      "d1bp": 1,
+      "d1bp": -1,
       "key": "US10Y",
       "name": "US 10-year",
-      "price": 4.92,
+      "price": 4.9,
       "unit": "%",
-      "w1bp": 1
+      "w1bp": -1
     },
     {
       "ccy": "",
-      "d1": 0.04,
+      "d1": -0.4,
       "key": "EURCHF",
       "name": "EUR/CHF",
-      "price": 0.918,
-      "w1": -0.86
+      "price": 0.9126,
+      "w1": -1.44
     },
     {
       "ccy": "",
-      "d1": -0.05,
+      "d1": -0.8,
       "key": "USDCHF",
       "name": "USD/CHF",
-      "price": 0.8414,
-      "w1": -0.32
+      "price": 0.829,
+      "w1": -1.79
     }
   ],
-  "label": "Tue 24 Nov, 18:45 · intraday (S&P/Dow: Mon close; gold, Brent: 12:07)"
+  "label": "Wed 25 Nov, 18:24 · SMI close, Bitcoin and FX live; US indices Tue close; gold, Brent, 10Y from 12:08"
 }
