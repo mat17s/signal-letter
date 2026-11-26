@@ -69,12 +69,16 @@
       {
         "date": "2026-11-25",
         "text": "Huang rally fully reversed by Tuesday's close; Anthropic below its $83 IPO price for the first time; SoftBank -15%; US tariff round expected."
+      },
+      {
+        "date": "2026-11-26",
+        "text": "The selloff reached credit: Nvidia CDS at a record, CoreWeave swaps imply over 70% default odds, S&P weighs an Nvidia downgrade; Huang hearings from 3 December."
       }
     ],
     "region": "Markets",
     "status": "active",
     "title": "AI trade and Anthropic IPO",
-    "updated": "2026-11-25",
+    "updated": "2026-11-26",
     "id": "ai-trade"
   },
   {

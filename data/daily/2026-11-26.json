@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-26",
+  "label": "Thursday, 26 November 2026",
+  "top": [
+    {
+      "title": "Washington's new tariffs hit China, Japan, India and the EU from January, and even allies call them unfair",
+      "why": "The duties are built to last longer than earlier rounds and keep goods inflation firm into 2027.",
+      "fact": "The White House on Wednesday announced new tariffs on major trading partners including China, Japan, India and the EU, after a government investigation into industrial overcapacity; they take effect in January. Beijing, New Delhi and Brussels rejected the overcapacity charge, and US partners from Southeast Asia to Europe argued on Thursday that the duties punish countries already hit hardest by China's surplus output.",
+      "opinion": [
+        {
+          "who": "Capital Economics",
+          "text": "The order should keep core goods inflation firm into 2027 and, being legally sturdier than earlier duties, could last for years."
+        }
+      ],
+      "claude": "The legal design matters more than the rates: duties built on an overcapacity finding are harder to unwind in court, which makes them a lasting cost rather than a bargaining chip.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Trump unveils new tariffs",
+          "u": "https://semafor.com/s/2re5lxazki"
+        },
+        {
+          "t": "Semafor Flagship: Trump tariffs face criticism",
+          "u": "https://semafor.com/s/1r06e1lbh1"
+        },
+        {
+          "t": "Capital Economics via Semafor",
+          "u": "https://semafor.com/s/ccsibgx8sq"
+        }
+      ]
+    },
+    {
+      "title": "Bond markets turn on the AI trade: Nvidia's default insurance hits a record and S&P weighs a downgrade",
+      "why": "The selloff has moved from shares to credit, where it is harder to reverse.",
+      "fact": "Credit default swaps on Nvidia, Alphabet, Oracle and SpaceX hit record highs on Wednesday as the tech selloff extended, and swaps on CoreWeave's debt priced a more than 70% chance of default within five years. S&P Global Ratings is considering cutting Nvidia's rating. US officials told congressional staff that Jensen Huang's relationship with Megaspeed executive Alice Huang appears to have been romantic rather than a Beijing operation (Wall Street Journal); hearings start on 3 December.",
+      "opinion": [
+        {
+          "who": "Liz Hoffman, Semafor",
+          "text": "Monday's $1 trillion rally will be remembered as a reverse Groundhog Day: a day investors immediately forget once they sober up."
+        }
+      ],
+      "claude": "Equity can bounce on a CEO's return; credit prices the balance sheets behind the AI build-out. The question is shifting from how high AI shares go to who funds the next round of capex.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Nvidia rally fizzles on AI fears",
+          "u": "https://semafor.com/s/1dtmx1mhza"
+        },
+        {
+          "t": "Semafor Flagship: Jensen affair was actually amorous",
+          "u": "https://semafor.com/s/diokvipljg"
+        },
+        {
+          "t": "S&P weighs Nvidia rating cut, via Semafor",
+          "u": "https://semafor.com/s/ykk4ad8zt6"
+        },
+        {
+          "t": "The Rundown AI: Your AI cheat sheet for Thanksgiving dinner",
+          "u": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner"
+        }
+      ]
+    },
+    {
+      "title": "US growth of 4.3% all but locks in a December Fed hike, and South Korea raises rates to a two-year high",
+      "why": "Inflation from the Iran war and tariffs is now pushing central banks on three continents to tighten at once.",
+      "fact": "The US economy grew at an annualised 4.3% in the third quarter with inflation still elevated. On Thursday the Bank of Korea raised its policy rate to the highest level in more than two years, joining other Asian central banks fighting energy-driven inflation, while a gauge of Japanese service-sector inflation hit a 36-year high this month and the Bank of Japan is widely expected to hike again.",
+      "opinion": [
+        {
+          "who": "ING",
+          "text": "Strong growth and inflation that is too high for comfort point to a Fed hike in December; the tech selloff may only start cooling the economy in 2027."
+        }
+      ],
+      "claude": "The US 10-year yield has fallen even as the hike case firmed, because money is fleeing stocks for bonds; that bid can hide how tight policy is getting.",
+      "src": [
+        {
+          "t": "Semafor Flagship: US growth surge points to Fed hike",
+          "u": "https://semafor.com/s/te0dwdom9p"
+        },
+        {
+          "t": "Semafor Flagship: S. Korea raises interest rates",
+          "u": "https://semafor.com/s/b0fw9bnfg0"
+        },
+        {
+          "t": "Japan services inflation, via Semafor",
+          "u": "https://semafor.com/s/nvyjwzvrno"
+        }
+      ]
+    },
+    {
+      "title": "A US-led group, including a government agency, agrees to buy Lukoil's foreign assets for $10 billion",
+      "why": "The deal would put Russian oil assets in 11 countries under American control while Ukraine talks stall.",
+      "fact": "A US-led consortium that includes Washington's development finance agency agreed to buy Russian energy company Lukoil's international operations in 11 countries for about $10 billion. The final deal excludes business partners of the White House's Russia-Ukraine envoys who had earlier been reported as involved. Democrats in Congress called for an investigation and for the government to withdraw.",
+      "opinion": [
+        {
+          "who": "The executive leading the deal",
+          "text": "Taking over the assets limits Russia's ability to finance its war in Ukraine."
+        }
+      ],
+      "claude": "Both can be true: the assets leave Russian hands, but $10 billion still flows to a Russian company. How the money is paid, and whether it is frozen, decides which effect wins.",
+      "src": [
+        {
+          "t": "Semafor Flagship: US group to buy Lukoil assets",
+          "u": "https://semafor.com/s/2owy4lrbsa"
+        },
+        {
+          "t": "Democrats call for probe, via Semafor",
+          "u": "https://semafor.com/s/fxxx0brjsg"
+        }
+      ]
+    },
+    {
+      "title": "Judges urge prosecutors to drop the gravest charge against Netanyahu as his rivals move closer to a government",
+      "why": "Israel's longest-serving leader gets legal relief just as his political exit becomes more likely.",
+      "fact": "Judges in Benjamin Netanyahu's six-year corruption trial recommended that prosecutors drop the most serious charge; Netanyahu called it a ray of truth and justice. At the same time the opposition secured its first coalition partner, and lawmakers advanced an amendment that would bar Netanyahu from returning to government.",
+      "opinion": [
+        {
+          "who": "The Economist's Israel correspondent",
+          "text": "It is absurd for a country with so many urgent problems to be obsessed with one man's survival; Israel needs to move on."
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Netanyahu gets corruption trial boost",
+          "u": "https://semafor.com/s/xd7penl5lx"
+        },
+        {
+          "t": "Opposition coalition partner, via Semafor",
+          "u": "https://semafor.com/s/ffsxs42m2m"
+        }
+      ]
+    },
+    {
+      "title": "Europe's money squeeze: Germany says it can no longer pay for everything as French debt hits a post-war high",
+      "why": "Ageing, slow growth and new defence bills are colliding with rising borrowing costs across the EU.",
+      "fact": "Germany's chancellor told lawmakers on Wednesday that the country no longer has the money for everything, which Die Welt read as a signal of austerity. French public debt has reached 119% of GDP, the highest since 1946, and thousands of students protested in Greece for more education spending. S&P warned that elections in several countries next year put borrowing and ratings at risk.",
+      "opinion": [
+        {
+          "who": "Martin Wolf, Financial Times",
+          "text": "France's shaky finances make it more reliant on the EU than ever, so a Eurosceptic right in power may end up strengthening the bloc."
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Upheaval in Germany and Greece",
+          "u": "https://semafor.com/s/z6ww7zp433"
+        },
+        {
+          "t": "Semafor Flagship: France crisis could deepen EU ties",
+          "u": "https://semafor.com/s/xhkezp9yus"
+        }
+      ]
+    }
+  ],
+  "reads": {
+    "mainstream": {
+      "title": "The Gulf war settles into a frozen conflict that officials expect to last into 2027",
+      "fact": "Tit-for-tat strikes between Saudi Arabia and Yemen's Houthis are now the main source of violence, including an attack on Riyadh's financial district that injured eleven, while Iranian strikes are mostly confined to ships in the Strait of Hormuz. A Saudi visit to Tehran won no relief, and officials in Washington and the Gulf expect the conflict to drag on through 2027, The Economist reported; the Saudi 2027 budget raises military spending by only 3%.",
+      "opinion": [
+        {
+          "who": "Semafor Gulf",
+          "text": "A frozen conflict will strain Gulf economies, but beats the intense fighting of March."
+        }
+      ],
+      "claude": "A budget that assumes peace during a war expected to last two more years is a bet that oil revenue holds up.",
+      "src": [
+        {
+          "t": "Semafor Gulf: Iran's '32nd province'",
+          "u": "https://semafor.com/s/ke2ziicce5"
+        },
+        {
+          "t": "The Economist on a war through 2027, via Semafor",
+          "u": "https://semafor.com/s/gjao2lor58"
+        },
+        {
+          "t": "Semafor Flagship: Saudi prepares peacetime budget",
+          "u": "https://semafor.com/s/eudoynl67a"
+        }
+      ]
+    },
+    "ai": {
+      "title": "AI labs claim a wave of maths and biology results, and the people who must check them are falling behind",
+      "fact": "Anthropic and OpenAI separately said their models solved a long-open mathematics problem, days after Anthropic researcher Levent Alpöge said he and Claude had proved the Riemann hypothesis. OpenAI also published research showing its GPT-6-class models can design new proteins, and a 16-year-old researcher says she solved more than 100 open conjectures with GPT-6.2, proofs not yet verified.",
+      "opinion": [
+        {
+          "who": "A pharmaceutical executive chair, Financial Times",
+          "text": "Drug development is too complex for AI alone to transform it."
+        }
+      ],
+      "claude": "I am the model behind one of these claims, so the fair standard is the mathematicians' one: a proof counts once others have checked it. The bottleneck is moving from finding results to verifying them; until a Riemann proof survives review, it is a claim.",
+      "src": [
+        {
+          "t": "The Rundown AI: Your AI cheat sheet for Thanksgiving dinner",
+          "u": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner"
+        },
+        {
+          "t": "Semafor Flagship: AI advances in math, medicine",
+          "u": "https://semafor.com/s/t8pfn3fjby"
+        },
+        {
+          "t": "OpenAI: GPT-6 models demonstrate intrinsic protein design",
+          "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+        }
+      ]
+    },
+    "austrian": {
+      "title": "Supercycle Theory: the whole world is now as strained as in 1941, through debt and ageing rather than war",
+      "fact": "Walker America's index scores government debt, interest costs, top-1% income share, democratic erosion and war for the US, the EU's big five, China and eight emerging markets back to 1900. The world reading reached 52 in 2025, against a 1941 peak of 53 (about 45 if the US is held at its 2024 level). Since 2007 China's government debt rose from 29% to 99% of GDP and US federal debt from 65% to 124%.",
+      "opinion": [
+        {
+          "who": "Walker America, Supercycle Theory",
+          "text": "The regions are synchronising through balance sheets and birth rates, pressures that past eras relieved by war, inflation or default."
+        }
+      ],
+      "claude": "The Austrian point holds: debt piled up under cheap money leaves states choosing between austerity, inflation and default. But a composite index depends on its weights, and the 2025 jump rests on two debatable US codings; the step to 1941-style danger is an argument, not a measurement.",
+      "src": [
+        {
+          "t": "Supercycle Theory: Not Just America",
+          "u": "https://supercycletheory.substack.com/p/not-just-america"
+        }
+      ]
+    }
+  },
+  "btc": {
+    "text": ""
+  },
+  "number": {
+    "value": "4.3%",
+    "text": "Annualised US growth in the third quarter, strong enough with sticky inflation to point to a Fed hike in December (Semafor Flagship, citing ING)."
+  },
+  "podcast": {
+    "show": "Semafor Future Proof",
+    "episode": "ASML CEO Christophe Fouquet on selling chips to China (this week)",
+    "why": "ASML's chief argues that tighter export controls could push China to double down on its own chip tools, the week Dutch lawmakers push back on US curbs.",
+    "url": "https://semafor.com/s/gtlyoh4bu6"
+  },
+  "thread": {
+    "title": "AI trade and Anthropic IPO",
+    "text": "The selloff reached credit: Nvidia CDS at a record, CoreWeave swaps imply over 70% default odds, S&P weighs an Nvidia downgrade; Huang hearings from 3 December."
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (26 Nov, two editions)",
+      "u": "https://semafor.com/s/pd0h47d36y"
+    },
+    {
+      "t": "Semafor Gulf (26 Nov)",
+      "u": "https://semafor.com/s/ke2ziicce5"
+    },
+    {
+      "t": "The Rundown AI (26 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner"
+    },
+    {
+      "t": "Supercycle Theory: Not Just America",
+      "u": "https://supercycletheory.substack.com/p/not-just-america"
+    }
+  ],
+  "pdf": "daily/2026-11-26.pdf"
+}
