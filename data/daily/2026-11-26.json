@@ -253,5 +253,16 @@
       "u": "https://supercycletheory.substack.com/p/not-just-america"
     }
   ],
-  "pdf": "daily/2026-11-26.pdf"
+  "pdf": "daily/2026-11-26.pdf",
+  "glance": {
+    "top": [
+      "New US tariffs on China, Japan, India and the EU start in January.",
+      "The AI selloff hits credit: Nvidia default insurance at a record, S&P weighs a downgrade.",
+      "US grew 4.3% in Q3, pointing to a December Fed hike; South Korea raises rates.",
+      "A US-led group, including a government agency, buys Lukoil's foreign assets for $10 billion.",
+      "Judges urge dropping Netanyahu's gravest charge as his rivals near a coalition.",
+      "Germany says it can't pay for everything; French debt hits a post-war high."
+    ],
+    "markets": "SMI 14,795 (+0.9%) · S&P 500 7,183 (−0.3%, Wed close) · EUR/CHF 0.915 (−0.1%)"
+  }
 }
