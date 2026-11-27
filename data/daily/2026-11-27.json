@@ -1,0 +1,248 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-27",
+  "glance": {
+    "markets": "SMI 14,868 (+0.3%) · S&P 500 7,183 (−0.3%, Wed close) · EUR/CHF 0.916 (+0.5%) · as of 12:08",
+    "top": [
+      "Iran tightens rationing and cuts subsidies at home while attacks across the Gulf turn deadlier.",
+      "Pablo Hernández de Cos will succeed Lagarde as ECB president in February.",
+      "Spain votes Sunday; polls point to a PP government that needs Vox.",
+      "China's factory profits grow fastest since May on AI-driven chip demand.",
+      "Argentina's Congress moves to bar the central bank from printing money for the Treasury.",
+      "A $40-a-year generic HIV-prevention shot starts shipping across Africa."
+    ]
+  },
+  "label": "Friday, 27 November 2026",
+  "number": {
+    "text": "Estimated yearly price of the generic HIV-prevention drug lenacapavir now shipping to Africa, against about $28,000 for the original in the US (BBC via Semafor).",
+    "value": "$40"
+  },
+  "pdf": "daily/2026-11-27.pdf",
+  "podcast": {
+    "episode": "#249 Von der Ostsee bis Libyen: Russlands Schiffe im Visier (23 Nov)",
+    "show": "Grassl & Matei",
+    "url": "https://podcasters.spotify.com/pod/show/grassl--matei/episodes/Von-der-Ostsee-bis-Libyen-Russlands-Schiffe-im-Visier--Grassl--Matei-249-e3ss5ac",
+    "why": "A German geopolitics pair on the drone attacks on Russian ships from Kaliningrad and the Baltic to Libya, and whether cheap drones now favour the attacker at sea."
+  },
+  "reads": {
+    "ai": {
+      "claude": "I have a stake here: anti-distillation safeguards protect models like me from being copied. The likely effect is fewer strong open-weight models for developers everywhere, and a stronger push in China for home-grown chips, so the lead it buys may be shorter than it looks.",
+      "fact": "Zhipu AI's planned November flagship, GLM-5.5, has been held up partly by tighter anti-distillation safeguards at OpenAI and Anthropic, and Moonshot's next Kimi model may slip to mid-2027 after a new US rule limited Chinese access to compute in overseas data centres, Reuters reported, citing multiple sources. Nvidia has frozen orders from buyers in Malaysia, Singapore, Thailand and Indonesia, countries that had given Chinese hyperscalers legal access to its chips, as Washington tightens export controls.",
+      "opinion": [
+        {
+          "text": "The crackdown has suddenly put America in the driver's seat of the superpower tech race.",
+          "who": "The Wall Street Journal"
+        }
+      ],
+      "src": [
+        {
+          "t": "The Rundown AI: AI takes a swing at physics' biggest puzzle",
+          "u": "https://therundownai.beehiiv.com/p/ai-takes-a-swing-at-physics-biggest-puzzle"
+        },
+        {
+          "t": "Reuters: US chip curbs and distillation crackdown threaten Chinese AI models",
+          "u": "http://reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+        },
+        {
+          "t": "Semafor Flagship: Nvidia halts SE Asia shipments",
+          "u": "https://semafor.com/s/f70e17bm8a"
+        }
+      ],
+      "title": "US chip and distillation curbs are slowing China's best AI labs"
+    },
+    "austrian": {
+      "claude": "The first half is textbook Austrian: rates as a signal that exposes malinvestment. The second half is not: betting that central banks will rescue the boom is the cheap-money reflex the school warns against, and if they do, the misallocation just grows.",
+      "fact": "An average hyperscale data centre costs about $2.5 billion, more than $1.5 billion of it chips, and uses as much power as a city of half a million people; about 900 are under construction. Hyperscalers now borrow to fund capex of about $1 trillion this year, neoclouds pay double-digit rates on some bonds, and Goldman Sachs estimates only half of planned projects will finish on time.",
+      "opinion": [
+        {
+          "text": "Interest is the price of money: unlike in China's 2008–2020 building boom, rising rates now stop capital from flowing into ghost towns. Demand is intact; once inflation eases, liquidity will return and markets will rally.",
+          "who": "BlingBling"
+        }
+      ],
+      "src": [
+        {
+          "t": "BlingBling: Bauen wir die Geisterstädte der KI?",
+          "u": "https://blingbling.substack.com/p/bauen-wir-die-geisterstadte-der-ki"
+        }
+      ],
+      "title": "BlingBling: rising interest rates are doing their job, stopping AI from building ghost towns"
+    },
+    "mainstream": {
+      "claude": "This is what a blockade costs a trade hub: not an empty port, but a slower, deadlier and pricier route that stays open. The longer the war lasts, the more the UAE will invest in permanent bypasses.",
+      "fact": "With the Strait of Hormuz effectively blocked, cargo that used to arrive at Jebel Ali now lands at Fujairah and Khor Fakkan on the Gulf of Oman and crosses the country by road. Trucks queue up to 12 hours at those ports, against a 27-minute turnaround at Jebel Ali, and a truck carries 25 tons where a ship carries 50,000. After a truck–bus crash in Ras Al Khaimah killed 13, two weeks after another deadly crash, the UAE launched a safety campaign; from January, drivers' shifts will be capped at nine hours.",
+      "src": [
+        {
+          "t": "Semafor Gulf: Overland trade boom proves perilous",
+          "u": "https://semafor.com/s/zr5ro1uwhm"
+        },
+        {
+          "t": "Semafor Gulf: UAE driver shift cap",
+          "u": "https://semafor.com/s/3ostd0r651"
+        }
+      ],
+      "title": "With Hormuz shut, the UAE moves its imports by truck, and the roads are paying the price"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (27 Nov, two editions)",
+      "u": "https://semafor.com/s/t9plh4hpyx"
+    },
+    {
+      "t": "Semafor Gulf (27 Nov)",
+      "u": "https://semafor.com/s/bezikd79b7"
+    },
+    {
+      "t": "The Rundown AI (27 Nov)",
+      "u": "https://therundownai.beehiiv.com/p/ai-takes-a-swing-at-physics-biggest-puzzle"
+    },
+    {
+      "t": "BlingBling: Bauen wir die Geisterstädte der KI?",
+      "u": "https://blingbling.substack.com/p/bauen-wir-die-geisterstadte-der-ki"
+    }
+  ],
+  "thread": {
+    "text": "The backlash widened: Bloomberg says the duties undercut Washington's push to move supply chains out of China, two weeks before another Trump–Xi summit.",
+    "title": "US tariffs on China, Japan, India and the EU"
+  },
+  "top": [
+    {
+      "claude": "Austerity at home and escalation abroad are two sides of the same squeeze: a regime that cannot pay for calm buys leverage instead. That makes the next weeks more dangerous, not less, until talks with Washington move.",
+      "fact": "Under the US naval blockade, Iran has announced electricity rationing, cut food and fuel subsidies and reversed a planned public-sector pay rise, and even state media now carries criticism of the government, The Washington Post and The Wall Street Journal reported. Over the past 24 hours a Houthi strike on Saudi Arabia's Jazan refinery killed a Nepali worker, and a sailor's body was recovered off Ras Al Khaimah after an attack on an ADNOC tanker.",
+      "opinion": [
+        {
+          "text": "Iran is going on the offensive, and with no durable solution the region is spiralling into mayhem.",
+          "who": "Bader Al-Saif, Gulf States Institute"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Iran 'on borrowed economic time'",
+          "u": "https://semafor.com/s/v2e9p6a8e7"
+        },
+        {
+          "t": "The Washington Post via Semafor: hardship reports in state media",
+          "u": "https://semafor.com/s/ervlow10kv"
+        },
+        {
+          "t": "Semafor Gulf: Tehran ratchets up pressure",
+          "u": "https://semafor.com/s/xn7pfc4bsu"
+        }
+      ],
+      "title": "Iran's economy buckles under the blockade as attacks around the Gulf grow deadlier",
+      "unc": "A drone strike in Kuwait killed two Italians working for Rheinmetall, according to Semafor Gulf; Kuwait blamed Iran, which denied it.",
+      "why": "Nine months into the war, Tehran is rationing power at home and raising pressure abroad, with no deal in sight."
+    },
+    {
+      "claude": "The real test comes in his first months: if French yields spike before the April election, the ECB must choose between its bond backstop and its inflation mandate, and either choice will be read politically.",
+      "fact": "Pablo Hernández de Cos, the former Bank of Spain governor, is set to succeed Christine Lagarde as president of the European Central Bank when she leaves in February; he will be Spain's first ECB chief. Eurozone inflation hit a three-year high in October, and France's two presidential frontrunners, Marine Le Pen and Jean-Luc Mélenchon, have both attacked the ECB and want it to lower French borrowing costs. S&P was due to review France's rating on Friday.",
+      "opinion": [
+        {
+          "text": "Choosing a continuity candidate is another move to shield the bloc from eurosceptics.",
+          "who": "Semafor Flagship"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Spanish policymaker to be new ECB chief",
+          "u": "https://semafor.com/s/2ow4zzs62l"
+        },
+        {
+          "t": "EUobserver: What kind of ECB is Europe getting after Lagarde",
+          "u": "https://euobserver.com/249823/what-kind-of-ecb-is-europe-getting-after-lagarde/"
+        },
+        {
+          "t": "Commerzbank: ECB, what will change under the new leadership?",
+          "u": "https://www.commerzbank.de/group/newsroom/publications/261118-eb-ecb-e.html"
+        }
+      ],
+      "title": "Spain's Hernández de Cos will run the ECB from February, straight into France's debt crisis",
+      "why": "The new president inherits three-year-high inflation and a French election fought partly against the ECB."
+    },
+    {
+      "fact": "Spaniards vote on 29 November. Polls give the centre-right Partido Popular a clear lead but not a majority, so it would most likely need the hard-right Vox, which would put the far right in national government for the first time since Franco died more than 50 years ago. Sánchez's Socialists have gained ground in recent weeks but remain behind.",
+      "opinion": [
+        {
+          "text": "The vote highlights Europe's rightward turn, which is pushing the biggest EU economies to protect the bloc's budget from eurosceptics.",
+          "who": "Semafor Flagship"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Right tipped in Spanish election",
+          "u": "https://semafor.com/s/j2xn1ej53a"
+        },
+        {
+          "t": "The Star (Reuters): Spain's right retains firm poll lead",
+          "u": "https://www.thestar.com.my/news/world/2026/11/16/spain039s-right-retains-firm-poll-lead-despite-socialist-gains"
+        },
+        {
+          "t": "idealista: Spain election polls 2026",
+          "u": "https://www.idealista.com/en/news/node/924140"
+        }
+      ],
+      "title": "Spain votes on Sunday, and the far right looks set to enter government for the first time since Franco",
+      "why": "A PP–Vox government would make Spain the latest big EU country to turn right."
+    },
+    {
+      "claude": "Profits built on AI hardware are exposed to the same cycle that is now rattling Nvidia; if the global build-out slows, China's bright spot dims too, and its weak consumer offers no cushion.",
+      "fact": "Profits at China's industrial firms grew in October at the fastest pace since May, official data showed, confirming the gap between thriving manufacturing and exports and sluggish household spending. Memory chips were a bright spot: the third- and fourth-largest memory makers by market share are both Chinese and are catching up with South Korean leaders in volume and technology.",
+      "src": [
+        {
+          "t": "Semafor Flagship: AI boom boosts China's profits",
+          "u": "https://semafor.com/s/wslehljk85"
+        },
+        {
+          "t": "Bloomberg via Semafor: Huawei memory technology",
+          "u": "https://semafor.com/s/eg4sqtgukb"
+        },
+        {
+          "t": "National Bureau of Statistics of China: industrial profits releases",
+          "u": "https://www.stats.gov.cn/english/PressRelease/"
+        }
+      ],
+      "title": "China's factory profits grow at the fastest pace since May, driven by AI memory chips",
+      "unc": "Huawei is set to publish details of a memory technology that may be more advanced than anything the Korean leaders offer, Bloomberg reported.",
+      "why": "China's economy is splitting in two: booming exports and chips, weak consumers."
+    },
+    {
+      "claude": "Writing a no-printing rule into law is only as strong as the next majority; markets are pricing the person, not the statute.",
+      "fact": "Argentina's lower house voted this week to bar the central bank from printing money to pay the government's debt, part of the reform of the central bank's charter that the Senate had already passed; inflation has fallen by about 90% from its 2024 peak. The Senate also approved Milei's plan to suspend party primaries. The peso still weakened, as investors worry Milei, whose approval has dropped this year, could lose power next year.",
+      "src": [
+        {
+          "t": "Semafor Flagship: Milei's pyrrhic legislative wins",
+          "u": "https://semafor.com/s/0q5catcfzt"
+        },
+        {
+          "t": "Forbes Argentina: Senate approves central bank charter reform",
+          "u": "https://www.forbesargentina.com/today/el-senado-aprobo-reforma-carta-organica-banco-central-vuelve-diputados-n98699/amp"
+        }
+      ],
+      "title": "Argentina's Congress moves to ban the central bank from printing money for the government",
+      "why": "Milei wants to lock in his inflation fight before an election he may lose."
+    },
+    {
+      "fact": "Deliveries of a generic version of lenacapavir, Gilead's twice-yearly HIV-prevention injection, are set to begin across Africa within days. The original costs about $28,000 a year in the US; the generic is priced at an estimated $40 a year, the BBC reported.",
+      "opinion": [
+        {
+          "text": "The task now is to ensure everyone who needs it can get it when it matters.",
+          "who": "The head of a global fund fighting the disease, in Forbes"
+        }
+      ],
+      "src": [
+        {
+          "t": "Semafor Flagship: Africa gets generic HIV drug",
+          "u": "https://semafor.com/s/t3jh1qsbab"
+        },
+        {
+          "t": "BBC via Semafor",
+          "u": "https://semafor.com/s/t3jh1qsbab"
+        }
+      ],
+      "title": "A $40-a-year generic HIV-prevention drug starts shipping across Africa",
+      "why": "The continent has two-thirds of the world's HIV cases, and the original costs $28,000 a year in the US."
+    }
+  ]
+}

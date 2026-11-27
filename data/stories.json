@@ -463,5 +463,22 @@
     "title": "US midterms",
     "updated": "2026-11-22",
     "id": "us-midterms"
+  },
+  {
+    "entries": [
+      {
+        "date": "2026-11-26",
+        "text": "White House announces new tariffs on major trading partners after an overcapacity probe, in force from January."
+      },
+      {
+        "date": "2026-11-27",
+        "text": "Backlash widens: Bloomberg says the duties undercut Washington's push to move supply chains out of China, two weeks before another Trump–Xi summit."
+      }
+    ],
+    "region": "World",
+    "status": "active",
+    "title": "US tariffs on China, Japan, India and the EU",
+    "updated": "2026-11-27",
+    "id": "us-tariffs"
   }
 ]

@@ -1,6 +1,7 @@
 {
-  "asOf": "2026-11-26T11:09:00Z",
+  "asOf": "2026-11-27T11:08:00Z",
   "intraday": true,
+  "label": "Fri 27 Nov, 12:08 · intraday; US opens 15:30, US figures are Wed close",
   "items": [
     {
       "ccy": "pts",
@@ -28,35 +29,35 @@
     },
     {
       "ccy": "pts",
-      "d1": 0.89,
+      "d1": 0.34,
       "key": "SMI",
       "name": "SMI",
-      "price": 14795.21,
-      "w1": 1.53
+      "price": 14867.67,
+      "w1": 2.03
     },
     {
       "ccy": "USD",
-      "d1": 2.8,
+      "d1": 1.71,
       "key": "BTC",
       "name": "Bitcoin",
-      "price": 60444,
-      "w1": -4.05
+      "price": 61476,
+      "w1": -0.72
     },
     {
       "ccy": "USD",
-      "d1": 1.35,
+      "d1": 3.16,
       "key": "XAU",
       "name": "Gold",
-      "price": 3583.4,
-      "w1": 1.93
+      "price": 3707.1,
+      "w1": 5.45
     },
     {
       "ccy": "USD",
-      "d1": 0.19,
+      "d1": 0.29,
       "key": "BRENT",
       "name": "Brent",
-      "price": 90.89,
-      "w1": -1.81
+      "price": 92,
+      "w1": -0.62
     },
     {
       "d1bp": -6,
@@ -68,20 +69,19 @@
     },
     {
       "ccy": "",
-      "d1": -0.12,
+      "d1": 0.45,
       "key": "EURCHF",
       "name": "EUR/CHF",
-      "price": 0.915,
-      "w1": -1.18
+      "price": 0.9159,
+      "w1": -1.08
     },
     {
       "ccy": "",
-      "d1": -0.21,
+      "d1": 0.51,
       "key": "USDCHF",
       "name": "USD/CHF",
-      "price": 0.834,
-      "w1": -1.2
+      "price": 0.8354,
+      "w1": -1.03
     }
-  ],
-  "label": "Thu 26 Nov, 12:09 · intraday · US closed (Thanksgiving), US figures are Wed close"
+  ]
 }
