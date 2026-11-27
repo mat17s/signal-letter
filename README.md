@@ -20,6 +20,10 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 1. `weeks/YYYY-Www.html` — the issue body.
 2. `weeks/YYYY-Www.pdf` — the PDF.
 3. Add the week's entry to `weeks/index.json`.
+4. The map at the top ("The world this week"): write `weeks/YYYY-Www.map.json` (one entry per pinned story:
+   `n`, short `head`, `place`, `lat`, `lon`, `to` = the story's id), then run
+   `node tools/weekly-map.js tools/world-map.json weeks/YYYY-Www.map.json weeks/YYYY-Www.html` before making the PDF.
+   Pins in Europe go on the inset; the site makes pins and headlines jump to their story.
 
 ## Automatic publishing
 

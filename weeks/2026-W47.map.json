@@ -1,0 +1,15 @@
+{
+  "title": "The world this week",
+  "items": [
+    {"n": 1, "head": "Wall Street's worst week since 2020", "place": "New York", "lat": 40.71, "lon": -74.01, "to": "money"},
+    {"n": 2, "head": "Anthropic's record IPO", "place": "San Francisco", "lat": 37.77, "lon": -122.42, "to": "ai-ipo"},
+    {"n": 3, "head": "Trump, Xi and Putin meet in Shenzhen", "place": "Shenzhen", "lat": 22.54, "lon": 114.06, "to": "geo-shenzhen"},
+    {"n": 4, "head": "Iran war heats up at sea", "place": "Strait of Hormuz", "lat": 26.57, "lon": 56.25, "to": "geo-iran"},
+    {"n": 5, "head": "A Donbas-for-NATO idea", "place": "Kyiv", "lat": 50.45, "lon": 30.52, "to": "geo-ukraine"},
+    {"n": 6, "head": "SVP's hard-line Bundesrat ticket", "place": "Bern", "lat": 46.95, "lon": 7.45, "to": "ch-bundesrat"},
+    {"n": 7, "head": "AHV VAT rise trails before the vote", "place": "Bern", "lat": 46.95, "lon": 7.45, "to": "ch-vote"},
+    {"n": 8, "head": "Leak shakes Deutsche Bank", "place": "Frankfurt", "lat": 50.11, "lon": 8.68, "to": "tour-europe"},
+    {"n": 9, "head": "Congo's Ebola outbreak grows", "place": "Ituri, DR Congo", "lat": 1.56, "lon": 30.25, "to": "tour-africa"},
+    {"n": 10, "head": "US defence pact with Venezuela", "place": "Caracas", "lat": 10.48, "lon": -66.9, "to": "tour-americas"}
+  ]
+}
