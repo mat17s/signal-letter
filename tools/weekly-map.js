@@ -3,8 +3,9 @@
 // <id>.map.json = {"items":[{"n":1,"head":"short label","place":"New York","lat":40.7,"lon":-74,"to":"story-id"}]}
 //   one item per point of The week in five minutes, in the same order (n = 1, 2, …);
 //   leave out place/lat/lon for a point with no single place (Bitcoin, gold): it gets no pin.
-// Pins inside the Europe box go on the small Europe inset in the map's lower-left corner; pins very close
-// together share one marker ("6,7"). Running it again replaces the old map. No dependencies.
+// Points at the same place share one pin ("6,7"). Pins that would overlap (e.g. Bern and Frankfurt) are
+// nudged apart and get a short leader line to a small dot at the real place. Running it again replaces
+// the old map. No dependencies.
 const fs = require('fs');
 const [geoF, mapF, fragF] = process.argv.slice(2);
 const G = JSON.parse(fs.readFileSync(geoF, 'utf8'));
@@ -22,32 +23,35 @@ const proj = (m, lon, lat) => { const [x, y] = ne1(lon, lat); return [m.tx + m.s
 
 const items = (M.items || []).slice().sort((a, b) => a.n - b.n);
 const placed = items.filter(it => typeof it.lat === 'number' && typeof it.lon === 'number');
-const B = G.europe.box;
-const inEu = it => it.lon >= B.lon0 + 0.5 && it.lon <= B.lon1 - 0.5 && it.lat >= B.lat0 + 0.5 && it.lat <= B.lat1 - 0.5;
-const eu = placed.filter(inEu), world = placed.filter(it => !inEu(it));
+const m = G.world;
 
-function cluster(m, list, gap) {
-  const out = [];
-  for (const it of list) {
-    const [x, y] = proj(m, it.lon, it.lat);
-    const c = out.find(c => Math.hypot(c.x0 - x, c.y0 - y) < gap * m.w);
-    if (c) { c.items.push(it); c.xs.push(x); c.ys.push(y); }
-    else out.push({x0: x, y0: y, xs: [x], ys: [y], items: [it]});
-  }
-  return out.map(c => {
-    const x = c.xs.reduce((a, b) => a + b) / c.xs.length, y = c.ys.reduce((a, b) => a + b) / c.ys.length;
-    return {items: c.items, l: Math.min(96, Math.max(4, 100 * x / m.w)), t: Math.min(93, Math.max(7, 100 * y / m.h))};
-  });
+// one pin per place; then push overlapping pins apart (a few px of map) and keep them inside the frame
+const pins = [];
+for (const it of placed) {
+  const [x, y] = proj(m, it.lon, it.lat);
+  const same = pins.find(p => Math.hypot(p.ax - x, p.ay - y) < 2);
+  if (same) same.items.push(it); else pins.push({ax: x, ay: y, x, y, items: [it]});
 }
-const pin = c => {
-  const ns = c.items.map(i => i.n), places = [...new Set(c.items.map(i => i.place))].join(', ');
-  return `<a class="pin" href="#${esc(c.items[0].to)}" data-n="${ns.join(' ')}" style="left:${c.l.toFixed(2)}%;top:${c.t.toFixed(2)}%" aria-label="${ns.join(' and ')}: ${esc(places)}" title="${esc(places)}">${ns.join(',')}</a>`;
+const D = 0.042 * m.w;            // minimum distance between pin centres
+for (let k = 0; k < 300; k++) {
+  for (let i = 0; i < pins.length; i++) for (let j = i + 1; j < pins.length; j++) {
+    const a = pins[i], b = pins[j]; let dx = b.x - a.x, dy = b.y - a.y, d = Math.hypot(dx, dy);
+    if (d >= D) continue;
+    if (d < 0.01) { dx = 0; dy = 1; d = 1; }
+    const push = (D - d) / 2;
+    a.x -= dx / d * push; a.y -= dy / d * push; b.x += dx / d * push; b.y += dy / d * push;
+  }
+  for (const p of pins) { p.x += (p.ax - p.x) * 0.01; p.y += (p.ay - p.y) * 0.01;
+    p.x = Math.min(m.w - 14, Math.max(14, p.x)); p.y = Math.min(m.h - 14, Math.max(14, p.y)); }
+}
+const leaders = pins.filter(p => Math.hypot(p.x - p.ax, p.y - p.ay) > 6)
+  .map(p => `<line class="lead" x1="${p.ax.toFixed(1)}" y1="${p.ay.toFixed(1)}" x2="${p.x.toFixed(1)}" y2="${p.y.toFixed(1)}"/><circle class="dot" cx="${p.ax.toFixed(1)}" cy="${p.ay.toFixed(1)}" r="2.6"/>`).join('');
+const pin = p => {
+  const ns = p.items.map(i => i.n), places = [...new Set(p.items.map(i => i.place))].join(', ');
+  return `<a class="pin" href="#${esc(p.items[0].to)}" data-n="${ns.join(' ')}" style="left:${(100 * p.x / m.w).toFixed(2)}%;top:${(100 * p.y / m.h).toFixed(2)}%" aria-label="${ns.join(' and ')}: ${esc(places)}" title="${esc(places)}">${ns.join(',')}</a>`;
 };
-const svg = (m, extra = '') => `<svg viewBox="0 0 ${m.w} ${m.h}" aria-hidden="true" focusable="false"><path class="land" d="${m.land}"/><path class="bord" d="${m.borders}"/>${extra}</svg>`;
-
-const inset = eu.length ? `<div class="wmap-eu"><span class="wmap-cap">Europe</span>${svg(G.europe)}${cluster(G.europe, eu, 0.1).map(pin).join('')}</div>` : '';
 const figure = `<figure class="wmap" aria-label="Map of the places in this week's points">
-<div class="wmap-world">${svg(G.world, eu.length ? `<path class="frame" d="${G.world.frame}"/>` : '')}${cluster(G.world, world, 0.045).map(pin).join('')}</div>${inset}
+<div class="wmap-world"><svg viewBox="0 0 ${m.w} ${m.h}" aria-hidden="true" focusable="false"><path class="land" d="${m.land}"/><path class="bord" d="${m.borders}"/>${leaders}</svg>${pins.map(pin).join('')}</div>
 </figure>
 `;
 
@@ -69,4 +73,4 @@ const list = frag.slice(a, b).replace(/<li(?: data-n="\d+")?>([\s\S]*?)<\/li>/g,
 if (i !== items.length) console.warn(`warning: ${i} points in The week in five minutes, ${items.length} items in the map file`);
 frag = frag.slice(0, a) + list + frag.slice(b);
 fs.writeFileSync(fragF, frag);
-console.log(`map: ${world.length} world pins, ${eu.length} Europe pins, ${items.length - placed.length} points without a pin`);
+console.log(`map: ${pins.length} pins (${leaders ? pins.filter(p => Math.hypot(p.x - p.ax, p.y - p.ay) > 6).length : 0} nudged), ${items.length - placed.length} points without a pin`);
