@@ -23,7 +23,8 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 4. The map at the top of The week in five minutes: write `weeks/YYYY-Www.map.json` (one item per point, same order:
    `n`, short `head`, `to` = the story's id, plus `place`, `lat`, `lon` when the point happens in one place), then run
    `node tools/weekly-map.js tools/world-map.json weeks/YYYY-Www.map.json weeks/YYYY-Www.html` before making the PDF.
-   It numbers the points to match the pins and links each point and pin to its story.
+   It numbers the points to match the pins and links each point and pin to its story; pins that would
+   overlap (Bern, Frankfurt) are nudged apart with a short leader line.
 
 ## Automatic publishing
 
