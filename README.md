@@ -20,7 +20,8 @@ Everything is plain files; pushing to `main` updates the site within a minute or
 1. `weeks/YYYY-Www.html` — the issue body.
 2. `weeks/YYYY-Www.pdf` — the PDF.
 3. Add the week's entry to `weeks/index.json`.
-4. The map at the top of The week in five minutes: write `weeks/YYYY-Www.map.json` (one item per point, same order:
+4. The week in five minutes = the map, then 10 points, each a bold headline plus one short sentence on why it
+   matters (details stay in the sections below). The map at the top: write `weeks/YYYY-Www.map.json` (one item per point, same order:
    `n`, short `head`, `to` = the story's id, plus `place`, `lat`, `lon` when the point happens in one place), then run
    `node tools/weekly-map.js tools/world-map.json weeks/YYYY-Www.map.json weeks/YYYY-Www.html` before making the PDF.
    It numbers the points to match the pins and links each point and pin to its story; pins that would
