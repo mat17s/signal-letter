@@ -354,33 +354,29 @@ button{font:inherit;color:inherit}
   .issue .src-list{columns:2;column-gap:8mm;font-size:7.5pt;display:block}
   a{color:inherit;text-decoration:none}
 }
-/* Weekly map ("The world this week"): drawn by tools/weekly-map.js into the issue fragment; pins are links to the stories */
-.issue .wmap{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:1.25rem 1.25rem 1.1rem;margin-block:.5rem 1.5rem}
-.issue .wmap-h{font-size:1.5rem;text-align:center;margin-bottom:.6rem}
-.wmap-world,.wmap-eu{position:relative;container-type:inline-size}
-.wmap svg{display:block;width:100%;height:auto}
+/* Weekly map: drawn by tools/weekly-map.js at the top of The week in five minutes; pin numbers = point numbers, pins and points jump to the story */
+.issue .wmap{position:relative;margin:1rem 0 1.25rem}
 .wmap{--land:#e1e6ee;--coast:#a3adbb}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .wmap{--land:#283240;--coast:#5b687c}}
 :root[data-theme="dark"] .wmap{--land:#283240;--coast:#5b687c}
+.wmap-world{position:relative;container-type:inline-size}
+.wmap svg{display:block;width:100%;height:auto}
 .wmap .land{fill:var(--land);stroke:var(--coast);stroke-width:.6;stroke-linejoin:round}
 .wmap .bord{fill:none;stroke:var(--coast);stroke-width:.45}
-.wmap .frame{fill:none;stroke:var(--muted);stroke-width:1.2;stroke-dasharray:4 3}
-.wmap .pin{position:absolute;transform:translate(-50%,-50%);min-width:2em;height:2em;padding:0 .5em;border-radius:1em;background:var(--geo);color:var(--paper);font:500 clamp(10px,2.1cqw,14px)/2em var(--mono);text-align:center;text-decoration:none;white-space:nowrap;box-shadow:0 0 0 2px var(--paper);transition:transform .15s,background .15s}
-.wmap-eu .pin{font-size:clamp(10px,3.6cqw,14px)}
-.wmap .pin:hover,.wmap .pin.on{transform:translate(-50%,-50%) scale(1.2);background:var(--ch);z-index:2}
-.wmap-low{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:1.25rem;align-items:start;margin-top:1rem}
-.wmap-low.no-inset{grid-template-columns:1fr}
-.wmap-eu{border:1px dashed var(--muted);border-radius:6px;overflow:hidden}
-.wmap-cap{position:absolute;left:.55rem;top:.35rem;z-index:1;font:500 .68rem var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
-.wmap-list{margin:0;padding-left:1.8rem;display:grid;gap:.3rem;font:400 1.02rem/1.35 var(--display)}
-.wmap-list li::marker{font:500 .85rem var(--mono);color:var(--geo)}
-.wmap-list a{text-decoration:none}
-.wmap-list a:hover,.wmap-list li.on a{color:var(--geo);text-decoration:underline}
-@media (max-width:620px){.wmap-low{grid-template-columns:1fr}.issue .wmap{padding:1rem .75rem}}
-.issue .story,.issue .wmap{scroll-margin-top:7rem}
+.wmap .frame{fill:none;stroke:var(--coast);stroke-width:1;stroke-dasharray:3 3}
+.wmap-eu{position:absolute;left:0;bottom:0;width:27%;container-type:inline-size;background:var(--paper);border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.wmap-cap{position:absolute;left:.4rem;top:.15rem;z-index:1;font:500 .58rem var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+.wmap .pin{position:absolute;transform:translate(-50%,-50%);min-width:1.8em;height:1.8em;padding:0 .4em;border-radius:.9em;background:var(--geo);color:var(--paper);font:500 clamp(9px,1.7cqw,12px)/1.8em var(--mono);text-align:center;text-decoration:none;white-space:nowrap;box-shadow:0 0 0 1.5px var(--paper);transition:transform .15s,background .15s}
+.wmap-eu .pin{font-size:clamp(8px,5.5cqw,11px)}
+.wmap .pin:hover,.wmap .pin.on{transform:translate(-50%,-50%) scale(1.15);background:var(--ch);z-index:2}
+.issue .brief-list li[data-n]::marker{color:var(--geo)}
+.issue .brief-list b a{text-decoration:none}
+.issue .brief-list b a:hover,.issue .brief-list li.on b a{color:var(--geo);text-decoration:underline}
+@media (max-width:560px){.wmap-eu{position:relative;width:60%;margin-top:.6rem}}
+.issue .story{scroll-margin-top:7rem}
 .issue .flash{animation:flash 1.8s ease-out}
 @keyframes flash{0%,30%{background:var(--tint)}100%{background:transparent}}
-@media print{.issue .wmap{break-inside:avoid;margin:0 0 4mm;padding:3mm 4mm}.issue .wmap-h{font-size:15pt;margin-bottom:1mm}.wmap-world{max-width:150mm;margin-inline:auto}.wmap .pin{box-shadow:none}.wmap-low{grid-template-columns:minmax(0,4fr) minmax(0,6fr);gap:5mm;margin-top:2mm;align-items:center}.wmap-list{font-size:9.5pt;gap:.6mm}}
+@media print{.issue .wmap{break-inside:avoid;margin:2mm 0 3mm}.wmap-world{max-width:160mm;margin-inline:auto}.wmap-world,.wmap-eu{container-type:normal}.wmap .pin{box-shadow:none;font-size:8pt}.wmap-eu .pin{font-size:7pt}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
 
@@ -562,8 +558,8 @@ async function openWeek(id) {
   const i = S.weeks.findIndex(x => x.id === id);
   $('#ib-prev').disabled = i <= 0; $('#ib-next').disabled = i >= S.weeks.length - 1;
   $('#ib-where').textContent = `Issue #${w.issue} · Week ${w.week} · ${w.range}`;
-  $$('#issue .toc a, #issue .wmap a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); const t = $('#issue ' + a.getAttribute('href')); if (!t) return; t.scrollIntoView({behavior: 'smooth'}); if (a.closest('.wmap')) { t.classList.toggle('flash', false); void t.offsetWidth; t.classList.add('flash'); } }));
-  $$('#issue .wmap [data-n]').forEach(el => { const ns = el.dataset.n.split(' '); const hit = on => $$('#issue .wmap [data-n]').forEach(x => x.classList.toggle('on', on && x.dataset.n.split(' ').some(n => ns.includes(n)))); el.addEventListener('mouseenter', () => hit(true)); el.addEventListener('mouseleave', () => hit(false)); el.addEventListener('focusin', () => hit(true)); el.addEventListener('focusout', () => hit(false)); });
+  $$('#issue .toc a, #issue .wmap a, #issue .brief-list b a').forEach(a => a.addEventListener('click', e => { e.preventDefault(); const t = $('#issue ' + a.getAttribute('href')); if (!t) return; t.scrollIntoView({behavior: 'smooth'}); if (!a.closest('.toc')) { t.classList.toggle('flash', false); void t.offsetWidth; t.classList.add('flash'); } }));
+  $$('#issue #week [data-n]').forEach(el => { const ns = el.dataset.n.split(' '); const hit = on => $$('#issue #week [data-n]').forEach(x => x.classList.toggle('on', on && x.dataset.n.split(' ').some(n => ns.includes(n)))); el.addEventListener('mouseenter', () => hit(true)); el.addEventListener('mouseleave', () => hit(false)); el.addEventListener('focusin', () => hit(true)); el.addEventListener('focusout', () => hit(false)); });
 }
 $('#ib-back').addEventListener('click', () => show('weekly'));
 $('#ib-prev').addEventListener('click', () => { const i = S.weeks.findIndex(x => x.id === S.weekId); if (i > 0) openWeek(S.weeks[i - 1].id); });
