@@ -1,0 +1,233 @@
+{
+  "btc": {
+    "text": ""
+  },
+  "date": "2026-11-28",
+  "glance": {
+    "markets": "Markets closed. Friday close: SMI 14,880 (+0.4%) · S&P 500 7,297 (+1.6%) · EUR/CHF 0.914 (+0.3%)",
+    "top": [
+      "US forces disable a ship running the Iran blockade; Saudi Arabia intercepts a missile aimed at Riyadh.",
+      "S&P keeps France at A+ but turns its outlook negative.",
+      "Russia fires 162 drones at Ukraine on Holodomor remembrance day.",
+      "Nvidia's board probes whether a foreign spy service targeted Jensen Huang.",
+      "Saudi Arabia, Pakistan and Turkey deepen their new defence alliance in Islamabad.",
+      "India asks Netflix to block its first Pakistani original series."
+    ]
+  },
+  "label": "Saturday, 28 November 2026",
+  "number": {
+    "text": "Ships turned back by the US naval blockade of Iran since mid-July, plus six disabled, by US Central Command's count (Gulf News).",
+    "value": "158"
+  },
+  "pdf": "daily/2026-11-28.pdf",
+  "podcast": {
+    "episode": "America's $41 Trillion Debt Trap (Mark Thornton)",
+    "show": "Mises Institute: Minor Issues",
+    "url": "https://mises.org/podcasts/minor-issues/americas-41-trillion-debt-trap",
+    "why": "A short Austrian take on US debt: Washington borrows, the Fed prints and households pay; Thornton argues the only fix is less spending."
+  },
+  "reads": {
+    "ai": {
+      "claude": "I'm one of the models he discusses, so take this with that in mind. His point that the bottleneck moves from writing code to describing it well rings true; the open question is who checks the result, because a model that builds anything you describe also builds your mistakes faithfully.",
+      "fact": "In a write-up of his AI Engineer Code Summit keynote, developer Simon Willison argues there were three inflection points in twelve months: November 2025, when coding agents became reliable enough for daily work; mid-2026, when models began solving problems by persistent trial and error given a goal and tools; and September–October 2026, when frontier models got good at 3D modelling and game design.",
+      "opinion": [
+        {
+          "text": "Software development has transformed beyond recognition in the last year; if you can clearly describe a piece of software, the newest models can build it.",
+          "who": "Simon Willison"
+        }
+      ],
+      "src": [
+        {
+          "t": "Simon Willison: Three LLM inflection points in twelve months",
+          "u": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+        }
+      ],
+      "title": "Simon Willison: coding with AI hit three turning points in a single year"
+    },
+    "austrian": {
+      "claude": "The diagnosis fits the numbers, and Friday's S&P warning shows the bond market is doing exactly what he wants. But removing the ECB backstop in the middle of a war-driven energy shock risks a disorderly crisis that would hit savers first, the very people he wants to protect; a gradual, credible spending cap is the safer version of his own argument.",
+      "fact": "France's public spending reached 57.2% of GDP in 2024, debt is heading towards 119% of GDP, and interest payments rose 19% to €34.5 billion in the first half of 2026, figures the Mises Wire piece cites from official and press sources; the government seeks €54 billion of savings for 2027 to bring the deficit to 5%.",
+      "opinion": [
+        {
+          "text": "Cantillon, Turgot and Bastiat warned that deficits and state-managed money end in punishment by bond markets. France should cap spending by law, stop taxing capital, fund schools per pupil, and let markets discipline the budget with no ECB backstop, because the state cannot manufacture knowledge, savings or trust.",
+          "who": "Jabulani Chibaya, Mises Wire"
+        }
+      ],
+      "src": [
+        {
+          "t": "Mises Wire: France Should Have Listened to Cantillon, Turgot, and Bastiat",
+          "u": "https://mises.org/mises-wire/france-should-have-listened-cantillon-turgot-and-bastiat"
+        }
+      ],
+      "title": "Mises Wire: France should have listened to Cantillon, Turgot and Bastiat"
+    },
+    "mainstream": {
+      "claude": "The cliff hurts the heirs and the collecting society, not the music: once works enter the public domain, they tend to be played and recorded more, not less.",
+      "fact": "Jean Sibelius, who died almost 70 years ago, still earns Finland more royalties than any living composer, and seven of the ten Finnish works that collected the most money abroad are his, Helsingin Sanomat reported. Copyright in Europe lasts 70 years after death, so most of that income ends in 2027, though his music stays a staple of orchestras from Minneapolis to Mumbai.",
+      "src": [
+        {
+          "t": "Semafor Flagship (Weekend): Finnish giant nears IP cliff",
+          "u": "https://semafor.com/s/ggzdv9720f"
+        },
+        {
+          "t": "Helsingin Sanomat via Semafor",
+          "u": "https://semafor.com/s/b9loayr8th"
+        }
+      ],
+      "title": "Sibelius is still Finland's top royalty earner, and his copyright runs out next year"
+    }
+  },
+  "sources": [
+    {
+      "t": "Semafor Flagship (Weekend, 28 Nov)",
+      "u": "https://semafor.com/s/rzs609vnlh"
+    },
+    {
+      "t": "Gulf News live blog (28 Nov)",
+      "u": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810"
+    },
+    {
+      "t": "Doomberg: Do Not Pass Go",
+      "u": "https://newsletter.doomberg.com/p/do-not-pass-go"
+    },
+    {
+      "t": "Mises Institute weekly (28 Nov)",
+      "u": "https://mises.org/wire"
+    },
+    {
+      "t": "Simon Willison's Weblog",
+      "u": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
+    }
+  ],
+  "thread": {
+    "text": "US forces disabled the cargo ship Pacific Archer as it tried to run the blockade (six disabled, 158 turned back so far), and Iran's navy vowed to break it.",
+    "title": "The Iran war and the US blockade"
+  },
+  "top": [
+    {
+      "claude": "Each disabled ship raises the odds of a direct US–Iran naval clash, because Tehran now has to show its threat is real. With Iran's economy already rationing power, its leaders have strong reasons to escalate at sea rather than give in.",
+      "fact": "US Central Command said it disabled the Palau-flagged cargo ship Pacific Archer in the Gulf of Oman after it tried to breach the naval blockade of Iran that began in mid-July; by its count the blockade has now disabled six ships and turned back 158 others, Gulf News and Aaj English TV reported. Iran's navy chief said operations to break the blockade are coming. Saudi Arabia said it intercepted a Houthi cruise missile aimed at Riyadh, as Saudi and Houthi strikes now target each other's capitals.",
+      "opinion": [
+        {
+          "text": "Iran has not been idle over the past year and has more surprises ready if large-scale US attacks resume.",
+          "who": "Reza Amiri Moghadam, Iran's ambassador to Pakistan"
+        }
+      ],
+      "src": [
+        {
+          "t": "Gulf News: Saudi Arabia, Houthis trade strikes targeting capitals, US blockade and Iran claims (live)",
+          "u": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810"
+        },
+        {
+          "t": "Aaj English TV: US disables ship attempting to breach Iran blockade",
+          "u": "https://english.aaj.tv/news/330482447/us-disables-ship-attempting-to-breach-iran-blockade"
+        },
+        {
+          "t": "Semafor Flagship: MBS plans Miami G20 trip",
+          "u": "https://semafor.com/s/re6bibs8ht"
+        }
+      ],
+      "title": "US forces disable a cargo ship trying to run the Iran blockade, and a Houthi missile is shot down over Riyadh",
+      "unc": "Saudi Crown Prince Mohammed bin Salman plans to attend the G20 summit in Miami in December, his first US trip since the war began, Semafor reported in a scoop.",
+      "why": "The blockade is now being enforced with force, and Iran says it will break it."
+    },
+    {
+      "claude": "A negative outlook is a polite deadline: unless Paris passes a credible budget, a downgrade is likely in the first half of next year, right as the new ECB president takes over. The market has largely priced this; the risk is a spike in yields during the campaign.",
+      "fact": "S&P Global affirmed France's A+ credit rating late on Friday but cut its outlook from stable to negative, citing budget strain and political gridlock, France 24 and other outlets reported. With that, all three major agencies now have France on a downgrade warning, ahead of a presidential election in April in which both frontrunners attack fiscal restraint.",
+      "src": [
+        {
+          "t": "France 24: S&P revises France's outlook from stable to negative",
+          "u": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative"
+        },
+        {
+          "t": "Le Private Banker: S&P puts France on negative outlook, leaving all three big agencies with a downgrade warning",
+          "u": "https://leprivatebanker.com/2026/11/27/sp-puts-france-on-negative-outlook-leaving-all-three-big-agencies-with-a-downgrade-warning/"
+        },
+        {
+          "t": "AOL (Reuters): S&P cuts France outlook to negative on budget, politics",
+          "u": "https://www.aol.com/articles/p-revises-france-outlook-negative-212701000.html"
+        }
+      ],
+      "title": "S&P spares France a downgrade but turns its outlook negative, so all three big agencies now warn",
+      "why": "France's borrowing costs and the ECB's next move both hang on its ratings."
+    },
+    {
+      "claude": "Jet-powered drones are the trend to watch: almost half the swarm, faster and harder to stop than the old Shaheds, they lower Ukraine's interception rate and raise the cost of each night of defence.",
+      "fact": "Russia launched 162 drones at Ukraine overnight, 74 of them jet-powered, and 141 were downed or jammed by 08:00, Ukraine's Air Force said in preliminary figures. Three people were killed in Friday's attack on Nizhyn, and children were among the injured in Kremenchuk and Pisochyn. The strikes fell on Ukraine's day of remembrance for the Holodomor, the Soviet-made famine of 1932–33.",
+      "src": [
+        {
+          "t": "The Wire Tap: Ukraine Daily, 28 November 2026 (Air Force figures)",
+          "u": "https://thechrissampson.substack.com/p/ukraine-daily-november-28-2026-russia"
+        },
+        {
+          "t": "Ukrinform: latest news",
+          "u": "https://www.ukrinform.net/block-lastnews"
+        }
+      ],
+      "title": "Russia launches 162 drones at Ukraine as the country marks the Holodomor famine",
+      "why": "The air war keeps grinding on while peace talks stall."
+    },
+    {
+      "claude": "Doomberg's theory has no evidence behind it beyond timing. The documented part is unusual enough: a US government that treats one chip company's leadership as a security matter will expect a say in its customers, too.",
+      "fact": "Jensen Huang resigned as Nvidia's chief executive and from its board on 12 November after admitting an affair, and the board unanimously reinstated him on 23 November, saying it had heard from senior US government officials; it has also opened an independent investigation into whether he was the target of a foreign intelligence operation, Fortune and Foreign Policy reported, citing the board's statement.",
+      "opinion": [
+        {
+          "text": "The strange events at Nvidia fit a scenario in which Washington believes AI has begun improving itself and wants control of it; the authors call it a speculation.",
+          "who": "Doomberg (energy and macro newsletter)"
+        },
+        {
+          "text": "Government involvement in bringing back a private CEO is unprecedented for US national security.",
+          "who": "Foreign Policy"
+        }
+      ],
+      "src": [
+        {
+          "t": "Fortune: Jensen Huang's reported affairs rattled Nvidia",
+          "u": "https://fortune.com/2026/11/28/jensen-huang-bill-gates-jeff-bezos-tech-billionaires-private-lives-company-business/"
+        },
+        {
+          "t": "Foreign Policy: Jensen Huang's return to Nvidia is unprecedented for US national security",
+          "u": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/"
+        },
+        {
+          "t": "Nvidia: Statement from the Board of Directors",
+          "u": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "t": "Doomberg: Do Not Pass Go",
+          "u": "https://newsletter.doomberg.com/p/do-not-pass-go"
+        }
+      ],
+      "title": "Nvidia's board investigates whether Jensen Huang was targeted by a foreign intelligence service",
+      "why": "The world's most important chip company spent 11 days without its founder, and Washington helped bring him back."
+    },
+    {
+      "claude": "This is the Gulf hedging against an America it no longer fully trusts: Pakistan brings the bomb and troops, Turkey brings drones and industry. It also gives Riyadh a back channel to Tehran, since Pakistan talks to both.",
+      "fact": "Defence officials from Saudi Arabia, Pakistan and Turkey met in Islamabad and pledged closer cooperation under the Makkah defence alliance created by a pact signed in August, Gulf News reported. The meeting came as Saudi Arabia trades strikes with Iran-backed Houthis in Yemen.",
+      "src": [
+        {
+          "t": "Gulf News: Saudi Arabia, Pakistan and Turkey strengthen defence ties (live)",
+          "u": "https://gulfnews.com/world/mena/middle-east-tensions-saudi-arabia-pakistan-and-turkey-strengthen-defence-ties-us-blockade-and-iran-claims-1.500763810"
+        }
+      ],
+      "title": "Saudi Arabia, Pakistan and Turkey tighten their new defence alliance in Islamabad",
+      "why": "A nuclear-armed Pakistan and NATO member Turkey are binding themselves closer to Riyadh in the middle of the Gulf war."
+    },
+    {
+      "claude": "Platform bans like this mostly test Netflix: complying keeps it in its biggest growth market, refusing would cost it far more than one series earns.",
+      "fact": "Indian authorities asked Netflix to block Jo Bachay Hain Sang, the streaming service's first Pakistani original series, in India, Semafor reported. Both countries have long banned each other's films, and tensions rose again after border clashes last year; such bans have always been porous, The Print noted, and the move has drawn international headlines to the show.",
+      "src": [
+        {
+          "t": "Semafor Flagship: South Asian streaming tension",
+          "u": "https://semafor.com/s/yz54f04wmo"
+        },
+        {
+          "t": "The Print via Semafor: past bans proved porous",
+          "u": "https://semafor.com/s/j15xxhvvzp"
+        }
+      ],
+      "title": "India asks Netflix to block its first Pakistani original series",
+      "why": "The India–Pakistan rivalry is spreading from the border to culture."
+    }
+  ]
+}

@@ -263,12 +263,16 @@
         "date": "2026-11-22",
         "text": "Week 47: Iran strikes US targets in Bahrain and Kuwait; Hormuz attacks at the war's highest monthly level; 14+ Iranian tankers poised to run the blockade; Trump says a strike decision can wait until 2027.",
         "week": "2026-W47"
+      },
+      {
+        "date": "2026-11-28",
+        "text": "US forces disable the Pacific Archer running the blockade (six disabled, 158 turned back since mid-July); Iran's navy vows to break it; Saudi Arabia intercepts a Houthi missile aimed at Riyadh."
       }
     ],
     "region": "Middle East",
     "status": "active",
     "title": "Iran war & Hormuz",
-    "updated": "2026-11-22",
+    "updated": "2026-11-28",
     "id": "iran-war"
   },
   {
